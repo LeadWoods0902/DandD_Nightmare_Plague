@@ -11,57 +11,9 @@
             "id": "4351cb8115e0f3e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/PC/Bismuth Shatterborne.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            },
-            "group": "0f7a7e8fda37b075"
-          }
-        ]
-      },
-      {
-        "id": "29b9c82012907136",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4be43fcf92f1fa66",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Characters/PC/Bismuth Shatterborne.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "0f7a7e8fda37b075"
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -129,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Bismuth Shatterborne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Bismuth Shatterborne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/PC/Bismuth Shatterborne.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,9 +148,9 @@
   },
   "active": "4351cb8115e0f3e7",
   "lastOpenFiles": [
+    "Characters/PC/Bismuth Shatterborne.md",
     "Characters/NPC/Shatterborne & Waveborne/Ynessa.md",
     "Characters/PC/Jasper Shatterborne.md",
-    "Characters/PC/Bismuth Shatterborne.md",
     "Additional Lore/Suimin Mahi - The Nightmare Plague.md",
     "Additional Lore/Astronomical Knowledge/Astronomy.md",
     "Additional Lore/Currency/Ryvnia.md",

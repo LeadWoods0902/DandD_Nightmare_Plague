@@ -9,7 +9,6 @@
 | **CON** | *17* | *3* | *0* | 
 | **CHA** | *13* | *1* | *1* | 
 <h3> Backstory </h3>
-
 Twin sibling to [[Jasper Shatterborne]]
 
 Bismuth is the older of two twin siblings by two minutes.
@@ -21,6 +20,3 @@ Bismuth is the older of two twin siblings by two minutes.
 This character infects everyone they spend a prolonged period of time with
 
 From [[Chimo-Nahagi]]
-
-
-<h3
