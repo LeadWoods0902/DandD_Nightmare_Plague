@@ -11,8 +11,26 @@
             "id": "dd85ea972a6e6f22",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Additional Lore/Astronomical Knowledge/Astronomy.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d6dd6b53ef4d8b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additional Lore/Suimin Mahi - The Nightmare Plague.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,8 +62,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shatterstone",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Additional Lore/Astronomical Knowledge/Astronomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Additional Lore/Astronomical Knowledge/Astronomy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Additional Lore/Astronomical Knowledge/Astronomy.md"
+              }
             }
           },
           {
@@ -129,8 +151,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,6 +170,8 @@
   },
   "active": "dd85ea972a6e6f22",
   "lastOpenFiles": [
+    "Additional Lore/Suimin Mahi - The Nightmare Plague.md",
+    "Additional Lore/Astronomical Knowledge/Astronomy.md",
     "Additional Lore/Currency/Ryvnia.md",
     "Characters/PC/Jasper Shatterborne.md",
     "Characters/PC/Bismuth Shatterborne.md",
@@ -156,8 +179,6 @@
     "Characters/PC/Isaac.md",
     "Characters/PC/Aime.md",
     "Additional Lore/The Kilfenora.md",
-    "README.md",
-    "Narrative/2 - A Hopeful Day/DeleteSample.md",
-    "Family Trees/Shatterborne.canvas"
+    "README.md"
   ]
 }

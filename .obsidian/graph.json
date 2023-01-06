@@ -1,7 +1,7 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -50,6 +50,20 @@
       }
     },
     {
+      "query": "path:\"Additional Lore/Astronomical Knowledge\"",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"Additional Lore/Events\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
       "query": "path:\"Additional Lore\"",
       "color": {
         "a": 1,
@@ -67,6 +81,6 @@
   "repelStrength": 9.6875,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.5333197570260189,
+  "scale": 1.0936793590408649,
   "close": false
 }
