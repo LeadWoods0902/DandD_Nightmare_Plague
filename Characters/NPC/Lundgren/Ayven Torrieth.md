@@ -1,0 +1,1 @@
+Father of [[Lupella Lundgren]] and shortly-lived husband to [[Amorella Lundgren]]

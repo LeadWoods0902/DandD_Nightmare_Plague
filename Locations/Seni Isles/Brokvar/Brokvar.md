@@ -1,0 +1,1 @@
+Capital of the Brokvar Lands. Keeper of the [[Neor Tree]]

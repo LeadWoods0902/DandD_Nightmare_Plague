@@ -1,0 +1,1 @@
+An islet surrounded on all sides by the [[Croes Passage]]

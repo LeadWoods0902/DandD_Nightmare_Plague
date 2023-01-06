@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"c916b034b6d5769a","x":-760,"y":-648,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Lundgren/Odonna-Dryk Lundgren.md"},
+		{"id":"e04bcfde3c271a53","x":-339,"y":-648,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Lundgren/Amorella Lundgren.md"},
+		{"id":"f052b6cbe951babe","x":361,"y":-648,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Lundgren/Ayven Torrieth.md"},
+		{"id":"0c5ac0879b1428c6","x":-1110,"y":-1420,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Lundgren/Napella Lundgren.md"},
+		{"id":"21d82ba8c667d58f","x":-410,"y":-1420,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Lundgren/Ven-Dryk Lungdren.md"},
+		{"id":"379d58520d78e01c","x":-1180,"y":-648,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Lundgren/Innë-Dryk Lungdren.md"},
+		{"id":"7edc0219fca9135c","x":11,"y":40,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Lundgren/Lupella Lundgren.md"},
+		{"id":"e4c45e1a6a60d4ae","x":-610,"y":-880,"width":50,"height":60,"type":"text","text":""},
+		{"id":"95c9637b2ab02859","x":161,"y":-180,"width":50,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"c21d3ac3d61bb76a","fromNode":"0c5ac0879b1428c6","fromSide":"bottom","toNode":"e4c45e1a6a60d4ae","toSide":"top"},
+		{"id":"769cfa190902c795","fromNode":"21d82ba8c667d58f","fromSide":"bottom","toNode":"e4c45e1a6a60d4ae","toSide":"top"},
+		{"id":"95182775a158da1e","fromNode":"e4c45e1a6a60d4ae","fromSide":"bottom","toNode":"c916b034b6d5769a","toSide":"top"},
+		{"id":"09e48f22637d5afb","fromNode":"e4c45e1a6a60d4ae","fromSide":"bottom","toNode":"e04bcfde3c271a53","toSide":"top"},
+		{"id":"b41114e1265d5785","fromNode":"e4c45e1a6a60d4ae","fromSide":"bottom","toNode":"379d58520d78e01c","toSide":"top"},
+		{"id":"740dbd156311ad87","fromNode":"e04bcfde3c271a53","fromSide":"bottom","toNode":"95c9637b2ab02859","toSide":"top"},
+		{"id":"8690daf35a590a4d","fromNode":"f052b6cbe951babe","fromSide":"bottom","toNode":"95c9637b2ab02859","toSide":"top"},
+		{"id":"b3cc8c87a862d3dc","fromNode":"95c9637b2ab02859","fromSide":"bottom","toNode":"7edc0219fca9135c","toSide":"top"}
+	]
+}

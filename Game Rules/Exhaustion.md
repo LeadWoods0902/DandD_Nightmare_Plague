@@ -1,0 +1,1 @@
+Not performing a rest every 24hrs will leave you exhausted. When exhausted, you have disadvantage on all throws that you are not proficient in. Proficient rolls lose their proficiency but do not have disadvantage. After 48hrs, **all** rolls have disadvantage

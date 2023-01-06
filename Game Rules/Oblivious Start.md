@@ -1,0 +1,1 @@
+if you roll a natural 1 on initiative, you spend the first turn "oblivious" and cannot make an action on your turn - a party member can make a touch action to remove this negative effect at the cost of their action.

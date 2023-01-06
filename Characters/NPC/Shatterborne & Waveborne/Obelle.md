@@ -1,0 +1,1 @@
+Died birthing her first child; while under the effects of [[Distilled Etheria]], [[Malachix Shatterborne]] instructed his maisters to perform a cesarean birth. Neither Obelle  nor the [[Unnamed Child]] survived 

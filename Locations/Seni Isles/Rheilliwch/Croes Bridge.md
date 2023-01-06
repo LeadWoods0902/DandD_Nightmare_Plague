@@ -1,0 +1,1 @@
+A bridge that crosses the [[Croes Passage]], joinining the northern half of the [[Occupied Capital]] with its southerly half.

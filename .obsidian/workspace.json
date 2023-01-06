@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "351a2e8b85ecc242",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d4c27ff14633a0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c0ba967950b5751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additional Lore/The Kilfenora.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6f4b47bddf082fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "32362b8bc0d18c0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4385bc2b650062e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebb279630ca588a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "shatterstone",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb1ee4aea87cb98b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d86284bd8a071899",
+    "type": "split",
+    "children": [
+      {
+        "id": "99df59c0a7b72f30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6af45c261360d208",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Additional Lore/The Kilfenora.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "caedfafcf8aabe4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Additional Lore/The Kilfenora.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2ce4506f2231dfa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5550c7b00c49bb93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Additional Lore/The Kilfenora.md"
+              }
+            }
+          },
+          {
+            "id": "66ec37471c883e10",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "66ec37471c883e10",
+  "lastOpenFiles": [
+    "Family Trees/Shatterborne.canvas",
+    "Additional Lore/Nëor.md",
+    "Game Rules/Bleed.md",
+    "Characters/Djinn/Sansom, the Mountain Shatterer.md",
+    "Characters/Djinn/Ashira, the first wave.md",
+    "Shatterborne Siblings.md",
+    "Items/weapons/SwordStaff.md",
+    "Characters/NPC/Lundgren/Amorella Lundgren.md",
+    "Napella.md",
+    "Additional Lore/Suimin Mahi - The Nightmare Plague.md"
+  ]
+}

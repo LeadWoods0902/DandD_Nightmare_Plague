@@ -1,0 +1,1 @@
+Brother to [[Amorella Lundgren]], died during the events of the [[Lundgren Coup]]

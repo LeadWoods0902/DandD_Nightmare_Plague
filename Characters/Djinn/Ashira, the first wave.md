@@ -1,0 +1,1 @@
+Grandmother of [[Bismuth Shatterborne]], [[Agate Shatterborne]] and [[Zircon Shatterborne]].

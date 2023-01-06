@@ -1,0 +1,5 @@
+This jar contains a preserved brain, magically treated to remain in good condition despite the passing of time. The brain appears to be fully functional, suspended in a clear fluid that keeps it preserved and ready for use.
+
+This brain has been enchanted to serve as a spell focus, allowing a spell caster to maintain concentration on a spell without the need for physical effort or mental exertion. While the use of a brain as a spell focus may be disturbing to some, it cannot be denied that it is a powerful and convenient tool for those who are willing to use it.
+
+It is worth noting that the use of this brain as a spell focus is not without risk. The magical energy required to maintain the preservation of the brain and enhance its abilities may be unstable, and careless handling could potentially result in unintended consequences. As such, it is recommended that only experienced and skilled spell casters attempt to use this brain as a spell focus.

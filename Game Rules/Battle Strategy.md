@@ -1,0 +1,1 @@
+In some specific scenarios, initiative will be re-rolled between rounds

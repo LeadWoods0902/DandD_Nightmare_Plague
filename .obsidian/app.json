@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "attachmentFolderPath": "resources",
+  "promptDelete": false
+}

@@ -1,0 +1,1 @@
+A coup to remove [[Napella Lundgren]] from a position of power, successful :(

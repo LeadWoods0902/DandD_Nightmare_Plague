@@ -1,0 +1,1 @@
+Pair of lighthouses that guard the [[Croes Passage]]
