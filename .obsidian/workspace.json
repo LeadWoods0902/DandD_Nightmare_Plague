@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06ab8868ef728ff3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Additional Lore/The Kilfenora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Additional Lore/The Kilfenora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Additional Lore/The Kilfenora.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66ec37471c883e10",
+  "active": "06ab8868ef728ff3",
   "lastOpenFiles": [
+    "Narrative/2 - A Hopeful Day/DeleteSample.md",
+    "Additional Lore/The Kilfenora.md",
     "Family Trees/Shatterborne.canvas",
     "Additional Lore/Nëor.md",
     "Game Rules/Bleed.md",
@@ -165,8 +172,6 @@
     "Characters/Djinn/Ashira, the first wave.md",
     "Shatterborne Siblings.md",
     "Items/weapons/SwordStaff.md",
-    "Characters/NPC/Lundgren/Amorella Lundgren.md",
-    "Napella.md",
-    "Additional Lore/Suimin Mahi - The Nightmare Plague.md"
+    "Characters/NPC/Lundgren/Amorella Lundgren.md"
   ]
 }
