@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "66610d000ee124c1",
+        "id": "bd6d317aaa16cafd",
         "type": "tabs",
         "children": [
           {
-            "id": "e70211b28d1ef96c",
+            "id": "dd85ea972a6e6f22",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -147,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e70211b28d1ef96c",
+  "active": "dd85ea972a6e6f22",
   "lastOpenFiles": [
+    "Additional Lore/Currency/Ryvnia.md",
     "Characters/PC/Jasper Shatterborne.md",
     "Characters/PC/Bismuth Shatterborne.md",
+    "Characters/NPC/Iron Knight.md",
+    "Characters/PC/Isaac.md",
+    "Characters/PC/Aime.md",
     "Additional Lore/The Kilfenora.md",
     "README.md",
     "Narrative/2 - A Hopeful Day/DeleteSample.md",
-    "Family Trees/Shatterborne.canvas",
-    "Additional Lore/Nëor.md",
-    "Game Rules/Bleed.md",
-    "Characters/Djinn/Sansom, the Mountain Shatterer.md",
-    "Characters/Djinn/Ashira, the first wave.md"
+    "Family Trees/Shatterborne.canvas"
   ]
 }

@@ -1,0 +1,5 @@
+This iron-clad knight is a formidable figure, clad in heavy, obscuring armour that covers every inch of his body. His helm is thick and crudely constructed, with long flowing hair at its rear, hinting at a past injury that has left him bald. The knight's armour is a combination of dark, murky black and iron, with splashes of red ochre on the breastplate, as if a bloody hand had been smeared down it.
+
+The knight wields a massive two-handed morning star, its entire length studded with metal rivets that make it difficult to grasp for those without armour. The knight is built like a boar, with a thick and sturdy frame, and he breathes heavily, as if exerting great effort even when at rest.
+
+Despite his intimidating appearance, little is known about the iron-clad knight. He is a mystery to all but a select few, his identity and motivations shrouded in secrecy. However, one thing is certain: anyone who crosses his path would do well to beware, for the knight is a formidable opponent, wielding his heavy morning star with deadly precision.

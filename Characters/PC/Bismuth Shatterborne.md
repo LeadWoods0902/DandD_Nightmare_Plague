@@ -9,7 +9,7 @@
 | **CON** | *17* | *3* | *0* | 
 | **CHA** | *13* | *1* | *1* | 
 <h3> Backstory </h3>
-Twin sibling to [[Jasper Shatterborne]].
+Twin sibling to [[Jasper Shatterborne]]
 
 Bismuth is the older of two twin siblings by two minutes.
 
