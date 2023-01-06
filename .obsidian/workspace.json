@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Jasper Shatterborne.md",
+                "file": "Characters/PC/Bismuth Shatterborne.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Characters/PC/Jasper Shatterborne.md",
+                "file": "Characters/PC/Bismuth Shatterborne.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,7 +57,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               }
             },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Jasper Shatterborne.md",
+                "file": "Characters/PC/Bismuth Shatterborne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Jasper Shatterborne.md",
+                "file": "Characters/PC/Bismuth Shatterborne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Jasper Shatterborne.md"
+                "file": "Characters/PC/Bismuth Shatterborne.md"
               }
             }
           },
@@ -198,17 +198,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4be43fcf92f1fa66",
+  "active": "4351cb8115e0f3e7",
   "lastOpenFiles": [
+    "Characters/NPC/Shatterborne & Waveborne/Ynessa.md",
+    "Characters/PC/Jasper Shatterborne.md",
+    "Characters/PC/Bismuth Shatterborne.md",
     "Additional Lore/Suimin Mahi - The Nightmare Plague.md",
     "Additional Lore/Astronomical Knowledge/Astronomy.md",
     "Additional Lore/Currency/Ryvnia.md",
-    "Characters/PC/Jasper Shatterborne.md",
-    "Characters/PC/Bismuth Shatterborne.md",
     "Characters/NPC/Iron Knight.md",
     "Characters/PC/Isaac.md",
     "Characters/PC/Aime.md",
-    "Additional Lore/The Kilfenora.md",
-    "README.md"
+    "Additional Lore/The Kilfenora.md"
   ]
 }

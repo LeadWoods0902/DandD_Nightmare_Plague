@@ -9,6 +9,7 @@
 | **CON** | *10* | *0* | *0* | 
 | **CHA** | *13* | *1* | *1* | 
 <h3> Backstory </h3>
+
 Twin sibling to [[Bismuth Shatterborne]]
 
 Younger sibling to Bismuth by two minutes.
