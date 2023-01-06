@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8d4c27ff14633a0b",
+        "id": "66610d000ee124c1",
         "type": "tabs",
         "children": [
           {
-            "id": "6c0ba967950b5751",
+            "id": "e70211b28d1ef96c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Additional Lore/The Kilfenora.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06ab8868ef728ff3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06ab8868ef728ff3",
+  "active": "e70211b28d1ef96c",
   "lastOpenFiles": [
-    "Narrative/2 - A Hopeful Day/DeleteSample.md",
+    "Characters/PC/Jasper Shatterborne.md",
+    "Characters/PC/Bismuth Shatterborne.md",
     "Additional Lore/The Kilfenora.md",
+    "README.md",
+    "Narrative/2 - A Hopeful Day/DeleteSample.md",
     "Family Trees/Shatterborne.canvas",
     "Additional Lore/Nëor.md",
     "Game Rules/Bleed.md",
     "Characters/Djinn/Sansom, the Mountain Shatterer.md",
-    "Characters/Djinn/Ashira, the first wave.md",
-    "Shatterborne Siblings.md",
-    "Items/weapons/SwordStaff.md",
-    "Characters/NPC/Lundgren/Amorella Lundgren.md"
+    "Characters/Djinn/Ashira, the first wave.md"
   ]
 }
