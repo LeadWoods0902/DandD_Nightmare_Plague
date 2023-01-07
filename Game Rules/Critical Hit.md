@@ -1,1 +1,1 @@
-On a natural max to dmg, you have the opportunity to describe how your attack happens, with the potential of applying a special status affect based on the weapon.
+On a natural 20 to hit, you have the opportunity to describe a particular method of attack - the action you perform may lead to a special effect being applied to the target.

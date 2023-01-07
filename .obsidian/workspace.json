@@ -11,14 +11,6 @@
             "id": "4351cb8115e0f3e7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "be270fb9b4ce92e4",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Game Rules/Alcohol.md",
@@ -28,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be270fb9b4ce92e4",
+  "active": "4351cb8115e0f3e7",
   "lastOpenFiles": [
     "Game Rules/Assists.md",
-    "Characters/PC/Brannon Mk2.md",
-    "Characters/PC/Bismuth Shatterborne.md",
-    "Characters/NPC/Shatterborne & Waveborne/Ynessa.md",
-    "Characters/PC/Jasper Shatterborne.md",
-    "Additional Lore/Suimin Mahi - The Nightmare Plague.md",
-    "Additional Lore/Astronomical Knowledge/Astronomy.md",
-    "Additional Lore/Currency/Ryvnia.md",
-    "Characters/NPC/Iron Knight.md",
-    "Characters/PC/Isaac.md"
+    "Game Rules/Bleed.md",
+    "Game Rules/Critical Death Save.md",
+    "Game Rules/Critical Health Levels.md",
+    "Game Rules/Critical Hit.md",
+    "Game Rules/Dash & Sprint.md",
+    "Game Rules/Fate rolls.md",
+    "Game Rules/Alcohol.md",
+    "Game Rules/Ingenuity.md",
+    "Game Rules/Gang Fights.md"
   ]
 }
