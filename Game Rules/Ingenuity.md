@@ -1,2 +1,1 @@
-**Ingenuity**:
 At my discretion, I may allow you to carry out an action without rolling for it.
