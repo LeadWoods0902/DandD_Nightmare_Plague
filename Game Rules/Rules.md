@@ -1,4 +1,4 @@
-[[Aid]]
+[[Assists]]
 [[Alcohol]]
 [[Battle Strategy]]
 [[bleed]]

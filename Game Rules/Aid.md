@@ -1,1 +1,0 @@
-You can only provide "aid" in an area you have proficiency, you can still roll separately to perform the same action (context allowing)

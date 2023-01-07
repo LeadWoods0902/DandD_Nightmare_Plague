@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Brannon Mk2.md",
+                "file": "Game Rules/Alcohol.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Brannon Mk2.md",
+                "file": "Game Rules/Alcohol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Brannon Mk2.md",
+                "file": "Game Rules/Alcohol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Brannon Mk2.md"
+                "file": "Game Rules/Alcohol.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   },
   "active": "be270fb9b4ce92e4",
   "lastOpenFiles": [
+    "Game Rules/Assists.md",
+    "Characters/PC/Brannon Mk2.md",
     "Characters/PC/Bismuth Shatterborne.md",
     "Characters/NPC/Shatterborne & Waveborne/Ynessa.md",
     "Characters/PC/Jasper Shatterborne.md",
@@ -173,8 +175,6 @@
     "Additional Lore/Astronomical Knowledge/Astronomy.md",
     "Additional Lore/Currency/Ryvnia.md",
     "Characters/NPC/Iron Knight.md",
-    "Characters/PC/Isaac.md",
-    "Characters/PC/Aime.md",
-    "Additional Lore/The Kilfenora.md"
+    "Characters/PC/Isaac.md"
   ]
 }
