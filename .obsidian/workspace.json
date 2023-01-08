@@ -19,17 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "82422f0e3d298b58",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/NPC/Iron clad Knight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/NPC/Iron clad Knight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/NPC/Iron clad Knight.md"
+              }
             }
           },
           {
@@ -160,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "ba5477bca0d78185",
   "lastOpenFiles": [
+    "temp.md",
     "Characters/NPC/Iron clad Knight.md",
     "Characters/PC/Jasper Shatterborne.md",
     "Characters/PC/Bismuth Shatterborne.md",
@@ -170,7 +166,6 @@
     "Admin/Consent Assessments/Summary.md",
     "Admin/Consent Assessments/Quinn.md",
     "Admin/Consent Assessments/Aime.md",
-    "Admin/Consent Assessments/Unknown.md",
-    "Admin/Consent Assessments/Isaac.md"
+    "Admin/Consent Assessments/Unknown.md"
   ]
 }
