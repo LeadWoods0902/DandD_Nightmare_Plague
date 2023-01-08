@@ -6,9 +6,9 @@ Despite his intimidating appearance, little is known about the iron-clad knight.
 
 The origins of the iron-clad knight are shrouded in mystery. No one knows where he came from, or who he was before the fire that changed his life.
 
-All that is known is that the knight emerged from the ashes of a terrible blaze, his body fused to the heavy armor he wore at the time. The armor is now a part of him, a twisted and grotesque reflection of his former self.
+All that is known is that the knight emerged from the ashes of a terrible blaze, his body fused to the heavy armour he wore at the time. The armour is now a part of him, a twisted and grotesque reflection of his former self.
 
-Despite his injuries, the knight remains a formidable warrior, wielding a massive two-handed morning star with deadly precision. He is a solitary figure, rarely seen without his armor and rarely speaking of his past. He wanders the land, seeking out battles to prove his worth and bring justice to the world.
+Despite his injuries, the knight remains a formidable warrior, wielding a massive two-handed morning star with deadly precision. He is a solitary figure, rarely seen without his armour and rarely speaking of his past. He wanders the land, seeking out battles to prove his worth and bring justice to the world.
 
 Over time, he has become known as the iron-clad knight, a fierce and relentless fighter whose name strikes fear into the hearts of his enemies. No one knows what drives him, or what he hopes to accomplish. All that is certain is that he is a force to be reckoned with, a warrior whose strength and skill are unmatched.
 
