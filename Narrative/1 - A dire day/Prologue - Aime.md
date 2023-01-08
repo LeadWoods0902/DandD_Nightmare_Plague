@@ -4,4 +4,4 @@ Next: [[Prologue - Tom]]
 Locations:
 - TBC
 Characters:
-- [[Aime]]
+- [[Characters/PC/Aime]]

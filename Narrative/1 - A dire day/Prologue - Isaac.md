@@ -4,4 +4,4 @@ Next: [[The Auction]]
 Locations:
 - TBC
 Characters:
-- [[Isaac]]
+- [[Characters/PC/Isaac]]
