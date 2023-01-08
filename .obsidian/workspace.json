@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/Consent Assessments/Summary.md",
+                "file": "Characters/NPC/Iron clad Knight.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Consent Assessments/Summary.md",
+                "file": "Characters/NPC/Iron clad Knight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Consent Assessments/Summary.md",
+                "file": "Characters/NPC/Iron clad Knight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Consent Assessments/Summary.md"
+                "file": "Characters/NPC/Iron clad Knight.md"
               }
             }
           },
@@ -157,15 +157,15 @@
   },
   "active": "ba5477bca0d78185",
   "lastOpenFiles": [
-    "Admin/Consent Assessments/Quinn.md",
+    "Characters/PC/Jasper Shatterborne.md",
+    "Characters/PC/Bismuth Shatterborne.md",
+    "Characters/PC/Tom.md",
+    "Characters/PC/Marta.md",
     "Admin/Consent Assessments/Summary.md",
+    "Admin/Consent Assessments/Quinn.md",
     "Admin/Consent Assessments/Aime.md",
     "Admin/Consent Assessments/Unknown.md",
     "Admin/Consent Assessments/Isaac.md",
-    "Admin/Consent Assessments/Tom.md",
-    "Admin/Consent Assessments/Marta.md",
-    "Admin/Consent Assessments/Brannon.md",
-    "Game Rules/Rules.md",
-    "Admin/Consent Assessments.md"
+    "Admin/Consent Assessments/Tom.md"
   ]
 }

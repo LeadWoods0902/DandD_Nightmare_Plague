@@ -1,3 +1,5 @@
+![[Bismuth_Shatterborne.png]]
+
 | Earth Genasi | Druid | Chaotic Good | Level 3 |
 | :-------: | :---: | :---: | :---: |
 | **HP** | *30* | **AC** | *15* | 
