@@ -4,69 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a2137d3050def68c",
+        "id": "ee3d4dab98edff22",
         "type": "tabs",
         "children": [
           {
-            "id": "f702fb217ca8359e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Family Trees/Lundgren.canvas",
-                "viewState": {
-                  "x": 600.2580939294949,
-                  "y": -445.73779231404234,
-                  "zoom": 0.6654492108789613,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "ae0590d439d30203",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Family Trees/Shatterborne.canvas",
-                "viewState": {
-                  "x": 175.5,
-                  "y": -620.9802055355536,
-                  "zoom": -1.3830611712920304,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "74aa77b48d332471",
+            "id": "4b94a30df38b98a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Additional Lore/Solar King.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1315015053bbeeff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Captain of the Canvas Beater.md",
+                "file": "Narrative/Over plot.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Family Trees/Shatterborne.canvas",
+                "file": "Narrative/Over plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Family Trees/Shatterborne.canvas",
+                "file": "Narrative/Over plot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Family Trees/Shatterborne.canvas"
+                "file": "Narrative/Over plot.md"
               }
             }
           },
@@ -201,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae0590d439d30203",
+  "active": "4b94a30df38b98a5",
   "lastOpenFiles": [
-    "Narrative/1 - A dire day/Prologue - Jasper & Bismuth.md",
-    "Narrative/1 - A dire day/Prologue - Aime.md",
-    "Narrative/2 - A Hopeful Day/The Auction.md",
-    "Locations/Seni Isles/Cyfandirol/Menamawr.md",
-    "Family Trees/Lundgren.canvas",
-    "Characters/NPC/Lundgren/Ven-Dryk Lungdren.md",
-    "Additional Lore/Solar King.md",
-    "Characters/NPC/Lundgren/Amorella Lundgren.md",
+    "Untitled 1.md",
+    "Narrative/Over plot.md",
+    "Untitled.md",
+    "Rune Warriors.md",
     "The Captain of the Canvas Beater.md",
-    "[Ayven Torrieth.md"
+    "Additional Lore/Solar King.md",
+    "Family Trees/Lundgren.canvas",
+    "Characters/NPC/Cyfandirol/Nomli Gurglegum - Captain Vang.md",
+    "Characters/NPC/Cyfandirol/Green Knight.md",
+    "Characters/NPC/Brokvar/Iosefka.md"
   ]
 }

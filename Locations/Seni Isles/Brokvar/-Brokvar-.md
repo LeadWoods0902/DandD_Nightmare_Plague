@@ -4,6 +4,6 @@ Home to the Broks and state wide devotees to the Commune of Neoris.
 
 [[Addun Brokvar]]
 [[Brokvar Barrier]]
-[[Brokvar]]
+[[Locations/Seni Isles/Brokvar/Brokvar]]
 [[The Weald]]
 
