@@ -8,7 +8,7 @@
   "promptDelete": false,
   "readableLineLength": true,
   "strictLineBreaks": false,
-  "rightToLeft": true,
+  "rightToLeft": false,
   "autoPairBrackets": false,
   "autoPairMarkdown": false
 }

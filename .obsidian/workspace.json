@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3fd14fb089519e2b",
+        "id": "a2137d3050def68c",
         "type": "tabs",
         "children": [
           {
-            "id": "ba5477bca0d78185",
+            "id": "f702fb217ca8359e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Iron clad Knight.md",
+                "file": "Characters/NPC/Disfigured Knight.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Iron clad Knight.md",
+                "file": "Characters/NPC/Disfigured Knight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Iron clad Knight.md",
+                "file": "Characters/NPC/Disfigured Knight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Iron clad Knight.md"
+                "file": "Characters/NPC/Disfigured Knight.md"
               }
             }
           },
@@ -155,10 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba5477bca0d78185",
+  "active": "f702fb217ca8359e",
   "lastOpenFiles": [
+    "Characters/NPC/Disfigured Knight.md",
     "temp.md",
-    "Characters/NPC/Iron clad Knight.md",
     "Characters/PC/Jasper Shatterborne.md",
     "Characters/PC/Bismuth Shatterborne.md",
     "Characters/PC/Tom.md",
