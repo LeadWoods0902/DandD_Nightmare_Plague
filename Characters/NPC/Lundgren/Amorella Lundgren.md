@@ -1,4 +1,3 @@
-
 Amorella grew up in hiding, never fully understanding the circumstances of her mother's past or the significance of the emerald that she had been entrusted with. She lived a simple life, working as a seamstress in a small fishing hamlet: eventually raising her daughter, Lupella, with her husband [[Ayven Torrieth]]. 
 
 Amorella grew up with little knowledge of her mother, [[Napella Lundgren]], bar that she was the queen of Brokvar - a not far off city of grandeur that would forever remain out of reach. As her daughter Lupella grew older, she found herself being begged ever more often for tales of her parents, the late Napella and [[Ven-Dryk Lungdren]]. With intense reluctance, Amorella promised to take Lupella to the capital on her 21st name day to see the city of her family's construction. On the condition that she understood that seeking out the life she was entitled to by birth right would only lead to a quick death. 
@@ -12,7 +11,6 @@ However, when Lupella was just a teenager, disaster struck. Their small village 
 *I know that it will not be easy for you to claim your rightful place as queen of Brokvar. There will be those who will try to stand in your way, who will do everything they can to keep you from the throne. But do not let them discourage you. With patience and the right allies, you can overcome any obstacle.*
 
 *Do not make the same mistakes that I did. Be bold, be brave, and never let anyone tell you that you are not worthy of greatness. You are destined for greatness, my dear. Do not let anything stand in your way. I love you."*
-
 
 Ripped from her mother, Lupella was taken captive by the pirates and forced into servitude as [[The Captain of the Canvas Beater]]'s sword bearer. Despite an initial reluctance for bloodshed, Lupella proved to be a fierce and skilled warrior. Quickly rising through the ranks of the pirates, earning the respect and loyalty of her fellow crewmates.
 
