@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1315015053bbeeff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Captain of the Canvas Beater.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -157,15 +170,15 @@
   },
   "active": "f702fb217ca8359e",
   "lastOpenFiles": [
+    "The Captain of the Canvas Beater.md",
+    "Characters/NPC/Lundgren/Amorella Lundgren.md",
+    "[Ayven Torrieth.md",
     "Characters/NPC/Lundgren/Lupella Lundgren.md",
     "Items/Engraved Emerald.md",
     "Characters/NPC/Disfigured Knight.md",
     "temp.md",
     "Characters/PC/Jasper Shatterborne.md",
     "Characters/PC/Bismuth Shatterborne.md",
-    "Characters/PC/Tom.md",
-    "Characters/PC/Marta.md",
-    "Admin/Consent Assessments/Summary.md",
-    "Admin/Consent Assessments/Quinn.md"
+    "Characters/PC/Tom.md"
   ]
 }
