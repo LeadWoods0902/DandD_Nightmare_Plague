@@ -5,5 +5,10 @@
   "showLineNumber": true,
   "spellcheck": true,
   "attachmentFolderPath": "resources",
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "rightToLeft": true,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false
 }
