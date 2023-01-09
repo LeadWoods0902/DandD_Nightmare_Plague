@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Disfigured Knight.md",
+                "file": "Characters/NPC/Lundgren/Amorella Lundgren.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Disfigured Knight.md",
+                "file": "Characters/NPC/Lundgren/Amorella Lundgren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Disfigured Knight.md",
+                "file": "Characters/NPC/Lundgren/Amorella Lundgren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Disfigured Knight.md"
+                "file": "Characters/NPC/Lundgren/Amorella Lundgren.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "f702fb217ca8359e",
   "lastOpenFiles": [
+    "Characters/NPC/Lundgren/Lupella Lundgren.md",
+    "Items/Engraved Emerald.md",
     "Characters/NPC/Disfigured Knight.md",
     "temp.md",
     "Characters/PC/Jasper Shatterborne.md",
@@ -164,8 +166,6 @@
     "Characters/PC/Tom.md",
     "Characters/PC/Marta.md",
     "Admin/Consent Assessments/Summary.md",
-    "Admin/Consent Assessments/Quinn.md",
-    "Admin/Consent Assessments/Aime.md",
-    "Admin/Consent Assessments/Unknown.md"
+    "Admin/Consent Assessments/Quinn.md"
   ]
 }

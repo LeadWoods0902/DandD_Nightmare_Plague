@@ -10,7 +10,7 @@ Napella was a warrior queen of legend, renowned for her bravery and skill in bat
 
 Etched with the scars of countless battles, her face was framed by a flowing crop of burnished copper hair. Protecting her slender and tall body, she wore a suit of armour that shone like the sun, adorned with the insignia of her kingdom: a pair of bears stood on their hind legs under an ashen tree.d
 
-*Her crown bore the [[Jewel of Royalty]], a stone she was never seen without.*
+*Her crown bore the [[Engraved Emerald]], a stone she was never seen without.*
 
 In combat, Napella was a force to be reckoned with. She wielded a small curved Flamberge with a blade that shimmered blood red; imbued with powerful enchantments that made it searing hot to the touch, this legendary weapon is renowned for its bloody history.
 
