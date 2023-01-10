@@ -1,6 +1,6 @@
 {
   "commitMessage": "{{hostname}} backup: {{date}} ",
-  "autoCommitMessage": "vault backup: {{date}}",
+  "autoCommitMessage": "{{hostname}} backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm",
   "autoSaveInterval": 15,
   "autoPushInterval": 0,
