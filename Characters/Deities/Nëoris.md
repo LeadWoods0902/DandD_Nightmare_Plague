@@ -1,3 +1,5 @@
+### The Deity of
+
 One of many deities of the [[Seni Isles]], Nëoris has strong and unwavering support from the Nëorites; however those outside of [[-Brokvar-]] believe Nëoris to be a cursed god, not worthy of faith.
 
 ---

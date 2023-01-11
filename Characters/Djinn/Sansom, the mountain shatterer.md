@@ -1,3 +1,5 @@
+Earth Djinn
+
 Land, respect, farming
 
-Father of [[Malachix Shatterborne]]
+Djinn-lineage of [[Malachix Shatterborne]]

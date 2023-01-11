@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b94a30df38b98a5",
+            "id": "77f7ff53942bb403",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Over plot.md",
+                "file": "Characters/Djinn/Koranga, the Eternal Fire.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Over plot.md",
+                "file": "Characters/Djinn/Koranga, the Eternal Fire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Over plot.md",
+                "file": "Characters/Djinn/Koranga, the Eternal Fire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Over plot.md"
+                "file": "Characters/Djinn/Koranga, the Eternal Fire.md"
               }
             }
           },
@@ -155,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b94a30df38b98a5",
+  "active": "77f7ff53942bb403",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Narrative/Over plot.md",
-    "Untitled.md",
-    "Rune Warriors.md",
-    "The Captain of the Canvas Beater.md",
-    "Additional Lore/Solar King.md",
-    "Family Trees/Lundgren.canvas",
-    "Characters/NPC/Cyfandirol/Nomli Gurglegum - Captain Vang.md",
-    "Characters/NPC/Cyfandirol/Green Knight.md",
-    "Characters/NPC/Brokvar/Iosefka.md"
+    "Characters/Djinn/Koranga, the eternal fire.md",
+    "Characters/Djinn/Efreeti, the bracing cold.md",
+    "Characters/Djinn/Efreeti, the rracing cold.md",
+    "Characters/Djinn/Belorus, the tempest.md",
+    "Characters/Djinn/Ashira, the first wave.md",
+    "Characters/Djinn/Nameena, the last breath.md",
+    "Family Trees/Shatterborne.canvas",
+    "Characters/Djinn/Sansom, the mountain shatterer.md",
+    "Characters/Deities/Unnamed Rheilliwch Deity.md",
+    "Characters/Deities/Deity of Decay.md"
   ]
 }
