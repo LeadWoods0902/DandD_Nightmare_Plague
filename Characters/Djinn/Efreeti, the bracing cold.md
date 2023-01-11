@@ -1,1 +1,1 @@
-Djinn of the frost
+Ice Djinn

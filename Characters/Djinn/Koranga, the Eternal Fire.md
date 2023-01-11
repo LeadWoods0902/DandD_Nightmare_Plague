@@ -1,1 +1,1 @@
-Djinn of the 
+Fire Djinn

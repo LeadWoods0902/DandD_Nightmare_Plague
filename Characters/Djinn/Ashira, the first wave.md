@@ -1,3 +1,3 @@
-Djinn of the sea
+Water Djinn
 
 Djinn lineage of [[Fjordina Waveborne]]

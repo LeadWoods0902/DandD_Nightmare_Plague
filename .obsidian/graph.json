@@ -8,6 +8,13 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
+      "query": "path:Characters/Djinn",
+      "color": {
+        "a": 1,
+        "rgb": 6883079
+      }
+    },
+    {
       "query": "path:Characters/PC",
       "color": {
         "a": 1,
