@@ -3,4 +3,8 @@
 - Belief in the twin suns (separate to the twin suns of the Djinn)
 
 #### Major Cities
-- The 
+- Qotus (Capital City)
+- Duqedo (Largest port city)
+- Wadur
+- Odohra
+- Itha

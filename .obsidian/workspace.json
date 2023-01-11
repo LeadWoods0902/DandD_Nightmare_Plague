@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Sunmaek/Sunmaek.md",
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Sunmaek/Sunmaek.md",
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Sunmaek/Sunmaek.md",
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Sunmaek/Sunmaek.md"
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md"
               }
             }
           },
@@ -157,6 +158,7 @@
   },
   "active": "ded235105dff97c4",
   "lastOpenFiles": [
+    "Locations/Sunmaek/Sunmaek.md",
     "Characters/PC/Primalas.md",
     "Characters/Djinn/Djinn.md",
     "Characters/Djinn/Sansom, the mountain shatterer.md",
@@ -165,7 +167,6 @@
     "Characters/Djinn/Voral, of the first sun.md",
     "Characters/Djinn/Horix, of the second sun.md",
     "Characters/Djinn/Djinn Beliefs.md",
-    "Characters/Djinn/Nameena, the last breath.md",
-    "Characters/Djinn/Koranga, the Eternal Fire.md"
+    "Characters/Djinn/Nameena, the last breath.md"
   ]
 }
