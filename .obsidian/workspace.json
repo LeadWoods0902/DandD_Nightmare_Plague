@@ -21,11 +21,17 @@
             "id": "1fb138d77fe4262e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPC/Seni/Brokvar/Gabriel.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/NPC/Seni/Brokvar/Gabriel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/NPC/Seni/Brokvar/Gabriel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/NPC/Seni/Brokvar/Gabriel.md"
+              }
             }
           },
           {
@@ -156,17 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ded235105dff97c4",
+  "active": "1fb138d77fe4262e",
   "lastOpenFiles": [
+    "Characters/NPC/Seni/Brokvar/Iosefka.md",
+    "Characters/NPC/Seni/Brokvar/Gabriel.md",
+    "Characters/NPC/Sunmaek/Ven-Kylgh.md",
+    "Additional Lore/Suimin Mahi - The Nightmare Plague.md",
     "Characters/Djinn/Buncho, the brimming sun.md",
     "Characters/Djinn/Djinn.md",
     "Items/weapons/Branch of the Brokvar Tree.md",
     "Admin/Consent Assessments/Summary.md",
     "Admin/Consent Assessments/Untitled.md",
-    "Untitled.md",
-    "Admin/Consent Assessments/Aime.md",
-    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
-    "Locations/Sunmaek/Sunmaek.md",
-    "Characters/PC/Primalas.md"
+    "Untitled.md"
   ]
 }

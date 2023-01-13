@@ -9,7 +9,7 @@
 		{"id":"7edc0219fca9135c","x":11,"y":40,"width":350,"height":400,"color":"4","type":"file","file":"Characters/NPC/Lundgren/Lupella Lundgren.md"},
 		{"id":"e4c45e1a6a60d4ae","x":-610,"y":-880,"width":50,"height":60,"type":"text","text":""},
 		{"id":"95c9637b2ab02859","x":161,"y":-180,"width":50,"height":60,"type":"text","text":""},
-		{"id":"efd06be5df2445bd","x":-410,"y":-1977,"width":350,"height":400,"color":"1","type":"file","file":"Ven-Kylgh.md"}
+		{"id":"efd06be5df2445bd","x":-410,"y":-1977,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Sunmaek/Ven-Kylgh.md"}
 	],
 	"edges":[
 		{"id":"c21d3ac3d61bb76a","fromNode":"0c5ac0879b1428c6","fromSide":"bottom","toNode":"e4c45e1a6a60d4ae","toSide":"top"},
