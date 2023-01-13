@@ -21,13 +21,8 @@
             "id": "1fb138d77fe4262e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Admin/Consent Assessments/Summary.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -163,15 +158,15 @@
   },
   "active": "ded235105dff97c4",
   "lastOpenFiles": [
+    "Characters/Djinn/Buncho, the brimming sun.md",
+    "Characters/Djinn/Djinn.md",
+    "Items/weapons/Branch of the Brokvar Tree.md",
     "Admin/Consent Assessments/Summary.md",
     "Admin/Consent Assessments/Untitled.md",
     "Untitled.md",
     "Admin/Consent Assessments/Aime.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Sunmaek/Sunmaek.md",
-    "Characters/PC/Primalas.md",
-    "Characters/Djinn/Djinn.md",
-    "Characters/Djinn/Sansom, the mountain shatterer.md",
-    "Characters/Djinn/Edo, of the moon.md"
+    "Characters/PC/Primalas.md"
   ]
 }
