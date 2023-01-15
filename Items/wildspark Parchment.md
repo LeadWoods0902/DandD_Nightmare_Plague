@@ -1,0 +1,1 @@
+By stitching [[wildspark leaves]] together, it is possible to create a parchment like sheet upon which advanced magics can be traced. This allows a spell caster to 
