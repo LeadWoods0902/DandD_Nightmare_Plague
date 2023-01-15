@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "1fb138d77fe4262e",
+            "id": "e6ac7cb2b86a5cae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Gabriel.md",
+                "file": "Items/weapons/Branch of the Brokvar Tree.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Gabriel.md",
+                "file": "Items/weapons/Branch of the Brokvar Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Gabriel.md",
+                "file": "Items/weapons/Branch of the Brokvar Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Gabriel.md"
+                "file": "Items/weapons/Branch of the Brokvar Tree.md"
               }
             }
           },
@@ -166,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fb138d77fe4262e",
+  "active": "e6ac7cb2b86a5cae",
   "lastOpenFiles": [
-    "Characters/NPC/Seni/Brokvar/Iosefka.md",
     "Characters/NPC/Seni/Brokvar/Gabriel.md",
+    "Characters/NPC/Seni/Brokvar/Iosefka.md",
     "Characters/NPC/Sunmaek/Ven-Kylgh.md",
     "Additional Lore/Suimin Mahi - The Nightmare Plague.md",
     "Characters/Djinn/Buncho, the brimming sun.md",
