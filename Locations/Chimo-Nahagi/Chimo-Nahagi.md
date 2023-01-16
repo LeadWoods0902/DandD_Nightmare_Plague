@@ -12,9 +12,9 @@ Eastern-Land, opposite side of planet to [[Seni Isles]]
 | Zenryoku | The future sighted | |
 | Kenzen | The justified | |
 | Iyashi | The renewing spirit | The salvation of Chimo-nahagi, grants rebirth to those deserving |
-| Bōshi | The defender | |
+| Bōshi | | |
 
-- Understand the immortal existence of Deities but do not acknowledge them as Deities.
+- Understand the immortal and powerful existence of Djinn but generally do not acknowledge them as Deities.
 
 #### Major Cities
 

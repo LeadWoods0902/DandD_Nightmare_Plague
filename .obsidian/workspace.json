@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/weapons/Branch of the Brokvar Tree.md",
+                "file": "Narrative/1 - A dire day/Prologue - Tom.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/wildspark Parchment.md",
+                "file": "Narrative/1 - A dire day/Prologue - Tom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/wildspark Parchment.md",
+                "file": "Narrative/1 - A dire day/Prologue - Tom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/wildspark Parchment.md"
+                "file": "Narrative/1 - A dire day/Prologue - Tom.md"
               }
             }
           },
@@ -179,17 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f5483cbcfe6305b",
+  "active": "e6ac7cb2b86a5cae",
   "lastOpenFiles": [
+    "Narrative/1 - A dire day/Prologue - Marta.md",
+    "Narrative/1 - A dire day/Prologue - Jasper & Bismuth.md",
+    "Narrative/1 - A dire day/Prologue - Isaac.md",
+    "Narrative/1 - A dire day/Prologue - Aime.md",
+    "Locations/Sunmaek/Sunmaek.md",
+    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+    "Characters/PC/Brannon V2.md",
     "Items/weapons/Branch of the Brokvar Tree.md",
-    "Characters/NPC/Seni/Brokvar/Gabriel.md",
-    "Characters/NPC/Seni/Brokvar/Iosefka.md",
-    "Characters/NPC/Sunmaek/Ven-Kylgh.md",
-    "Additional Lore/Suimin Mahi - The Nightmare Plague.md",
-    "Characters/Djinn/Buncho, the brimming sun.md",
-    "Characters/Djinn/Djinn.md",
-    "Admin/Consent Assessments/Summary.md",
-    "Admin/Consent Assessments/Untitled.md",
-    "Untitled.md"
+    "Items/wildspark Parchment.md",
+    "Characters/NPC/Seni/Brokvar/Gabriel.md"
   ]
 }
