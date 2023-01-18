@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Items/weapons/Branch of the Brokvar Tree.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Items/weapons/Branch of the Brokvar Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Items/weapons/Branch of the Brokvar Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Items/weapons/Branch of the Brokvar Tree.md"
               }
             }
           },
@@ -189,8 +189,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63d3fdd2cf64f141",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
+    "TODO.md",
     "Resources/Tokens/Jasper_Shatterborne.png",
     "Resources/Tokens/Iron_Clad_Knight.png",
     "Resources/Tokens/Bismuth_Shatterborne.png",
@@ -199,7 +200,6 @@
     "Narrative/1 - A dire day/Prologue - Marta.md",
     "Narrative/1 - A dire day/Prologue - Jasper & Bismuth.md",
     "Narrative/1 - A dire day/Prologue - Isaac.md",
-    "Narrative/1 - A dire day/Prologue - Aime.md",
-    "Locations/Sunmaek/Sunmaek.md"
+    "Narrative/1 - A dire day/Prologue - Aime.md"
   ]
 }
