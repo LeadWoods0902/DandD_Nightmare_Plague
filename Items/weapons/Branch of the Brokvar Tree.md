@@ -1,6 +1,6 @@
 ![[whiteBranch.png]]
 
-Unique Druidic Spell Focus. One Handed. Can be attuned by a Druid with sorcerous knowledge so at be used as a sorcerous Spell Focus.
+Unique Druidic Spell Focus. One Handed. Can be attuned by a Druid with sorcerous knowledge so at be used as a sorcerer's Spell Focus.
 
 When using this item as a spell focus, you gain a +2 bonus to your spell attack roles and  spell save DC.
 
@@ -32,7 +32,7 @@ This effect cannot stack.
 
 **Nëoris' protection**
 
-Once a day, this branch can absorb up to 30 magic damage. Every time this branch absorbs magic, this branch self-activates **Spell Burst**.
+Once a day, this branch can absorb up to 30 magic damage. Every time this branch absorbs magic, this branch self-activates **Overheal**.
 
 Reaction, instantaneous
 
@@ -40,21 +40,10 @@ Reaction, instantaneous
 
 **Sacrificial Snap**
 
-As a last resort, you can snap this branch to release the energy contained within. When doing so, **all** creatures (excl. the caster) within 120ft take an equal portion of 12d6 necrotic damage. additionally, activates **Spell Burst**.
-
-A deep rumbling can be heard. The Brokvar Crows fly south. Following them, a southerly wind brings a biting chill.
+As a last resort, you can snap this branch to release the energy contained within. When doing so, **all** creatures (excl. the caster) within 120ft take 12d8 necrotic damage - 5 for every 5ft from the centre of this effect. additionally, activates **Overheal**.
 
 ---
 
-**Spell Burst**
+**Overheal**
 
-The branch releases the built up energy inside
-
-| roll | outcome |
-| :-----: | ------- |
-| 1 | The branch shoots out a font of Nëor, healing 3d4 damage to all creatures within a 15ft radius. |
-| 2 | The branch emanates a blinding beam of purple light for 10 minutes, the effect has a 90ft range. |
-| 3 | A secondary smaller wave emanates from the branch, dealing d12 necrotic damage in a 10ft radius. |
-| 4 | All Creatures in a 60ft enter a deep slumber for 1 minute. |
-| 5 |  |
-| 6 | The branch disintegrates, its ashes are searing hot. If the branch was in someone's hands they have disadvantage on interactions until medical attention has been given |
+The branch releases the built up energy inside, shooting out a font of Nëor: healing 3d4 damage to all creatures within a 15ft radius. The branch becomes searingly hot for 1 minute, it must immediately be dropped or gain disadvantage on all rolls.

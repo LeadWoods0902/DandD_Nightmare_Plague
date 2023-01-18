@@ -18,22 +18,12 @@
             }
           },
           {
-            "id": "e6ac7cb2b86a5cae",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Tokens/Jasper_Shatterborne.png"
-              }
-            }
-          },
-          {
-            "id": "63d3fdd2cf64f141",
+            "id": "0df3585f0d2ce8ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/weapons/Branch of the Brokvar Tree.md",
+                "file": "Locations/Seni Isles/Brokvar/Addun Brokvar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -41,12 +31,25 @@
             }
           },
           {
-            "id": "7f5483cbcfe6305b",
+            "id": "d56ffc9966af7501",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/wildspark Parchment.md",
+                "file": "Additional Lore/Nëor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8ed14b6aaa14808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -54,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tree",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -104,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 315.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/weapons/Branch of the Brokvar Tree.md",
+                "file": "Locations/Seni Isles/Brokvar/Addun Brokvar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/weapons/Branch of the Brokvar Tree.md",
+                "file": "Locations/Seni Isles/Brokvar/Addun Brokvar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/weapons/Branch of the Brokvar Tree.md"
+                "file": "Locations/Seni Isles/Brokvar/Addun Brokvar.md"
               }
             }
           },
@@ -189,17 +192,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "0df3585f0d2ce8ff",
   "lastOpenFiles": [
-    "TODO.md",
+    "Additional Lore/Nëor.md",
+    "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
+    "Locations/Seni Isles/Brokvar/Addun Brokvar.md",
+    "Items/weapons/Branch of the Brokvar Tree.md",
+    "Untitled.md",
+    "Locations/Seni Isles/Brokvar/Brokvar Barrier.md",
+    "Locations/Seni Isles/Brokvar/The Weald.md",
     "Resources/Tokens/Jasper_Shatterborne.png",
-    "Resources/Tokens/Iron_Clad_Knight.png",
-    "Resources/Tokens/Bismuth_Shatterborne.png",
-    "Narrative/Over plot.md",
-    "Narrative/1 - A dire day/Prologue - Tom.md",
-    "Narrative/1 - A dire day/Prologue - Marta.md",
-    "Narrative/1 - A dire day/Prologue - Jasper & Bismuth.md",
-    "Narrative/1 - A dire day/Prologue - Isaac.md",
-    "Narrative/1 - A dire day/Prologue - Aime.md"
+    "TODO.md",
+    "Resources/Tokens/Iron_Clad_Knight.png"
   ]
 }

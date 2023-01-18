@@ -6,7 +6,7 @@ One of many deities of the [[Seni Isles]], Nëoris has strong and unwavering sup
 
 Nëoris was once a powerful god, revered for his control over the flow of energy in the mortal realm. He was a formidable warrior, feared by his enemies and respected by his allies. However, in a tragic turn of events, Nëoris met his end in a brutal battle against a rival and rogue deity, his body left to rot on the battlefield.
 
-From his corpse, a vast and majestic tree grew ([[Neor Tree]])), its roots stretching deep into the earth. The tree was infused with Nëoris' divine essence, and from its branches and leaves, a magical sap began to flow.
+From his corpse, a vast and majestic tree grew ([[The Brokvar-Coeden]])), its roots stretching deep into the earth. The tree was infused with Nëoris' divine essence, and from its branches and leaves, a magical sap began to flow.
 
 The sap was said to possess incredible healing properties, capable of mending wounds and ailments of all kinds. It became known as "[[Nëor]]" and was highly sought after by those in need of its restorative powers.
 

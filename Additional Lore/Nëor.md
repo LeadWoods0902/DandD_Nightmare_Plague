@@ -1,4 +1,4 @@
-Sap harvested from the [[Neor Tree]]. This sap is widely known to have healing properties.
+Sap harvested from the [[The Brokvar-Coeden]]. This sap is widely known to have healing properties.
 
 ---
 
