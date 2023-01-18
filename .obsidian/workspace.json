@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Additional Lore/Nature/Creatures/Echo Snapper.md",
+                "file": "Rune Warriors.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Additional Lore/Nëor.md",
+                "file": "Items/weapons/Branch of the Brokvar Tree.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Additional Lore/Nature/Creatures/Echo Snapper.md",
+                "file": "Rune Warriors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Additional Lore/Nature/Creatures/Echo Snapper.md",
+                "file": "Rune Warriors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Additional Lore/Nature/Creatures/Echo Snapper.md"
+                "file": "Rune Warriors.md"
               }
             }
           },
@@ -205,17 +205,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "3c1f3f6ae2dc86e5",
   "lastOpenFiles": [
-    "Locations/Seni Isles/Brokvar/Addun Brokvar.md",
-    "Additional Lore/Nëor.md",
-    "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
+    "README.md",
+    "Items/weapons/Arc Rifle.md",
     "Items/weapons/Branch of the Brokvar Tree.md",
+    "Additional Lore/Nëor.md",
+    "Locations/Seni Isles/Brokvar/Addun Brokvar.md",
+    "Additional Lore/Nature/Creatures/Echo Snapper.md",
+    "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
     "Untitled.md",
     "Locations/Seni Isles/Brokvar/Brokvar Barrier.md",
-    "Locations/Seni Isles/Brokvar/The Weald.md",
-    "Resources/Tokens/Jasper_Shatterborne.png",
-    "TODO.md",
-    "Resources/Tokens/Iron_Clad_Knight.png"
+    "Locations/Seni Isles/Brokvar/The Weald.md"
   ]
 }

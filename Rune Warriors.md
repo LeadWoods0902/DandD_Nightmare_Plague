@@ -1,1 +1,1 @@
-Druid Barbarians that wild shape into Bears and Wolves 
+Barbarians that wild shape into Bears and Wolves 
