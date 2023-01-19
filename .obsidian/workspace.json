@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cef1a6aba6ba8a19",
+        "id": "e89283c32473b946",
         "type": "tabs",
         "children": [
           {
-            "id": "182782ecef1df2a6",
+            "id": "efe9d93ff748b7f6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Additional Lore/Astronomical Knowledge/Astronomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Additional Lore/Astronomical Knowledge/Astronomy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Additional Lore/Astronomical Knowledge/Astronomy.md"
+              }
             }
           },
           {
@@ -146,17 +150,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "182782ecef1df2a6",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
+    "Resources/Tokens/Iron_Clad_Knight.png",
+    "Resources/Tokens/Bismuth_Shatterborne.png",
+    "Resources/Tokens/Jasper_Shatterborne.png",
+    "Family Trees/Shatterborne.canvas",
+    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
     "Items/weapons/Branch of the Brokvar Tree.md",
     "Brokvar Royalty.md",
     "Additional Lore/Nature/Creatures/rune wolf.md",
-    "Additional Lore/Nature/Creatures/rune bear.md",
-    "Additional Lore/Nature/Creatures/rune shark.md",
-    "Locations/Seni Isles/Brokvar/Addun Brokvar.md",
-    "Rune Warriors.md",
-    "README.md",
-    "Items/weapons/Arc Rifle.md"
+    "Additional Lore/Nature/Creatures/rune bear.md"
   ]
 }
