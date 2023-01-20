@@ -11,8 +11,13 @@
             "id": "efe9d93ff748b7f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Additional Lore/Astronomical Knowledge/Astronomy.md",
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Additional Lore/Astronomical Knowledge/Astronomy.md",
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Additional Lore/Astronomical Knowledge/Astronomy.md"
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md"
               }
             }
           },
@@ -150,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "efe9d93ff748b7f6",
   "lastOpenFiles": [
+    "Characters/NPC/Seni/Rheilliiwch/Disfigured Knight.md",
+    "Locations/Sunmaek/Sunmaek.md",
+    "Additional Lore/Astronomical Knowledge/Astronomy.md",
     "Resources/Tokens/Iron_Clad_Knight.png",
     "Resources/Tokens/Bismuth_Shatterborne.png",
     "Resources/Tokens/Jasper_Shatterborne.png",
     "Family Trees/Shatterborne.canvas",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
-    "Items/weapons/Branch of the Brokvar Tree.md",
-    "Brokvar Royalty.md",
-    "Additional Lore/Nature/Creatures/rune wolf.md",
-    "Additional Lore/Nature/Creatures/rune bear.md"
+    "Items/weapons/Branch of the Brokvar Tree.md"
   ]
 }
