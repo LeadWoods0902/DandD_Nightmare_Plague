@@ -1,4 +1,4 @@
-Next: [[Prologue - Isaac]]
+next: [[The Auction]]
 
 ---
 Locations:
