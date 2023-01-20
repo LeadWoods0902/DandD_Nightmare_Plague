@@ -7,7 +7,7 @@ Locations:
 - [[Menamawr]]
 Characters:
 - [[Nomli Gurglegum - Captain Vang]]
-- [[Bismuth Shatterborne]]
-- [[Jasper Shatterborne]]
+- [[Bismuth Shatterborne (Brannon)]]
+- [[Jasper Shatterborne (Quinn)]]
 - [[Imperial Slavers]]
 - 

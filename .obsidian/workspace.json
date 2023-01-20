@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "efe9d93ff748b7f6",
+            "id": "c12ef8959c9a887b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "file": "Locations/Seni Isles/Esgid/-Esgid-.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "file": "Locations/Seni Isles/Esgid/-Esgid-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "file": "Locations/Seni Isles/Esgid/-Esgid-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md"
+                "file": "Locations/Seni Isles/Esgid/-Esgid-.md"
               }
             }
           },
@@ -155,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efe9d93ff748b7f6",
+  "active": "c12ef8959c9a887b",
   "lastOpenFiles": [
+    "Locations/Seni Isles/Esgid/Esgid Mwy.md",
+    "Bestiary/The Soul Golem.md",
+    "Characters/PC/Primalas (Brannon).md",
+    "Characters/NPC/Seni/Brokvar/Rune Warriors.md",
+    "Additional Lore/Brokvar Royalty.md",
+    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Characters/NPC/Seni/Rheilliiwch/Disfigured Knight.md",
     "Locations/Sunmaek/Sunmaek.md",
     "Additional Lore/Astronomical Knowledge/Astronomy.md",
-    "Resources/Tokens/Iron_Clad_Knight.png",
-    "Resources/Tokens/Bismuth_Shatterborne.png",
-    "Resources/Tokens/Jasper_Shatterborne.png",
-    "Family Trees/Shatterborne.canvas",
-    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
-    "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
-    "Items/weapons/Branch of the Brokvar Tree.md"
+    "Resources/Tokens/Iron_Clad_Knight.png"
   ]
 }

@@ -1,6 +1,6 @@
 Father of:
-- [[Jasper Shatterborne]]
-- [[Bismuth Shatterborne]]
+- [[Jasper Shatterborne (Quinn)]]
+- [[Bismuth Shatterborne (Brannon)]]
 - [[Agate Shatterborne]]
 - [[Citrine Shatterborne]]
 - [[Garnet Shatterborne]]

@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"c916b034b6d5769a","x":-760,"y":-648,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Lundgren/Odonna-Dryk Lundgren.md"},
-		{"id":"e04bcfde3c271a53","x":-339,"y":-648,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Lundgren/Amorella Lundgren.md"},
-		{"id":"f052b6cbe951babe","x":361,"y":-648,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Lundgren/Ayven Torrieth.md"},
-		{"id":"0c5ac0879b1428c6","x":-1110,"y":-1420,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Lundgren/Napella Lundgren.md"},
-		{"id":"21d82ba8c667d58f","x":-410,"y":-1420,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Lundgren/Ven-Dryk Lungdren.md"},
-		{"id":"379d58520d78e01c","x":-1180,"y":-648,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Lundgren/Innë-Dryk Lungdren.md"},
-		{"id":"7edc0219fca9135c","x":11,"y":40,"width":350,"height":400,"color":"4","type":"file","file":"Characters/NPC/Lundgren/Lupella Lundgren.md"},
+		{"id":"c916b034b6d5769a","x":-760,"y":-648,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Seni/Lundgren Family/Odonna-Dryk Lundgren.md"},
+		{"id":"e04bcfde3c271a53","x":-339,"y":-648,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Seni/Lundgren Family/Amorella Lundgren.md"},
+		{"id":"f052b6cbe951babe","x":361,"y":-648,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Seni/Lundgren Family/Ayven Torrieth.md"},
+		{"id":"0c5ac0879b1428c6","x":-1110,"y":-1420,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Seni/Lundgren Family/Napella Lundgren.md"},
+		{"id":"21d82ba8c667d58f","x":-410,"y":-1420,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Seni/Lundgren Family/Ven-Dryk Lungdren.md"},
+		{"id":"379d58520d78e01c","x":-1180,"y":-648,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Seni/Lundgren Family/Innë-Dryk Lungdren.md"},
+		{"id":"7edc0219fca9135c","x":11,"y":40,"width":350,"height":400,"color":"4","type":"file","file":"Characters/NPC/Seni/Lundgren Family/Lupella Lundgren.md"},
 		{"id":"e4c45e1a6a60d4ae","x":-610,"y":-880,"width":50,"height":60,"type":"text","text":""},
 		{"id":"95c9637b2ab02859","x":161,"y":-180,"width":50,"height":60,"type":"text","text":""},
 		{"id":"efd06be5df2445bd","x":-410,"y":-1977,"width":350,"height":400,"color":"1","type":"file","file":"Characters/NPC/Sunmaek/Ven-Kylgh.md"}

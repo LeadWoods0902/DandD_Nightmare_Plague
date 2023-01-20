@@ -1,0 +1,1 @@
+Consisting of two land masses: [[Esgid Mwy]] and [[Esgid Llai]], Esgid is the port capital of the continent. 

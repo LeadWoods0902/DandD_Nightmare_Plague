@@ -1,4 +1,4 @@
 Mother of:
-[[Bismuth Shatterborne]]
+[[Bismuth Shatterborne (Brannon)]]
 [[Agate Shatterborne]]
 [[Zircon Shatterborne]]

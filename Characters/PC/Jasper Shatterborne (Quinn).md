@@ -11,7 +11,7 @@
 | **CHA** | *13* | *1* | *1* | 
 <h3> Backstory </h3>
 
-Twin sibling to [[Bismuth Shatterborne]]
+Twin sibling to [[Bismuth Shatterborne (Brannon)]]
 
 Younger sibling to Bismuth by two minutes.
 
