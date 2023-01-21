@@ -11,8 +11,13 @@
             "id": "c12ef8959c9a887b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md"
+              }
             }
           },
           {
@@ -148,15 +157,15 @@
   },
   "active": "c12ef8959c9a887b",
   "lastOpenFiles": [
+    "Narrative/1 - Broken and Bound/2. Aime.md",
+    "Narrative/1 - Broken and Bound/3. Tom.md",
+    "Narrative/1 - Broken and Bound/4. Marta.md",
+    "Narrative/2 - Currency of the Empire/1. The Auction.md",
+    "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md",
     "Narrative/Over plot.md",
-    "Narrative/1 - A dire day/Prologue - Marta.md",
     "Locations/Seni Isles/Esgid/-Esgid-.md",
     "Locations/Seni Isles/Esgid/Esgid Mwy.md",
     "Bestiary/The Soul Golem.md",
-    "Characters/PC/Primalas (Brannon).md",
-    "Characters/NPC/Seni/Brokvar/Rune Warriors.md",
-    "Additional Lore/Brokvar Royalty.md",
-    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
-    "Characters/NPC/Seni/Rheilliiwch/Disfigured Knight.md"
+    "Characters/PC/Primalas (Brannon).md"
   ]
 }
