@@ -10,17 +10,41 @@
           {
             "id": "c12ef8959c9a887b",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "46b262e8c2f10852",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md",
+                "file": "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "625447735fda6259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Curall.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md",
+                "file": "The Curall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md",
+                "file": "The Curall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md"
+                "file": "The Curall.md"
               }
             }
           },
@@ -155,17 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c12ef8959c9a887b",
+  "active": "625447735fda6259",
   "lastOpenFiles": [
+    "The Curall.md",
+    "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
+    "Characters/NPC/Shatterborne & Waveborne/Carolynn.md",
+    "Characters/NPC/Shatterborne & Waveborne/Udayra.md",
+    "Characters/Bosses/Sun Priest  Heleotite.md",
+    "Characters/Bosses/Fire Sage Heleotite.md",
+    "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md",
     "Narrative/1 - Broken and Bound/2. Aime.md",
     "Narrative/1 - Broken and Bound/3. Tom.md",
-    "Narrative/1 - Broken and Bound/4. Marta.md",
-    "Narrative/2 - Currency of the Empire/1. The Auction.md",
-    "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md",
-    "Narrative/Over plot.md",
-    "Locations/Seni Isles/Esgid/-Esgid-.md",
-    "Locations/Seni Isles/Esgid/Esgid Mwy.md",
-    "Bestiary/The Soul Golem.md",
-    "Characters/PC/Primalas (Brannon).md"
+    "Narrative/1 - Broken and Bound/4. Marta.md"
   ]
 }
