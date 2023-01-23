@@ -1,1 +1,1 @@
-Owner of [[The Curall]]
+Owner of [[The Curall]], Jarae is a Satyr

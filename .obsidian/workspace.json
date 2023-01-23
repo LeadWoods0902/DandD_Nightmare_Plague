@@ -36,15 +36,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Curall.md",
+                "file": "the Curall.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "55c44c3e1135bc93",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Tokens/Bismuth_Shatterborne.png"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Curall.md",
+                "file": "Resources/Tokens/Bismuth_Shatterborne.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Curall.md",
+                "file": "Resources/Tokens/Bismuth_Shatterborne.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Curall.md"
+                "file": "Resources/Tokens/Bismuth_Shatterborne.png"
               }
             }
           },
@@ -179,17 +189,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "625447735fda6259",
+  "active": "55c44c3e1135bc93",
   "lastOpenFiles": [
-    "The Curall.md",
+    "Resources/Tokens/Iron_Clad_Knight.png",
+    "Resources/Tokens/Jasper_Shatterborne.png",
+    "Resources/Tokens/Bismuth_Shatterborne.png",
+    "Resources/arcRifle.png",
     "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
+    "the Curall.md",
+    "The Curall.md",
     "Characters/NPC/Shatterborne & Waveborne/Carolynn.md",
     "Characters/NPC/Shatterborne & Waveborne/Udayra.md",
-    "Characters/Bosses/Sun Priest  Heleotite.md",
-    "Characters/Bosses/Fire Sage Heleotite.md",
-    "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md",
-    "Narrative/1 - Broken and Bound/2. Aime.md",
-    "Narrative/1 - Broken and Bound/3. Tom.md",
-    "Narrative/1 - Broken and Bound/4. Marta.md"
+    "Characters/Bosses/Sun Priest  Heleotite.md"
   ]
 }
