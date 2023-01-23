@@ -49,7 +49,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Resources/Character Art/Ashira_Full_Temp.jpg"
+                "file": "Resources/Character Art/HeleotiteFireSage_Full.jpg"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Character Art/Ashira_Full_Temp.jpg",
+                "file": "Resources/Character Art/HeleotiteFireSage_Full.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Character Art/Ashira_Full_Temp.jpg",
+                "file": "Resources/Character Art/HeleotiteFireSage_Full.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Character Art/Ashira_Full_Temp.jpg"
+                "file": "Resources/Character Art/HeleotiteFireSage_Full.jpg"
               }
             }
           },
@@ -191,6 +191,7 @@
   },
   "active": "55c44c3e1135bc93",
   "lastOpenFiles": [
+    "Resources/Character Art/Ashira_Full_Temp.jpg",
     "Resources/Character Art/Sansom_Full_Temp.jpg",
     "Resources/Character Art/Jarae_Full.png",
     "Resources/Character Art/DisfiguredKnight_Full.jpg",
@@ -199,7 +200,6 @@
     "Resources/Tokens/DisfiguredKnight_Token.png",
     "Resources/Tokens/Bismuth_Token.png",
     "Resources/arcRifle.png",
-    "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
-    "the Curall.md"
+    "Characters/NPC/Seni/Brokvar/Jarae the fair.md"
   ]
 }
