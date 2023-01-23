@@ -49,7 +49,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Resources/Tokens/Bismuth_Shatterborne.png"
+                "file": "Resources/Character Art/Ashira_Full_Temp.jpg"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Tokens/Bismuth_Shatterborne.png",
+                "file": "Resources/Character Art/Ashira_Full_Temp.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Tokens/Bismuth_Shatterborne.png",
+                "file": "Resources/Character Art/Ashira_Full_Temp.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Tokens/Bismuth_Shatterborne.png"
+                "file": "Resources/Character Art/Ashira_Full_Temp.jpg"
               }
             }
           },
@@ -191,15 +191,15 @@
   },
   "active": "55c44c3e1135bc93",
   "lastOpenFiles": [
-    "Resources/Tokens/Iron_Clad_Knight.png",
-    "Resources/Tokens/Jasper_Shatterborne.png",
-    "Resources/Tokens/Bismuth_Shatterborne.png",
+    "Resources/Character Art/Sansom_Full_Temp.jpg",
+    "Resources/Character Art/Jarae_Full.png",
+    "Resources/Character Art/DisfiguredKnight_Full.jpg",
+    "Resources/Tokens/Jasper_Token.png",
+    "Resources/Tokens/Jarae_Token.png",
+    "Resources/Tokens/DisfiguredKnight_Token.png",
+    "Resources/Tokens/Bismuth_Token.png",
     "Resources/arcRifle.png",
     "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
-    "the Curall.md",
-    "The Curall.md",
-    "Characters/NPC/Shatterborne & Waveborne/Carolynn.md",
-    "Characters/NPC/Shatterborne & Waveborne/Udayra.md",
-    "Characters/Bosses/Sun Priest  Heleotite.md"
+    "the Curall.md"
   ]
 }

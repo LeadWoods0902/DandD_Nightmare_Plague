@@ -1,4 +1,4 @@
-![[Jasper_Shatterborne.png]]
+![[Jasper_Token.png]]
 | Earth Genasi | Druid | Chaotic Good | Level 3 |
 | :-------: | :---: | :---: | :---: | 
 | **HP** | *24* | **AC** | *15* | 
