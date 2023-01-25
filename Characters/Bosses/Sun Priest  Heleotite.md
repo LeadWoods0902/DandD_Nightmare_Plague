@@ -9,4 +9,4 @@ make them roll perception checks - regardless of outcome see nothing
 
 build up this idea that there is an unnatural movement to the flame... movement between the timbers.
 
-[[Fire Sage Heleotite]] bursts from the flame, engulfed in a dark red flame.
+[[Effigy to the Twin Suns]] bursts from the flame, engulfed in a dark red flame.
