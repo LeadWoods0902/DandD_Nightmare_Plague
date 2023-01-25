@@ -21,13 +21,18 @@
             "id": "42b2842b1afb3ba2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Narrative/Over plot.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Resources/GoldenWarrior.png"
               }
+            }
+          },
+          {
+            "id": "fa8fba1e8770852f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -110,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Over plot.md",
+                "file": "Resources/GoldenWarrior.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Over plot.md",
+                "file": "Resources/GoldenWarrior.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Over plot.md"
+                "file": "Resources/GoldenWarrior.png"
               }
             }
           },
@@ -179,17 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42b2842b1afb3ba2",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
-    "Narrative/Location Flow.md",
+    "Resources/Pasted image 20221218125758.png",
+    "Resources/GoldenWarrior.png",
     "Narrative/Over plot.md",
+    "Resources/Character Art/Untitled.md",
+    "Narrative/Location Flow.md",
     "Characters/NPC/Seni/Cyfandirol/Nomli Gurglegum.md",
     "Resources/Tokens/HeleotiteFireSage_Token.png",
     "Resources/Character Art/HeleotiteFireSage_Full.jpg",
     "Characters/Bosses/Sun Priest  Heleotite.md",
-    "Characters/Bosses/Effigy to the Twin Suns.md",
-    "Locations/Sunmaek/Sunmaek.md",
-    "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
-    "the Curall.md"
+    "Characters/Bosses/Effigy to the Twin Suns.md"
   ]
 }

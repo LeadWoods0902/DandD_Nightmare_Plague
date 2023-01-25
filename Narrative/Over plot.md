@@ -3,4 +3,3 @@
 Nomli and his crew make their way to Port town and meet up with rest of group.
 
 On the road to Brokvar, they are saved from a fight they cannot possibly win by a man named [[Gabriel]], Gabriel believes that the Queen of Brokvar is an impostor and wants to investigate further. It transpires that this is indeed the case but also that the unknown group supporting the fake queen are getting funding and support from the Empire. Gabriel reveals that it was most likely the Empire that first took the Genasi twins from their homeland. Unfortunately there is nothing they can do to dethrone the Queen, killing her or otherwise dealing with her would start a war or at the least lead to their execution. Allies would be required as would the removal of the empire from the throne. ***Some point some time scrap with [[Rune Warriors]].***
-
