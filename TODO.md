@@ -1,2 +1,12 @@
-Convert campaign to make Quinn the water + Earth Genasi
+- [ ] Convert campaign to make Quinn the water + Earth Genasi
+- [ ] Etheria + Berries
+- [ ] Nomli loses arm and falls into sea, first mate takes the slaves to market
+- [ ] Blood monk
+	- Blind
+	- Can sense blood 
+	- *"I may be blind but I can hear your heart beating"*
+		- Throw players off, make them think they've got super hearing
+	- Can blood bend
+		- Thorns ER
+		- body manipulation ATLA
 
