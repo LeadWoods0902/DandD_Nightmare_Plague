@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Rules/Combat.md",
+                "file": "Game Rules/Status Effects & Battle Conditions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Rules/Combat.md",
+                "file": "Game Rules/Status Effects & Battle Conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Rules/Combat.md",
+                "file": "Game Rules/Status Effects & Battle Conditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Rules/Combat.md"
+                "file": "Game Rules/Status Effects & Battle Conditions.md"
               }
             }
           },
@@ -194,11 +194,11 @@
   },
   "active": "ea48e80b33199693",
   "lastOpenFiles": [
-    "Game Rules/Critical Hit.md",
     "Game Rules/Combat.md",
+    "Game Rules/Critical Hit.md",
     "Game Rules/Assists.md",
     "Game Rules/Bleed.md",
-    "Game Rules/Status Effects.md",
+    "Game Rules/Status Effects & Battle Conditions.md",
     "Items/weapons/SwordStaff.md",
     "Bleed.md",
     "TODO.md",
