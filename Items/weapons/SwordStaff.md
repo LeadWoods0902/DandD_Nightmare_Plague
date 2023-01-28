@@ -3,7 +3,7 @@
 
 Unique Weapon, two handed and heavy. 
 
-The curved greatsword of the [[Green Knight]], Seeker of the Underserving, specially forged in an eastern land. Sharp but heavy, this sword requires extreme strength and dexterity to wield.  
+The curved great sword of the [[Green Knight]], Seeker of the Underserving, specially forged in an eastern land. Sharp but heavy, this sword requires extreme strength and dexterity to wield.  
 
 The search for the underserving had no end, and so the wayfaring knight warmed to a most reliable weapon.
 
