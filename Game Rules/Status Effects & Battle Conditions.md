@@ -1,20 +1,40 @@
 #### Blood loss
 - After the effect procs:
-	- Disadvantage on attack rolls
 	- Disadvantage on ability checks
-	- takes d4 damage at the end of their turn for 4 rounds
-	- 
+	- Takes d8 damage at the end of their turn
+	- Stamina modifier increases by 0.2 per round for the duration of the effect
+- Effects lasts for 8 turns
+- Blood loss can be stopped with a bandage and a successful \[medicine\] check
+
 #### Frostbite
+- After the effect procs:
+	- Stamina modifier increases by 1 for the duration of the effect
+	- Takes d8 damage immediately
+- Effect lasts for 4 rounds
+- Frostbite can be stopped early with a suitable remedy or by spending a round near a heat source
 
 #### Poison
 - After the effect procs:
 	- Disadvantage on attack rolls
 	- Disadvantage on ability checks
-	- takes d4 damage at the end of their turn for 4 rounds
+	- takes d4 damage at the end of their turn
+- Lasts for 6 rounds
+- Can be cured with an appropriate remedy
 
 #### Madness
+- After the effect procs:
+	- Locked into using the same action for the duration of the effect
+	- Disadvantage on saving throws
+- Effect lasts for 3 rounds
+- Cannot be remedied early
 
 #### Burning
+- After the effect procs
+	- Take d12 damage at the end of every turn for the duration of the effect
+- The effect lasts indefinitely
+- The effect can be cancelled with an appropriate remedy:
+	- Submerging the enflamed area in water
+	- spending a turn rolling on the ground (this action ends with you prone)
 
 #### Blindness
 - Automatically fail any ability checks that would require sight
@@ -37,8 +57,14 @@
 - A creature cannot willingly move within 60ft of the source of fear
 
 #### Stunned
+- see incapacitated
+- Speech is slurred
+- automatically fail \[STR\] and \[DEX\] saving throws
 
 #### Prone
+- Halves movement speed
+- Disadvantage on attack rolls
+- An Attack roll against the creature has advantage if the attacker is within reach of the creature
 
 #### Grappled 
 - The restrained effect is applied while the grappler continually grapples the target. 
@@ -48,7 +74,6 @@
 #### Incapacitated
 - An incapacitated creature cannot attack, react or move. 
 - Attack rolls against the creature have advantage
-- 
 
 #### Invisible
 - A (truly) invisible creature:
@@ -74,14 +99,15 @@
 
 #### Paralysed
 - see Incapacitated
-- A paralysed creature cannot speak
+- Creature cannot speak
 - Automatically fails [STR] and [DEX] saving throws
 - Attack rolls made within 5ft of the target are always critical hits (unless the attacker decides for them not to be)
 
-#### Petrified
-
-#### Restrained
-
 #### Unconscious
+- see Paralysed
+- The creature drops everything it is holding and falls prone
 
 #### Exhausted
+- Disadvantage on ability checks for duration of effect
+- Speed halved
+- Lasts until a round is complete with less than half of stamina consumed
