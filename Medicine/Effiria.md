@@ -1,4 +1,4 @@
-A powerful anaesthetic tincture, created by combining: the minced roots of [[Etheria]], the fruit of the [[Flocket]] and a strong alcohol. It is a clear, viscous liquid, with a slightly sweet and floral aroma. When ingested or applied topically, Etheria quickly takes effect, numbing pain and providing relief. When ingested in a sufficient quantity it also has the effect of easing one into unconsciousness.  
+A powerful anaesthetic tincture, created by combining: the minced roots of [[Etheria]], the fruit of the [[Flocket]] and a strong alcohol. It is an opaque, viscous poultice, with a slightly sweet and floral aroma. When ingested or applied topically, Etheria quickly takes effect, numbing pain and providing relief. When ingested in a sufficient quantity it also has the effect of easing one into unconsciousness.  
 
 Effiria is highly valued by healers and alchemists, as it is a potent and effective means of relieving pain and inducing sleep. It is often used in surgeries and other medical procedures, as well as in the treatment of severe injuries and chronic pain.
 
@@ -16,7 +16,7 @@ It is highly regulated in imperial controlled areas, and possession or use of th
 - $30$ Violet Flocket seeds ($\approx$ seeds of 5 fruit)
 - $5$ Crimson Nettles
 - $1$ Gill of  Brewer's Base
-- 2 Pinches of Black Brewer's ash
+- 2 Pinches of Tux's Black Powder
 
 #### Equipment
 - Brewer's Tools
@@ -33,15 +33,13 @@ It is highly regulated in imperial controlled areas, and possession or use of th
 1. Prepare the Etheria
 	1. Cut the Etheria root into manageable chunks 
 	2. Mince the Etheria into a paste 
-	3. Finely slice the Crimson Nettles ($\approx$ 
+	3. Coarsely chop the Crimson Nettles ($\approx \frac{1}{8}$ inch in width) 
+	4. Combine the Crimson nettles and Etheria paste in the mixing bowl
+	5. Press the mixture against a filter until strained of liquid
 2. Prepare the equipment
 	1. Mount the flask above the flame
 3. Brew
-	1. Add the brewer's base to the flask
-	2. Heat on a low flame for 1 minute
-	3. Without removing from the heat, add the ground Flocket Seeds and the diced Flocket Flesh
-	4. Increase the temperature and stir in white brewer's ash vigorously
-	6. heat until the Flesh begins to dissolve. 
-	7. After approximately 30 seconds, the brew should become opaque - Immediately remove from the heat
-	8. Leave to cool for at least 5 minutes.
-	9. Strain and decant into preserving container
+	1. Combine the Brewer's Base and Tux's Black Powder in the flask
+	2. Simmer on low heat for a minute
+	6. Add the heated mixture to the minced Etheria gradually while folding the mixture continuously.
+	9. Store the poultice in a hide lined tin.

@@ -7,7 +7,7 @@ A potent stamina boosting tonic brewed by combining dried ginger [[Flocket]] che
 - $\frac{1}{2}$ Handful of Dried Ginger Flocket Cherries ($\approx$ 4 berries)
 - $\frac{1}{2}$ Gill of Marrow Extract
 - $1$ Gill of  Brewer's Base
-- Pinch of White Brewer's ash
+- Pinch of White Ash
 
 #### Equipment
 - Brewer's Tools
