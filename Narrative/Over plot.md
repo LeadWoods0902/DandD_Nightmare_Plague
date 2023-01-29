@@ -1,4 +1,4 @@
-[[Nomli Gurglegum]], a privateer by profession is returning from a long journey from the east. While on route, Nomli is ambushed by pirates and is forced ashore. After being forced ashore, Nomli decides to sell off his cargo and declare it lost at sea in the ambush offering to split the rewards with the crew that stay with him. One refuses to betray the empire and Nomli executes him. There are 5 hooded slaves in the cargo. 
+[[Nomli Gurglegum]], a privateer by profession is returning from a long journey from the east. While on route, Nomli and his crew (played by the party) are ambushed by pirates and a mysterious flying creature (masked by fog). The mast is snapped by the creature during combat. Nomli loses his arm arm and is thrown into the sea. The pirates take the sister ship and leave the remaining ship stranded. 
 
 Nomli and his crew make their way to Port town and meet up with rest of group.
 

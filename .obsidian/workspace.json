@@ -18,25 +18,12 @@
             }
           },
           {
-            "id": "94e54881da5adf17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/weapons/SwordStaff.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "db2dc5ce2e4f1332",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Rules/Combat.md",
+                "file": "Narrative/Over plot.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Rules/Status Effects & Battle Conditions.md",
+                "file": "Narrative/Over plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Rules/Status Effects & Battle Conditions.md",
+                "file": "Narrative/Over plot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Rules/Status Effects & Battle Conditions.md"
+                "file": "Narrative/Over plot.md"
               }
             }
           },
@@ -192,13 +179,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea48e80b33199693",
+  "active": "db2dc5ce2e4f1332",
   "lastOpenFiles": [
+    "Game Rules/Status Effects & Battle Conditions.md",
     "Game Rules/Combat.md",
     "Game Rules/Critical Hit.md",
     "Game Rules/Assists.md",
     "Game Rules/Bleed.md",
-    "Game Rules/Status Effects & Battle Conditions.md",
     "Items/weapons/SwordStaff.md",
     "Bleed.md",
     "TODO.md",
