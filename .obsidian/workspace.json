@@ -31,6 +31,19 @@
             }
           },
           {
+            "id": "37fd81a24d1242ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ea48e80b33199693",
             "type": "leaf",
             "state": {
@@ -44,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Over plot.md",
+                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Over plot.md",
+                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Over plot.md"
+                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md"
               }
             }
           },
@@ -179,17 +192,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db2dc5ce2e4f1332",
+  "active": "37fd81a24d1242ee",
   "lastOpenFiles": [
-    "Characters/Bosses/Effigy of the Twin Suns.md",
-    "Herouk Barrelbasher.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
     "Narrative/Over plot.md",
+    "Characters/Bosses/Effigy of the Twin Suns.md",
     "Game Rules/Status Effects & Battle Conditions.md",
     "Game Rules/Combat.md",
     "Game Rules/Critical Hit.md",
     "Game Rules/Assists.md",
     "Game Rules/Bleed.md",
-    "Items/weapons/SwordStaff.md",
-    "Bleed.md"
+    "Items/weapons/SwordStaff.md"
   ]
 }
