@@ -1,1 +1,1 @@
-Second Lieutenant to [[Nomli Gurglegum]]
+Second Lieutenant to [[Nomli Gurglegum]] and captain of the "Melodious Linnet". Herouk comes from a rich background, his family being the owner of long established winery and vineyard "[[The Ozeaux]]"

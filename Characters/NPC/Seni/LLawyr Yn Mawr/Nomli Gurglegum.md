@@ -10,5 +10,5 @@
 | **CHA** | *13* | *1* | *1* | 
 
 
-Captain of [[The Kilfenora]] and privateer by trade.
+Captain of "[[The Kilfenora]]" and privateer by trade.
 

@@ -31,25 +31,12 @@
             }
           },
           {
-            "id": "37fd81a24d1242ee",
+            "id": "be7af88d32520e27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea48e80b33199693",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Rules/Status Effects & Battle Conditions.md",
+                "file": "Locations/Seni Isles/Cyfandirol/Port Town.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
+                "file": "Narrative/Over plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
+                "file": "Narrative/Over plot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md"
+                "file": "Narrative/Over plot.md"
               }
             }
           },
@@ -192,17 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37fd81a24d1242ee",
+  "active": "db2dc5ce2e4f1332",
   "lastOpenFiles": [
-    "Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum.md",
-    "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
+    "Locations/Seni Isles/Cyfandirol/Port Town.md",
     "Narrative/Over plot.md",
-    "Characters/Bosses/Effigy of the Twin Suns.md",
+    "Locations/Seni Isles/Llawyr un Mawr/The Ozeaux.md",
+    "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
     "Game Rules/Status Effects & Battle Conditions.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum.md",
+    "Characters/Bosses/Effigy of the Twin Suns.md",
     "Game Rules/Combat.md",
-    "Game Rules/Critical Hit.md",
-    "Game Rules/Assists.md",
-    "Game Rules/Bleed.md",
-    "Items/weapons/SwordStaff.md"
+    "Game Rules/Critical Hit.md"
   ]
 }
