@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Everforest"
+  "cssTheme": "Everforest",
+  "textFontFamily": "Cantarell",
+  "interfaceFontFamily": "Source Code Variable"
 }
