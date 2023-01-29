@@ -23,7 +23,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Over plot.md",
+                "file": "Additional Lore/Effiria.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7e8682ae750b590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additional Lore/Nature/Plants/Flocket.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5317f5ff9efc8c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additional Lore/Nature/Plants/Etheria.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tree",
+                "query": "Effiriva",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Over plot.md",
+                "file": "Additional Lore/Nature/Plants/Flocket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Over plot.md",
+                "file": "Additional Lore/Nature/Plants/Flocket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Over plot.md"
+                "file": "Additional Lore/Nature/Plants/Flocket.md"
               }
             }
           },
@@ -179,17 +205,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db2dc5ce2e4f1332",
+  "active": "a7e8682ae750b590",
   "lastOpenFiles": [
-    "Locations/Seni Isles/Cyfandirol/Port Town.md",
+    "Additional Lore/Effiria.md",
+    "Additional Lore/Nature/Plants/Etheria.md",
+    "Additional Lore/Nature/Plants/Flocket.md",
+    "Additional Lore/Nature/Plants/Violet Flocket.md",
+    "Additional Lore/Nature/Plants/Violet Fiocket.md",
     "Narrative/Over plot.md",
+    "Locations/Seni Isles/Cyfandirol/Port Town.md",
     "Locations/Seni Isles/Llawyr un Mawr/The Ozeaux.md",
     "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
-    "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
-    "Game Rules/Status Effects & Battle Conditions.md",
-    "Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum.md",
-    "Characters/Bosses/Effigy of the Twin Suns.md",
-    "Game Rules/Combat.md",
-    "Game Rules/Critical Hit.md"
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md"
   ]
 }
