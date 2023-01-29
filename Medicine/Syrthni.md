@@ -4,6 +4,7 @@ A potent stamina boosting tonic brewed by combining dried ginger [[Flocket]] che
 ## Recipe
 
 #### Ingredients:
-- $\frac{1}{2}$ handful of dried ginger Flocket
-- 1 cup of base alcohol
+- $\frac{1}{2}$ handful of dried ginger Flocket cherries
+- $3$ spoons  of  
+- $\frac1$ gill of base alcohol
 - 

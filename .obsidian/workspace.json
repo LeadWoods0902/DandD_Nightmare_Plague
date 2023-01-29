@@ -44,6 +44,32 @@
             }
           },
           {
+            "id": "c6a50b213a631ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bestiary/Rune Beasts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32d28199576384e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bestiary/Pot Snakes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a7e8682ae750b590",
             "type": "leaf",
             "state": {
@@ -220,15 +246,15 @@
   },
   "active": "300ff90f3e146e23",
   "lastOpenFiles": [
-    "Medicine/Effiria.md",
+    "Bestiary/Rune Beasts.md",
+    "Bestiary/Pot Snakes.md",
     "Medicine/Syrthni.md",
+    "Medicine/Effiria.md",
     "Additional Lore/Nature/Plants/Flocket.md",
     "Additional Lore/Nature/Plants/Etheria.md",
     "Medicine/potion of healing.md",
     "Medicine/Burn Salve.md",
     "Additional Lore/Nature/Plants/Violet Flocket.md",
-    "Additional Lore/Nature/Plants/Violet Fiocket.md",
-    "Narrative/Over plot.md",
-    "Locations/Seni Isles/Cyfandirol/Port Town.md"
+    "Additional Lore/Nature/Plants/Violet Fiocket.md"
   ]
 }
