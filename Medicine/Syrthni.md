@@ -31,9 +31,9 @@ A potent stamina boosting tonic brewed by combining dried ginger [[Flocket]] che
 	1. Add the brewer's base to the flask
 	2. Heat on a low flame for 1 minute
 	3. Without removing from the heat, add the ground Flocket Seeds and the diced Flocket Flesh
-	4. Increase the temperature and stir in white brewer's ash vigorously
-	6. heat until the Flesh begins to dissolve. 
+	4. Increase the temperature and stir in White Brewer's Ash vigorously
+	6. Heat until the Flesh begins to dissolve. 
 	7. After approximately 30 seconds, the brew should become opaque - Immediately remove from the heat
-	9. Leave to cool for at least 5 minutes.
-	10. Strain and decant into preserving container
+	9. While resting the brew, add $\frac{1}{4}$ of the marrow extract per minute for 4 minutes
+	10. Filter and decant into preserving container
 	

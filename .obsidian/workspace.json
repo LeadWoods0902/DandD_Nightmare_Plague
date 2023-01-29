@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medicine/Syrthni.md",
+                "file": "Medicine/Effiria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medicine/Syrthni.md",
+                "file": "Medicine/Effiria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medicine/Syrthni.md"
+                "file": "Medicine/Effiria.md"
               }
             }
           },
@@ -244,13 +244,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "300ff90f3e146e23",
+  "active": "db2dc5ce2e4f1332",
   "lastOpenFiles": [
-    "Medicine/Effiria.md",
     "Medicine/Syrthni.md",
+    "Medicine/Effiria.md",
+    "Additional Lore/Nature/Plants/Flocket.md",
     "Bestiary/Pot Snakes.md",
     "Bestiary/Rune Beasts.md",
-    "Additional Lore/Nature/Plants/Flocket.md",
     "Additional Lore/Nature/Plants/Etheria.md",
     "Medicine/potion of healing.md",
     "Medicine/Burn Salve.md",

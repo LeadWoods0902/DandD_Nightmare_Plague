@@ -1,4 +1,4 @@
-A powerful anaesthetic tincture, created by combining: the ground roots of [[Etheria]], the fruit of the [[Flocket]] and a strong alcohol. It is a clear, viscous liquid, with a slightly sweet and floral aroma. When ingested or applied topically, Etheria quickly takes effect, numbing pain and providing relief. When ingested in a sufficient quantity it also has the effect of easing one into unconsciousness.  
+A powerful anaesthetic tincture, created by combining: the minced roots of [[Etheria]], the fruit of the [[Flocket]] and a strong alcohol. It is a clear, viscous liquid, with a slightly sweet and floral aroma. When ingested or applied topically, Etheria quickly takes effect, numbing pain and providing relief. When ingested in a sufficient quantity it also has the effect of easing one into unconsciousness.  
 
 Effiria is highly valued by healers and alchemists, as it is a potent and effective means of relieving pain and inducing sleep. It is often used in surgeries and other medical procedures, as well as in the treatment of severe injuries and chronic pain.
 
@@ -13,9 +13,10 @@ It is highly regulated in imperial controlled areas, and possession or use of th
 
 #### Ingredients for one consumable:
 - $1$ Knob of Etheria root  ($\approx$ 1 inches length and $\frac{1}{2}$ inch Diameter)
-- $\frac{1}{2}$ Gill of Marrow Extract
+- $30$ Violet Flocket seeds ($\approx$ seeds of 5 fruit)
+- $5$ Crimson Nettles
 - $1$ Gill of  Brewer's Base
-- Pinch of White Brewer's ash
+- 2 Pinches of Black Brewer's ash
 
 #### Equipment
 - Brewer's Tools
@@ -24,15 +25,15 @@ It is highly regulated in imperial controlled areas, and possession or use of th
 	- Stirring rod
 	- Filter
 - Fine Knife
-- Pestle
+- Mincing Tool
+- Bowl
 
 
 #### Method:
-1. Prepare the Flocket
-	1. Halve each fruit
-	2. Remove the seeds
-	3. Finely dice the flesh
-	4. Grind the seeds using the Pestle
+1. Prepare the Etheria
+	1. Cut the Etheria root into manageable chunks 
+	2. Mince the Etheria into a paste 
+	3. Finely slice the Crimson Nettles ($\approx$ 
 2. Prepare the equipment
 	1. Mount the flask above the flame
 3. Brew
