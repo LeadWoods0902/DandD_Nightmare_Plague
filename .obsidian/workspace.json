@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Characters/PC/Marta.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Characters/PC/Marta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Characters/PC/Marta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Characters/PC/Marta.md"
               }
             }
           },
@@ -181,6 +181,8 @@
   },
   "active": "300ff90f3e146e23",
   "lastOpenFiles": [
+    "Characters/PC/Primalas (Brannon).md",
+    "TODO.md",
     "Narrative/Over plot.md",
     "Bestiary/Rune Beasts.md",
     "Characters/NPC/Seni/Brokvar/Rune Warriors.md",
@@ -188,8 +190,6 @@
     "Medicine/Syrthni.md",
     "Additional Lore/Nature/Plants/Etheria.md",
     "Medicine/Effiria.md",
-    "Additional Lore/Nature/Plants/Crimson Nettles.md",
-    "Additional Lore/Nature/Plants/Flocket.md",
-    "Bestiary/Pot Snakes.md"
+    "Additional Lore/Nature/Plants/Crimson Nettles.md"
   ]
 }
