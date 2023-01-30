@@ -13,4 +13,6 @@
 - [ ] Uncle of Napella's hubby stages an internal coup, puts a false daughter on the throne - life continues as normal as Uncle establishes a network of support throughout Brokvar and the now united nations. Great-granddaughter of the false inheritor fully believes that she is of true lineage. Mistress Chen sends the group out to kill Lupella, the true heir to the throne and continuation of the true Brokvar lineage. The group will be forced into a situation where they begin to integrate with the society of the islanders, as they are the not the monsters they are described as being. As it turns out, Brokvar (under the command of the false-royalty (and from the shadows, Sunmaek)) have been falsely oppressing a relatively docile subgroup of the nations. 
 - [ ] Climbing
 - [ ] Potion making
+- [ ] Cliff diving as a part of becoming members of this subgroup
+	- [ ] Quinn subplot begins
 
