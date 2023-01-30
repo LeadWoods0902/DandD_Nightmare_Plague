@@ -42,35 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a7e8682ae750b590",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Additional Lore/Nature/Plants/Flocket.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5317f5ff9efc8c55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Additional Lore/Nature/Plants/Etheria.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medicine/Effiria.md",
+                "file": "Medicine/Syrthni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medicine/Effiria.md",
+                "file": "Medicine/Syrthni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medicine/Effiria.md"
+                "file": "Medicine/Syrthni.md"
               }
             }
           },
@@ -205,17 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db2dc5ce2e4f1332",
+  "active": "300ff90f3e146e23",
   "lastOpenFiles": [
-    "Medicine/Syrthni.md",
+    "Additional Lore/Nature/Plants/Etheria.md",
     "Medicine/Effiria.md",
+    "Medicine/Syrthni.md",
+    "Additional Lore/Nature/Plants/Crimson Nettles.md",
     "Additional Lore/Nature/Plants/Flocket.md",
     "Bestiary/Pot Snakes.md",
     "Bestiary/Rune Beasts.md",
-    "Additional Lore/Nature/Plants/Etheria.md",
     "Medicine/potion of healing.md",
     "Medicine/Burn Salve.md",
-    "Additional Lore/Nature/Plants/Violet Flocket.md",
-    "Additional Lore/Nature/Plants/Violet Fiocket.md"
+    "Additional Lore/Nature/Plants/Violet Flocket.md"
   ]
 }

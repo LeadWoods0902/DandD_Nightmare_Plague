@@ -1,4 +1,4 @@
-A powerful anaesthetic tincture, created by combining: the minced roots of [[Etheria]], the fruit of the [[Flocket]] and a strong alcohol. It is an opaque, viscous poultice, with a slightly sweet and floral aroma. When ingested or applied topically, Etheria quickly takes effect, numbing pain and providing relief. When ingested in a sufficient quantity it also has the effect of easing one into unconsciousness.  
+A powerful anaesthetic tincture, created by combining: the minced roots of [[Etheria]], [[Crimson Nettles]] and a strong alcohol. It is an opaque, viscous poultice, with a slightly sweet and floral aroma. When ingested or applied topically, Etheria quickly takes effect, numbing pain and providing relief. When ingested in a sufficient quantity it also has the effect of easing one into unconsciousness.  
 
 Effiria is highly valued by healers and alchemists, as it is a potent and effective means of relieving pain and inducing sleep. It is often used in surgeries and other medical procedures, as well as in the treatment of severe injuries and chronic pain.
 
@@ -13,10 +13,11 @@ It is highly regulated in imperial controlled areas, and possession or use of th
 
 #### Ingredients for one consumable:
 - $1$ Knob of Etheria root  ($\approx$ 1 inches length and $\frac{1}{2}$ inch Diameter)
-- $30$ Violet Flocket seeds ($\approx$ seeds of 5 fruit)
 - $5$ Crimson Nettles
 - $1$ Gill of  Brewer's Base
 - 2 Pinches of Tux's Black Powder
+
+1:5:1:2
 
 #### Equipment
 - Brewer's Tools
@@ -39,7 +40,8 @@ It is highly regulated in imperial controlled areas, and possession or use of th
 2. Prepare the equipment
 	1. Mount the flask above the flame
 3. Brew
-	1. Combine the Brewer's Base and Tux's Black Powder in the flask
+	1. Combine the Brewer's Base and Tux's Black Powder in a flask
 	2. Simmer on low heat for a minute
+	4. Simmer for another minute
 	6. Add the heated mixture to the minced Etheria gradually while folding the mixture continuously.
 	9. Store the poultice in a hide lined tin.
