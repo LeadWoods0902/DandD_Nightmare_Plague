@@ -1,4 +1,4 @@
-- [ ] Convert campaign to make Quinn the water + Earth Genasi
+- [x] Convert campaign to make Quinn the water + Earth Genasi
 - [ ] Etheria + Berries
 - [x] Nomli loses arm and falls into sea, first mate takes the slaves to market
 - [ ] Blood monk
