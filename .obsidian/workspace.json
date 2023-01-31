@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Marta.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Marta.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Marta.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Marta.md"
+                "file": "TODO.md"
               }
             }
           },
@@ -182,14 +182,14 @@
   "active": "300ff90f3e146e23",
   "lastOpenFiles": [
     "[.md",
+    "README.md",
+    "The Captain of the Canvas Beater.md",
     "Characters/PC/Marta.md",
     "Groups/Church of the Sun.md",
     "Characters/PC/Primalas (Brannon).md",
     "TODO.md",
     "Narrative/Over plot.md",
     "Bestiary/Rune Beasts.md",
-    "Characters/NPC/Seni/Brokvar/Rune Warriors.md",
-    "Medicine/Syrthni.md",
-    "Additional Lore/Nature/Plants/Etheria.md"
+    "Characters/NPC/Seni/Brokvar/Rune Warriors.md"
   ]
 }
