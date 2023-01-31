@@ -1,6 +1,15 @@
-Sunmaekan Diplomat: Due to a last minute complication, you have been sent in the stead of your adoptive father Chancellor Sturgis. 
+**Background**: Sunmaekean Diplomat
+**Name**: insert a name here
+**Race**: Dwarf
+**Class**: Cleric
+**Age**: 20 - 30 (Dwarves
 
-Generate 10 options for how someone might join the church of the sun and rise to a low clerical position
+
+
+
+Due to a last minute complication, you have been sent in the stead of your adoptive father Chancellor Sturgis. 
+
 
 
 Expand a back for Marta in which she is a Diplomat for Sunmaek. Marta is sent to Brokvar in the stead of her Father Chancellor Sturgis.
+
