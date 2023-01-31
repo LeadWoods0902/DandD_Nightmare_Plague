@@ -42,9 +42,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd755b33b5a5d7b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Marta.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,17 +192,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "300ff90f3e146e23",
+  "active": "fd755b33b5a5d7b7",
   "lastOpenFiles": [
+    "Groups/Church of the Sun.md",
+    "Characters/PC/Marta.md",
     "Characters/PC/Primalas (Brannon).md",
     "TODO.md",
     "Narrative/Over plot.md",
     "Bestiary/Rune Beasts.md",
     "Characters/NPC/Seni/Brokvar/Rune Warriors.md",
-    "Characters/PC/Marta.md",
     "Medicine/Syrthni.md",
     "Additional Lore/Nature/Plants/Etheria.md",
-    "Medicine/Effiria.md",
-    "Additional Lore/Nature/Plants/Crimson Nettles.md"
+    "Medicine/Effiria.md"
   ]
 }
