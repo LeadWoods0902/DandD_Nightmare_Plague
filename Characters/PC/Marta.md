@@ -1,4 +1,4 @@
-1.  Sunmaekan Diplomat: Marta was sent to represent Sunmaek abroad but was kidnapped and sold into slavery before she could complete her mission.
+1.  Stand-in Sunmaekan Diplomat: Due to a last minute complication, you have been sent to Seni to represent the Sunmaek 
 
 3.  Sunmaekan Noble: Marta comes from a wealthy family and was taken as a prisoner during a conflict with the empire. She has grown up with a sense of entitlement and a desire to return to her life of privilege.
 
