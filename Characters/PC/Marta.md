@@ -3,6 +3,27 @@
 **Age**: 20 - 25 (Yuan-Ti have a similar age range to humans)
 **Gender**: Female
 
+![[Pasted image 20230131221834.png]]
+My Yuan-ti share a greater resemblance to humans than snakes; however, they will still be distinctly non-human. Ability wise, everything on 5eTools will be used **and** there will be some additional ones too. 
+
+base skills:
+- darkvision
+- magic resistance
+- poison immunity (this will be very handy)
+- serpentine spell-casting
+	- This will be getting some homebrew buffs
+
+Home brew:
+- You'll be able to speak to snakes and other reptiles
+- some kind of bite attack 
+	- might deal some kind of poison damage
+	- maybe some "drug"-like effect
+		- mind control?
+		- hallucinations?
+- Draw power from the sun
+	- Stronger when in direct sunlight
+	- Weaker when not (inside, 
+
 ---
 ### The Young Diplomat
 
