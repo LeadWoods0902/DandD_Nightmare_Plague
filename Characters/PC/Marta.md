@@ -4,7 +4,9 @@
 **Gender**: Female
 
 ![[Pasted image 20230131221834.png]]
-My Yuan-ti share a greater resemblance to humans than snakes; however, they will still be distinctly non-human. Ability wise, everything on 5eTools will be used **and** there will be some additional ones too. 
+
+---
+*My Yuan-ti share a greater resemblance to humans than snakes; however, they will still be distinctly non-human. Ability wise, everything on 5eTools will be used **and** there will be some additional ones too.* 
 
 base skills:
 - darkvision
@@ -22,14 +24,20 @@ Home brew:
 		- hallucinations?
 - Draw power from the sun
 	- Stronger when in direct sunlight
-	- Weaker when not (inside, 
+	- Weaker when not (not significantly weaker than other party members)
 
 ---
-### The Young Diplomat
+### The Divine Diplomat
 
 Born into a noble family, you were brought up under the gaze of the twin sun. Literally, because from Sunmaek you can see two suns in the sky and figuratively because you grew up within the "church of the sun" (name tbc) and were cared for deeply by its two leaders **the sun's twin pontiffs**.
 
-After spending many years training as a cleric, you were bestowed the title of "genç lider" - a unique title that anyone from Sunmaek would recognise. Before the start of the campaign,  a peace meeting is called for between the nations of the world. Your father Chancellor Sturgis was enlisted as a representative of the state and the church. However, when the time comes, your father is no longer able to go and beseeches you to go. Entrusting you with important state documents and accords to be signed, he sends you across the world to the cold land of Brokvar.
+After spending many years training as a cleric, you were bestowed the title of "gench-kisi" - a unique title that anyone from Sunmaek would recognise. Before the start of the campaign,  a meeting is called for between Brokvar and Sunmaek (Two nations with an entwined history). Your father Chancellor Sturgis was enlisted on to the meeting council as a representative of the state and the church and as both his daughter and the "gench-kisi", you are expected to come to Brokvar with him.
+
+**Spoilers from here until the next major heading**
+
+While at sea, you are ambushed by pirates and
+
+**Motivation**: Reach Brokvar and make contact with the Sunmaek Embassy, finish the task that you and your father were sent to Brokvar to accomplish
 
 ---
 ### Pickpocket to Priest
@@ -38,7 +46,14 @@ Born on the streets of the second largest city of Sunmaek, it was a do or die wo
 
 You quickly rose through the ranks and became good friends with a noble's daughter - it was this that lead to you being chosen to join her honour party on her sea faring venture to Brokvar.
 
+**Motivation**: Reach Brokvar and make contact with the Sunmaek Embassy, finish the task that you and your father were sent to Brokvar to accomplish
+
 ---
 ### Foreseen Future
 
 Shown a vision of your successful future within the church - join it
+
+
+
+
+---
