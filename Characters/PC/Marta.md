@@ -25,6 +25,7 @@ Home brew:
 - Draw power from the sun
 	- Stronger when in direct sunlight
 	- Weaker when not (not significantly weaker than other party members)
+- A bonus to stealth
 
 ---
 ### The Divine Diplomat
@@ -35,8 +36,7 @@ After spending many years training as a cleric, you were bestowed the title of "
 
 **Spoilers from here until the next major heading**
 
-While at sea, you are ambushed by pirates and
-
+While on the road to Brokvar, your father is taken hostage by Bandits and you are left stranded in the Weald
 **Motivation**: Reach Brokvar and make contact with the Sunmaek Embassy, finish the task that you and your father were sent to Brokvar to accomplish
 
 ---
