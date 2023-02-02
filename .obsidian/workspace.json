@@ -23,7 +23,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Marta.md",
+                "file": "Narrative/Over plot.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83275bcebb5c97e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/Timeline summary.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Marta.md",
+                "file": "Narrative/Timeline summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Marta.md",
+                "file": "Narrative/Timeline summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Marta.md"
+                "file": "Narrative/Timeline summary.md"
               }
             }
           },
@@ -166,17 +180,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "300ff90f3e146e23",
+  "active": "83275bcebb5c97e5",
   "lastOpenFiles": [
+    "Eastern Civil War.md",
+    "Narrative/Timeline summary.md",
+    "Narrative/Over plot.md",
+    "Characters/PC/Marta.md",
     "Characters/PC/Bismuth Shatterborne (Brannon).md",
     "Characters/PC/Jasper Shatterborne (Quinn).md",
-    "Characters/PC/Marta.md",
     "Characters/Bosses/Sun Priest  Heleotite.md",
     "Medicine/Effiria.md",
     "TODO.md",
-    "[.md",
-    "README.md",
-    "The Captain of the Canvas Beater.md",
-    "Groups/Church of the Sun.md"
+    "[.md"
   ]
 }

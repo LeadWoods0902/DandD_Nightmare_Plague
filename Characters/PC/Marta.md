@@ -37,6 +37,7 @@ After spending many years training as a cleric, you were bestowed the title of "
 **Spoilers from here until the next major heading**
 
 While on the road to Brokvar, your father is taken hostage by Bandits and you are left stranded in the Weald
+
 **Motivation**: Reach Brokvar and make contact with the Sunmaek Embassy, finish the task that you and your father were sent to Brokvar to accomplish
 
 ---
