@@ -9,6 +9,7 @@
 | 1704/02 | 32 | Brokvar | Napella Lundgren gives birth to a daughter([[Amorella Lundgren]]) |
 | 1706/04 | 34 | Brokvar | Amorella is sent away by her mother |
 | 1706/04 | 34 | Brokvar | [[Lundgren Coup]] initiated by Ven-Dryk's Uncle - **All** believed to have died in the fire |
+| 1706/04 | 34 | Brokvar |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -18,6 +19,3 @@
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-|  |  |  |  |
-
-****
