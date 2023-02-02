@@ -19,3 +19,5 @@
 - [ ] Potion making
 - [ ] Cliff diving as a part of becoming members of this subgroup
 	- [ ] Quinn subplot begins
+- [ ] Thorstein
+- [ ] 

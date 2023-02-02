@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 344.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timeline summary.md"
+                "file": "TODO.md"
               }
             }
           },
@@ -182,8 +181,8 @@
   },
   "active": "83275bcebb5c97e5",
   "lastOpenFiles": [
-    "Narrative/Over plot.md",
     "Narrative/Timeline summary.md",
+    "Narrative/Over plot.md",
     "Eastern Civil War.md",
     "Characters/PC/Marta.md",
     "Characters/PC/Bismuth Shatterborne (Brannon).md",
