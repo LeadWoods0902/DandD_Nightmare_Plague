@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Narrative/1 - Broken and Bound/3. Tom.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Narrative/1 - Broken and Bound/3. Tom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Narrative/1 - Broken and Bound/3. Tom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Narrative/1 - Broken and Bound/3. Tom.md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "084f87e5f5c9929d",
   "lastOpenFiles": [
-    "Characters/NPC/Seni/Lundgren Family/Ven-Dryk Lungdren.md",
-    "Additional Lore/Events/Lundgren Coup.md",
-    "Additional Lore/Brokvar Royalty.md",
-    "Characters/NPC/Seni/Brokvar/Rune Warriors.md",
+    "Narrative/1 - Broken and Bound/2. Aime.md",
+    "Narrative/1 - Broken and Bound/4. Marta.md",
+    "Narrative/1 - Broken and Bound/3. Tom.md",
+    "Narrative/2 - Currency of the Empire/1. The Auction.md",
+    "Narrative/Location Flow.md",
     "Narrative/Over plot.md",
     "Narrative/Timeline summary.md",
-    "Groups/church of the sun.md",
-    "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
-    "Characters/PC/Marta.md",
-    "The Addun Brokvar Catastrophe.md"
+    "Characters/PC/Tom.md",
+    "TODO.md",
+    "Characters/NPC/Seni/Lundgren Family/Ven-Dryk Lungdren.md"
   ]
 }
