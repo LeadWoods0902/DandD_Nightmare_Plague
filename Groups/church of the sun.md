@@ -1,1 +1,1 @@
-The major religious body of [[Sunmaek]]
+The major religious and governmental body of [[Sunmaek]]

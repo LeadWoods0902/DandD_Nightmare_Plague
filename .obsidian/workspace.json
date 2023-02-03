@@ -31,25 +31,12 @@
             }
           },
           {
-            "id": "1c8a94b50856bae3",
+            "id": "837845dff2b4160f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Narrative/Timeline summary.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83275bcebb5c97e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -192,17 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c8a94b50856bae3",
+  "active": "837845dff2b4160f",
   "lastOpenFiles": [
+    "Groups/church of the sun.md",
+    "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
+    "Narrative/Timeline summary.md",
+    "Characters/PC/Marta.md",
+    "The Addun Brokvar Catastrophe.md",
     "Groups/Imperial Confederacy.md",
     "Groups/Ymerodrol Empire.md",
     "Narrative/Over plot.md",
     "Characters/NPC/Seni/Lundgren Family/Amorella Lundgren.md",
-    "Narrative/Timeline summary.md",
-    "TODO.md",
-    "Eastern Civil War.md",
-    "Characters/PC/Marta.md",
-    "Characters/PC/Bismuth Shatterborne (Brannon).md",
-    "Characters/PC/Jasper Shatterborne (Quinn).md"
+    "TODO.md"
   ]
 }
