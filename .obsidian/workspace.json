@@ -23,7 +23,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Over plot.md",
+                "file": "Narrative/Timeline summary.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c8a94b50856bae3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/Timeline summary.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Narrative/Timeline summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Narrative/Timeline summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Narrative/Timeline summary.md"
               }
             }
           },
@@ -179,17 +192,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83275bcebb5c97e5",
+  "active": "1c8a94b50856bae3",
   "lastOpenFiles": [
-    "Narrative/Timeline summary.md",
+    "Groups/Imperial Confederacy.md",
+    "Groups/Ymerodrol Empire.md",
     "Narrative/Over plot.md",
+    "Characters/NPC/Seni/Lundgren Family/Amorella Lundgren.md",
+    "Narrative/Timeline summary.md",
+    "TODO.md",
     "Eastern Civil War.md",
     "Characters/PC/Marta.md",
     "Characters/PC/Bismuth Shatterborne (Brannon).md",
-    "Characters/PC/Jasper Shatterborne (Quinn).md",
-    "Characters/Bosses/Sun Priest  Heleotite.md",
-    "Medicine/Effiria.md",
-    "TODO.md",
-    "[.md"
+    "Characters/PC/Jasper Shatterborne (Quinn).md"
   ]
 }
