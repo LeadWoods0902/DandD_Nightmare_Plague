@@ -22,3 +22,10 @@ Bismuth is the older of two twin siblings by two minutes.
 This character infects everyone they spend a prolonged period of time with
 
 From [[Chimo-Nahagi]]
+
+
+You can cast the pass without trace spell once with this trait, requiring no material components. 
+
+The spell is only effective if their is a rocky or earthen environment for you to blend in with.
+
+You regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for this spell

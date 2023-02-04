@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Dusk Von Mori (Marta).md",
+                "file": "Game Rules/Combat.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Dusk Von Mori (Marta).md",
+                "file": "Game Rules/Combat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Dusk Von Mori (Marta).md",
+                "file": "Game Rules/Combat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Dusk Von Mori (Marta).md"
+                "file": "Game Rules/Combat.md"
               }
             }
           },
@@ -220,15 +220,15 @@
   },
   "active": "bd6b9ada842c340e",
   "lastOpenFiles": [
-    "Sunmaek Royal Library.md",
+    "Characters/PC/Bismuth Shatterborne (Brannon).md",
     "Characters/PC/Dusk Von Mori (Marta).md",
+    "Sunmaek Royal Library.md",
     "master librarian.md",
     "Characters/PC/Primalas (Brannon).md",
     "Characters/PC/Aime.md",
     "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
     "Characters/NPC/Yuan-Ti.md",
     "Narrative/1 - Broken and Bound/3. Tom.md",
-    "Narrative/1 - Broken and Bound/4. Marta.md",
-    "Characters/Deities/Thanatos.md"
+    "Narrative/1 - Broken and Bound/4. Marta.md"
   ]
 }
