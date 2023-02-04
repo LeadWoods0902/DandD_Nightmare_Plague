@@ -23,14 +23,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/1 - Broken and Bound/3. Tom.md",
+                "file": "Characters/Deities/Deity of decay.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a498b4236f915011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Deities/Thanatos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Deities/Thanatos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Deities/Thanatos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/Deities/Thanatos.md"
+              }
             }
           },
           {
@@ -161,8 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c12ef8959c9a887b",
+  "active": "a498b4236f915011",
   "lastOpenFiles": [
+    "Characters/Deities/Deity of decay.md",
+    "Characters/Deities/Nëoris.md",
     "Narrative/1 - Broken and Bound/3. Tom.md",
     "Narrative/1 - Broken and Bound/2. Aime.md",
     "Narrative/1 - Broken and Bound/4. Marta.md",
@@ -170,8 +190,6 @@
     "Narrative/Location Flow.md",
     "Narrative/Over plot.md",
     "Narrative/Timeline summary.md",
-    "Characters/PC/Tom.md",
-    "TODO.md",
-    "Characters/NPC/Seni/Lundgren Family/Ven-Dryk Lungdren.md"
+    "Characters/PC/Tom.md"
   ]
 }
