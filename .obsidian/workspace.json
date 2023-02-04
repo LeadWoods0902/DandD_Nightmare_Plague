@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - Broken and Bound/3. Tom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - Broken and Bound/3. Tom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Narrative/1 - Broken and Bound/3. Tom.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,11 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "084f87e5f5c9929d",
+  "active": "c12ef8959c9a887b",
   "lastOpenFiles": [
+    "Narrative/1 - Broken and Bound/3. Tom.md",
     "Narrative/1 - Broken and Bound/2. Aime.md",
     "Narrative/1 - Broken and Bound/4. Marta.md",
-    "Narrative/1 - Broken and Bound/3. Tom.md",
     "Narrative/2 - Currency of the Empire/1. The Auction.md",
     "Narrative/Location Flow.md",
     "Narrative/Over plot.md",
