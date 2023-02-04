@@ -1,1 +1,1 @@
-Father of [[Marta]] and adviser to the [[church of the sun]]
+Father of [[Yuan-Ti]] and adviser to the [[church of the sun]]

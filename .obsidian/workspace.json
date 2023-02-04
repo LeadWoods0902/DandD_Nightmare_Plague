@@ -36,7 +36,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Deities/Thanatos.md",
+                "file": "Characters/NPC/Yuan-Ti.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd6b9ada842c340e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Dusk Von Mori (Marta).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72f33d80fdb201fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sunmaek Royal Library.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea42eccb24a2de43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "master librarian.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Deities/Thanatos.md",
+                "file": "Characters/PC/Dusk Von Mori (Marta).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Deities/Thanatos.md",
+                "file": "Characters/PC/Dusk Von Mori (Marta).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Deities/Thanatos.md"
+                "file": "Characters/PC/Dusk Von Mori (Marta).md"
               }
             }
           },
@@ -179,17 +218,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a498b4236f915011",
+  "active": "bd6b9ada842c340e",
   "lastOpenFiles": [
-    "Characters/Deities/Deity of decay.md",
-    "Characters/Deities/Nëoris.md",
+    "Sunmaek Royal Library.md",
+    "Characters/PC/Dusk Von Mori (Marta).md",
+    "master librarian.md",
+    "Characters/PC/Primalas (Brannon).md",
+    "Characters/PC/Aime.md",
+    "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
+    "Characters/NPC/Yuan-Ti.md",
     "Narrative/1 - Broken and Bound/3. Tom.md",
-    "Narrative/1 - Broken and Bound/2. Aime.md",
     "Narrative/1 - Broken and Bound/4. Marta.md",
-    "Narrative/2 - Currency of the Empire/1. The Auction.md",
-    "Narrative/Location Flow.md",
-    "Narrative/Over plot.md",
-    "Narrative/Timeline summary.md",
-    "Characters/PC/Tom.md"
+    "Characters/Deities/Thanatos.md"
   ]
 }
