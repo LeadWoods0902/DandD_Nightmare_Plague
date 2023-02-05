@@ -1,15 +1,14 @@
 #### Blood loss
 - After the effect procs:
 	- Disadvantage on ability checks
-	- Takes d8 damage at the end of their turn
-	- Stamina modifier increases by 0.2 per round for the duration of the effect
+	- Takes d6 damage at the end of their turn
 - Effects lasts for 8 turns
 - Blood loss can be stopped with a bandage and a successful \[medicine\] check
 
 #### Frostbite
 - After the effect procs:
-	- Stamina modifier increases by 1 for the duration of the effect
-	- Takes d8 damage immediately
+	- movement halved
+	- Takes 2d8 damage immediately
 - Effect lasts for 4 rounds
 - Frostbite can be stopped early with a suitable remedy or by spending a round near a heat source
 
