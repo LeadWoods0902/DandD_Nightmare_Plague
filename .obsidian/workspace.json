@@ -72,18 +72,15 @@
             }
           },
           {
-            "id": "084f87e5f5c9929d",
+            "id": "1f7d150aa7605c90",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas",
-                "viewState": {
-                  "x": 175.5,
-                  "y": -259.5,
-                  "zoom": -1.3830611712920304,
-                  "snapToGrid": false
-                }
+                "file": "Characters/Deities/Chimo-Nahagi/Kaede.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -227,13 +224,13 @@
   "lastOpenFiles": [
     "Characters/PC/Jasper Shatterborne (Quinn).md",
     "Characters/PC/Bismuth Shatterborne (Brannon).md",
+    "Characters/Deities/Chimo-Nahagi/Kaede.md",
+    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Characters/Family Trees/Shatterborne.canvas",
+    "Characters/Deities/Untitled.md",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Obelle.md",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Unnamed Child.md",
     "Characters/PC/Duska Von Mori (Marta).md",
-    "Narrative/Timeline summary.md",
-    "Additional Lore/Suimin Mahi.md",
-    "Game Rules/Status Effects & Battle Conditions.md",
-    "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md"
+    "Narrative/Timeline summary.md"
   ]
 }
