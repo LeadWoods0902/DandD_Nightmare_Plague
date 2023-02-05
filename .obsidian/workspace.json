@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Sunmaek/Hinele.md",
+                "file": "Characters/PC/Duska Von Mori (Marta).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Sunmaek/Hinele.md",
+                "file": "Characters/PC/Duska Von Mori (Marta).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Sunmaek/Hinele.md",
+                "file": "Characters/PC/Duska Von Mori (Marta).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Sunmaek/Hinele.md"
+                "file": "Characters/PC/Duska Von Mori (Marta).md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "bd6b9ada842c340e",
   "lastOpenFiles": [
-    "Characters/PC/Duska Von Mori (Marta).md",
     "Characters/NPC/Sunmaek/Hinele.md",
+    "Characters/PC/Duska Von Mori (Marta).md",
     "Locations/Sunmaek/Sunmaek.md",
     "Items/weapons/SwordStaff.md",
     "Characters/Deities/Thanatos.md",
