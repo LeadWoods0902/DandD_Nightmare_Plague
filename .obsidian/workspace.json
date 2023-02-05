@@ -21,8 +21,13 @@
             "id": "084f87e5f5c9929d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Sunmaek/Sunmaek.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -176,15 +181,15 @@
   },
   "active": "bd6b9ada842c340e",
   "lastOpenFiles": [
-    "Characters/NPC/Yuan-Ti.md",
+    "Characters/NPC/Hinele.md",
+    "Locations/Sunmaek/Sunmaek.md",
+    "Characters/PC/Duska Von Mori (Marta).md",
     "Items/weapons/SwordStaff.md",
     "Characters/Deities/Thanatos.md",
     "Characters/Deities/Nëoris.md",
     "Characters/Deities/Mortos.md",
     "Characters/Deities/Deity of decay.md",
-    "Characters/PC/Duska Von Mori (Marta).md",
     "Game Rules/Combat.md",
-    "Characters/PC/Bismuth Shatterborne (Brannon).md",
-    "Sunmaek Royal Library.md"
+    "Characters/PC/Bismuth Shatterborne (Brannon).md"
   ]
 }

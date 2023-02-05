@@ -1,1 +1,1 @@
-Father of [[Yuan-Ti]] and adviser to the [[church of the sun]]
+Father of [[Hinele]] and adviser to the [[church of the sun]]

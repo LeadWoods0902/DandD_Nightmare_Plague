@@ -1,11 +1,22 @@
-From a far off land, Duska Halloni was once a humble librarian in their home town and was liked by all. On one of their late night shifts, they stumbled across an fallen book of the shelf which turned out to be an ancient tome of death and what happens after life. The ancient god Thanatos was then visualised before Dusk and this encounter alone was so transcendent that Dusk was altered and never the same after. They now lurk the shadows with their new vampiric lifestyle and roam the lands carrying out the wishes of Thanatos in order to keep the world in balance. They also have a strive to get rid of a lie that has been told to the world, immortality is not a gift of value to be sort out for, death is the true gift. Trust me I should know.  
-
 Once a humble servant of the [[master librarian]] of the [[Sunmaek Royal Library]], Duska Halloni was a quiet, mostly reserved character and was content with their position. Along with being happy with their role, Dusk was well liked among by both the other library staff and Sunmaek's royalty. If it wasn't for  one unfortunate night, Dusk may have naturally risen to a greater position; however one one stormy night, Dusk made an unexpected discovery within the great halls of the royal library. A dark leather bound book, well weathered and beaten, the sort one would often discard to the back of a shelf or leave unnoticed in a dark corner - which is exactly where Dusk discovered it. And like a moth to the flame, Dusk found themselves delving into the pages of the book, uncovering an ancient and abhorrent history. A history laced with all manner of abhorrent horror, including many references to one "many faced god of death, [[Mortos]]".
 
 After discovering this primordial text, Duska Von Mori began to search the library for more abandoned knowledge. Scouring every nook and cranny for similar tomes. This undying and sudden passion was noticed by two beings: the first being the master librarian, the second: Mortos themselves.
 
 Whereas the Master Librarian admonished Duska's interests, Mortos welcomed them to their domain, granting them access to the cold folds of death. Ritualistic knowledge was bequeathed unto Duska and all that was required to grant Mortos' boon was a sacrifice...
 
-Inconveniently for the Master Librarian, she had recently been giving Duska trouble, and once the ritual was complete, Duska arose anew as "*Von Mori*". With vampiric powers in hand, Duska manipulated their way into a position of greater power and unearthed more ancient tomes from deep within the vaults of forbidden knowledge. 
+Inconveniently for the Master Librarian, she had recently been giving Duska trouble, and once the ritual was complete, Duska arose anew as "*Von Mori*". With vampiric powers in hand, Duska manipulated their way into a position of greater power, unearthing more ancient tomes from deep within the vaults of forbidden knowledge in the process. Through the texts, Duska discovered the words of Mortos: *"The inevitability of death is the greatest equalizer; immortality, in all its forms, threatens to upset the delicate balance of life and deathThe cycle of life must continue, unbroken and unchallenged, for all time."*
 
-With knowledge and power in hand, 
+Duska spent many years purging Sunmaek of the undeserving but found themselves growing attached to the young Chancellor's Daughter, [[Hinele]]. 
+
+The basis for your relationship with Hinele is up to you to decide, she is the daughter of the Chancellor - a very powerful figure in Sunmaek and is in line to succeed him
+
+The relationship could be:
+- A power move to get closer to the chancellor
+	- outright killing him would not get you anywhere
+- An attempt at swaying Hinele to your will / beliefs
+	- A loyal servant in a position of power would be very useful
+- A subconscious attempt at retribution
+	- Internally, you know Mortos is a primal evil
+- Something else entirely
+
+When given the opportunity to travel to a new land with them, Duska jumped at the opportunity. If only as an opportunity to spread their cold embrace and the word of Mortos.

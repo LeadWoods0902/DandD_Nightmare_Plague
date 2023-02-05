@@ -1,5 +1,7 @@
+A Theocratic Oligarchy  
+
 #### Religions
-- Strong belief in the triad: [[Voral, of the first sun]], [[Horix, of the second sun]] & [[Edo, of the moon]].
+- Strong belief in the triad: [[Voral, of the first sun]], [[Horix, of the second sun]] & [[Edo, of the moon]]. 
 
 
 

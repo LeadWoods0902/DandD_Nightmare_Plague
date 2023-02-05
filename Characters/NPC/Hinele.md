@@ -1,5 +1,4 @@
-**Race**: Preferably [Yuan-Ti](https://5e.tools/races.html#yuan-ti%20pureblood_vgm) (but you can choose another if you prefer)
-**Class**: Cleric
+**Race**:  Yuan-Ti
 **Age**: 20 - 25 (Yuan-Ti have a similar age range to humans)
 **Gender**: Female
 
