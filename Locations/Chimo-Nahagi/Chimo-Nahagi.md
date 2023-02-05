@@ -1,4 +1,4 @@
-Eastern-Land, opposite side of planet to [[Seni Isles]]
+Eastern-Land, opposite side of planet to [[-Seni Isles-]]
 
 #### Religions
 - Belief in the dragon gods:

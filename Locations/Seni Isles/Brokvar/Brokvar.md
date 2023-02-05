@@ -1,1 +1,0 @@
-Capital of the Brokvar Lands. Keeper of the [[The Brokvar-Coeden]]

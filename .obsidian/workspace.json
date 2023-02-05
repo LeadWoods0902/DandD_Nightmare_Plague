@@ -23,7 +23,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Sunmaek/Sunmaek.md",
+                "file": "Characters/PC/An unknown sorcerer (Aime).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d26bf5fe09ea7f14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Seni Isles/-Seni Isles-.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31dc3e506ed81219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Sunmaek/-Sunmaek-.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +62,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Duska Von Mori (Marta).md",
+                "file": "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2aa23ef409041286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Seni Isles/Brokvar/-Brokvar-.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Duska Von Mori (Marta).md",
+                "file": "Characters/PC/An unknown sorcerer (Aime).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Duska Von Mori (Marta).md",
+                "file": "Characters/PC/An unknown sorcerer (Aime).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Duska Von Mori (Marta).md"
+                "file": "Characters/PC/An unknown sorcerer (Aime).md"
               }
             }
           },
@@ -179,17 +218,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd6b9ada842c340e",
+  "active": "084f87e5f5c9929d",
   "lastOpenFiles": [
-    "Characters/NPC/Sunmaek/Hinele.md",
-    "Characters/PC/Duska Von Mori (Marta).md",
-    "Locations/Sunmaek/Sunmaek.md",
-    "Items/weapons/SwordStaff.md",
-    "Characters/Deities/Thanatos.md",
-    "Characters/Deities/Nëoris.md",
-    "Characters/Deities/Mortos.md",
-    "Characters/Deities/Deity of decay.md",
-    "Game Rules/Combat.md",
-    "Characters/PC/Bismuth Shatterborne (Brannon).md"
+    "Groups/Imperial Confederacy.md",
+    "Narrative/Timeline summary.md",
+    "Locations/Seni Isles/-Seni Isles-.md",
+    "Locations/Sunmaek/-Sunmaek-.md",
+    "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md",
+    "Locations/Seni Isles/Brokvar/-Brokvar-.md",
+    "Locations/Seni Isles/Brokvar/Addun Brokvar.md",
+    "Locations/Seni Isles/Brokvar/Brokvar.md",
+    "Locations/Seni Isles/Seni.md",
+    "Characters/Deities/Mortos.md"
   ]
 }

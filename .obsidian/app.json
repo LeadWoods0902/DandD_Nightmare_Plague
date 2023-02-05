@@ -10,5 +10,6 @@
   "strictLineBreaks": false,
   "rightToLeft": false,
   "autoPairBrackets": false,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "autoConvertHtml": false
 }
