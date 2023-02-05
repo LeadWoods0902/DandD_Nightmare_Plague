@@ -21,26 +21,8 @@
             "id": "084f87e5f5c9929d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Deities/Deity of decay.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a498b4236f915011",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPC/Yuan-Ti.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -49,33 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Dusk Von Mori (Marta).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72f33d80fdb201fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sunmaek Royal Library.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea42eccb24a2de43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "master librarian.md",
+                "file": "Characters/PC/Duska Von Mori (Marta).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,7 +39,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 344.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -150,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Dusk Von Mori (Marta).md",
+                "file": "Characters/PC/Duska Von Mori (Marta).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Dusk Von Mori (Marta).md",
+                "file": "Characters/PC/Duska Von Mori (Marta).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Dusk Von Mori (Marta).md"
+                "file": "Characters/PC/Duska Von Mori (Marta).md"
               }
             }
           },
@@ -221,15 +176,15 @@
   },
   "active": "bd6b9ada842c340e",
   "lastOpenFiles": [
+    "Characters/NPC/Yuan-Ti.md",
+    "Items/weapons/SwordStaff.md",
+    "Characters/Deities/Thanatos.md",
+    "Characters/Deities/Nëoris.md",
+    "Characters/Deities/Mortos.md",
+    "Characters/Deities/Deity of decay.md",
+    "Characters/PC/Duska Von Mori (Marta).md",
     "Game Rules/Combat.md",
     "Characters/PC/Bismuth Shatterborne (Brannon).md",
-    "Characters/PC/Dusk Von Mori (Marta).md",
-    "Sunmaek Royal Library.md",
-    "master librarian.md",
-    "Characters/PC/Primalas (Brannon).md",
-    "Characters/PC/Aime.md",
-    "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
-    "Characters/NPC/Yuan-Ti.md",
-    "Narrative/1 - Broken and Bound/3. Tom.md"
+    "Sunmaek Royal Library.md"
   ]
 }

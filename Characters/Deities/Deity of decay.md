@@ -1,1 +1,0 @@
-### The Deity of Decay
