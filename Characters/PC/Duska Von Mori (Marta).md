@@ -4,7 +4,9 @@ After discovering this primordial text, Duska Von Mori began to search the libra
 
 Whereas the Master Librarian admonished Duska's interests, Mortos welcomed them to their domain, granting them access to the cold folds of death. Ritualistic knowledge was bequeathed unto Duska and all that was required to grant Mortos' boon was a sacrifice...
 
-Inconveniently for the Master Librarian, she had recently been giving Duska trouble, and once the ritual was complete, Duska arose anew as "*Von Mori*". With vampiric powers in hand, Duska manipulated their way into a position of greater power, unearthing more ancient tomes from deep within the vaults of forbidden knowledge in the process. Through the texts, Duska discovered the words of Mortos: *"The inevitability of death is the greatest equalizer; immortality, in all its forms, threatens to upset the delicate balance of life and deathThe cycle of life must continue, unbroken and unchallenged, for all time."*
+Inconveniently for the Master Librarian, she had recently been giving Duska trouble, and once the ritual was complete, Duska arose anew as "*Von Mori*". With vampiric powers in hand, Duska manipulated their way into a position of greater power, unearthing more ancient tomes from deep within the vaults of forbidden knowledge in the process. Through the texts, Duska discovered the words of Mortos: 
+
+>*"The inevitability of death is the greatest equalizer; immortality, in all its forms, threatens to upset the delicate balance of life and death. The cycle of life must continue, unbroken and unchallenged, for all time."*
 
 Duska spent many years purging Sunmaek of the undeserving but found themselves growing attached to the young Chancellor's Daughter, [[Hinele]]. 
 
