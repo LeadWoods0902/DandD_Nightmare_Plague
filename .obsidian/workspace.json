@@ -59,7 +59,7 @@
             }
           },
           {
-            "id": "e6b21a7f97d2be86",
+            "id": "a618f7575674e376",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -223,17 +223,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6b21a7f97d2be86",
+  "active": "a618f7575674e376",
   "lastOpenFiles": [
-    "Characters/Family Trees/Shatterborne.canvas",
-    "Characters/PC/Duska Von Mori (Marta).md",
-    "Characters/PC/Bismuth Shatterborne (Brannon).md",
     "Characters/PC/Jasper Shatterborne (Quinn).md",
+    "Characters/PC/Bismuth Shatterborne (Brannon).md",
+    "Characters/Family Trees/Shatterborne.canvas",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Obelle.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Unnamed Child.md",
+    "Characters/PC/Duska Von Mori (Marta).md",
     "Narrative/Timeline summary.md",
     "Additional Lore/Suimin Mahi.md",
     "Game Rules/Status Effects & Battle Conditions.md",
-    "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md",
-    "Locations/Sunmaek/-Sunmaek-.md",
-    "Locations/Seni Isles/-Seni Isles-.md"
+    "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md"
   ]
 }
