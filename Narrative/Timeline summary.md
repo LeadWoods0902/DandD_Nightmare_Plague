@@ -19,7 +19,7 @@
 | 1763/02 | 91 | Rheilliwch | Ymerodrol Empire flies its colours for the first time |
 | ... | -- | -- | -- |
 | 1773/01 | 101 | Sunmaek | Marta is Born to [[Chancellor Sturgis]]|
-|  |  |  | Bismuth is born <br> Jasper is born |
+|  |  |  | [[Bismuth Shatterborne (Brannon)]] is born <br> [[Jasper Shatterborne (Quinn)]] is born |
 | ... | -- | -- | -- |
 | 1793/02 | 121 | --- | Campaign begins |
 
