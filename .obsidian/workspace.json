@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/An unknown sorcerer (Aime).md",
+                "file": "Game Rules/Status Effects & Battle Conditions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/An unknown sorcerer (Aime).md",
+                "file": "Game Rules/Status Effects & Battle Conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/An unknown sorcerer (Aime).md",
+                "file": "Game Rules/Status Effects & Battle Conditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/An unknown sorcerer (Aime).md"
+                "file": "Game Rules/Status Effects & Battle Conditions.md"
               }
             }
           },
@@ -220,6 +220,8 @@
   },
   "active": "084f87e5f5c9929d",
   "lastOpenFiles": [
+    "Game Rules/Combat.md",
+    "Characters/PC/An unknown sorcerer (Aime).md",
     "Groups/Imperial Confederacy.md",
     "Narrative/Timeline summary.md",
     "Locations/Seni Isles/-Seni Isles-.md",
@@ -227,8 +229,6 @@
     "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md",
     "Locations/Seni Isles/Brokvar/-Brokvar-.md",
     "Locations/Seni Isles/Brokvar/Addun Brokvar.md",
-    "Locations/Seni Isles/Brokvar/Brokvar.md",
-    "Locations/Seni Isles/Seni.md",
-    "Characters/Deities/Mortos.md"
+    "Locations/Seni Isles/Brokvar/Brokvar.md"
   ]
 }
