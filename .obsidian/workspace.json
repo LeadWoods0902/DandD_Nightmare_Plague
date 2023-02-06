@@ -31,9 +31,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7e49af0e0d4453aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bestiary/Rune Beasts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "Bestiary/Rune Beasts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "Bestiary/Rune Beasts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timeline summary.md"
+                "file": "Bestiary/Rune Beasts.md"
               }
             }
           },
@@ -168,8 +181,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4aeefbc17a0b551",
+  "active": "7e49af0e0d4453aa",
   "lastOpenFiles": [
+    "Narrative/Timeline summary.md",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/NPC/Sunmaek/Ven-Kylgh Ashahalla.md",
@@ -178,7 +192,6 @@
     "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
     "Characters/NPC/Seni/Lundgren Family/Ven-Dryk.md",
     "Characters/NPC/Sunmaek/Master Librarian.md",
-    "Characters/NPC/Sunmaek/Solar King.md",
-    "Narrative/Timeline summary.md"
+    "Characters/NPC/Sunmaek/Solar King.md"
   ]
 }

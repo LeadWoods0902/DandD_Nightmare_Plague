@@ -1,4 +1,4 @@
-Beasts capable of transforming into humans, when in human form they bear tattoo-like markings that resemble their true animalistic nature.
+Beasts capable of transforming into humans, when in human form they bare tattoo-like markings that resemble their true animalistic nature.
 
 These markings draw from a range of options and sizes:
 - Teeth / Fangs
