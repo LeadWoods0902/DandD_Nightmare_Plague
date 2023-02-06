@@ -33,51 +33,12 @@
             }
           },
           {
-            "id": "7a64c0aeb0091743",
+            "id": "3ca480cee5817c00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Duska Von Mori (Marta).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "961e29c84f893557",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/PC/Jasper Shatterborne (Quinn).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a618f7575674e376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/PC/Bismuth Shatterborne (Brannon).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f7d150aa7605c90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/Kaede.md",
+                "file": "Characters/NPC/Sunmaek/Hinele.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Bismuth Shatterborne (Brannon).md",
+                "file": "Characters/NPC/Sunmaek/Hinele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Bismuth Shatterborne (Brannon).md",
+                "file": "Characters/NPC/Sunmaek/Hinele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Bismuth Shatterborne (Brannon).md"
+                "file": "Characters/NPC/Sunmaek/Hinele.md"
               }
             }
           },
@@ -220,17 +181,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a618f7575674e376",
+  "active": "3ca480cee5817c00",
   "lastOpenFiles": [
+    "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
+    "Characters/NPC/Sunmaek/Hinele.md",
+    "Characters/NPC/Sunmaek/Solar King.md",
+    "Narrative/Timeline summary.md",
+    "Characters/Deities/Chimo-Nahagi/Kaede.md",
+    "Characters/PC/Duska Von Mori (Marta).md",
     "Characters/PC/Jasper Shatterborne (Quinn).md",
     "Characters/PC/Bismuth Shatterborne (Brannon).md",
-    "Characters/Deities/Chimo-Nahagi/Kaede.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
-    "Characters/Family Trees/Shatterborne.canvas",
-    "Characters/Deities/Untitled.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Obelle.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Unnamed Child.md",
-    "Characters/PC/Duska Von Mori (Marta).md",
-    "Narrative/Timeline summary.md"
+    "Characters/Family Trees/Shatterborne.canvas"
   ]
 }
