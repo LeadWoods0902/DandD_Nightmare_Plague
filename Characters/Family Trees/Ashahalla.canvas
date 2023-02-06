@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"e7e26ef5def17e26","x":-401,"y":71,"width":400,"height":400,"type":"file","file":"Characters/NPC/Seni/Lundgren Family/Ven-Dryk Lungdren.md"},
+		{"id":"a6a494d33755280a","x":68,"y":71,"width":400,"height":400,"type":"file","file":"Characters/NPC/Seni/Lundgren Family/Napella Lundgren.md"},
+		{"id":"489bef7acb7cdfeb","x":-486,"y":-729,"width":400,"height":400,"type":"file","file":"Characters/NPC/Sunmaek/Ven-Kylgh.md"},
+		{"id":"caed50ed7eab3f91","x":-546,"y":-203,"width":60,"height":50,"type":"text","text":""},
+		{"id":"1e4fb1274fabe6c1","x":8,"y":673,"width":60,"height":50,"type":"text","text":""},
+		{"id":"1814d36e7ab22ea0","x":-725,"y":122,"width":250,"height":60,"type":"text","text":"Borther 1"},
+		{"id":"4894b3ef9c633253","x":-1030,"y":122,"width":250,"height":60,"type":"text","text":"Brother 2"}
+	],
+	"edges":[
+		{"id":"6a053799b1226d20","fromNode":"489bef7acb7cdfeb","fromSide":"bottom","toNode":"caed50ed7eab3f91","toSide":"top"},
+		{"id":"dfee1735419aa741","fromNode":"caed50ed7eab3f91","fromSide":"bottom","toNode":"e7e26ef5def17e26","toSide":"top"},
+		{"id":"b9bfd79d81f665a1","fromNode":"e7e26ef5def17e26","fromSide":"bottom","toNode":"1e4fb1274fabe6c1","toSide":"top"},
+		{"id":"d03680f1c9eedbea","fromNode":"a6a494d33755280a","fromSide":"bottom","toNode":"1e4fb1274fabe6c1","toSide":"top"},
+		{"id":"245899c9f2b73c9f","fromNode":"caed50ed7eab3f91","fromSide":"bottom","toNode":"1814d36e7ab22ea0","toSide":"top"},
+		{"id":"98f0cc2e88c20231","fromNode":"caed50ed7eab3f91","fromSide":"bottom","toNode":"4894b3ef9c633253","toSide":"top"}
+	]
+}
