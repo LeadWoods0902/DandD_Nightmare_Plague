@@ -38,11 +38,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Family Trees/Ashahalla.canvas",
+                "file": "Characters/Family Trees/Sunmaek Nobility.canvas",
                 "viewState": {
-                  "x": -429.4130072163074,
-                  "y": -85.62852806559351,
-                  "zoom": -1.2120166159213386,
+                  "x": 581.6719214003275,
+                  "y": 25.537286031722545,
+                  "zoom": -1.188802384138107,
                   "snapToGrid": false
                 }
               }
@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Family Trees/Ashahalla.canvas",
+                "file": "Characters/Family Trees/Sunmaek Nobility.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Family Trees/Ashahalla.canvas",
+                "file": "Characters/Family Trees/Sunmaek Nobility.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Family Trees/Ashahalla.canvas"
+                "file": "Characters/Family Trees/Sunmaek Nobility.canvas"
               }
             }
           },
@@ -186,12 +187,12 @@
   },
   "active": "3ca480cee5817c00",
   "lastOpenFiles": [
-    "Characters/NPC/Sunmaek/Ven-Kylgh.md",
-    "Characters/Family Trees/Ashahalla.canvas",
+    "Characters/NPC/Sunmaek/Ven-Kylgh Ashahalla.md",
+    "Characters/Family Trees/Sunmaek Nobility.canvas",
     "Characters/NPC/Sunmaek/master librarian.md",
     "Characters/NPC/Sunmaek/Hinele.md",
     "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
-    "Characters/NPC/Seni/Lundgren Family/Ven-Dryk Lungdren.md",
+    "Characters/NPC/Seni/Lundgren Family/Ven-Dryk.md",
     "Characters/NPC/Sunmaek/Master Librarian.md",
     "Characters/NPC/Sunmaek/Solar King.md",
     "Narrative/Timeline summary.md",

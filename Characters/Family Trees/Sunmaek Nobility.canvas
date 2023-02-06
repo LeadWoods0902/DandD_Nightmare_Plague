@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"dff2e3a8770bc2d1","x":-446,"y":-1004,"width":1633,"height":1709,"type":"group","label":"Ashahalla"},
+		{"id":"e7e26ef5def17e26","x":193,"y":37,"width":400,"height":400,"type":"file","file":"Characters/NPC/Seni/Lundgren Family/Ven-Dryk.md"},
+		{"id":"a6a494d33755280a","x":653,"y":37,"width":400,"height":400,"type":"file","file":"Characters/NPC/Seni/Lundgren Family/Napella Lundgren.md"},
+		{"id":"1e4fb1274fabe6c1","x":593,"y":588,"width":60,"height":50,"type":"text","text":""},
+		{"id":"4894b3ef9c633253","x":-397,"y":-7,"width":250,"height":60,"type":"text","text":"Ven-Chyk"},
+		{"id":"1814d36e7ab22ea0","x":-120,"y":-9,"width":250,"height":60,"type":"text","text":"Ven-Slyk"},
+		{"id":"a065a1c9c43bd3a8","x":-2020,"y":-1004,"width":1466,"height":1461,"type":"group","label":"Sturgis"},
+		{"id":"575d13ded8071bb3","x":-1283,"y":-9,"width":400,"height":400,"type":"file","file":"Characters/NPC/Sunmaek/Hinele.md"},
+		{"id":"0f79e28f45bae47f","x":-1176,"y":-309,"width":60,"height":50,"type":"text","text":""},
+		{"id":"300ce8c267fc1a2b","x":-1116,"y":-885,"width":400,"height":400,"type":"file","file":"Characters/NPC/Sunmaek/Chancellor Sturgis.md"},
+		{"id":"8d29442bacc6be10","x":-1576,"y":-885,"width":400,"height":400,"type":"text","text":"# Hinele's Mother\n\n## TEMP"},
+		{"id":"489bef7acb7cdfeb","x":-395,"y":-860,"width":400,"height":400,"type":"file","file":"Characters/NPC/Sunmaek/Ven-Kylgh Ashahalla.md"},
+		{"id":"caed50ed7eab3f91","x":5,"y":-338,"width":60,"height":50,"type":"text","text":""},
+		{"id":"97f41b21813ecacc","x":65,"y":-860,"width":402,"height":400,"type":"text","text":"# Ven-Kylgh's Wife"},
+		{"id":"9ff80f94d851bc5a","x":1537,"y":-860,"width":400,"height":400,"type":"text","text":"# The other leader guy"}
+	],
+	"edges":[
+		{"id":"6a053799b1226d20","fromNode":"489bef7acb7cdfeb","fromSide":"bottom","toNode":"caed50ed7eab3f91","toSide":"top"},
+		{"id":"dfee1735419aa741","fromNode":"caed50ed7eab3f91","fromSide":"bottom","toNode":"e7e26ef5def17e26","toSide":"top"},
+		{"id":"b9bfd79d81f665a1","fromNode":"e7e26ef5def17e26","fromSide":"bottom","toNode":"1e4fb1274fabe6c1","toSide":"top"},
+		{"id":"d03680f1c9eedbea","fromNode":"a6a494d33755280a","fromSide":"bottom","toNode":"1e4fb1274fabe6c1","toSide":"top"},
+		{"id":"245899c9f2b73c9f","fromNode":"caed50ed7eab3f91","fromSide":"bottom","toNode":"1814d36e7ab22ea0","toSide":"top"},
+		{"id":"98f0cc2e88c20231","fromNode":"caed50ed7eab3f91","fromSide":"bottom","toNode":"4894b3ef9c633253","toSide":"top"},
+		{"id":"100eb12b7e9dfe17","fromNode":"300ce8c267fc1a2b","fromSide":"bottom","toNode":"0f79e28f45bae47f","toSide":"top"},
+		{"id":"7b71c12ca96248b5","fromNode":"0f79e28f45bae47f","fromSide":"bottom","toNode":"575d13ded8071bb3","toSide":"top"},
+		{"id":"df5353f9762e4cb2","fromNode":"8d29442bacc6be10","fromSide":"bottom","toNode":"0f79e28f45bae47f","toSide":"top"},
+		{"id":"650c5ca40cd234ae","fromNode":"97f41b21813ecacc","fromSide":"bottom","toNode":"caed50ed7eab3f91","toSide":"top"}
+	]
+}
