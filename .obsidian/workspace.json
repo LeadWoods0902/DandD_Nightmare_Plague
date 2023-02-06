@@ -31,25 +31,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "3ca480cee5817c00",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Characters/Family Trees/Sunmaek Nobility.canvas",
-                "viewState": {
-                  "x": 57.73537406108835,
-                  "y": 274.0799248769897,
-                  "zoom": -1.4976684512602172,
-                  "snapToGrid": false
-                }
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Family Trees/Sunmaek Nobility.canvas",
+                "file": "Narrative/Timeline summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Family Trees/Sunmaek Nobility.canvas",
+                "file": "Narrative/Timeline summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Family Trees/Sunmaek Nobility.canvas"
+                "file": "Narrative/Timeline summary.md"
               }
             }
           },
@@ -184,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ca480cee5817c00",
+  "active": "b4aeefbc17a0b551",
   "lastOpenFiles": [
-    "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
+    "Characters/Family Trees/Lundgren.canvas",
     "Characters/NPC/Sunmaek/Ven-Kylgh Ashahalla.md",
     "Characters/NPC/Sunmaek/master librarian.md",
     "Characters/NPC/Sunmaek/Hinele.md",
