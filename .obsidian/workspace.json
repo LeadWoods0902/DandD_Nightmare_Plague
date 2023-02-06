@@ -40,9 +40,9 @@
               "state": {
                 "file": "Characters/Family Trees/Sunmaek Nobility.canvas",
                 "viewState": {
-                  "x": 581.6719214003275,
-                  "y": 25.537286031722545,
-                  "zoom": -1.188802384138107,
+                  "x": 57.73537406108835,
+                  "y": 274.0799248769897,
+                  "zoom": -1.4976684512602172,
                   "snapToGrid": false
                 }
               }
@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 344.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -187,15 +186,15 @@
   },
   "active": "3ca480cee5817c00",
   "lastOpenFiles": [
-    "Characters/NPC/Sunmaek/Ven-Kylgh Ashahalla.md",
+    "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
+    "Characters/NPC/Sunmaek/Ven-Kylgh Ashahalla.md",
     "Characters/NPC/Sunmaek/master librarian.md",
     "Characters/NPC/Sunmaek/Hinele.md",
     "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
     "Characters/NPC/Seni/Lundgren Family/Ven-Dryk.md",
     "Characters/NPC/Sunmaek/Master Librarian.md",
     "Characters/NPC/Sunmaek/Solar King.md",
-    "Narrative/Timeline summary.md",
-    "Characters/Deities/Chimo-Nahagi/Kaede.md"
+    "Narrative/Timeline summary.md"
   ]
 }
