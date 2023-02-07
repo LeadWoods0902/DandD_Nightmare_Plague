@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timeline summary.md"
+                "file": "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md"
               }
             }
           },
@@ -183,15 +183,15 @@
   },
   "active": "7e49af0e0d4453aa",
   "lastOpenFiles": [
+    "Narrative/1 - Broken and Bound/2. Aime.md",
+    "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md",
+    "Narrative/Location Flow.md",
     "Narrative/Over plot.md",
     "Narrative/Timeline summary.md",
-    "Narrative/Location Flow.md",
     "Characters/PC/Bismuth Shatterborne (Brannon).md",
     "Characters/PC/Jasper Shatterborne (Quinn).md",
     "Bestiary/Rune Beasts.md",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
-    "Characters/Family Trees/Lundgren.canvas",
-    "Characters/NPC/Sunmaek/Ven-Kylgh Ashahalla.md",
-    "Characters/NPC/Sunmaek/master librarian.md"
+    "Characters/Family Trees/Lundgren.canvas"
   ]
 }
