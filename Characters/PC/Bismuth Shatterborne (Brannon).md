@@ -4,7 +4,7 @@ Born to [[Malachix Shatterborne]], Bismuth had a very troubled upbringing after 
 
 During their travels, Bismuth encountered many an oddity and learnt how to manipulate their powers to take on the form of the beast. While never as successful at self-transfiguration as their Sibling Jasper, Bismuth's Tactical understanding of combat combined with the ferocious nature of the beasts he has mastered has made him a combative marvel. 
 
-While exploring a ruin overtaken by forest, Bismuth encountered the dragon-god [[Kaede]], not realising who Kaede was, Bismuth attempted to engage in combat with them; this did not however go well for Bismuth who promptly had his ass handed to him. Despite the intrusion, Kaede could tell that Bismuth was of good heart and sent him on his way with his blessing and a boon. (Cloak of
+While exploring a ruin overtaken by forest, Bismuth encountered the dragon-god [[Kaede]], not realising who Kaede was, Bismuth attempted to engage in combat with them; this did not however go well for Bismuth who promptly had his ass handed to him. Despite the intrusion, Kaede could tell that Bismuth was of good heart and sent him on his way with his blessing and a boon.
 
 ---
 ### Additional Notes
