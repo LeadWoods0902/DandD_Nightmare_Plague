@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Bismuth Shatterborne (Brannon).md",
+                "file": "Narrative/Over plot.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Bismuth Shatterborne (Brannon).md",
+                "file": "Narrative/Over plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Bismuth Shatterborne (Brannon).md",
+                "file": "Narrative/Over plot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Bismuth Shatterborne (Brannon).md"
+                "file": "Narrative/Over plot.md"
               }
             }
           },
@@ -183,15 +183,15 @@
   },
   "active": "7e49af0e0d4453aa",
   "lastOpenFiles": [
+    "Narrative/Timeline summary.md",
+    "Narrative/Over plot.md",
+    "Narrative/Location Flow.md",
+    "Characters/PC/Bismuth Shatterborne (Brannon).md",
     "Characters/PC/Jasper Shatterborne (Quinn).md",
     "Bestiary/Rune Beasts.md",
-    "Narrative/Timeline summary.md",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/NPC/Sunmaek/Ven-Kylgh Ashahalla.md",
-    "Characters/NPC/Sunmaek/master librarian.md",
-    "Characters/NPC/Sunmaek/Hinele.md",
-    "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
-    "Characters/NPC/Seni/Lundgren Family/Ven-Dryk.md"
+    "Characters/NPC/Sunmaek/master librarian.md"
   ]
 }
