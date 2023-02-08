@@ -18,11 +18,24 @@
 | 1731/01 | 59 | Brokvar | [[The Addun Brokvar Catastrophe]] |
 | 1753/02 | 81 | Sunmaek | Duska Discovers [[Mortos]]' tome | 
 | 1763/02 | 91 | Rheilliwch | [[Ymerodrol Empire]] flies its colours for the first time |
-| ... | -- | -- | -- |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| 1772/03 | 100 | Cyfandirol | [[Lupella Lundgren]] is born |
 | 1773/01 | 101 | Sunmaek | [[Hinele]] is Born to [[Chancellor Sturgis]]|
 |  1773/03 | 101  | Chimo-Nahagi  | [[Bismuth Shatterborne (Brannon)]] is born <br> [[Jasper Shatterborne (Quinn)]] is born |
 | 1790/02 | 118 | Chimo-Nahagi | Bismuth and Jasper leave their home |
-| ... | -- | -- | -- |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
 | 1793/02 | 121 | --- | Campaign begins |
 
 
