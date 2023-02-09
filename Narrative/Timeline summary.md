@@ -1,10 +1,11 @@
 |  year  | relative year |  location | event | 
 | ------ | ------------- | --------- | ----- |
+| 1576/04 | -96 | **Unknown** | [[Mazikeen (Aime)]] is born |
 | 1649/02 | -23 | [[-Sunmaek-]] | [[Duska Von Mori (Marta)]] is born |
 | 1672/03 | 0 | [[-Brokvar-]] | [[Napella Lundgren]] is born |
 | 1693/04 | 21 | Eastern [[-Seni Isles-]] | [[Eastern Civil War]] begins | 
 | 1695/02 | 23 | Eastern Seni Isles | Napella joins the war |
-| 1695/04 | 23 | [[-Cyfandirol-]] | Napella burns down the capital |
+| 1695/04 | 23 | [[-Cyfandirol-]] | Napella burns down the capital <br> remains of capital washed down mountain |
 | 1996/02 | 24 | Seni | The war ends |
 | 1698/03 | 26 | Brokvar | Napella Marries [[Ven-Dryk]] |
 | 1699/02 | 27 | Sunmaek | Ven-Dryk's Brother begins to plot an assassination |
@@ -14,7 +15,7 @@
 | 1715/03 | 43 | Brokvar | Ven-Dryk leads a rebellion against the IC <br> Brokvar is reunited <br> The [[Ymerodrol Empire]] begins to form |
 | 1718/01 | 46 | Cyfandirol | [[Lupella Lundgren]] is born <br> Amorella dies during child birth |
 | 1720/03 | 48 | Brokvar | Addun Brokvar becomes a city for those that do not support Ven-Dryk on the throne |
-| 1721/02 | 49 | Brokvar | [[Tom]] is born |
+| 1721/02 | 49 | Brokvar | [[Alfread (Tom)]] is born |
 | 1731/01 | 59 | Brokvar | [[The Addun Brokvar Catastrophe]] |
 | 1753/02 | 81 | Sunmaek | Duska Discovers [[Mortos]]' tome | 
 | 1763/02 | 91 | Rheilliwch | [[Ymerodrol Empire]] flies its colours for the first time |
@@ -35,7 +36,7 @@
 | | | | |
 | | | | |
 | | | | |
-| | | | |
+| 1793/01 | 121 | Gwelodd Dant | Mazikeen's death is prevented by her wife |
 | 1793/02 | 121 | --- | Campaign begins |
 
 

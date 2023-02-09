@@ -36,8 +36,13 @@
             "id": "7e49af0e0d4453aa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Alfread (Tom).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -107,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/PC/Alfread (Tom).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/PC/Alfread (Tom).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/PC/Alfread (Tom).md"
+              }
             }
           },
           {
@@ -174,12 +183,12 @@
   },
   "active": "7e49af0e0d4453aa",
   "lastOpenFiles": [
+    "Narrative/Location Flow.md",
+    "Narrative/Timeline summary.md",
     "Untitled.canvas",
     "Characters/PC/Mazikeen (Aime).md",
-    "Narrative/Timeline summary.md",
     "Narrative/1 - Broken and Bound/1. Jasper & Bismuth.md",
     "Narrative/1 - Broken and Bound/2. Aime.md",
-    "Narrative/Location Flow.md",
     "Narrative/Over plot.md",
     "Characters/PC/Bismuth Shatterborne (Brannon).md",
     "Characters/PC/Jasper Shatterborne (Quinn).md",
