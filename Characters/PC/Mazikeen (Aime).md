@@ -1,1 +1,1 @@
- 
+ Greedy - perhaps the reason their wife had to sacrifice themselves to save them
