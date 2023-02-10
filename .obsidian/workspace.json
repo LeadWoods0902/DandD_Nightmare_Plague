@@ -64,7 +64,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Tom/Alfread (Tom).md",
+                "file": "Narrative/Game Flow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00de7d46ab9c9386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPC/Elaine.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Tom/Alfread (Tom).md",
+                "file": "Narrative/Game Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Tom/Alfread (Tom).md",
+                "file": "Narrative/Game Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Tom/Alfread (Tom).md"
+                "file": "Narrative/Game Flow.md"
               }
             }
           },
@@ -209,15 +222,15 @@
   },
   "active": "63855ae5f09ef71b",
   "lastOpenFiles": [
-    "Characters/NPC/Duke Henselt.md",
+    "Characters/NPC/The Mistress.md",
+    "Narrative/Game Flow.md",
+    "Characters/NPC/Elaine.md",
     "Characters/PC/Tom/Alfread (Tom).md",
+    "Characters/NPC/Duke Henselt.md",
     "Characters/NPC/Young Duchess Roderika.md",
     "Untitled.canvas",
     "Locations/Seni Isles/Llawyr un Mawr/-Llawyr un Mawr-.md",
     "Characters/PC/Tom/Rolbam Eins.md",
-    "Characters/PC/Tom/Seram Dos.md",
-    "Characters/PC/Tom/Malkath Tribus.md",
-    "Characters/PC/Tom/Stronvan Quatre.md",
-    "Narrative/Location Flow.md"
+    "Characters/PC/Tom/Seram Dos.md"
   ]
 }
