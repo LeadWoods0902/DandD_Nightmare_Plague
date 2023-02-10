@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Characters/Bosses",
@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 8671968
       }
+    },
+    {
+      "query": "path:\"Bestiary\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": true,
@@ -74,6 +81,6 @@
   "repelStrength": 9.6875,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.0287138694575169,
-  "close": true
+  "scale": 0.7549108209592454,
+  "close": false
 }

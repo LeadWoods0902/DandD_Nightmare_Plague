@@ -14,4 +14,4 @@ An exemplar rune **Wolf** humanoid may have long fangs and slicked back hair
 An exemplar run **Shark** humanoid may have gill like tattoos and a zigzagging tattoo across their torso, reminiscent of a shark bite.
 
 
-
+A group of Rune Beasts are employed as a part of the [[Brokvar]] guard

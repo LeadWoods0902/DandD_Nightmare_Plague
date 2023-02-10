@@ -33,51 +33,12 @@
             }
           },
           {
-            "id": "7e49af0e0d4453aa",
+            "id": "301cd529f2167d52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Tom/Alfread (Tom).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90ca65b919e53a64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/PC/Tom/Alfread (Tom).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63855ae5f09ef71b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/Game Flow.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00de7d46ab9c9386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPC/Elaine.md",
+                "file": "Characters/Djinn/- Djinn -.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 344.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -152,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Game Flow.md",
+                "file": "Characters/Djinn/- Djinn -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Game Flow.md",
+                "file": "Characters/Djinn/- Djinn -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Game Flow.md"
+                "file": "Characters/Djinn/- Djinn -.md"
               }
             }
           },
@@ -221,17 +181,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "301cd529f2167d52",
   "lastOpenFiles": [
-    "Characters/NPC/The Mistress.md",
-    "Narrative/Game Flow.md",
-    "Characters/NPC/Elaine.md",
-    "Characters/PC/Tom/Alfread (Tom).md",
-    "Characters/NPC/Duke Henselt.md",
-    "Characters/NPC/Young Duchess Roderika.md",
-    "Untitled.canvas",
-    "Locations/Seni Isles/Llawyr un Mawr/-Llawyr un Mawr-.md",
-    "Characters/PC/Tom/Rolbam Eins.md",
-    "Characters/PC/Tom/Seram Dos.md"
+    "Characters/Djinn/Voral, of the first sun.md",
+    "Characters/Djinn/Horix, of the second sun.md",
+    "Locations/Sunmaek/-Sunmaek-.md",
+    "Characters/Djinn/- Djinn -.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa.md",
+    "Narrative/Timeline summary.md",
+    "Locations/Seni Isles/Cyfandirol/The Farrows.md",
+    "Locations/Seni Isles/Cyfandirol/Farrow Gap.md",
+    "Game Rules/Ingenuity.md",
+    "Game Rules/Gang Fights.md"
   ]
 }
