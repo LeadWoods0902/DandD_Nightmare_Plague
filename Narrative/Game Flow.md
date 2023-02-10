@@ -23,4 +23,6 @@ Pick up Bismuth & Jasper from Port Town
 	- Elaine pushes the party not to, remining them of what the traveller had said the previous day
 	- If the party aren't inclined to investigate, then a clear and shrill scream will come from the village "Hellllp!"
 - Upon arriving, there is a medium sized building that has had its middle removed (terminator bubble style). Lying on the ground is a strange naked man. Who seemingly is older than should be reasonable for somone at the epicentre of such a strange event. Elaine thanks the party and offers the strange man a hand and some clothes, which she procures from within the folds of her dress. 
-- 
+
+- The party is then forced to vote on whether to brave edging the shores of the [[Barrier Lake]] or make the gruelling crawl through the tunnels that carve through the southern range
+ 
