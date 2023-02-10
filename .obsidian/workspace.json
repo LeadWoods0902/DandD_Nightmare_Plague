@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -220,7 +221,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63855ae5f09ef71b",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
     "Characters/NPC/The Mistress.md",
     "Narrative/Game Flow.md",

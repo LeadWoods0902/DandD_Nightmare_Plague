@@ -3,8 +3,14 @@ Pick up Bismuth & Jasper from Port Town
 - Take them to Virmarr, as Elaine is also to meet the Chancellor their and escort him to Brokvar
 - En route:
 	- Pass through Riverbend
-	- Stopped on the road by a traveller, urging them **not** to go to riverbend, some made Sorceror has locked himself in his lab (emanating smoke, lights and sound) and that almost certainly means trouble
-- Cut to Aime in the forest, waking up and finding herself alone, clutching the shards of a broken Trident, a 
+	- Stopped on the road by a traveller, urging them **not** to go to hillockton, some made Sorceror has locked himself in his lab (emanating smoke, lights and sound) and that almost certainly means trouble
+- Cut to Mazikeen in the forest, waking up and finding herself alone, clutching the shards of a broken Trident. Beside her is the husk of what was probably once a human, Aime however has no memory of the event nor any event prior to awakening. She stumbles towards the shore, finds a boat and rows across the sea towards the far shore.
 - Once in Virmarr, looking for the Chancellor in the tavern.
-	- Everyone splits up
-	- Get into some small scenarios
+	- Everyone splits up to look around
+		- Get into some small scenarios
+	- Either Jasper or Bismuth will find the Chancellor, who is seated with his daughter Hinelle and Duska, their Cleric. 
+- The party stays the night in Virmarr.
+- Cut to one of Alfread's decendents
+	- Introduce Tom as this character
+	- go through the motions
+- Cut back to the present day, 
