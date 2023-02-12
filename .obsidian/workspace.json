@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Djinn/- Djinn -.md",
+                "file": "Game Rules/Combat.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Djinn/- Djinn -.md",
+                "file": "Game Rules/Combat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Djinn/- Djinn -.md",
+                "file": "Game Rules/Combat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Djinn/- Djinn -.md"
+                "file": "Game Rules/Combat.md"
               }
             }
           },
@@ -183,10 +183,10 @@
   },
   "active": "301cd529f2167d52",
   "lastOpenFiles": [
+    "Characters/Djinn/- Djinn -.md",
     "Characters/Djinn/Voral, of the first sun.md",
     "Characters/Djinn/Horix, of the second sun.md",
     "Locations/Sunmaek/-Sunmaek-.md",
-    "Characters/Djinn/- Djinn -.md",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa.md",
     "Narrative/Timeline summary.md",
     "Locations/Seni Isles/Cyfandirol/The Farrows.md",

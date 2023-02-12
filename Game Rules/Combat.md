@@ -6,6 +6,8 @@ Additionally, when attacking attacking with a weapon you have experience with ad
 ## Weak Hits
 When an attack matches a target's AC, half damage is dealt. 
 
+##
+
 ## Status Effects
 See [[Status Effects & Battle Conditions]]
 
