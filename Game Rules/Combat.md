@@ -7,7 +7,7 @@ Additionally, when attacking attacking with a weapon you have experience with ad
 When an attack matches a target's AC, half damage is dealt. 
 
 ## Reactions
-
+Every two rounds, you can take a dodge as a reaction
 
 ## Status Effects
 See [[Status Effects & Battle Conditions]]
