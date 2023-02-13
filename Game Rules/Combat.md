@@ -3,10 +3,10 @@ On a critical hit, you deal the maximum amount of damage possible for the attack
 
 Additionally, when attacking attacking with a weapon you have experience with add an extra d4
 
-## Weak Hits
+## Weak Hits - maybe a feat?
 When an attack matches a target's AC, half damage is dealt. 
 
-## Reactions
+## Reactions - maybe a feat?
 Every two rounds, you can take a dodge as a reaction
 
 ## Status Effects

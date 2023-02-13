@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Rules/Combat.md",
+                "file": "Characters/PC/Tom/Alfread (Tom).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Rules/Combat.md",
+                "file": "Characters/PC/Tom/Alfread (Tom).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Rules/Combat.md",
+                "file": "Characters/PC/Tom/Alfread (Tom).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Rules/Combat.md"
+                "file": "Characters/PC/Tom/Alfread (Tom).md"
               }
             }
           },
@@ -183,15 +183,15 @@
   },
   "active": "301cd529f2167d52",
   "lastOpenFiles": [
+    "Characters/PC/Tom/Malkath Tribus.md",
+    "Characters/PC/Tom/Alfread (Tom).md",
+    "Characters/PC/Bismuth Shatterborne (Brannon).md",
+    "Characters/PC/Duska Von Mori (Marta).md",
+    "Characters/PC/Jasper Shatterborne (Quinn).md",
+    "Characters/PC/Mazikeen (Aime).md",
+    "Game Rules/Combat.md",
     "Characters/Djinn/- Djinn -.md",
     "Characters/Djinn/Voral, of the first sun.md",
-    "Characters/Djinn/Horix, of the second sun.md",
-    "Locations/Sunmaek/-Sunmaek-.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa.md",
-    "Narrative/Timeline summary.md",
-    "Locations/Seni Isles/Cyfandirol/The Farrows.md",
-    "Locations/Seni Isles/Cyfandirol/Farrow Gap.md",
-    "Game Rules/Ingenuity.md",
-    "Game Rules/Gang Fights.md"
+    "Characters/Djinn/Horix, of the second sun.md"
   ]
 }
