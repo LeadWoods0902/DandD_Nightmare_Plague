@@ -1,1 +1,0 @@
-After being thrown from the cliffside by [[Lupella Lundgren]], [[Jasper Shatterborne (Quinn)]] finds themselves sinking into the realm of [[Ashira, the first wave]]. After experiencing a near death experience, Jasper

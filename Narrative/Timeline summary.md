@@ -1,7 +1,7 @@
 |  year  | relative year |  location | event | 
 | ------ | ------------- | --------- | ----- |
-| 1576/04 | -96 | **Unknown** | [[Mazikeen (Aime)]] is born |
-| 1649/02 | -23 | [[-Sunmaek-]] | [[Duska Von Mori (Marta)]] is born |
+| 1576/04 | -96 | **Unknown** | [[Mazikeen]] is born |
+| 1649/02 | -23 | [[-Sunmaek-]] | [[Duska Von Mori]] is born |
 | 1672/03 | 0 | [[-Brokvar-]] | [[Napella Lundgren]] is born |
 | 1693/04 | 21 | Eastern [[-Seni Isles-]] | [[Eastern Civil War]] begins | 
 | 1695/02 | 23 | Eastern Seni Isles | Napella joins the war |
@@ -15,7 +15,7 @@
 | 1715/03 | 43 | Brokvar | Ven-Dryk leads a rebellion against the IC <br> Brokvar is reunited <br> The [[Ymerodrol Empire]] begins to form |
 | 1718/01 | 46 | Cyfandirol | [[Lupella Lundgren]] is born <br> Amorella dies during child birth |
 | 1720/03 | 48 | Brokvar | Addun Brokvar becomes a city for those that do not support Ven-Dryk on the throne |
-| 1721/02 | 49 | Brokvar | [[Alfread (Tom)]] is born |
+| 1721/02 | 49 | Brokvar | [[Alfread]] is born |
 | 1731/01 | 59 | Brokvar | [[The Addun Brokvar Catastrophe]] |
 | 1753/02 | 81 | Sunmaek | Duska Discovers [[Mortos]]' tome | 
 | 1763/02 | 91 | Rheilliwch | [[Ymerodrol Empire]] flies its colours for the first time |
@@ -29,7 +29,7 @@
 | | | | |
 | 1772/03 | 100 | Cyfandirol | [[Lupella Lundgren]] is born |
 | 1773/01 | 101 | Sunmaek | [[Hinele]] is Born to [[Chancellor Sturgis]]|
-|  1773/03 | 101  | Chimo-Nahagi  | [[Bismuth Shatterborne (Brannon)]] is born <br> [[Jasper Shatterborne (Quinn)]] is born |
+|  1773/03 | 101  | Chimo-Nahagi  | [[Bismuth Shatterborne]] is born <br> [[Jasper Shatterborne]] is born |
 | 1790/02 | 118 | Chimo-Nahagi | Bismuth and Jasper leave their home |
 | | | | |
 | | | | |

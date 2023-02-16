@@ -1,7 +1,7 @@
 ![[Jasper_Token.png]]
 <h3> Backstory </h3>
 
-Twin sibling to [[Bismuth Shatterborne (Brannon)]]
+Twin sibling to [[Bismuth Shatterborne]]
 
 Younger sibling to Bismuth by two minutes.
 

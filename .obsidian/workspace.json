@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Individual/Secret Heritage.md",
+                "file": "Characters/PC/Brannon/Primalas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Brannon/Primalas (Brannon).md",
+                "file": "Characters/PC/Brannon/Primalas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Individual/Secret Heritage.md",
+                "file": "Characters/PC/Brannon/Primalas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Individual/Secret Heritage.md",
+                "file": "Characters/PC/Brannon/Primalas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/Individual/Secret Heritage.md"
+                "file": "Characters/PC/Brannon/Primalas.md"
               }
             }
           },
@@ -248,15 +248,15 @@
   },
   "active": "ce95f5ca697f74a0",
   "lastOpenFiles": [
+    "Characters/PC/Brannon/Bismuth Shatterborne.md",
+    "Characters/PC/Tom/Alfread.md",
+    "Characters/PC/Quinn/Jasper Shatterborne.md",
+    "Characters/PC/Marta/Duska Von Mori.md",
+    "Characters/PC/Aime/Mazikeen.md",
+    "Quests/Individual/Secret Heritage (Jasper).md",
     "Quests/Contracts/Creature in the Crop.md",
     "Bestiary/Hop Head.md",
-    "Characters/PC/Brannon/Primalas (Brannon).md",
-    "Characters/Deities/Chimo-Nahagi/Zenryoku.md",
-    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
-    "Characters/Deities/Chimo-Nahagi/Kaede.md",
-    "Characters/PC/Brannon/Bismuth Shatterborne (Brannon).md",
-    "Characters/Companion Creatures/Hop Head (Companion).md",
-    "Characters/Untitled.md",
-    "Narrative/Timeline summary.md"
+    "Characters/PC/Brannon/Primalas.md",
+    "Characters/Deities/Chimo-Nahagi/Zenryoku.md"
   ]
 }
