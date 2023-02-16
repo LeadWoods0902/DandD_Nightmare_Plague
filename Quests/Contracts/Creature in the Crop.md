@@ -1,9 +1,10 @@
 ## Target
 ![[Hop Head]]
 
-## Location
-
-Hop Farm in Central brokvar, two days south of Addun Brokvar and three days west of Brokvar.
+## Location(s)
+- [[Riverview Estate]] Hop Farm
+- [[The Weald]] (Optional)
+- 
 
 ## Reward(s)
 #### Contracted

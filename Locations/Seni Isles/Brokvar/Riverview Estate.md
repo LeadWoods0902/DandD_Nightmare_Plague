@@ -1,0 +1,1 @@
+A hop farm in central Brokvar, two days south of Addun Brokvar and three days west of Brokvar.
