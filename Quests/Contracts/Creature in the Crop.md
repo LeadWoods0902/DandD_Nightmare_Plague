@@ -3,7 +3,7 @@
 
 ## Location
 
-Farm outside the city
+Hop Farm in Central brokvar, two days south of Addun Brokvar and three days west of Brokvar.
 
 ## Reward(s)
 #### Contracted
