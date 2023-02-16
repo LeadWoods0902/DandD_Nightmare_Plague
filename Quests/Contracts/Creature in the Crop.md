@@ -11,9 +11,12 @@ Farm outside the city
 #### Additional
 - Sack of Premium Citra Hops
 #### Bonus / Secret
-- pet Hop Head 
+- Hop Head companion
+	- Requirement: Complete the contract without killing the Hop Head
 
 ## Objectives
 - Find the Creature eating the Crop
 - Kill the Creature
-	- Alternative: 
+	- Alt: recruit the creature
+	- Alt: Convince the creature to leave
+	- 

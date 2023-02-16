@@ -57,9 +57,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e9714739902cf7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne (Brannon).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Contracts/Creature in the Crop.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne (Brannon).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Contracts/Creature in the Crop.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne (Brannon).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/Contracts/Creature in the Crop.md"
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne (Brannon).md"
               }
             }
           },
@@ -194,8 +207,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "170d288a14f2245c",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
+    "Characters/Companion Creatures/Hop Head (Companion).md",
+    "Characters/Untitled.md",
     "Bestiary/Hop Head.md",
     "Quests/Contracts/Creature in the Crop.md",
     "Narrative/Timeline summary.md",
@@ -203,8 +218,6 @@
     "Characters/PC/Tom/Rolbam Eins.md",
     "Characters/PC/Tom/Seram Dos.md",
     "Characters/PC/Tom/Malkath Tribus.md",
-    "Characters/PC/Tom/Stronvan Quatre.md",
-    "Characters/PC/Bismuth Shatterborne (Brannon).md",
-    "Characters/PC/Duska Von Mori (Marta).md"
+    "Characters/PC/Tom/Stronvan Quatre.md"
   ]
 }
