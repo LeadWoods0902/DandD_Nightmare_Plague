@@ -31,19 +31,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8a7127ffb91275a9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Character Art/Tom_Full.jpg"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Character Art/Tom_Full.jpg",
+                "file": "Narrative/Timeline summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Character Art/Tom_Full.jpg",
+                "file": "Narrative/Timeline summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Character Art/Tom_Full.jpg"
+                "file": "Narrative/Timeline summary.md"
               }
             }
           },
@@ -179,10 +169,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a7127ffb91275a9",
+  "active": "b4aeefbc17a0b551",
   "lastOpenFiles": [
-    "Resources/Character Art/WilderBeast_Full.png",
     "Resources/Character Art/Tom_Full.jpg",
+    "Resources/Character Art/WilderBeast_Full.png",
     "Resources/Character Art/Sansom_Full_Temp.jpg",
     "Resources/Character Art/Primalas_Full_Temp.png",
     "Resources/Character Art/Napella Portrait.png",
