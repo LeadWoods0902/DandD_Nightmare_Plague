@@ -33,20 +33,19 @@
             }
           },
           {
-            "id": "7b124e10b706f441",
+            "id": "4a79ee7418b8c3ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Individual/What comes will be.md",
+                "file": "Narrative/1 - The Worst days of their lives/7. That time we crashed a ship.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Individual/What comes will be.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Individual/What comes will be.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Quests/Individual/What comes will be.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,17 +177,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b124e10b706f441",
+  "active": "c12ef8959c9a887b",
   "lastOpenFiles": [
-    "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
-    "Quests/Individual/What comes will be.md",
-    "Locations/Seni Isles/Cyfandirol/Virmarr.md",
+    "Narrative/Timeline summary.md",
+    "Narrative/1 - The Worst days of their lives/7. That time we crashed a ship.md",
+    "Narrative/2 - Currencies of the Empire/8. The Auction.md",
+    "Narrative/1 - The Worst days of their lives/6. Upon which the party is founded.md",
+    "Locations/Seni Isles/Llawyr un Mawr/The Ozeaux.md",
+    "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
+    "Narrative/1 - The Worst days of their lives/1. A Ship at Sea.md",
     "Narrative/1 - The Worst days of their lives/2. Duska in the Tavern.md",
-    "Quests/Individual/What was, is not always what is.md",
-    "Quests/Individual/Past within the Present.md",
-    "Quests/Individual/Echoes of the Forgotten.md",
-    "Quests/Individual/Deathless, even in Death.md",
-    "Additional Lore/Ships/The Melodious Linnet.md",
-    "Narrative/1 - The Worst days of their lives/1. A Ship at Sea.md"
+    "Narrative/1 - The Worst days of their lives/3. Mazikeen awakens.md",
+    "Narrative/1 - The Worst days of their lives/4. Alfread loses his mind.md"
   ]
 }
