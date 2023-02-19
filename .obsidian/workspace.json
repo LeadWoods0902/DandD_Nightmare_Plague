@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "4986b207fe585655",
+            "id": "12ae0f44c65b4532",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Individual/Secret Heritage (Jasper).md",
+                "file": "Narrative/2 - Currencies of the Empire/1. The Auction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,12 +46,12 @@
             }
           },
           {
-            "id": "c240ad3b4e769e63",
+            "id": "5fbb318c224045f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Contracts/Help!.md",
+                "file": "Narrative/1 - The Worst days of their lives/1. A Ship at Sea.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,12 +59,77 @@
             }
           },
           {
-            "id": "f8331899a6920fa8",
+            "id": "f8ca677ccee39c46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Contracts/Creature in the Crop.md",
+                "file": "Narrative/1 - The Worst days of their lives/2. Duska in the Tavern.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35dc4d67c314dba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/1 - The Worst days of their lives/2. Duska in the Tavern.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba2c21d37e487b4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/1 - The Worst days of their lives/4. Alfread loses his mind.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f889998347562a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/1 - The Worst days of their lives/4. Alfread loses his mind.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0de5a5889114237b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e0e407f9125f910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/1 - The Worst days of their lives/1. A Ship at Sea.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -138,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Contracts/Help!.md",
+                "file": "Narrative/1 - The Worst days of their lives/1. A Ship at Sea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Contracts/Help!.md",
+                "file": "Narrative/1 - The Worst days of their lives/1. A Ship at Sea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/Contracts/Help!.md"
+                "file": "Narrative/1 - The Worst days of their lives/1. A Ship at Sea.md"
               }
             }
           },
@@ -208,17 +273,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c240ad3b4e769e63",
+  "active": "0e0e407f9125f910",
   "lastOpenFiles": [
-    "Quests/Contracts/Brother Lost.md",
-    "Quests/Contracts/Creature in the Crop.md",
-    "Quests/Contracts/Help!.md",
-    "Quests/Individual/Secret Heritage (Jasper).md",
+    "Narrative/1 - The Worst days of their lives/4. Alfread loses his mind.md",
+    "Narrative/1 - The Worst days of their lives/3. Mazikeen awakens.md",
+    "Narrative/1 - The Worst days of their lives/2. Duska in the Tavern.md",
+    "Narrative/1 - The Worst days of their lives/1. A Ship at Sea.md",
+    "Narrative/1 - The Worst days of their lives/6. Upon which the party is founded.md",
+    "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
+    "Narrative/1/Untitled.md",
+    "Narrative/2 - Currencies of the Empire/1. The Auction.md",
     "Narrative/Timeline summary.md",
-    "Resources/Character Art/Tom_Full.jpg",
-    "Resources/Character Art/WilderBeast_Full.png",
-    "Resources/Character Art/Sansom_Full_Temp.jpg",
-    "Resources/Character Art/Primalas_Full_Temp.png",
-    "Resources/Character Art/Napella Portrait.png"
+    "Quests/Individual/Secret Heritage (Jasper).md"
   ]
 }
