@@ -33,97 +33,6 @@
             }
           },
           {
-            "id": "12ae0f44c65b4532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/2 - Currencies of the Empire/1. The Auction.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fbb318c224045f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. A Ship at Sea.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8ca677ccee39c46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/1 - The Worst days of their lives/2. Duska in the Tavern.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35dc4d67c314dba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/1 - The Worst days of their lives/2. Duska in the Tavern.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba2c21d37e487b4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. Alfread loses his mind.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f889998347562a0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. Alfread loses his mind.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0de5a5889114237b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0e0e407f9125f910",
             "type": "leaf",
             "state": {
@@ -135,9 +44,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba93df78f831731a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,15 +197,15 @@
   },
   "active": "0e0e407f9125f910",
   "lastOpenFiles": [
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
+    "Narrative/1 - The Worst days of their lives/1. A Ship at Sea.md",
+    "Narrative/Timeline summary.md",
     "Narrative/1 - The Worst days of their lives/4. Alfread loses his mind.md",
     "Narrative/1 - The Worst days of their lives/3. Mazikeen awakens.md",
     "Narrative/1 - The Worst days of their lives/2. Duska in the Tavern.md",
-    "Narrative/1 - The Worst days of their lives/1. A Ship at Sea.md",
     "Narrative/1 - The Worst days of their lives/6. Upon which the party is founded.md",
     "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
     "Narrative/1/Untitled.md",
-    "Narrative/2 - Currencies of the Empire/1. The Auction.md",
-    "Narrative/Timeline summary.md",
-    "Quests/Individual/Secret Heritage (Jasper).md"
+    "Narrative/2 - Currencies of the Empire/1. The Auction.md"
   ]
 }
