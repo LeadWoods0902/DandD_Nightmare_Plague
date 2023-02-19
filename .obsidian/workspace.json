@@ -33,12 +33,38 @@
             }
           },
           {
+            "id": "7b124e10b706f441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additional Lore/Ships/The Melodious Linnet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0e0e407f9125f910",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. A Ship at Sea.md",
+                "file": "Narrative/1 - The Worst days of their lives/2. Duska in the Tavern.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d53be05ef8d77675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Seni Isles/Cyfandirol/Virmarr.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,8 +84,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. A Ship at Sea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. A Ship at Sea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. A Ship at Sea.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,17 +216,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e0e407f9125f910",
+  "active": "c12ef8959c9a887b",
   "lastOpenFiles": [
-    "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
+    "Additional Lore/Ships/The Melodious Linnet.md",
+    "Locations/Seni Isles/Cyfandirol/Virmarr.md",
+    "Narrative/1 - The Worst days of their lives/2. Duska in the Tavern.md",
     "Narrative/1 - The Worst days of their lives/1. A Ship at Sea.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
     "Narrative/Timeline summary.md",
     "Narrative/1 - The Worst days of their lives/4. Alfread loses his mind.md",
     "Narrative/1 - The Worst days of their lives/3. Mazikeen awakens.md",
-    "Narrative/1 - The Worst days of their lives/2. Duska in the Tavern.md",
     "Narrative/1 - The Worst days of their lives/6. Upon which the party is founded.md",
-    "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
-    "Narrative/1/Untitled.md",
-    "Narrative/2 - Currencies of the Empire/1. The Auction.md"
+    "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md"
   ]
 }
