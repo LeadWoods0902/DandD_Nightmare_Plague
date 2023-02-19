@@ -2,7 +2,7 @@
 >Large Baht reward
 >- An illegible name
 
-The person in the cave does not expect to be rescued, the didn't even post the poster... how could they, they were in the bottom of a cave
+The person in the cave does not expect to be rescued, the didn't even post the poster... how could they, they were in the bottom of a cave?
 
 ## Target
 
