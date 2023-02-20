@@ -33,19 +33,20 @@
             }
           },
           {
-            "id": "4a79ee7418b8c3ec",
+            "id": "4e33a04b61f8c395",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/7. That time we crashed a ship.md",
+                "file": "Quests/Individual/Deathless, even in Death.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quests/Individual/Deathless, even in Death.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quests/Individual/Deathless, even in Death.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quests/Individual/Deathless, even in Death.md"
+              }
             }
           },
           {
@@ -177,17 +182,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c12ef8959c9a887b",
+  "active": "4e33a04b61f8c395",
   "lastOpenFiles": [
-    "Narrative/Timeline summary.md",
-    "Narrative/1 - The Worst days of their lives/7. That time we crashed a ship.md",
-    "Narrative/2 - Currencies of the Empire/8. The Auction.md",
+    "Narrative/1 - The Worst days of their lives/7. That time we did that thing.md",
     "Narrative/1 - The Worst days of their lives/6. Upon which the party is founded.md",
-    "Locations/Seni Isles/Llawyr un Mawr/The Ozeaux.md",
-    "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
-    "Narrative/1 - The Worst days of their lives/1. A Ship at Sea.md",
-    "Narrative/1 - The Worst days of their lives/2. Duska in the Tavern.md",
-    "Narrative/1 - The Worst days of their lives/3. Mazikeen awakens.md",
-    "Narrative/1 - The Worst days of their lives/4. Alfread loses his mind.md"
+    "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
+    "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
+    "Narrative/1 - The Worst days of their lives/3. The first birth, again.md",
+    "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md",
+    "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
+    "Narrative/Timeline summary.md",
+    "Narrative/2 - Currencies of the Empire/8. The Auction.md",
+    "Locations/Seni Isles/Llawyr un Mawr/The Ozeaux.md"
   ]
 }
