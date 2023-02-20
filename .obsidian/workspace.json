@@ -31,8 +31,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "3861bd1195ec402b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Individual/Bismuth Quest Insert Name Here.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quests/Individual/Bismuth Quest Insert Name Here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quests/Individual/Bismuth Quest Insert Name Here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quests/Individual/Bismuth Quest Insert Name Here.md"
+              }
             }
           },
           {
@@ -164,11 +182,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c12ef8959c9a887b",
+  "active": "3861bd1195ec402b",
   "lastOpenFiles": [
     "Narrative/Timeline summary.md",
     "Narrative/1 - The Worst days of their lives/7. That time we did that thing.md",
-    "Quests/Individual/Bismuth Quest.md",
+    "Quests/Individual/Bismuth Quest Insert Name Here.md",
     "Quests/Individual/What was, is not always what is.md",
     "Quests/Individual/Past within the Present.md",
     "Quests/Individual/Echoes of the Forgotten.md",

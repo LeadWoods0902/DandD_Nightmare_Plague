@@ -1,5 +1,5 @@
 ## Individual Quest Lines
-[[Bismuth Quest]]
+[[Bismuth Quest Insert Name Here]]
 [[Deathless, even in Death]]
 [[Echoes of the Forgotten]]
 [[Past within the Present]]
