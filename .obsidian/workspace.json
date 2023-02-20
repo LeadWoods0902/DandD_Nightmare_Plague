@@ -31,8 +31,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7c77735655771d6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/1 - The Worst days of their lives/7. That time we did that thing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Narrative/1 - The Worst days of their lives/7. That time we did that thing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Narrative/1 - The Worst days of their lives/7. That time we did that thing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Narrative/1 - The Worst days of their lives/7. That time we did that thing.md"
+              }
             }
           },
           {
@@ -164,17 +182,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c12ef8959c9a887b",
+  "active": "7c77735655771d6e",
   "lastOpenFiles": [
+    "Quests/Individual/Bismuth Quest.md",
+    "Quests/Individual/What was, is not always what is.md",
+    "Quests/Individual/Past within the Present.md",
+    "Quests/Individual/Echoes of the Forgotten.md",
+    "Quests/Individual/Deathless, even in Death.md",
+    "Quests/Contracts/Creature in the Crop.md",
     "Narrative/Timeline summary.md",
     "Characters/Bosses/Effigy of the Twin Suns.md",
     "Characters/Bosses/Sun Priest  Heleotite.md",
-    "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
-    "Quests/Party/The Broken Capital.md",
-    "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
-    "Locations/Seni Isles/Llawyr un Mawr/The Ozeaux.md",
-    "Narrative/Game Flow.md",
-    "Narrative/Over plot - TBD.md",
-    "Characters/NPC/Seni/The crew of the Kilfenora.md"
+    "Narrative/1 - The Worst days of their lives/1. A ship at sea.md"
   ]
 }
