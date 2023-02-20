@@ -31,45 +31,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "233b5686bd7569cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9be6c1c9f5aeff6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The crew of the Melodius Linnet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e33888170bace052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The crew of the Kilfenora.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -121,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 547.5
+    "width": 346.5,
+    "collapsed": true
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -205,15 +167,15 @@
   },
   "active": "c12ef8959c9a887b",
   "lastOpenFiles": [
-    "The crew of the Melodius Linnet.md",
-    "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
-    "The crew of the Kilfenora.md",
-    "Narrative/Over plot - TBD.md",
     "Narrative/Timeline summary.md",
-    "Characters/NPC/Sunmaek/Hinele.md",
-    "Pasted image 20230131221834.png.md",
-    "Game Rules/Dash & Sprint.md",
-    "Game Rules/Critical Death Save.md",
-    "Game Rules/Combat.md"
+    "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
+    "Quests/Party/The Broken Capital.md",
+    "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
+    "Locations/Seni Isles/Llawyr un Mawr/The Ozeaux.md",
+    "Narrative/Game Flow.md",
+    "Narrative/Over plot - TBD.md",
+    "Characters/NPC/Seni/The crew of the Kilfenora.md",
+    "Characters/NPC/Seni/The crew of the Melodius Linnet.md",
+    "Characters/NPC/Sunmaek/Hinele.md"
   ]
 }

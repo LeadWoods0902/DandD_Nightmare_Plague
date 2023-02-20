@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Characters/Bosses",
@@ -19,6 +19,13 @@
       "color": {
         "a": 1,
         "rgb": 5555
+      }
+    },
+    {
+      "query": "path:Characters/Djinn",
+      "color": {
+        "a": 1,
+        "rgb": 10956591
       }
     },
     {
@@ -82,5 +89,5 @@
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 0.16235161330715994,
-  "close": true
+  "close": false
 }
