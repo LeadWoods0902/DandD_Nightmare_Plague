@@ -2,5 +2,6 @@
   "accentColor": "",
   "cssTheme": "Everforest",
   "textFontFamily": "Cantarell",
-  "interfaceFontFamily": "Source Code Variable"
+  "interfaceFontFamily": "Source Code Variable",
+  "baseFontSize": 17
 }

@@ -33,7 +33,7 @@
             }
           },
           {
-            "id": "3e9fc8bcc595641e",
+            "id": "cfc42079a47725ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,22 +44,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c6ca43a89f379052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/Ikuri.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/Ikuri.md",
+                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/Ikuri.md",
+                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/Ikuri.md"
+                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md"
               }
             }
           },
@@ -195,17 +182,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6ca43a89f379052",
+  "active": "cfc42079a47725ce",
   "lastOpenFiles": [
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Bōshi.md",
     "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
-    "Characters/Deities/Chimo-Nahagi/Ikuri.md",
-    "Pasted image 20230131221834.png.md",
-    "The.md",
-    "The/Greater/Dragons.md",
-    "'The.md",
-    "Characters/Deities/Chimo-Nahagi/Kaede.md",
-    "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
-    "Characters/NPC/Nieveler Genlen.md",
-    "Additional Lore/Events/Eastern Civil War.md"
+    "Narrative/Timeline summary.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kenzen.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Iyashi.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Musoko.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Zenryoku.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kaede.md"
   ]
 }
