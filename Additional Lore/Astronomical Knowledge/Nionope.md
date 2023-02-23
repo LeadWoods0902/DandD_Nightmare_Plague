@@ -2,5 +2,5 @@ Suspended between two stars, Nionope holds the honorific title of being the cent
 
 Continental Land Masses:
 [[-Seni Isles-]]
-[[Chimo-Nahagi]]
+[[-Chimo Nahagi-]]
 [[-Sunmaek-]]
