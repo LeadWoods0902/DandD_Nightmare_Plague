@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 14701233
       }
+    },
+    {
+      "query": "path:Quests",
+      "color": {
+        "a": 1,
+        "rgb": 1205107
+      }
     }
   ],
   "collapse-display": true,
@@ -88,6 +95,6 @@
   "repelStrength": 14.8958333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.11580142208916434,
+  "scale": 0.3055866966478962,
   "close": true
 }
