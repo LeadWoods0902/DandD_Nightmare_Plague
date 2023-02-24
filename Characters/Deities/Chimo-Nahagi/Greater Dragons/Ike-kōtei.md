@@ -1,0 +1,1 @@
+![[Ike-Kotei_full.png]]

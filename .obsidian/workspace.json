@@ -46,12 +46,15 @@
             }
           },
           {
-            "id": "3000ce2f2cbe94c8",
+            "id": "e4cb0d5de654ee0a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kaede.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -106,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -122,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kaede.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kaede.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md"
+                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kaede.md"
               }
             }
           },
@@ -192,16 +196,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3000ce2f2cbe94c8",
+  "active": "e4cb0d5de654ee0a",
   "lastOpenFiles": [
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Bōshi.md",
     "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ikuri.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Musoko.md",
+    "Resources/Character Art/greaterDragons/Musoko_full.png",
+    "Resources/Character Art/greaterDragons/Kaede_full.png",
+    "Resources/Character Art/greaterDragons/Ikuri_full.png",
+    "Resources/Character Art/greaterDragons/Ike-Kotei_full.png",
+    "Resources/Character Art/greaterDragons",
+    "Resources/Character Art/greaterDragon/Kaede_full.png",
+    "Resources/Character Art/greaterDragon/Ike-Kotei_full.png",
+    "Resources/Character Art/greaterDragon/Ikuri_full.png",
+    "Resources/Character Art/greaterDragon/Musoko_full.png",
+    "Resources/Character Art/greaterDragon",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Bōshi.md",
     "Narrative/Timeline summary.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kenzen.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Iyashi.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Musoko.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Zenryoku.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kaede.md"
   ]
