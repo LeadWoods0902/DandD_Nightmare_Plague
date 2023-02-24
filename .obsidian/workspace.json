@@ -33,19 +33,20 @@
             }
           },
           {
-            "id": "a5d15f771fcd2c7a",
+            "id": "573d78142510746a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
+                "file": "Characters/NPC/Seni/Young Duchess Roderika.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -112,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/NPC/Seni/Young Duchess Roderika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/NPC/Seni/Young Duchess Roderika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/NPC/Seni/Young Duchess Roderika.md"
+              }
             }
           },
           {
@@ -178,9 +182,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c12ef8959c9a887b",
+  "active": "573d78142510746a",
   "lastOpenFiles": [
+    "Characters/NPC/Seni/The Mistress.md",
+    "Characters/NPC/Seni/The crew of the Melodius Linnet.md",
+    "Characters/NPC/Seni/The crew of the Kilfenora.md",
+    "Characters/NPC/Seni/The Captain of the Canvas Beater.md",
+    "Characters/NPC/Seni/Elaine.md",
+    "Characters/NPC/Seni/Duke Henselt.md",
     "Narrative/Timeline summary.md",
+    "Characters/NPC/Seni/Lundgren Family/Ven-Dryk.md",
+    "Resources/Character Art/VenDryk_Full.png",
+    "Characters/NPC/Seni/Lundgren Family/Odonna-Dryk Lundgren.md",
+    "Characters/NPC/Seni/Lundgren Family/Napella Lundgren.md",
+    "Characters/NPC/Seni/Lundgren Family/Lupella Lundgren.md",
+    "Characters/NPC/Seni/Lundgren Family/Amorella Lundgren.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
+    "Characters/NPC/Seni/Brokvar/Rune Warriors.md",
+    "Characters/NPC/Seni/Brokvar/Iosefka.md",
+    "Characters/NPC/Seni/Brokvar/Gabriel.md",
+    "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
+    "Resources/Character Art/Sansom_Full.jpg",
+    "Resources/Character Art/prettyboi.png",
+    "Resources/Character Art/Luppella_Full.png",
+    "Resources/Character Art/ForestRanger.png",
+    "Resources/Character Art/IceGenasi_Full.png",
+    "Resources/Character Art/Mortos_Human.png",
+    "Resources/Character Art/PrettyBoi.png",
+    "Resources/Character Art/Rapscallion.png",
+    "Resources/Character Art/YoungNappella_Full.png",
     "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
     "Quests/-Quests-.md",
     "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
@@ -189,19 +220,7 @@
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Musoko.md",
-    "Resources/Character Art/greaterDragons/Musoko_full.png",
-    "Resources/Character Art/greaterDragons/Kaede_full.png",
-    "Resources/Character Art/greaterDragons/Ikuri_full.png",
-    "Resources/Character Art/greaterDragons/Ike-Kotei_full.png",
     "Resources/Character Art/greaterDragons",
-    "Resources/Character Art/greaterDragon/Kaede_full.png",
-    "Resources/Character Art/greaterDragon/Ike-Kotei_full.png",
-    "Resources/Character Art/greaterDragon/Ikuri_full.png",
-    "Resources/Character Art/greaterDragon/Musoko_full.png",
-    "Resources/Character Art/greaterDragon",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Bōshi.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kenzen.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Iyashi.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Zenryoku.md"
+    "Resources/Character Art/greaterDragon"
   ]
 }
