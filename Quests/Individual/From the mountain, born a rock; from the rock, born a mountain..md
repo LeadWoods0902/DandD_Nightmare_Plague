@@ -1,0 +1,1 @@
+[[Bismuth Shatterborne]] receives grave news and must find a way to prevent the extermination of the greater dragons of Chimo-Nahagi, a land he knows not how to return to.
