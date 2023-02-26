@@ -31,7 +31,7 @@
 | 1773/01 | 101 | Sunmaek | [[Hinele]] is Born to [[Chancellor Sturgis]]|
 |  1773/03 | 101  | Chimo-Nahagi  | [[Bismuth Shatterborne]] is born <br> [[Jasper Shatterborne]] is born |
 | 1790/02 | 118 | Chimo-Nahagi | Bismuth and Jasper leave their home |
-| | | | |
+| 1792/02 | 120 | Chimo-Nahagi | Jasper saves the crop of  |
 | | | | |
 | | | | |
 | | | | |
