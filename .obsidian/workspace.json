@@ -44,19 +44,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3000ce2f2cbe94c8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,7 +182,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3000ce2f2cbe94c8",
+  "active": "cfc42079a47725ce",
   "lastOpenFiles": [
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Bōshi.md",
     "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
