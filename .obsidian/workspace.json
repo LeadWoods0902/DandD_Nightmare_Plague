@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "b4aeefbc17a0b551",
+            "id": "401099d019e4938b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -30,6 +30,32 @@
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "dd1c543a01728f61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groups/Eastern Confederacy.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9271d4d6421ba8ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additional Lore/Events/The Butchering of Brokvar.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -170,8 +196,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4aeefbc17a0b551",
+  "active": "401099d019e4938b",
   "lastOpenFiles": [
+    "Groups/Eastern Confederacy.md",
+    "Narrative/Timeline summary.md",
+    "Additional Lore/Events/The Butchering of Brokvar.md",
     "Characters/NPC/Seni/Young Duchess Roderika.md",
     "Characters/NPC/Seni/The Mistress.md",
     "Characters/NPC/Seni/The crew of the Melodius Linnet.md",
@@ -179,7 +208,6 @@
     "Characters/NPC/Seni/The Captain of the Canvas Beater.md",
     "Characters/NPC/Seni/Elaine.md",
     "Characters/NPC/Seni/Duke Henselt.md",
-    "Narrative/Timeline summary.md",
     "Characters/NPC/Seni/Lundgren Family/Ven-Dryk.md",
     "Resources/Character Art/VenDryk_Full.png",
     "Characters/NPC/Seni/Lundgren Family/Odonna-Dryk Lundgren.md",
@@ -206,8 +234,6 @@
     "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kaede.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ikuri.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
     "Resources/Character Art/greaterDragons",
     "Resources/Character Art/greaterDragon"
   ]

@@ -1,0 +1,1 @@
+The [[Eastern Confederacy]] retalliate against [[Napella Lundgren]] after her devastating assault on the Rheilliwch royal summer manor.
