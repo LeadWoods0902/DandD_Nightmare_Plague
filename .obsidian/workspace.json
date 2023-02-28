@@ -25,7 +25,7 @@
               "type": "markdown",
               "state": {
                 "file": "Narrative/Timeline summary.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Eastern Confederacy.md",
+                "file": "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timeline summary.md"
+                "file": "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md"
               }
             }
           },
@@ -196,10 +195,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "401099d019e4938b",
+  "active": "dd1c543a01728f61",
   "lastOpenFiles": [
-    "Groups/Eastern Confederacy.md",
+    "Narrative/1 - The Worst days of their lives/3. The first birth, again.md",
+    "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
+    "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md",
     "Narrative/Timeline summary.md",
+    "Characters/PC/Tom/Stronvan Quatre.md",
+    "Characters/PC/Tom/Seram Dos.md",
+    "Characters/PC/Tom/Rolbam Eins.md",
+    "Groups/Eastern Confederacy.md",
     "Additional Lore/Events/The Butchering of Brokvar.md",
     "Characters/NPC/Seni/Young Duchess Roderika.md",
     "Characters/NPC/Seni/The Mistress.md",
@@ -219,7 +224,6 @@
     "Characters/NPC/Seni/Brokvar/Rune Warriors.md",
     "Characters/NPC/Seni/Brokvar/Iosefka.md",
     "Characters/NPC/Seni/Brokvar/Gabriel.md",
-    "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
     "Resources/Character Art/Sansom_Full.jpg",
     "Resources/Character Art/prettyboi.png",
     "Resources/Character Art/Luppella_Full.png",
@@ -229,11 +233,6 @@
     "Resources/Character Art/PrettyBoi.png",
     "Resources/Character Art/Rapscallion.png",
     "Resources/Character Art/YoungNappella_Full.png",
-    "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
-    "Quests/-Quests-.md",
-    "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kaede.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ikuri.md",
     "Resources/Character Art/greaterDragons",
     "Resources/Character Art/greaterDragon"
   ]

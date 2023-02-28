@@ -27,14 +27,12 @@
 | | | | |
 | | | | |
 | | | | |
+|  1768/03 | 96  | Chimo-Nahagi  | [[Bismuth Shatterborne]] is born <br> [[Jasper Shatterborne]] is born |
 | 1772/03 | 100 | Cyfandirol | [[Lupella Lundgren]] is born |
 | 1773/01 | 101 | Sunmaek | [[Hinele]] is Born to [[Chancellor Sturgis]]|
-|  1773/03 | 101  | Chimo-Nahagi  | [[Bismuth Shatterborne]] is born <br> [[Jasper Shatterborne]] is born |
-| 1790/02 | 118 | Chimo-Nahagi | Bismuth and Jasper leave their home |
-| 1792/02 | 120 | Chimo-Nahagi | Jasper saves [[Nieveler Genlen]]'s crop  |
-| | 120/03 | Brokvar | Ven-Dryk swears to step down and allow a democratically elected leader to take the throne |
-||120/04| Sunmaek | Sunmaek royalty lay claim to Brokvar's throne |
+| 1784/02 | 112 | Chimo-Nahagi | Bismuth and Jasper leave their home |
+| 1790/03 | 118 | Chimo-Nahagi | Jasper saves [[Nieveler Genlen]]'s crop  |
+| 1792/03| 120 | Brokvar | Ven-Dryk swears to step down and allow a democratically elected leader to take the throne |
+|1792/04|120| Sunmaek | Sunmaek royalty lay claim to Brokvar's throne |
 | 1793/01 | 121 | Gwelodd Dant | Mazikeen's death is prevented by her wife |
 | 1793/02 | 121 | --- | Campaign begins |
-
-
