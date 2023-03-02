@@ -34,5 +34,5 @@
 | 1790/03 | 118 | Chimo-Nahagi | Jasper saves [[Nieveler Genlen]]'s crop  |
 | 1792/03| 120 | Brokvar | Ven-Dryk swears to step down and allow a democratically elected leader to take the throne |
 |1792/04|120| Sunmaek | Sunmaek royalty lay claim to Brokvar's throne |
-| 1793/01 | 121 | Gwelodd Dant | Mazikeen's death is prevented by her wife |
+| 1793/02 | 121 | Gwelodd Dant | Mazikeen's death is prevented by her wife |
 | 1793/02 | 121 | --- | Campaign begins |

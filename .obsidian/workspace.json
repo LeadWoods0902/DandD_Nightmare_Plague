@@ -38,20 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9271d4d6421ba8ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Additional Lore/Events/The Butchering of Brokvar.md",
+                "file": "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
+                "file": "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
+                "file": "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md"
+                "file": "Narrative/1 - The Worst days of their lives/1. A ship at sea.md"
               }
             }
           },
@@ -197,15 +184,16 @@
   },
   "active": "dd1c543a01728f61",
   "lastOpenFiles": [
+    "Narrative/Timeline summary.md",
+    "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
+    "Additional Lore/Events/The Butchering of Brokvar.md",
     "Narrative/1 - The Worst days of their lives/3. The first birth, again.md",
     "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
     "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md",
-    "Narrative/Timeline summary.md",
     "Characters/PC/Tom/Stronvan Quatre.md",
     "Characters/PC/Tom/Seram Dos.md",
     "Characters/PC/Tom/Rolbam Eins.md",
     "Groups/Eastern Confederacy.md",
-    "Additional Lore/Events/The Butchering of Brokvar.md",
     "Characters/NPC/Seni/Young Duchess Roderika.md",
     "Characters/NPC/Seni/The Mistress.md",
     "Characters/NPC/Seni/The crew of the Melodius Linnet.md",
@@ -223,7 +211,6 @@
     "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
     "Characters/NPC/Seni/Brokvar/Rune Warriors.md",
     "Characters/NPC/Seni/Brokvar/Iosefka.md",
-    "Characters/NPC/Seni/Brokvar/Gabriel.md",
     "Resources/Character Art/Sansom_Full.jpg",
     "Resources/Character Art/prettyboi.png",
     "Resources/Character Art/Luppella_Full.png",
