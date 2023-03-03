@@ -110,8 +110,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +176,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groups/The Commune.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +192,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groups/The Commune.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,9 +213,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Groups/The Commune.md"
-              }
+              "state": {}
             }
           },
           {
@@ -247,14 +242,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffac0c56c1be65a3",
+  "active": "c12ef8959c9a887b",
   "lastOpenFiles": [
+    "Narrative/Timeline summary.md",
+    "Groups/The Commune.md",
     "Groups/The Warlocks.md",
     "Groups/Primordial Vanguard.md",
     "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
     "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
     "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
-    "Narrative/Timeline summary.md",
     "Groups/Ymerodrol Empire.md",
     "Groups/Eastern Confederacy.md",
     "Locations/Seni Isles/-Seni Isles-.md",
@@ -275,7 +271,6 @@
     "Narrative/1 - The Worst days of their lives/6. Upon which the party is founded.md",
     "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
     "Narrative/1 - The Worst days of their lives/3. The first birth, again.md",
-    "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md",
     "Resources/Character Art/VenDryk_Full.png",
     "Resources/Character Art/Sansom_Full.jpg",
     "Resources/Character Art/prettyboi.png",
