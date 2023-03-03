@@ -38,25 +38,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
+                "file": "Narrative/Timeline summary.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "51076caa0667d8b8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Narrative/Timeline summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Narrative/Timeline summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Narrative/Timeline summary.md"
+              }
             }
           },
           {
@@ -188,8 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51076caa0667d8b8",
+  "active": "dd1c543a01728f61",
   "lastOpenFiles": [
+    "Narrative/Timeline summary.md",
+    "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
     "conflict-files-obsidian-git.md",
     "Quests/Individual/Past within the Present.md",
     "Quests/Individual/Echoes of the Forgotten.md",
@@ -205,7 +201,6 @@
     "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md",
     "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
     "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
-    "Narrative/Timeline summary.md",
     "Additional Lore/Events/The Butchering of Brokvar.md",
     "Characters/PC/Tom/Stronvan Quatre.md",
     "Characters/PC/Tom/Seram Dos.md",
@@ -215,7 +210,6 @@
     "Characters/NPC/Seni/The Mistress.md",
     "Characters/NPC/Seni/The crew of the Melodius Linnet.md",
     "Characters/NPC/Seni/The crew of the Kilfenora.md",
-    "Characters/NPC/Seni/The Captain of the Canvas Beater.md",
     "Resources/Character Art/VenDryk_Full.png",
     "Resources/Character Art/Sansom_Full.jpg",
     "Resources/Character Art/prettyboi.png",
