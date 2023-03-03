@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "401099d019e4938b",
+            "id": "b4aeefbc17a0b551",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "dd1c543a01728f61",
+            "id": "cfc42079a47725ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
+                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
+                "file": "Narrative/Timeline summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
+                "file": "Narrative/Timeline summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md"
+                "file": "Narrative/Timeline summary.md"
               }
             }
           },
@@ -182,45 +182,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd1c543a01728f61",
+  "active": "b4aeefbc17a0b551",
   "lastOpenFiles": [
-    "Quests/Individual/Past within the Present.md",
-    "Quests/Individual/Echoes of the Forgotten.md",
-    "Quests/Individual/Deathless, even in Death.md",
-    "Quests/Contracts/Brother Lost.md",
-    "Quests/Contracts/Creature in the Crop.md",
-    "Quests/Contracts/Help!.md",
-    "Narrative/2 - Currencies of the Empire/8. The Auction.md",
-    "Narrative/1 - The Worst days of their lives/7. That time we did that thing.md",
-    "Narrative/1 - The Worst days of their lives/6. Upon which the party is founded.md",
-    "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
-    "Narrative/1 - The Worst days of their lives/3. The first birth, again.md",
-    "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md",
-    "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
-    "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
-    "Narrative/Timeline summary.md",
     "Additional Lore/Events/The Butchering of Brokvar.md",
-    "Characters/PC/Tom/Stronvan Quatre.md",
-    "Characters/PC/Tom/Seram Dos.md",
-    "Characters/PC/Tom/Rolbam Eins.md",
-    "Groups/Eastern Confederacy.md",
-    "Characters/NPC/Seni/Young Duchess Roderika.md",
-    "Characters/NPC/Seni/The Mistress.md",
-    "Characters/NPC/Seni/The crew of the Melodius Linnet.md",
-    "Characters/NPC/Seni/The crew of the Kilfenora.md",
-    "Characters/NPC/Seni/The Captain of the Canvas Beater.md",
-    "Characters/NPC/Seni/Elaine.md",
-    "Resources/Character Art/VenDryk_Full.png",
-    "Resources/Character Art/Sansom_Full.jpg",
-    "Resources/Character Art/prettyboi.png",
-    "Resources/Character Art/Luppella_Full.png",
-    "Resources/Character Art/ForestRanger.png",
-    "Resources/Character Art/IceGenasi_Full.png",
-    "Resources/Character Art/Mortos_Human.png",
-    "Resources/Character Art/PrettyBoi.png",
-    "Resources/Character Art/Rapscallion.png",
-    "Resources/Character Art/YoungNappella_Full.png",
-    "Resources/Character Art/greaterDragons",
-    "Resources/Character Art/greaterDragon"
+    "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+    "conflict-files-obsidian-git.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Bōshi.md",
+    "Narrative/Timeline summary.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kenzen.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Iyashi.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Musoko.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Zenryoku.md"
   ]
 }
