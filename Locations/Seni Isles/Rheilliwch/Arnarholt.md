@@ -1,1 +1,1 @@
-The old capital of [[-Rheilliwch-]], the land is now under the control of [[-Cyfandirol-]]
+Was once the summer palace of [[-Rheilliwch-]]'s nobility, the land is now under disputed control be
