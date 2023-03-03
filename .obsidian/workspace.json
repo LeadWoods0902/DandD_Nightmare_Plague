@@ -31,87 +31,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "fd7fc14496d7dc22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8196470fd800ab9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/Ymerodrol Empire.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18f2e577a598221c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffac0c56c1be65a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77c2801df1b0b3cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/Primordial Vanguard.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd619d4540966ba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/Eastern Confederacy.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md"
-              }
+              "state": {}
             }
           },
           {
@@ -247,21 +164,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffac0c56c1be65a3",
+  "active": "c12ef8959c9a887b",
   "lastOpenFiles": [
-    "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
-    "Narrative/1 - The Worst days of their lives/6. Upon which the party is founded.md",
-    "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
-    "Narrative/1 - The Worst days of their lives/3. The first birth, again.md",
     "Narrative/Timeline summary.md",
-    "Groups/The Commune.md",
-    "Groups/The Warlocks.md",
     "Groups/Primordial Vanguard.md",
-    "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
-    "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
+    "Groups/Eastern Confederacy.md",
     "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
     "Groups/Ymerodrol Empire.md",
-    "Groups/Eastern Confederacy.md",
+    "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
+    "Narrative/1 - The Worst days of their lives/6. Upon which the party is founded.md",
+    "Narrative/2 - Currencies of the Empire/8. The Auction.md",
+    "Narrative/1 - The Worst days of their lives/7. That time we did that thing.md",
+    "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
+    "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
+    "Narrative/1 - The Worst days of their lives/3. The first birth, again.md",
+    "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md",
+    "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
+    "Groups/The Commune.md",
+    "Groups/The Warlocks.md",
+    "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
     "Locations/Seni Isles/-Seni Isles-.md",
     "Characters/NPC/Nieveler Genlen.md",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Rilldina.md",
@@ -272,10 +193,6 @@
     "conflict-files-obsidian-git.md",
     "Quests/Individual/Past within the Present.md",
     "Quests/Individual/Echoes of the Forgotten.md",
-    "Quests/Individual/Deathless, even in Death.md",
-    "Quests/Contracts/Brother Lost.md",
-    "Quests/Contracts/Help!.md",
-    "Narrative/2 - Currencies of the Empire/8. The Auction.md",
     "Resources/Character Art/VenDryk_Full.png",
     "Resources/Character Art/Sansom_Full.jpg",
     "Resources/Character Art/prettyboi.png",
