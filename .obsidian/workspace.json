@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/8. The Auction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/8. The Auction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Narrative/2 - Currencies of the Empire/8. The Auction.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,10 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1db5f112f0ee2ff1",
+  "active": "c12ef8959c9a887b",
   "lastOpenFiles": [
-    "Locations/Seni Isles/Cyfandirol/Menamawr.md",
     "Narrative/2 - Currencies of the Empire/8. The Auction.md",
+    "Locations/Seni Isles/Cyfandirol/Menamawr.md",
     "Narrative/Timeline summary.md",
     "Groups/Primordial Vanguard.md",
     "Groups/Eastern Confederacy.md",
