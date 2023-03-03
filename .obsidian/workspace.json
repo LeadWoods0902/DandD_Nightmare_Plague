@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Contracts/Creature in the Crop.md",
+                "file": "Characters/NPC/Nieveler Genlen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -179,6 +179,7 @@
   },
   "active": "c12ef8959c9a887b",
   "lastOpenFiles": [
+    "Characters/NPC/Nieveler Genlen.md",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Rilldina.md",
     "Quests/Contracts/Creature in the Crop.md",
     "Characters/Family Trees/Shatterborne.canvas",
