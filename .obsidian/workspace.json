@@ -36,14 +36,12 @@
             "id": "dd1c543a01728f61",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas",
-                "viewState": {
-                  "x": -40.5,
-                  "y": -259.5,
-                  "zoom": -1.3726013996469915
-                }
+                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Fjordina'.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -114,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas",
+                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Fjordina'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas",
+                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Fjordina'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas"
+                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Fjordina'.md"
               }
             }
           },
@@ -186,8 +184,8 @@
   },
   "active": "dd1c543a01728f61",
   "lastOpenFiles": [
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Carolynn.md",
     "Characters/Family Trees/Shatterborne.canvas",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Carolynn.md",
     "Narrative/Timeline summary.md",
     "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
     "conflict-files-obsidian-git.md",
