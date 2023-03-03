@@ -18,6 +18,19 @@
             }
           },
           {
+            "id": "127a0ed85cab2f54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Individual/Individual Quests.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "401099d019e4938b",
             "type": "leaf",
             "pinned": true,
@@ -45,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quests/Individual/Individual Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quests/Individual/Individual Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quests/Individual/Individual Quests.md"
+              }
             }
           },
           {
@@ -177,8 +195,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c12ef8959c9a887b",
+  "active": "127a0ed85cab2f54",
   "lastOpenFiles": [
+    "Quests/Individual/Individual Quests.md",
     "Narrative/2 - Currencies of the Empire/9. Brokvar's Border.md",
     "Narrative/2 - Currencies of the Empire/10. Enters Mistress Valthuna.md",
     "Narrative/2 - Currencies of the Empire/14..md",
