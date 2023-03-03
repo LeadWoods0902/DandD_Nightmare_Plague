@@ -3,11 +3,11 @@
 | | -184 | Seni | The Warlocks arrive |
 | | -163 | | Malkath Tribus does a thing |
 | 1576/04 | -96 | **Unknown** | Mazikeen is born |
-| 1649/02 | -23 | -Sunmaek- | Duska Von Mori is born |
-| 1672/03 | 0 | -Brokvar- | Napella Lundgren is born |
-| 1693/04 | 21 | Eastern -Seni Isles-]] | Eastern Civil War begins | 
+| 1649/02 | -23 | Sunmaek | Duska Von Mori is born |
+| 1672/03 | 0 | Brokvar | Napella Lundgren is born |
+| 1693/04 | 21 | Eastern Seni Isles | Eastern Civil War begins | 
 | 1695/02 | 23 | Eastern Seni Isles | Napella joins the war |
-| 1695/04 | 23 | -Cyfandirol- | Napella burns down the old capital of Rheilliwch <br> remains of capital washed down mountain |
+| 1695/04 | 23 | Cyfandirol | Napella burns down the old capital of Rheilliwch <br> remains of capital washed down mountain |
 | 1996/02 | 24 | Seni | The  civil war ends |
 | 1698/03 | 26 | Brokvar | Napella Marries Ven-Dryk |
 | 1704/02 | 32 | Brokvar | Napella Lundgren gives birth to a daughter(Amorella Lundgren) |
