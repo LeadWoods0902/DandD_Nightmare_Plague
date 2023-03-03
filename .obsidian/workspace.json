@@ -72,6 +72,19 @@
             }
           },
           {
+            "id": "ffac0c56c1be65a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cd619d4540966ba2",
             "type": "leaf",
             "state": {
@@ -85,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
+                "file": "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
+                "file": "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md"
+                "file": "Locations/Seni Isles/Rheilliwch/Arnarholt.md"
               }
             }
           },
@@ -221,11 +234,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18f2e577a598221c",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
+    "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
+    "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
     "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
     "Narrative/Timeline summary.md",
-    "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
     "Groups/Ymerodrol Empire.md",
     "Groups/Eastern Confederacy.md",
     "Locations/Seni Isles/-Seni Isles-.md",
@@ -249,7 +263,6 @@
     "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md",
     "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
     "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
-    "Additional Lore/Events/The Butchering of Brokvar.md",
     "Resources/Character Art/VenDryk_Full.png",
     "Resources/Character Art/Sansom_Full.jpg",
     "Resources/Character Art/prettyboi.png",
