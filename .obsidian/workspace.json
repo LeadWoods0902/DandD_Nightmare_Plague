@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timeline summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timeline summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Narrative/Timeline summary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,7 +177,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd1c543a01728f61",
+  "active": "c12ef8959c9a887b",
   "lastOpenFiles": [
     "Narrative/Timeline summary.md",
     "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
