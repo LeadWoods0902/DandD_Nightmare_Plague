@@ -36,16 +36,19 @@
             "id": "dd1c543a01728f61",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Narrative/Timeline summary.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Characters/Family Trees/Shatterborne.canvas",
+                "viewState": {
+                  "x": -40.5,
+                  "y": -259.5,
+                  "zoom": -1.3726013996469915
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Family Trees/Shatterborne.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Family Trees/Shatterborne.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/Family Trees/Shatterborne.canvas"
+              }
             }
           },
           {
@@ -177,8 +184,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c12ef8959c9a887b",
+  "active": "dd1c543a01728f61",
   "lastOpenFiles": [
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Carolynn.md",
+    "Characters/Family Trees/Shatterborne.canvas",
     "Narrative/Timeline summary.md",
     "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
     "conflict-files-obsidian-git.md",
@@ -203,8 +212,6 @@
     "Groups/Eastern Confederacy.md",
     "Characters/NPC/Seni/Young Duchess Roderika.md",
     "Characters/NPC/Seni/The Mistress.md",
-    "Characters/NPC/Seni/The crew of the Melodius Linnet.md",
-    "Characters/NPC/Seni/The crew of the Kilfenora.md",
     "Resources/Character Art/VenDryk_Full.png",
     "Resources/Character Art/Sansom_Full.jpg",
     "Resources/Character Art/prettyboi.png",
