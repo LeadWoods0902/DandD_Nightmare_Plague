@@ -40,8 +40,8 @@
               "state": {
                 "file": "Characters/Family Trees/Shatterborne.canvas",
                 "viewState": {
-                  "x": 114.57055263959884,
-                  "y": -372.31917229550413,
+                  "x": 143.05362797499603,
+                  "y": -205.39109464895523,
                   "zoom": -1.3726013996469915
                 }
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa.md",
+                "file": "Characters/Family Trees/Shatterborne.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa.md",
+                "file": "Characters/Family Trees/Shatterborne.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa.md"
+                "file": "Characters/Family Trees/Shatterborne.canvas"
               }
             }
           },

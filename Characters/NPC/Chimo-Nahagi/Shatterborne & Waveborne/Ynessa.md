@@ -2,3 +2,4 @@
 [[Agate Shatterborne]]
 [[Citrine Shatterborne]]
 [[Jasper Shatterborne]]
+[[Zircon Shatterborne]]
