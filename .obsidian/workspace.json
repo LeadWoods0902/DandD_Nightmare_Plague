@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/- Overview.md",
+                "file": "Narrative/2 - Currencies of the Empire/8. The Auction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/- Overview.md",
+                "file": "Narrative/2 - Currencies of the Empire/Currencies of The Empire.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/- Overview.md",
+                "file": "Narrative/2 - Currencies of the Empire/8. The Auction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/- Overview.md",
+                "file": "Narrative/2 - Currencies of the Empire/8. The Auction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/- Overview.md"
+                "file": "Narrative/2 - Currencies of the Empire/8. The Auction.md"
               }
             }
           },
@@ -223,12 +223,13 @@
   },
   "active": "d480573f850c1e42",
   "lastOpenFiles": [
+    "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md",
+    "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
+    "Narrative/1 - The Worst days of their lives/The Worst Days of their Lives.md",
     "Narrative/1 - The Worst days of their lives/7. That time we did that thing.md",
-    "Narrative/2 - Currencies of the Empire/- Overview.md",
-    "Narrative/1 - The Worst days of their lives/- Overview.md",
+    "Narrative/2 - Currencies of the Empire/Currencies of The Empire.md",
     "Narrative/2.md",
     "Narrative/temp/The Princess & The plunge.md",
-    "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
     "Narrative/temp",
     "Narrative/6 -",
     "Narrative/5 -",
@@ -246,7 +247,6 @@
     "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
     "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
     "Narrative/1 - The Worst days of their lives/3. The first birth, again.md",
-    "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md",
     "Groups/The Commune.md",
     "Groups/The Warlocks.md",
     "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
