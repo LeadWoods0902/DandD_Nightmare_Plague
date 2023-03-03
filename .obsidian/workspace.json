@@ -44,9 +44,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51076caa0667d8b8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,7 +192,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd1c543a01728f61",
+  "active": "51076caa0667d8b8",
   "lastOpenFiles": [
     "Quests/Individual/Past within the Present.md",
     "Quests/Individual/Echoes of the Forgotten.md",
