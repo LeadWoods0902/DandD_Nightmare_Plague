@@ -1,1 +1,1 @@
-Emperor of the [[Ymerodrol Empire]], Fenian was born to 
+Emperor of the [[Ymerodrol Empire]], Fenian was born a noble in the court of the old Rheilliwch Capital, [[]]

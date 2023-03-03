@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
+                "file": "Narrative/Timeline summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
+                "file": "Narrative/Timeline summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md"
+                "file": "Narrative/Timeline summary.md"
               }
             }
           },
@@ -221,10 +221,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18f2e577a598221c",
+  "active": "401099d019e4938b",
   "lastOpenFiles": [
-    "Groups/Ymerodrol Empire.md",
     "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
+    "Groups/Ymerodrol Empire.md",
     "Groups/Eastern Confederacy.md",
     "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
     "Locations/Seni Isles/-Seni Isles-.md",
