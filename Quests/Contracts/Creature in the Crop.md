@@ -13,7 +13,7 @@
 #### Additional
 - Sack of Premium Citra Hops
 #### Bonus / Secret
-- Hop Head companion
+- [[Hop Head (Companion)]]
 	- Requirement: Complete the contract without killing the Hop Head
 - 150 Baht
 	- Requirement: Complete the contract in less than three days
