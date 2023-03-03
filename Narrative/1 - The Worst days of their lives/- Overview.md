@@ -1,6 +1,10 @@
 Introduce each of the characters
 
-First Chapter: [[1. A ship at sea]]
+First: [[1. A ship at sea]]
+
+Last: [[7. That time we did that thing]]
+
+Next Chapter: [[Narrative/2 - Currencies of the Empire/- Overview]](Currencies of the Empire)
 
 ---
 
@@ -13,4 +17,4 @@ Cast:
 - Hinele
 - Chancellor Sturgis
 - Bismuth Shatterborne
-Jasper Shatterborne
+- Jasper Shatterborne

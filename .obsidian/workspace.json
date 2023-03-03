@@ -44,6 +44,19 @@
             }
           },
           {
+            "id": "f82e4a4513aae0e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/1 - The Worst days of their lives/- Overview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "401099d019e4938b",
             "type": "leaf",
             "pinned": true,
@@ -72,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,10 +221,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d480573f850c1e42",
+  "active": "f82e4a4513aae0e3",
   "lastOpenFiles": [
-    "Narrative/temp/The Princess & The plunge.md",
+    "Narrative/2 - Currencies of the Empire/- Overview.md",
     "Narrative/1 - The Worst days of their lives/- Overview.md",
+    "Narrative/temp/The Princess & The plunge.md",
     "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
     "Narrative/temp",
     "Narrative/6 -",
@@ -241,7 +255,6 @@
     "Quests/Contracts/Creature in the Crop.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Carolynn.md",
-    "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
     "Resources/Character Art/VenDryk_Full.png",
     "Resources/Character Art/Sansom_Full.jpg",
     "Resources/Character Art/prettyboi.png",
