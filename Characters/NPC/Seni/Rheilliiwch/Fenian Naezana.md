@@ -1,1 +1,1 @@
-Emperor of the [[Ymerodrol Empire]]
+Emperor of the [[Ymerodrol Empire]], Fenian was born to 
