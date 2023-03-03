@@ -33,12 +33,27 @@
             }
           },
           {
+            "id": "fd7fc14496d7dc22",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Characters/Family Trees/Shatterborne.canvas",
+                "viewState": {
+                  "x": 114.57055263959884,
+                  "y": -372.31917229550413,
+                  "zoom": -1.3726013996469915
+                }
+              }
+            }
+          },
+          {
             "id": "dd1c543a01728f61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Fjordina'.md",
+                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Rilldina.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Fjordina'.md",
+                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Fjordina'.md",
+                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Fjordina'.md"
+                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa.md"
               }
             }
           },
@@ -182,8 +197,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd1c543a01728f61",
+  "active": "fd7fc14496d7dc22",
   "lastOpenFiles": [
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Rilldina.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Carolynn.md",
     "Narrative/Timeline summary.md",
