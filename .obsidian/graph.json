@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:Narrative/Overviews",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
       "query": "path:Characters/Bosses",
       "color": {
         "a": 1,
@@ -83,13 +90,6 @@
         "a": 1,
         "rgb": 1205107
       }
-    },
-    {
-      "query": "path:",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
     }
   ],
   "collapse-display": true,
@@ -103,5 +103,5 @@
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 0.24133855925839945,
-  "close": false
+  "close": true
 }
