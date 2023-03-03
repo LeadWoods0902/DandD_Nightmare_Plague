@@ -1,1 +1,1 @@
-The party is introduced to Lupella, reaver queen of Gogle 
+The party is introduced to Lupella, reaver queen of Gogledd Ynys

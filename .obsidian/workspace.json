@@ -31,6 +31,19 @@
             }
           },
           {
+            "id": "d480573f850c1e42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/1 - The Worst days of their lives/- Overview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "401099d019e4938b",
             "type": "leaf",
             "pinned": true,
@@ -59,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/temp/The Princess & The plunge.md",
+                "file": "Narrative/1 - The Worst days of their lives/- Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/temp/The Princess & The plunge.md",
+                "file": "Narrative/1 - The Worst days of their lives/- Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/temp/The Princess & The plunge.md"
+                "file": "Narrative/1 - The Worst days of their lives/- Overview.md"
               }
             }
           },
@@ -195,9 +208,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a765df3d6fa8e4f",
+  "active": "d480573f850c1e42",
   "lastOpenFiles": [
     "Narrative/temp/The Princess & The plunge.md",
+    "Narrative/1 - The Worst days of their lives/- Overview.md",
+    "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
     "Narrative/temp",
     "Narrative/6 -",
     "Narrative/5 -",
@@ -217,7 +232,6 @@
     "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
     "Narrative/1 - The Worst days of their lives/3. The first birth, again.md",
     "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md",
-    "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
     "Groups/The Commune.md",
     "Groups/The Warlocks.md",
     "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
@@ -228,7 +242,6 @@
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Carolynn.md",
     "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
-    "conflict-files-obsidian-git.md",
     "Resources/Character Art/VenDryk_Full.png",
     "Resources/Character Art/Sansom_Full.jpg",
     "Resources/Character Art/prettyboi.png",
