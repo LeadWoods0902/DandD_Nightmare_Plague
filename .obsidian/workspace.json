@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Individual/Individual Quests.md",
+                "file": "Quests/Individual/Echoes of the Forgotten.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Individual/Individual Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Individual/Individual Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Quests/Individual/Individual Quests.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,8 +190,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "127a0ed85cab2f54",
+  "active": "c12ef8959c9a887b",
   "lastOpenFiles": [
+    "Quests/Individual/Echoes of the Forgotten.md",
+    "Quests/Individual/Past within the Present.md",
     "Quests/Individual/Individual Quests.md",
     "Narrative/2 - Currencies of the Empire/9. Brokvar's Border.md",
     "Narrative/2 - Currencies of the Empire/10. Enters Mistress Valthuna.md",
@@ -223,13 +220,11 @@
     "Narrative/temp/The Princess & The plunge.md",
     "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md",
     "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
-    "Narrative/2.md",
     "Narrative/temp",
     "Narrative/6 -",
     "Narrative/5 -",
     "Narrative/4 -",
     "Narrative/3 -",
-    "Locations/Seni Isles/Cyfandirol/Menamawr.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Resources/Character Art/VenDryk_Full.png",
     "Resources/Character Art/Sansom_Full.jpg",
