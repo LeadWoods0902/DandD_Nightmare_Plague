@@ -18,45 +18,6 @@
             }
           },
           {
-            "id": "5a765df3d6fa8e4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/temp/The Princess & The plunge.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d480573f850c1e42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/2 - Currencies of the Empire/8. The Auction.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f82e4a4513aae0e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/2 - Currencies of the Empire/Currencies of The Empire.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "401099d019e4938b",
             "type": "leaf",
             "pinned": true,
@@ -72,12 +33,103 @@
             }
           },
           {
-            "id": "1db5f112f0ee2ff1",
+            "id": "edbc8c156dc37aba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/8. The Auction.md",
+                "file": "Narrative/2 - Currencies of the Empire/Currencies of The Empire.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd17b88457efad55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/2 - Currencies of the Empire/9..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1312e13717f74a7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/2 - Currencies of the Empire/10..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6c57d2cd5c143af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/2 - Currencies of the Empire/11..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fb53bc98abf87fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/2 - Currencies of the Empire/12..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c5dd62af5ad1363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/2 - Currencies of the Empire/13..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adbd147b2a90a01b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/2 - Currencies of the Empire/14..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "453fe7843521f995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/3 -/15..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -151,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/8. The Auction.md",
+                "file": "Narrative/3 -/15..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/8. The Auction.md",
+                "file": "Narrative/3 -/15..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/8. The Auction.md"
+                "file": "Narrative/3 -/15..md"
               }
             }
           },
@@ -221,23 +273,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d480573f850c1e42",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
+    "Narrative/3 -/Untitled",
+    "Narrative/2 - Currencies of the Empire/14..md",
+    "Narrative/3 -/15..md",
+    "Narrative/2 - Currencies of the Empire/13..md",
+    "Narrative/2 - Currencies of the Empire/12..md",
+    "Narrative/2 - Currencies of the Empire/11..md",
+    "Narrative/2 - Currencies of the Empire/10..md",
+    "Narrative/2 - Currencies of the Empire/9..md",
+    "Narrative/2 - Currencies of the Empire/Currencies of The Empire.md",
+    "Narrative/Timeline summary.md",
+    "Narrative/2 - Currencies of the Empire/8. The Auction.md",
+    "Narrative/temp/The Princess & The plunge.md",
     "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md",
     "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
     "Narrative/1 - The Worst days of their lives/The Worst Days of their Lives.md",
     "Narrative/1 - The Worst days of their lives/7. That time we did that thing.md",
-    "Narrative/2 - Currencies of the Empire/Currencies of The Empire.md",
     "Narrative/2.md",
-    "Narrative/temp/The Princess & The plunge.md",
     "Narrative/temp",
     "Narrative/6 -",
     "Narrative/5 -",
     "Narrative/4 -",
     "Narrative/3 -",
-    "Narrative/2 - Currencies of the Empire/8. The Auction.md",
     "Locations/Seni Isles/Cyfandirol/Menamawr.md",
-    "Narrative/Timeline summary.md",
     "Groups/Primordial Vanguard.md",
     "Groups/Eastern Confederacy.md",
     "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
@@ -246,14 +306,6 @@
     "Narrative/1 - The Worst days of their lives/6. Upon which the party is founded.md",
     "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
     "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
-    "Narrative/1 - The Worst days of their lives/3. The first birth, again.md",
-    "Groups/The Commune.md",
-    "Groups/The Warlocks.md",
-    "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
-    "Locations/Seni Isles/-Seni Isles-.md",
-    "Characters/NPC/Nieveler Genlen.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Rilldina.md",
-    "Quests/Contracts/Creature in the Crop.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Resources/Character Art/VenDryk_Full.png",
     "Resources/Character Art/Sansom_Full.jpg",
