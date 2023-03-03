@@ -1,0 +1,1 @@
+The party is introduced to Lupella, reaver queen of Gogle 
