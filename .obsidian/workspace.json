@@ -85,6 +85,19 @@
             }
           },
           {
+            "id": "77c2801df1b0b3cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Groups/Primordial Vanguard.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cd619d4540966ba2",
             "type": "leaf",
             "state": {
@@ -98,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groups/The Warlocks.md",
+                "file": "Groups/Primordial Vanguard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groups/The Warlocks.md",
+                "file": "Groups/Primordial Vanguard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groups/The Warlocks.md"
+                "file": "Groups/Primordial Vanguard.md"
               }
             }
           },
@@ -234,8 +247,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffac0c56c1be65a3",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
+    "Groups/The Warlocks.md",
+    "Groups/Primordial Vanguard.md",
     "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
     "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
     "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
@@ -261,8 +276,6 @@
     "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
     "Narrative/1 - The Worst days of their lives/3. The first birth, again.md",
     "Narrative/1 - The Worst days of their lives/2. Ahh... beautiful respite, oh wait.md",
-    "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
-    "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
     "Resources/Character Art/VenDryk_Full.png",
     "Resources/Character Art/Sansom_Full.jpg",
     "Resources/Character Art/prettyboi.png",
