@@ -54,22 +54,9 @@
                 "currentVersion": "1.1.16"
               }
             }
-          },
-          {
-            "id": "af335d463345167a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,7 +188,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af335d463345167a",
+  "active": "51076caa0667d8b8",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Quests/Individual/Past within the Present.md",
