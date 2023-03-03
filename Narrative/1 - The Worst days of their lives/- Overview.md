@@ -8,6 +8,9 @@ Introduce each of the characters
 [[6. Upon which the party is founded]]
 [[7. That time we did that thing]]
 
+Next: [[Narrative/2 - Currencies of the Empire/- Overview]]
+
+
 
 ---
 
