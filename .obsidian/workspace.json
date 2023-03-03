@@ -31,8 +31,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1db5f112f0ee2ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/2 - Currencies of the Empire/8. The Auction.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Narrative/2 - Currencies of the Empire/8. The Auction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Narrative/2 - Currencies of the Empire/8. The Auction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Narrative/2 - Currencies of the Empire/8. The Auction.md"
+              }
             }
           },
           {
@@ -164,8 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c12ef8959c9a887b",
+  "active": "1db5f112f0ee2ff1",
   "lastOpenFiles": [
+    "Locations/Seni Isles/Cyfandirol/Menamawr.md",
+    "Narrative/2 - Currencies of the Empire/8. The Auction.md",
     "Narrative/Timeline summary.md",
     "Groups/Primordial Vanguard.md",
     "Groups/Eastern Confederacy.md",
@@ -173,7 +193,6 @@
     "Groups/Ymerodrol Empire.md",
     "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
     "Narrative/1 - The Worst days of their lives/6. Upon which the party is founded.md",
-    "Narrative/2 - Currencies of the Empire/8. The Auction.md",
     "Narrative/1 - The Worst days of their lives/7. That time we did that thing.md",
     "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
     "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
@@ -192,7 +211,6 @@
     "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
     "conflict-files-obsidian-git.md",
     "Quests/Individual/Past within the Present.md",
-    "Quests/Individual/Echoes of the Forgotten.md",
     "Resources/Character Art/VenDryk_Full.png",
     "Resources/Character Art/Sansom_Full.jpg",
     "Resources/Character Art/prettyboi.png",
