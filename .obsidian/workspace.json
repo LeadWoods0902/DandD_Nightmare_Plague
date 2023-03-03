@@ -38,14 +38,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Seni Isles/-Seni Isles-.md",
+                "file": "Locations/Seni Isles/Rheilliwch/Occupied Capital.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Seni Isles/Rheilliwch/Occupied Capital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/Seni Isles/Rheilliwch/Occupied Capital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/Seni Isles/Rheilliwch/Occupied Capital.md"
+              }
             }
           },
           {
@@ -177,7 +182,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c12ef8959c9a887b",
+  "active": "fd7fc14496d7dc22",
   "lastOpenFiles": [
     "Locations/Seni Isles/-Seni Isles-.md",
     "Characters/NPC/Nieveler Genlen.md",
