@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
+                "file": "Groups/The Warlocks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
+                "file": "Groups/The Warlocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
+                "file": "Groups/The Warlocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Seni Isles/Rheilliwch/Arnarholt.md"
+                "file": "Groups/The Warlocks.md"
               }
             }
           },
@@ -234,10 +234,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "ffac0c56c1be65a3",
   "lastOpenFiles": [
-    "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
     "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
+    "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
     "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
     "Narrative/Timeline summary.md",
     "Groups/Ymerodrol Empire.md",
