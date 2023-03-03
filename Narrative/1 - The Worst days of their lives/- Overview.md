@@ -5,9 +5,12 @@ First Chapter: [[1. A ship at sea]]
 ---
 
 Cast:
-[[Nomli Gurglegum]]
-[[Herouk Barrelbasher]]
-[[The crew of the Kilfenora]]
-[[The crew of the Melodius Linnet]
-[[Bismuth Shatterborne]]
-[[Jasper Shatterborne]]
+- Nomli Gurglegum
+- Herouk Barrelbasher
+- The crew of the Kilfenora
+- The crew of the Melodius Linnet
+- Duska Von Mori
+- Hinele
+- Chancellor Sturgis
+- Bismuth Shatterborne
+Jasper Shatterborne
