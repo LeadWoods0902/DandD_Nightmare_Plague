@@ -59,6 +59,19 @@
             }
           },
           {
+            "id": "18f2e577a598221c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cd619d4540966ba2",
             "type": "leaf",
             "state": {
@@ -210,8 +223,9 @@
   },
   "active": "c8196470fd800ab9",
   "lastOpenFiles": [
-    "Groups/Eastern Confederacy.md",
+    "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
     "Groups/Ymerodrol Empire.md",
+    "Groups/Eastern Confederacy.md",
     "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
     "Locations/Seni Isles/-Seni Isles-.md",
     "Characters/NPC/Nieveler Genlen.md",
@@ -236,7 +250,6 @@
     "Narrative/1 - The Worst days of their lives/1. A ship at sea.md",
     "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
     "Additional Lore/Events/The Butchering of Brokvar.md",
-    "Characters/PC/Tom/Stronvan Quatre.md",
     "Resources/Character Art/VenDryk_Full.png",
     "Resources/Character Art/Sansom_Full.jpg",
     "Resources/Character Art/prettyboi.png",

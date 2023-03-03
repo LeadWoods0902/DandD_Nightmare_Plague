@@ -1,0 +1,1 @@
+Emperor of the [[Ymerodrol Empire]]
