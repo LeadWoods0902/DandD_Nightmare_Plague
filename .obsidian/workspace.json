@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/The Warlocks.md",
+                "file": "Groups/The Commune.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groups/Primordial Vanguard.md",
+                "file": "Groups/The Commune.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groups/Primordial Vanguard.md",
+                "file": "Groups/The Commune.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groups/Primordial Vanguard.md"
+                "file": "Groups/The Commune.md"
               }
             }
           },
@@ -247,7 +247,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "ffac0c56c1be65a3",
   "lastOpenFiles": [
     "Groups/The Warlocks.md",
     "Groups/Primordial Vanguard.md",
