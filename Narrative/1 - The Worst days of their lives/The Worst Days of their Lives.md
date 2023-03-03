@@ -1,7 +1,7 @@
 Introduce each of the characters
 
-[[1. A ship at sea]]
-[[8. The Auction]]
+First: [[1. A ship at sea]]
+Last: [[7. That time we did that thing]]
 
 Next: [[Currencies of The Empire]]
 
