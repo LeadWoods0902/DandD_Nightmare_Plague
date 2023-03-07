@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/2..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/2..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Narrative/1 - The Worst days of their lives/2..md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,8 +177,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb7ca7074fb10b11",
+  "active": "a763b60f8dc01661",
   "lastOpenFiles": [
+    "Narrative/1 - The Worst days of their lives/2..md",
     "Narrative/1 - The Worst days of their lives/1. The twinned Ships.md",
     "Narrative/2 - Currencies of the Empire/10. Enters Valthuna.md",
     "Narrative/Overviews/Chapter 4.md",
@@ -210,7 +206,6 @@
     "Narrative/3 -/15..md",
     "Narrative/2 - Currencies of the Empire/8. The Auction.md",
     "Narrative/2 - Currencies of the Empire/11..md",
-    "Narrative/2 - Currencies of the Empire/12..md",
     "Narrative/3 -/Untitled",
     "Narrative/temp",
     "Narrative/6 -",
