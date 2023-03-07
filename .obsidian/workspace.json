@@ -47,25 +47,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "dc5ba8a3c286c420",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ad9c2241529d86ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The twinned Ships.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "right": {
     "id": "d86284bd8a071899",
