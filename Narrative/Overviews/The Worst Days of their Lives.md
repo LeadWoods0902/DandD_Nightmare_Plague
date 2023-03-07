@@ -1,7 +1,6 @@
 Introduce each of the characters
 
 First: [[1. A ship at sea]]
-Last: [[7. That time we did that thing]]
 
 Next: [[Currencies of The Empire]]
 

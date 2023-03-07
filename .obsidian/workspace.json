@@ -31,6 +31,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "fb7ca7074fb10b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/Overviews/The Worst Days of their Lives.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -166,7 +179,11 @@
   },
   "active": "a763b60f8dc01661",
   "lastOpenFiles": [
+    "Narrative/Overviews/The Worst Days of their Lives.md",
+    "Narrative/1 - The Worst days of their lives/7. That time we did that thing.md",
+    "Narrative/Overviews/Currencies of The Empire.md",
     "Narrative/Timeline summary.md",
+    "Narrative/2 - Currencies of the Empire/14..md",
     "Locations/Seni Isles/Rheilliwch/Croes Bridge.md",
     "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md",
     "Quests/Individual/Individual Quests.md",
@@ -174,7 +191,6 @@
     "Quests/Individual/Echoes of the Forgotten.md",
     "Quests/Individual/Past within the Present.md",
     "Narrative/2 - Currencies of the Empire/10. Enters Mistress Valthuna.md",
-    "Narrative/2 - Currencies of the Empire/14..md",
     "Narrative/Overviews",
     "Narrative/4 -/22..md",
     "Narrative/3 -/21..md",
@@ -185,13 +201,10 @@
     "Narrative/3 -/16..md",
     "Narrative/3 -/15..md",
     "Narrative/Overviews/Chapter 3.md",
-    "Narrative/1 - The Worst days of their lives/7. That time we did that thing.md",
     "Narrative/2 - Currencies of the Empire/8. The Auction.md",
     "Narrative/2 - Currencies of the Empire/11..md",
     "Narrative/2 - Currencies of the Empire/12..md",
     "Narrative/2 - Currencies of the Empire/13..md",
-    "Narrative/Overviews/Currencies of The Empire.md",
-    "Narrative/Overviews/The Worst Days of their Lives.md",
     "Narrative/3 -/Untitled",
     "Narrative/temp/The Princess & The plunge.md",
     "Narrative/temp",
