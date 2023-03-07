@@ -38,14 +38,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Overviews/The Worst Days of their Lives.md",
+                "file": "Narrative/Overviews/Chapter 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Narrative/Overviews/Chapter 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Narrative/Overviews/Chapter 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Narrative/Overviews/Chapter 4.md"
+              }
             }
           },
           {
@@ -177,11 +182,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a763b60f8dc01661",
+  "active": "fb7ca7074fb10b11",
   "lastOpenFiles": [
+    "Narrative/3 -/21..md",
+    "Narrative/4 -/22..md",
+    "Narrative/Overviews/Chapter 3.md",
+    "Narrative/Overviews/Currencies of The Empire.md",
+    "Narrative/Overviews/Chapter 4.md",
     "Narrative/Overviews/The Worst Days of their Lives.md",
     "Narrative/1 - The Worst days of their lives/7. That time we did that thing.md",
-    "Narrative/Overviews/Currencies of The Empire.md",
     "Narrative/Timeline summary.md",
     "Narrative/2 - Currencies of the Empire/14..md",
     "Locations/Seni Isles/Rheilliwch/Croes Bridge.md",
@@ -192,21 +201,17 @@
     "Quests/Individual/Past within the Present.md",
     "Narrative/2 - Currencies of the Empire/10. Enters Mistress Valthuna.md",
     "Narrative/Overviews",
-    "Narrative/4 -/22..md",
-    "Narrative/3 -/21..md",
     "Narrative/3 -/20..md",
     "Narrative/3 -/19..md",
     "Narrative/3 -/18..md",
     "Narrative/3 -/17..md",
     "Narrative/3 -/16..md",
     "Narrative/3 -/15..md",
-    "Narrative/Overviews/Chapter 3.md",
     "Narrative/2 - Currencies of the Empire/8. The Auction.md",
     "Narrative/2 - Currencies of the Empire/11..md",
     "Narrative/2 - Currencies of the Empire/12..md",
     "Narrative/2 - Currencies of the Empire/13..md",
     "Narrative/3 -/Untitled",
-    "Narrative/temp/The Princess & The plunge.md",
     "Narrative/temp",
     "Narrative/6 -",
     "Narrative/5 -",
