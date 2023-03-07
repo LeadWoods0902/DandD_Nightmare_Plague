@@ -38,19 +38,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The twinned Ships.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11529a84982cfb4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord.md",
                 "mode": "source",
                 "backlinks": true,
@@ -59,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "dc5ba8a3c286c420",
@@ -214,16 +201,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "11529a84982cfb4a",
+  "active": "b5ba3d0542455cb4",
   "lastOpenFiles": [
     "Narrative/1 - The Worst days of their lives/1. The twinned Ships.md",
-    "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord.md",
-    "Narrative/2 - Currencies of the Empire/8. The Auction.md",
-    "Narrative/Timeline summary.md",
-    "Narrative/1 - The Worst days of their lives/3..md",
     "Narrative/1 - The Worst days of their lives/6. That time we did that thing.md",
     "Narrative/1 - The Worst days of their lives/5. Upon which the party is founded.md",
     "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
+    "Narrative/1 - The Worst days of their lives/3..md",
+    "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord.md",
+    "Narrative/2 - Currencies of the Empire/8. The Auction.md",
+    "Narrative/Timeline summary.md",
     "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
     "Narrative/2 - Currencies of the Empire/10. Enters Valthuna.md",
     "Narrative/Overviews/Chapter 4.md",
