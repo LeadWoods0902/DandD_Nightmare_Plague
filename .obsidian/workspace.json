@@ -33,25 +33,12 @@
             }
           },
           {
-            "id": "fb7ca7074fb10b11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "542d480ee3d3216d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/6. That time we did that thing.md",
+                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/6. That time we did that thing.md",
+                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/6. That time we did that thing.md",
+                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/6. That time we did that thing.md"
+                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian.md"
               }
             }
           },
@@ -197,11 +184,12 @@
   },
   "active": "542d480ee3d3216d",
   "lastOpenFiles": [
+    "Narrative/1 - The Worst days of their lives/6. That time we did that thing.md",
     "Narrative/1 - The Worst days of their lives/5. Upon which the party is founded.md",
     "Narrative/1 - The Worst days of their lives/4. The forging of the minds.md",
     "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
     "Narrative/1 - The Worst days of their lives/3. The first birth, again.md",
-    "Narrative/1 - The Worst days of their lives/2..md",
+    "Narrative/1 - The Worst days of their lives/2. The Librarian.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned Ships.md",
     "Narrative/2 - Currencies of the Empire/10. Enters Valthuna.md",
     "Narrative/Overviews/Chapter 4.md",
@@ -210,7 +198,6 @@
     "Narrative/Overviews/Chapter 3.md",
     "Narrative/Overviews/Currencies of The Empire.md",
     "Narrative/Overviews/The Worst Days of their Lives.md",
-    "Narrative/1 - The Worst days of their lives/6. That time we did that thing.md",
     "Narrative/Timeline summary.md",
     "Narrative/2 - Currencies of the Empire/14..md",
     "Locations/Seni Isles/Rheilliwch/Croes Bridge.md",
