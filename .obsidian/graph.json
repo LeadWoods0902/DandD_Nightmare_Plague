@@ -5,8 +5,15 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
+    {
+      "query": "path:Narrative/Overviews",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
     {
       "query": "path:Characters/Bosses",
       "color": {
@@ -86,7 +93,7 @@
     }
   ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 2.0140625,
@@ -95,6 +102,10 @@
   "repelStrength": 14.8958333333333,
   "linkStrength": 1,
   "linkDistance": 30,
+<<<<<<< HEAD
   "scale": 0.15431816481738034,
+=======
+  "scale": 0.24007600940335488,
+>>>>>>> origin/main
   "close": true
 }

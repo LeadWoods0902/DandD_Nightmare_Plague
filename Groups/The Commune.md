@@ -1,1 +1,4 @@
-Secret group within the Commune of Nëoris, working for their own ends with a major goal being control of [[-Brokvar-]]
+The main religious sect of Brokvar, the commune strives to carry out the will of [[Nëoris]]. 
+
+Their work consists mostly of healing and protection. 
+
