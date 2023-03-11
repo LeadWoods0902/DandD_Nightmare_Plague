@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Narrative/Overviews",
@@ -93,7 +93,7 @@
     }
   ],
   "collapse-display": true,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 2.0140625,
@@ -102,10 +102,6 @@
   "repelStrength": 14.8958333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-<<<<<<< HEAD
-  "scale": 0.15431816481738034,
-=======
-  "scale": 0.24007600940335488,
->>>>>>> origin/main
+  "scale": 0.8358543930463347,
   "close": true
 }

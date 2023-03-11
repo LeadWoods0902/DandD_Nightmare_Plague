@@ -1,8 +1,8 @@
 {
-  "commitMessage": "backup: {{date}} ",
+  "commitMessage": "{{hostname}} backup: {{date}} ",
   "autoCommitMessage": "{{hostname}} backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm",
-  "autoSaveInterval": 1,
+  "autoSaveInterval": 15,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,

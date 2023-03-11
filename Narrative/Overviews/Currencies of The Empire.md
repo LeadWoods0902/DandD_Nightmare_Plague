@@ -1,4 +1,4 @@
 
-First: [[8. The Auction]]
+First: [[9. The Auction]]
 
 Next: [[Chapter 3]]

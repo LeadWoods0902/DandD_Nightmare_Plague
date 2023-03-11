@@ -1,6 +1,6 @@
 Introduce each of the characters
 
-First: [[1. The twinned Ships]]
+First: [[1. The Twinned Ships]]
 
 Next: [[Currencies of The Empire]]
 
