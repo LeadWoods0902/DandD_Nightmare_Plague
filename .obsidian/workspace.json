@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The Twinned Ships.md",
+                "file": "Characters/NPC/Seni/Elaine.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The Twinned Ships.md",
+                "file": "Characters/NPC/Seni/Elaine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The Twinned Ships.md",
+                "file": "Characters/NPC/Seni/Elaine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The Twinned Ships.md"
+                "file": "Characters/NPC/Seni/Elaine.md"
               }
             }
           },
@@ -184,13 +184,15 @@
   },
   "active": "827f22997e10b739",
   "lastOpenFiles": [
+    "Characters/NPC/Seni/Duke Henselt.md",
+    "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
+    "Narrative/1 - The Worst days of their lives/1. The Twinned Ships.md",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord.md",
     "Narrative/2 - Currencies of the Empire/11. Enters Valthuna.md",
     "Narrative/2 - Currencies of the Empire/10. Brokvar's Border.md",
     "Narrative/2 - Currencies of the Empire/11..md",
     "Narrative/2 - Currencies of the Empire/9. The Auction.md",
     "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes.md",
-    "Narrative/1 - The Worst days of their lives/1. The Twinned Ships.md",
     "Narrative/Timeline summary.md",
     "conflict-files-obsidian-git.md",
     "Quests/Individual/Individual Quests.md",
@@ -211,8 +213,6 @@
     "Narrative/3 -/16..md",
     "Narrative/3 -/15..md",
     "Narrative/3 -",
-    "Narrative/2 - Currencies of the Empire/14..md",
-    "Narrative/2 - Currencies of the Empire/13..md",
-    "Narrative/2 - Currencies of the Empire/12..md"
+    "Narrative/2 - Currencies of the Empire/14..md"
   ]
 }
