@@ -46,6 +46,32 @@
             }
           },
           {
+            "id": "69adab7edd60a4e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Individual/Past within the Present/Malkath's Quest.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e55d667e010ea234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Individual/Past within the Present/Stronvan's Quest.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4e9782da1e37000d",
             "type": "leaf",
             "state": {
@@ -72,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -210,9 +236,11 @@
   },
   "active": "96223b4f233dcc02",
   "lastOpenFiles": [
-    "Quests/Individual/Past within the Present/Rolbam's Quest.md",
-    "Quests/Individual/Past within the Present/Seram's Quest.md",
+    "Quests/Individual/Past within the Present/Stronvan's Quest.md",
+    "Quests/Individual/Past within the Present/Malkath's Quest.md",
     "Narrative/1 - The Worst days of their lives/5. The Forging of the Minds.md",
+    "Quests/Individual/Past within the Present/Seram's Quest.md",
+    "Quests/Individual/Past within the Present/Rolbam's Quest.md",
     "Quests/Individual/What was, is not always what is.md",
     "Quests/Individual/Past within the Present.md",
     "Quests/Individual/Past within the Present",
@@ -236,8 +264,6 @@
     "Narrative/2 - Currencies of the Empire/10. Enters Valthuna.md",
     "Narrative/Overviews/Chapter 4.md",
     "Narrative/3 -/21..md",
-    "Narrative/4 -/22..md",
-    "Narrative/Overviews/Chapter 3.md",
     "Narrative/Overviews",
     "Narrative/3 -/Untitled",
     "Narrative/temp",
