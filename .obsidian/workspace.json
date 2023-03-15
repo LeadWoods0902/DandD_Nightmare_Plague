@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "b5ba3d0542455cb4",
+            "id": "cc207b177b638213",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
+                "file": "Narrative/1 - The Worst days of their lives/5. The Forging of the Minds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,12 +46,25 @@
             }
           },
           {
-            "id": "cc207b177b638213",
+            "id": "4e9782da1e37000d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord.md",
+                "file": "Quests/Individual/Past within the Present/Rolbam's Quest.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96223b4f233dcc02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Individual/Past within the Present/Seram's Quest.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
+                "file": "Quests/Individual/Past within the Present/Seram's Quest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
+                "file": "Quests/Individual/Past within the Present/Seram's Quest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md"
+                "file": "Quests/Individual/Past within the Present/Seram's Quest.md"
               }
             }
           },
@@ -195,9 +208,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5ba3d0542455cb4",
+  "active": "96223b4f233dcc02",
   "lastOpenFiles": [
+    "Quests/Individual/Past within the Present/Rolbam's Quest.md",
+    "Quests/Individual/Past within the Present/Seram's Quest.md",
     "Narrative/1 - The Worst days of their lives/5. The Forging of the Minds.md",
+    "Quests/Individual/What was, is not always what is.md",
+    "Quests/Individual/Past within the Present.md",
+    "Quests/Individual/Past within the Present",
+    "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
     "Narrative/1 - The Worst days of their lives/4. That time we did that thing.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned Ships.md",
     "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes.md",
@@ -219,10 +238,6 @@
     "Narrative/3 -/21..md",
     "Narrative/4 -/22..md",
     "Narrative/Overviews/Chapter 3.md",
-    "Narrative/Overviews/The Worst Days of their Lives.md",
-    "Narrative/2 - Currencies of the Empire/14..md",
-    "Locations/Seni Isles/Rheilliwch/Croes Bridge.md",
-    "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md",
     "Narrative/Overviews",
     "Narrative/3 -/Untitled",
     "Narrative/temp",
