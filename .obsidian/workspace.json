@@ -98,6 +98,19 @@
             }
           },
           {
+            "id": "59d0650107554d4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bestiary/WilderBeasts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4e9782da1e37000d",
             "type": "leaf",
             "state": {
@@ -124,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -190,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bestiary/The Black Cat.md",
+                "file": "Bestiary/WilderBeasts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bestiary/The Black Cat.md",
+                "file": "Bestiary/WilderBeasts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bestiary/The Black Cat.md"
+                "file": "Bestiary/WilderBeasts.md"
               }
             }
           },
@@ -260,10 +273,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d1f0f0c4f23fcd86",
+  "active": "59d0650107554d4b",
   "lastOpenFiles": [
-    "Bestiary/Hop Head.md",
+    "Bestiary/The Soul Golem.md",
+    "Bestiary/Rune Beasts.md",
+    "Bestiary/Talus.md",
+    "Resources/Enemies/Art/StoneTalus.png",
+    "Resources/Enemies/StoneTalus.png",
     "Bestiary/The Black Cat.md",
+    "Bestiary/Hop Head.md",
     "Quests/Individual/Past within the Present/Alfread's Quest.md",
     "Quests/Individual/Past within the Present/Stronvan's Quest.md",
     "Quests/Individual/Past within the Present/Malkath's Quest.md",
@@ -287,9 +305,6 @@
     "Narrative/1 - The Worst days of their lives/6. The Auction.md",
     "Bestiary/WilderBeasts.md",
     "Locations/Seni Isles/Cyfandirol/The Copper Cask.md",
-    "Narrative/1 - The Worst days of their lives/3..md",
-    "Narrative/2 - Currencies of the Empire/8. The Auction.md",
-    "Narrative/Timeline summary.md",
     "Narrative/Overviews",
     "Narrative/3 -/Untitled",
     "Narrative/temp",
@@ -305,8 +320,6 @@
     "Resources/Character Art/ForestRanger.png",
     "Resources/Character Art/IceGenasi_Full.png",
     "Resources/Character Art/Mortos_Human.png",
-    "Resources/Character Art/PrettyBoi.png",
-    "Resources/Character Art/Rapscallion.png",
     "Resources/Character Art/greaterDragons",
     "Resources/Character Art/greaterDragon"
   ]

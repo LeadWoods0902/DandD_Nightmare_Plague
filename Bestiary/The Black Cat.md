@@ -1,1 +1,1 @@
-Companion for [[Jasp
+Companion for [[Jasper Shatterborne]]
