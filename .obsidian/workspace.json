@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Individual/Past within the Present/Seram's Quest.md",
+                "file": "Quests/Individual/Past within the Present/Stronvan's Quest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Individual/Past within the Present/Seram's Quest.md",
+                "file": "Quests/Individual/Past within the Present/Stronvan's Quest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/Individual/Past within the Present/Seram's Quest.md"
+                "file": "Quests/Individual/Past within the Present/Stronvan's Quest.md"
               }
             }
           },
@@ -234,13 +234,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96223b4f233dcc02",
+  "active": "e55d667e010ea234",
   "lastOpenFiles": [
-    "Quests/Individual/Past within the Present/Stronvan's Quest.md",
     "Quests/Individual/Past within the Present/Malkath's Quest.md",
-    "Narrative/1 - The Worst days of their lives/5. The Forging of the Minds.md",
     "Quests/Individual/Past within the Present/Seram's Quest.md",
+    "Characters/PC/Tom/Rolbam Eins.md",
     "Quests/Individual/Past within the Present/Rolbam's Quest.md",
+    "Quests/Individual/Past within the Present/Stronvan's Quest.md",
+    "Narrative/1 - The Worst days of their lives/5. The Forging of the Minds.md",
     "Quests/Individual/What was, is not always what is.md",
     "Quests/Individual/Past within the Present.md",
     "Quests/Individual/Past within the Present",
@@ -263,7 +264,6 @@
     "Narrative/1 - The Worst days of their lives/5. The long road to Brokvar.md",
     "Narrative/2 - Currencies of the Empire/10. Enters Valthuna.md",
     "Narrative/Overviews/Chapter 4.md",
-    "Narrative/3 -/21..md",
     "Narrative/Overviews",
     "Narrative/3 -/Untitled",
     "Narrative/temp",
