@@ -1,4 +1,4 @@
 
-First: [[6. The Auction]]
+First: [[8. Brokvar's Border]]
 
 Next: [[Chapter 3]]
