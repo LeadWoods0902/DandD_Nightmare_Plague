@@ -44,9 +44,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf1a86b30c1207ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/1 - The Worst days of their lives/- Session Notes -.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70bdecb5720830e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/Overviews/The Worst Days of their Lives.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/13..md",
+                "file": "Narrative/Overviews/The Worst Days of their Lives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/13..md",
+                "file": "Narrative/Overviews/The Worst Days of their Lives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/13..md"
+                "file": "Narrative/Overviews/The Worst Days of their Lives.md"
               }
             }
           },
@@ -182,8 +208,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "70bdecb5720830e4",
   "lastOpenFiles": [
+    "Narrative/2 - Currencies of the Empire/- Session Notes -.md",
+    "Narrative/1 - The Worst days of their lives/- Session Notes -.md",
     "Narrative/2 - Currencies of the Empire/13..md",
     "Narrative/2 - Currencies of the Empire/12. Free Time.md",
     "Narrative/2 - Currencies of the Empire/9. Enters Valthuna.md",
@@ -211,8 +239,6 @@
     "Narrative/1 - The Worst days of their lives/4. That time we did that thing.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned Ships.md",
     "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes.md",
-    "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord.md",
-    "Narrative/1 - The Worst days of their lives/7. Upon which the party is founded.md",
     "Resources/StoneTalus.png",
     "Narrative/Overviews",
     "Narrative/3 -/Untitled",
@@ -220,7 +246,7 @@
     "Narrative/6 -",
     "Narrative/5 -",
     "Narrative/4 -",
-    "Narrative/3 - Repayment in Full",
+    "Narrative/3 - The Cost for Freedom?",
     "Characters/Family Trees/Shatterborne.canvas",
     "Resources/Character Art/VenDryk_Full.png",
     "Resources/Character Art/Sansom_Full.jpg",

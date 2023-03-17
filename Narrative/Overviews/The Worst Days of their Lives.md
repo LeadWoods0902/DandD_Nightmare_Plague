@@ -1,5 +1,7 @@
 Introduce each of the characters
 
+Notes
+
 First: [[1. The Twinned Ships]]
 
 Next: [[Currencies of The Empire]]
