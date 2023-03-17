@@ -1,6 +1,4 @@
-Introduce each of the characters
-
-Notes
+Notes: [[Narrative/1 - The Worst days of their lives/- Session Notes -]]
 
 First: [[1. The Twinned Ships]]
 
