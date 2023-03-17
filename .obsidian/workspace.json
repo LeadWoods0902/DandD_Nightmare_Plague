@@ -32,8 +32,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timeline summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timeline summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Narrative/Timeline summary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,10 +164,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "401099d019e4938b",
+  "active": "a763b60f8dc01661",
   "lastOpenFiles": [
-    "Quests/Individual/Past within the Present/Seram's Quest.md",
     "Narrative/Timeline summary.md",
+    "Quests/Individual/Past within the Present/Seram's Quest.md",
     "Quests/Individual/Past within the Present/Rolbam's Quest.md",
     "Bestiary/WilderBeasts.md",
     "Bestiary/The Black Cat.md",
