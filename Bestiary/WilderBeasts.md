@@ -1,1 +1,1 @@
-![[Wil
+![[WilderBeast_Full.png]]
