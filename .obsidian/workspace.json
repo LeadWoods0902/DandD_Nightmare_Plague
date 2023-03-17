@@ -31,8 +31,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e84bae30e8658efd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/2 - Currencies of the Empire/9. Enters Valthuna.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Narrative/2 - Currencies of the Empire/9. Enters Valthuna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Narrative/2 - Currencies of the Empire/9. Enters Valthuna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Narrative/2 - Currencies of the Empire/9. Enters Valthuna.md"
+              }
             }
           },
           {
@@ -164,8 +182,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a763b60f8dc01661",
+  "active": "e84bae30e8658efd",
   "lastOpenFiles": [
+    "Narrative/2 - Currencies of the Empire/8. Brokvar's Border.md",
     "Narrative/Timeline summary.md",
     "Quests/Individual/Past within the Present/Seram's Quest.md",
     "Quests/Individual/Past within the Present/Rolbam's Quest.md",
@@ -193,7 +212,6 @@
     "Narrative/1 - The Worst days of their lives/7. Upon which the party is founded.md",
     "Resources/StoneTalus.png",
     "Narrative/2 - Currencies of the Empire/9. Enters Valthuna.md",
-    "Narrative/2 - Currencies of the Empire/8. Brokvar's Border.md",
     "Narrative/Overviews/Currencies of The Empire.md",
     "Narrative/1 - The Worst days of their lives/6. The Auction.md",
     "Narrative/Overviews",
