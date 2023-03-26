@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/- Session Notes -.md",
+                "file": "Narrative/temp/The Princess & The plunge.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/- Session Notes -.md",
+                "file": "Narrative/temp/The Princess & The plunge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/- Session Notes -.md",
+                "file": "Narrative/temp/The Princess & The plunge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/- Session Notes -.md"
+                "file": "Narrative/temp/The Princess & The plunge.md"
               }
             }
           },
@@ -210,9 +210,10 @@
   },
   "active": "70bdecb5720830e4",
   "lastOpenFiles": [
+    "Narrative/2 - Currencies of the Empire/- Session Notes -.md",
+    "Narrative/3 -",
     "Narrative/Overviews/The Worst Days of their Lives.md",
     "Narrative/Overviews/Currencies of The Empire.md",
-    "Narrative/2 - Currencies of the Empire/- Session Notes -.md",
     "Narrative/1 - The Worst days of their lives/- Session Notes -.md",
     "Narrative/2 - Currencies of the Empire/13..md",
     "Narrative/2 - Currencies of the Empire/12. Free Time.md",
@@ -238,7 +239,6 @@
     "Quests/Individual/Past within the Present.md",
     "Quests/Individual/Past within the Present",
     "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
-    "Narrative/1 - The Worst days of their lives/4. That time we did that thing.md",
     "Resources/StoneTalus.png",
     "Narrative/Overviews",
     "Narrative/3 -/Untitled",
@@ -255,7 +255,6 @@
     "Resources/Character Art/ForestRanger.png",
     "Resources/Character Art/IceGenasi_Full.png",
     "Resources/Character Art/Mortos_Human.png",
-    "Resources/Character Art/greaterDragons",
-    "Resources/Character Art/greaterDragon"
+    "Resources/Character Art/greaterDragons"
   ]
 }
