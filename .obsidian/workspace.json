@@ -71,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/- Session Notes -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +153,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/- Session Notes -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Narrative/2 - Currencies of the Empire/- Session Notes -.md"
-              }
+              "state": {}
             }
           },
           {
@@ -208,8 +203,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70bdecb5720830e4",
+  "active": "a763b60f8dc01661",
   "lastOpenFiles": [
+    "Narrative/2 - Currencies of the Empire/- Session Notes -.md",
     "Resources/mistress.png",
     "Resources/gingerhuman.png",
     "Resources/female_runeWarrior.png",
@@ -220,11 +216,9 @@
     "Resources/Tokens/barkeep_token.png",
     "Resources/Tokens/Sturgis_token.png",
     "Resources/Tokens/Nomli_token.png",
-    "Resources/Tokens/Niahl_token.png",
     "Resources/Character Art/Crew of the Kilfenora",
     "Narrative/Overviews/The Worst Days of their Lives.md",
     "Narrative/Overviews/Currencies of The Empire.md",
-    "Narrative/2 - Currencies of the Empire/- Session Notes -.md",
     "Narrative/1 - The Worst days of their lives/- Session Notes -.md",
     "Narrative/2 - Currencies of the Empire/13..md",
     "Narrative/2 - Currencies of the Empire/12. Free Time.md",
