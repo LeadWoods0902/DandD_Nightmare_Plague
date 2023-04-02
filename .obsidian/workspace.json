@@ -23,7 +23,33 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Quests/Individual/Individual Quests.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "178792920fdaf526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Quests/Quests.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4469be46c5cb632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Contracts/Contracts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Quests.md",
+                "file": "Quests/Contracts/Contracts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Quests.md",
+                "file": "Quests/Contracts/Contracts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/Quests.md"
+                "file": "Quests/Contracts/Contracts.md"
               }
             }
           },
@@ -208,9 +234,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8156c309e1b45f1b",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
     "Quests/Quests.md",
+    "Quests/Contracts/Contracts.md",
+    "Quests/Individual/Individual Quests.md",
+    "Quests/Individual/Past within the Present/Past within the Present.md",
     "Narrative/Overviews/Chapter 5.md",
     "Narrative/5 -/- Session Notes -.md",
     "Narrative/Overviews/Chapter 4.md",
@@ -233,9 +262,6 @@
     "Narrative/4 -/24..md",
     "Narrative/4 -/23..md",
     "Narrative/3 -/16..md",
-    "Narrative/3 -/15..md",
-    "Narrative/5 -/34..md",
-    "Narrative/5 -/33..md",
     "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora/6.png",
     "Resources/Character Art/Crew of the Kilfenora/5.png",

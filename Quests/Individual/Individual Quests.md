@@ -1,4 +1,3 @@
-
 [[Deathless, even in Death]]
 [[Echoes of the Forgotten]]
 [[From the mountain, born a rock; from the rock, born a mountain.]]
