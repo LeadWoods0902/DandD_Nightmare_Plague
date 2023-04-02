@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/temp/The Ascension.md",
+                "file": "Quests/Individual/Past within the Present/Seram's Quest.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,6 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quests/Individual/Past within the Present/Seram's Quest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quests/Individual/Past within the Present/Seram's Quest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +203,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quests/Individual/Past within the Present/Seram's Quest.md"
+              }
             }
           },
           {
@@ -229,8 +234,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a763b60f8dc01661",
+  "active": "178792920fdaf526",
   "lastOpenFiles": [
+    "Quests/Individual/Past within the Present/Malkath's Quest.md",
+    "Quests/Individual/Past within the Present/Alfread's Quest.md",
+    "Quests/Individual/Echoes of the Forgotten.md",
+    "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
     "Narrative/temp/The Ascension.md",
     "Quests/Quests.md",
     "Quests/Individual/- Individual Quests -.md",
@@ -253,10 +262,6 @@
     "Narrative/Overviews/The Worst Days of their Lives.md",
     "Narrative/Overviews/Currencies of The Empire.md",
     "Narrative/4 -/27..md",
-    "Narrative/4 -/26..md",
-    "Narrative/4 -/25..md",
-    "Narrative/4 -/24..md",
-    "Narrative/4 -/23..md",
     "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora/6.png",
     "Resources/Character Art/Crew of the Kilfenora/5.png",

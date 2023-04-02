@@ -1,1 +1,1 @@
-Revolves around his affair and the discovery of an ancient plot.
+Revolves around [[Seram Dos]] affair and the discovery of an ancient plot.

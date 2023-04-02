@@ -1,1 +1,1 @@
-Reveal details of the Warlock plot
+Reveal details of the Warlock [[Malkath Tribus]]'s plot
