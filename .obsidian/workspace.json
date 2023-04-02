@@ -97,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +179,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +200,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md"
-              }
+              "state": {}
             }
           },
           {
@@ -234,11 +229,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "178792920fdaf526",
+  "active": "a763b60f8dc01661",
   "lastOpenFiles": [
+    "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md",
     "Locations/Seni Isles/Cyfandirol/Port Town.md",
     "Locations/Seni Isles/Cyfandirol/Menamawr.md",
-    "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md",
     "Locations/Seni Isles/Brokvar/-Brokvar-.md",
     "Locations/Seni Isles/Cyfandirol/The Copper Cask.md",
     "Locations/Seni Isles/Cyfandirol/Virmarr.md",
