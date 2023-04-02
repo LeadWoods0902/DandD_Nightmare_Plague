@@ -18,45 +18,6 @@
             }
           },
           {
-            "id": "8156c309e1b45f1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests/Individual/- Individual Quests -.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "178792920fdaf526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/2 - Currencies of the Empire/12..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4469be46c5cb632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests/Individual/Past within the Present/Past within the Present.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "401099d019e4938b",
             "type": "leaf",
             "pinned": true,
@@ -70,35 +31,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "069cce2f7f95228d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/Overviews/Chapter 4.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1edf1106b3388d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/Overviews/Chapter 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/12..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/12..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Narrative/2 - Currencies of the Empire/12..md"
-              }
+              "state": {}
             }
           },
           {
@@ -234,8 +164,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "178792920fdaf526",
+  "active": "a763b60f8dc01661",
   "lastOpenFiles": [
+    "Narrative/2 - Currencies of the Empire/12..md",
     "Narrative/2 - Currencies of the Empire/10..md",
     "Narrative/2 - Currencies of the Empire/11..md",
     "Narrative/2 - Currencies of the Empire/9. Enters Valthuna.md",
@@ -261,7 +192,6 @@
     "Narrative/5 -/- Session Notes -.md",
     "Narrative/Overviews/Chapter 4.md",
     "Narrative/Overviews/Chapter 3.md",
-    "Narrative/1 - The Worst days of their lives/7. Upon which the party is founded.md",
     "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora/6.png",
     "Resources/Character Art/Crew of the Kilfenora/5.png",
