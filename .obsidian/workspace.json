@@ -38,7 +38,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/7. Upon which the party is founded.md",
+                "file": "Narrative/Overviews/Chapter 4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1edf1106b3388d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/Overviews/Chapter 5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -179,6 +192,10 @@
   },
   "active": "a763b60f8dc01661",
   "lastOpenFiles": [
+    "Narrative/Overviews/Chapter 5.md",
+    "Narrative/5 -/- Session Notes -.md",
+    "Narrative/Overviews/Chapter 4.md",
+    "Narrative/Overviews/Chapter 3.md",
     "Narrative/1 - The Worst days of their lives/7. Upon which the party is founded.md",
     "Narrative/2 - Currencies of the Empire/14..md",
     "Narrative/5 -/35..md",
@@ -186,9 +203,6 @@
     "Narrative/3 -/21..md",
     "Narrative/Timeline summary.md",
     "Narrative/4 -/22..md",
-    "Narrative/Overviews/Chapter 4.md",
-    "Narrative/Overviews/Chapter 3.md",
-    "Narrative/Overviews/Chapter 5.md",
     "Narrative/2 - Currencies of the Empire/- Session Notes -.md",
     "Narrative/3 -/- Session Notes -.md",
     "Narrative/4 -/- Session Notes -.md",
@@ -204,7 +218,6 @@
     "Narrative/5 -/34..md",
     "Narrative/5 -/33..md",
     "Narrative/5 -/32..md",
-    "Narrative/5 -/31..md",
     "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora/6.png",
     "Resources/Character Art/Crew of the Kilfenora/5.png",
