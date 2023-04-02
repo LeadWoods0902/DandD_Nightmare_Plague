@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/2 - Currencies of the Empire/10..md",
+                "file": "Narrative/2 - Currencies of the Empire/12..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,6 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Narrative/2 - Currencies of the Empire/12..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Narrative/2 - Currencies of the Empire/12..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +203,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Narrative/2 - Currencies of the Empire/12..md"
+              }
             }
           },
           {
@@ -229,7 +234,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a763b60f8dc01661",
+  "active": "178792920fdaf526",
   "lastOpenFiles": [
     "Narrative/2 - Currencies of the Empire/10..md",
     "Narrative/2 - Currencies of the Empire/11..md",
