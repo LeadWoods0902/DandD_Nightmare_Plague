@@ -18,6 +18,19 @@
             }
           },
           {
+            "id": "8156c309e1b45f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Quests.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "401099d019e4938b",
             "type": "leaf",
             "pinned": true,
@@ -58,7 +71,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quests/Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quests/Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quests/Quests.md"
+              }
             }
           },
           {
@@ -190,8 +208,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a763b60f8dc01661",
+  "active": "8156c309e1b45f1b",
   "lastOpenFiles": [
+    "Quests/Quests.md",
     "Narrative/Overviews/Chapter 5.md",
     "Narrative/5 -/- Session Notes -.md",
     "Narrative/Overviews/Chapter 4.md",
@@ -217,7 +236,6 @@
     "Narrative/3 -/15..md",
     "Narrative/5 -/34..md",
     "Narrative/5 -/33..md",
-    "Narrative/5 -/32..md",
     "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora/6.png",
     "Resources/Character Art/Crew of the Kilfenora/5.png",
