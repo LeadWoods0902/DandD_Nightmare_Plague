@@ -38,7 +38,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Overviews/Chapter 3.md",
+                "file": "Narrative/2 - Currencies of the Empire/- Session Notes -.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d83620b62f07f81a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/3 -/- Session Notes -.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4671f31df422c553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/4 -/- Session Notes -.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "069cce2f7f95228d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/2 - Currencies of the Empire/14..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -112,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Overviews/Chapter 3.md",
+                "file": "Narrative/2 - Currencies of the Empire/14..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Overviews/Chapter 3.md",
+                "file": "Narrative/2 - Currencies of the Empire/14..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Overviews/Chapter 3.md"
+                "file": "Narrative/2 - Currencies of the Empire/14..md"
               }
             }
           },
@@ -182,9 +221,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "069cce2f7f95228d",
   "lastOpenFiles": [
+    "Narrative/2 - Currencies of the Empire/13..md",
     "Narrative/3 -/15..md",
+    "Narrative/Overviews/Chapter 3.md",
+    "Narrative/Overviews/Chapter 5.md",
+    "Narrative/4 -/- Session Notes -.md",
+    "Narrative/3 -/- Session Notes -.md",
+    "Narrative/2 - Currencies of the Empire/- Session Notes -.md",
+    "Narrative/1 - The Worst days of their lives/- Session Notes -.md",
     "Narrative/Timeline summary.md",
     "Narrative/3 -/16..md",
     "Narrative/3 -/17..md",
@@ -200,17 +246,10 @@
     "Narrative/2 - Currencies of the Empire/11..md",
     "Narrative/3 -/20..md",
     "Narrative/4 -/26..md",
-    "Narrative/6 -/29..md",
-    "Narrative/6 -/30..md",
-    "Narrative/6 -/31..md",
-    "Narrative/6 -/32..md",
-    "Narrative/6 -/33..md",
-    "Narrative/6 -/34..md",
-    "Narrative/temp/The Princess & The plunge.md",
-    "Narrative/6 -/35..md",
-    "Narrative/2 - Currencies of the Empire/13..md",
-    "Narrative/1 - The Worst days of their lives/- Session Notes -.md",
-    "Narrative/6 -",
+    "Narrative/5 -/29..md",
+    "Narrative/5 -/30..md",
+    "Narrative/5 -/31..md",
+    "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora/6.png",
     "Resources/Character Art/Crew of the Kilfenora/5.png",
     "Resources/Character Art/Crew of the Kilfenora/4.png",

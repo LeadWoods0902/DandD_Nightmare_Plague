@@ -1,1 +1,1 @@
-Introduce the concept of several 
+Introduce the concept of several currencies
