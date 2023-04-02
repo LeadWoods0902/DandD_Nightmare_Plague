@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Contracts/Contracts.md",
+                "file": "Quests/Individual/Past within the Present/Past within the Present.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Contracts/Contracts.md",
+                "file": "Quests/Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Contracts/Contracts.md",
+                "file": "Quests/Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/Contracts/Contracts.md"
+                "file": "Quests/Quests.md"
               }
             }
           },
@@ -234,12 +234,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "178792920fdaf526",
   "lastOpenFiles": [
-    "Quests/Quests.md",
-    "Quests/Contracts/Contracts.md",
-    "Quests/Individual/Individual Quests.md",
     "Quests/Individual/Past within the Present/Past within the Present.md",
+    "Quests/Individual/Individual Quests.md",
+    "Quests/Contracts/- Contracts -.md",
+    "Quests/Quests.md",
     "Narrative/Overviews/Chapter 5.md",
     "Narrative/5 -/- Session Notes -.md",
     "Narrative/Overviews/Chapter 4.md",
