@@ -246,7 +246,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/6 -/Untitled.md",
+                "file": "Narrative/6 -/30..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8605914f66a36cde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/6 -/31..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de5ad80fa3de764f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/6 -/32..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcc04c44ec89f03d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/6 -/33..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9c0d4ca9d3bfe3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/6 -/34..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcb091fd5729d3bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/temp/The Princess & The plunge.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -254,7 +319,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -320,7 +385,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/6 -/Untitled.md",
+                "file": "Narrative/temp/The Princess & The plunge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,7 +402,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/6 -/Untitled.md",
+                "file": "Narrative/temp/The Princess & The plunge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -360,7 +425,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/6 -/Untitled.md"
+                "file": "Narrative/temp/The Princess & The plunge.md"
               }
             }
           },
@@ -390,10 +455,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49270a1b8855c2a0",
+  "active": "dcb091fd5729d3bf",
   "lastOpenFiles": [
+    "Narrative/6 -/35..md",
+    "Narrative/6 -/34..md",
+    "Narrative/6 -/33..md",
+    "Narrative/6 -/32..md",
+    "Narrative/6 -/31..md",
+    "Narrative/6 -/30..md",
     "Narrative/6 -/29..md",
-    "Narrative/6 -/Untitled.md",
     "Narrative/4 -/26..md",
     "Narrative/3 -/20..md",
     "Narrative/2 - Currencies of the Empire/11..md",
@@ -413,7 +483,6 @@
     "Narrative/2 - Currencies of the Empire/13..md",
     "Narrative/1 - The Worst days of their lives/- Session Notes -.md",
     "Narrative/temp/The Princess & The plunge.md",
-    "Narrative/6 -/The large Talus.md",
     "Narrative/6 -",
     "Resources/Character Art/Crew of the Kilfenora/6.png",
     "Resources/Character Art/Crew of the Kilfenora/5.png",
@@ -427,11 +496,7 @@
     "Resources/Marta_Backstory_merchant.png",
     "Resources/gingerhuman.png",
     "Resources/Possibilities",
-    "Narrative/2 - Currencies of the Empire/- Session Notes -.md",
     "Narrative/3 -",
-    "Narrative/Overviews/The Worst Days of their Lives.md",
-    "Narrative/Overviews/Currencies of The Empire.md",
-    "Narrative/2 - Currencies of the Empire/12. Free Time.md",
     "Quests/Individual/Past within the Present",
     "Narrative/Overviews",
     "Narrative/3 -/Untitled",
