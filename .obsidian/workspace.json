@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Individual/Past within the Present/Seram's Quest.md",
+                "file": "Locations/Seni Isles/Cyfandirol/Virmarr.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Individual/Past within the Present/Seram's Quest.md",
+                "file": "Locations/Seni Isles/Cyfandirol/Virmarr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Individual/Past within the Present/Seram's Quest.md",
+                "file": "Locations/Seni Isles/Cyfandirol/Virmarr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/Individual/Past within the Present/Seram's Quest.md"
+                "file": "Locations/Seni Isles/Cyfandirol/Virmarr.md"
               }
             }
           },
@@ -234,8 +234,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "178792920fdaf526",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
+    "Quests/Individual/Past within the Present/Rolbam's Quest.md",
+    "Quests/Individual/Past within the Present/Stronvan's Quest.md",
+    "Quests/Individual/Past within the Present/Seram's Quest.md",
     "Quests/Individual/Past within the Present/Malkath's Quest.md",
     "Quests/Individual/Past within the Present/Alfread's Quest.md",
     "Quests/Individual/Echoes of the Forgotten.md",
@@ -259,9 +262,6 @@
     "Narrative/2 - Currencies of the Empire/- Session Notes -.md",
     "Narrative/3 -/- Session Notes -.md",
     "Narrative/4 -/- Session Notes -.md",
-    "Narrative/Overviews/The Worst Days of their Lives.md",
-    "Narrative/Overviews/Currencies of The Empire.md",
-    "Narrative/4 -/27..md",
     "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora/6.png",
     "Resources/Character Art/Crew of the Kilfenora/5.png",
