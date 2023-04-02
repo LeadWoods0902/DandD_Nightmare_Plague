@@ -135,9 +135,126 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "965a9c32ecd5e216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/4 -/25..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2286742dcc1ef8b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/4 -/27..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed9b9d06f9517555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/4 -/28..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "609cd3f29474c33b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/2 - Currencies of the Empire/10..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "489569610a803bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/2 - Currencies of the Empire/11..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce6b08e62588a4d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/3 -/20..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31cff7e5de777109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/4 -/26..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af6fba231ab15610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/6 -/29..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49270a1b8855c2a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/6 -/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -203,7 +320,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/4 -/24..md",
+                "file": "Narrative/6 -/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +337,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/4 -/24..md",
+                "file": "Narrative/6 -/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +360,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/4 -/24..md"
+                "file": "Narrative/6 -/Untitled.md"
               }
             }
           },
@@ -273,10 +390,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "33dbd20aecce7583",
+  "active": "49270a1b8855c2a0",
   "lastOpenFiles": [
-    "Narrative/4 -/23..md",
+    "Narrative/6 -/29..md",
+    "Narrative/6 -/Untitled.md",
+    "Narrative/4 -/26..md",
+    "Narrative/3 -/20..md",
+    "Narrative/2 - Currencies of the Empire/11..md",
+    "Narrative/2 - Currencies of the Empire/10..md",
+    "Narrative/4 -/28..md",
+    "Narrative/4 -/27..md",
+    "Narrative/4 -/25..md",
     "Narrative/4 -/24..md",
+    "Narrative/4 -/23..md",
     "Narrative/3 -/21..md",
     "Narrative/3 -/19..md",
     "Narrative/3 -/18.md",
@@ -306,15 +432,6 @@
     "Narrative/Overviews/The Worst Days of their Lives.md",
     "Narrative/Overviews/Currencies of The Empire.md",
     "Narrative/2 - Currencies of the Empire/12. Free Time.md",
-    "Narrative/2 - Currencies of the Empire/9. Enters Valthuna.md",
-    "Narrative/2 - Currencies of the Empire/8. Brokvar's Border.md",
-    "Quests/Individual/Past within the Present/Seram's Quest.md",
-    "Quests/Individual/Past within the Present/Rolbam's Quest.md",
-    "Bestiary/WilderBeasts.md",
-    "Bestiary/The Black Cat.md",
-    "Narrative/1 - The Worst days of their lives/5. The Forging of the Minds.md",
-    "Bestiary/The Soul Golem.md",
-    "Bestiary/Rune Beasts.md",
     "Quests/Individual/Past within the Present",
     "Narrative/Overviews",
     "Narrative/3 -/Untitled",
