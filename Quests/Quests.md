@@ -1,2 +1,2 @@
 - [ ] [[- Contracts -]]
-- [[Individual Quests -]]
+- [ ] [[- Individual Quests -]]

@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Individual/Individual Quests.md",
+                "file": "Quests/Individual/- Individual Quests -.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Quests.md",
+                "file": "Narrative/temp/The Ascension.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +179,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +200,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Quests/Quests.md"
-              }
+              "state": {}
             }
           },
           {
@@ -234,12 +229,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "178792920fdaf526",
+  "active": "a763b60f8dc01661",
   "lastOpenFiles": [
-    "Quests/Individual/Past within the Present/Past within the Present.md",
-    "Quests/Individual/Individual Quests.md",
-    "Quests/Contracts/- Contracts -.md",
+    "Narrative/temp/The Ascension.md",
     "Quests/Quests.md",
+    "Quests/Individual/- Individual Quests -.md",
+    "Quests/Individual/Past within the Present/Past within the Present.md",
+    "Quests/Contracts/- Contracts -.md",
     "Narrative/Overviews/Chapter 5.md",
     "Narrative/5 -/- Session Notes -.md",
     "Narrative/Overviews/Chapter 4.md",
@@ -261,7 +257,6 @@
     "Narrative/4 -/25..md",
     "Narrative/4 -/24..md",
     "Narrative/4 -/23..md",
-    "Narrative/3 -/16..md",
     "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora/6.png",
     "Resources/Character Art/Crew of the Kilfenora/5.png",
