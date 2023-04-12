@@ -8,4 +8,5 @@ Special Abilities:
 		- The character possesses an unwavering determination and tenacity in battle, allowing them to relentlessly assault the same target after a successful attack.
 		- When the character successfully hits a target with an attack, they can use the Relentless Assault ability to immediately make another attack against the same target without expending an additional action or bonus action. This chain of attacks can continue as long as each attack is successful, allowing the character to keep hitting the same target multiple times in a row. This ability can only be used in congunction with the first attack action on a turn.
 	- Improved
-		- gain an additional +1 to hit with every succesive hit
+		- gain an additional +1 to damage with every succesive hit, this cumulative buff resets to zero when you miss an attack.
+-  
