@@ -10,4 +10,4 @@ Special Abilities:
 	- Improved
 		- gain an additional +1 to damage with every succesive hit, this cumulative buff resets to zero when you miss an attack.
 - Unwavering Retribution
-	- The Paladin gains a cumulative +1 bonus to their damage roll for each successful hit they land on an enemy that has damaged them or their allies in the same combat encounter. This bonus resets to +0 if the Paladin misses an attack against that enemy. This reflects the Paladin's determination to seek retribution against those who have harmed them or their comrades.
+	- The Paladin gains a cumulative +1 bonus to their damage roll for each successful hit they land on an enemy that has damaged them or their allies in the same combat encounter. This bonus resets to +0 if the Paladin misses an attack against an enemy. This reflects the Paladin's determination to seek retribution against those who have harmed them or their comrades.
