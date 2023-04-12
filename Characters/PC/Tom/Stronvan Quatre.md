@@ -14,3 +14,6 @@ Special Abilities:
 
 - **Vengeful Counterstrike**
 	- Whenever the Paladin is targeted by a melee attack, they can use their reaction to make an immediate counterattack against the attacker. The Paladin gains a cumulative +1 bonus to damage for each successive counterattack against the same attacker. This bonus resets to +0 if the counterattack misses.
+
+- **Resolute Avenger**
+	- Whenever the Paladin's allies are reduced to 0 hit points or are killed in combat, the Paladin gains a cumulative +1 bonus to attack and damage rolls against the enemy responsible for their allies' demise. This bonus resets to +0 if the Paladin fails to successfully attack the enemy. This ability reflects the Paladin's unwavering determination to avenge fallen comrades and protect their allies.
