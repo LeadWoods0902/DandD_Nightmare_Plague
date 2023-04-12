@@ -3,4 +3,6 @@ A paladin that works in the servitude of the [[Ymerodrol Empire]], this man was 
 
 
 Special Abilities:
-- 
+- Relentless Assault
+	- The character possesses an unwavering determination and tenacity in battle, allowing them to relentlessly assault the same target after a successful attack.
+- Relentles
