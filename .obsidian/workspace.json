@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a763b60f8dc01661",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "401099d019e4938b",
             "type": "leaf",
             "pinned": true,
@@ -46,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,8 +168,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47f8fdfa3d20a337",
+  "floating": {
+    "id": "234d22e8adc0be05",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6353cb8b140de840",
+        "type": "window",
+        "children": [
+          {
+            "id": "0246c5e78ce74dda",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a763b60f8dc01661",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -597,
+        "y": -314,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a763b60f8dc01661",
   "lastOpenFiles": [
+    "Characters/PC/Aime/Mazikeen.md",
     "Resources/Battlemaps/wintryPass.png",
     "Resources/Battlemaps/An Icy Crossing.jpg",
     "Resources/Battlemaps/Kilfenora_1.png",
@@ -194,7 +216,6 @@
     "Resources/Battlemaps/The Talos Attack - post reveal.jpg",
     "Resources/Battlemaps/Talos_Pre.png",
     "Resources/Battlemaps/Talos_Pre.jpg",
-    "Resources/Battlemaps/The Talos Attack.jpg",
     "Narrative/1 - The Worst days of their lives/6. The Auction.md",
     "Resources/Battlemaps",
     "Resources/New folder",
