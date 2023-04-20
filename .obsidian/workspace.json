@@ -8,6 +8,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a763b60f8dc01661",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
             "id": "401099d019e4938b",
             "type": "leaf",
             "pinned": true,
@@ -35,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,41 +176,6 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
-  },
-  "floating": {
-    "id": "234d22e8adc0be05",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6353cb8b140de840",
-        "type": "window",
-        "children": [
-          {
-            "id": "0246c5e78ce74dda",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a763b60f8dc01661",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -597,
-        "y": -314,
-        "width": 600,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
   },
   "active": "a763b60f8dc01661",
   "lastOpenFiles": [
