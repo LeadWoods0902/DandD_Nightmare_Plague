@@ -33,19 +33,20 @@
             }
           },
           {
-            "id": "47f8fdfa3d20a337",
+            "id": "715339f2ffcbd995",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
+                "file": "Characters/PC/Tom/Stronvan Quatre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -111,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/PC/Tom/Stronvan Quatre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/PC/Tom/Stronvan Quatre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/PC/Tom/Stronvan Quatre.md"
+              }
             }
           },
           {
@@ -177,54 +183,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a763b60f8dc01661",
+  "active": "715339f2ffcbd995",
   "lastOpenFiles": [
-    "Characters/PC/Aime/Mazikeen.md",
+    "Resources/Conditions Cheat Sheat.png",
+    "Characters/PC/Tom/Seram Dos.md",
+    "Characters/PC/Tom/Rolbam Eins.md",
+    "Characters/PC/Tom/Malkath Tribus.md",
+    "Narrative/1 - The Worst days of their lives/1. The twinned Ships.md",
+    "Resources/rw0a3gxm39qa1.mp4",
     "Resources/Battlemaps/wintryPass.png",
-    "Resources/Battlemaps/An Icy Crossing.jpg",
-    "Resources/Battlemaps/Kilfenora_1.png",
-    "Resources/Battlemaps/Kilfenora_2.png",
-    "Resources/Battlemaps/Talos_1.png",
     "Resources/Battlemaps/Talos_2.png",
-    "Resources/Battlemaps/Talos_Post.png",
-    "Resources/Battlemaps/The Talos Attack - post reveal.jpg",
-    "Resources/Battlemaps/Talos_Pre.png",
-    "Resources/Battlemaps/Talos_Pre.jpg",
-    "Narrative/1 - The Worst days of their lives/6. The Auction.md",
+    "Resources/Battlemaps/Talos_1.png",
+    "Resources/Battlemaps/Kilfenora_2.png",
+    "Resources/Battlemaps/Kilfenora_1.png",
+    "Resources/Battlemaps/Crater.png",
+    "Resources/Battlemaps/CopperCasket.png",
     "Resources/Battlemaps",
-    "Resources/New folder",
-    "Narrative/2 - Currencies of the Empire/12..md",
-    "Narrative/2 - Currencies of the Empire/10..md",
-    "Narrative/2 - Currencies of the Empire/11..md",
-    "Narrative/2 - Currencies of the Empire/9. Enters Valthuna.md",
-    "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md",
-    "Locations/Seni Isles/Cyfandirol/Port Town.md",
-    "Locations/Seni Isles/Cyfandirol/Menamawr.md",
-    "Locations/Seni Isles/Brokvar/-Brokvar-.md",
-    "Locations/Seni Isles/Cyfandirol/The Copper Cask.md",
-    "Locations/Seni Isles/Cyfandirol/Virmarr.md",
-    "Quests/Individual/Past within the Present/Rolbam's Quest.md",
-    "Quests/Individual/Past within the Present/Stronvan's Quest.md",
-    "Quests/Individual/Past within the Present/Seram's Quest.md",
-    "Quests/Individual/Past within the Present/Malkath's Quest.md",
-    "Quests/Individual/Past within the Present/Alfread's Quest.md",
-    "Quests/Individual/Echoes of the Forgotten.md",
-    "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
-    "Narrative/temp/The Ascension.md",
     "Quests/Quests.md",
-    "Quests/Individual/- Individual Quests -.md",
     "Quests/Individual/Past within the Present/Past within the Present.md",
+    "Quests/Individual/- Individual Quests -.md",
     "Quests/Contracts/- Contracts -.md",
+    "Narrative/temp/The Invasion of Gogledd Ynys.md",
+    "Narrative/temp/The Broken Capital.md",
+    "Narrative/temp/The Ascension.md",
+    "Narrative/The large Talus.md",
     "Narrative/Overviews/Chapter 5.md",
+    "Narrative/5 -/35..md",
+    "Narrative/5 -/34..md",
+    "Narrative/5 -/33..md",
+    "Narrative/5 -/32..md",
+    "Narrative/5 -/31..md",
+    "Narrative/5 -/30..md",
+    "Narrative/5 -/29..md",
     "Narrative/5 -/- Session Notes -.md",
-    "Narrative/5 -",
-    "Resources/Character Art/Crew of the Kilfenora",
-    "Resources/Possibilities",
+    "Narrative/4 -/28..md",
+    "Narrative/4 -/27..md",
+    "Narrative/4 -/26..md",
+    "Narrative/4 -/25..md",
     "Narrative/3 -",
+    "Resources/mistress.png",
+    "Resources/gingerhuman.png",
+    "Resources/female_runeWarrior.png",
+    "Resources/Character Art/Crew of the Kilfenora",
     "Quests/Individual/Past within the Present",
     "Narrative/Overviews",
     "Narrative/3 -/Untitled",
     "Narrative/temp",
+    "Narrative/6 -",
+    "Narrative/5 -",
     "Characters/Family Trees/Shatterborne.canvas"
   ]
 }
