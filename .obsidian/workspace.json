@@ -31,9 +31,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "11331e9c7ac467c7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Battlemaps/CopperCasket.png"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "Resources/Battlemaps/CopperCasket.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "Resources/Battlemaps/CopperCasket.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timeline summary.md"
+                "file": "Resources/Battlemaps/CopperCasket.png"
               }
             }
           },
@@ -177,8 +187,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "401099d019e4938b",
+  "active": "11331e9c7ac467c7",
   "lastOpenFiles": [
+    "Narrative/Timeline summary.md",
     "Additional Lore/Astronomical Knowledge/Astronomy.md",
     "conflict-files-obsidian-git.md",
     "TODO.md",
@@ -189,7 +200,6 @@
     "Resources/female_runeWarrior.png",
     "Resources/Elaine.png",
     "Resources/Conditions Cheat Sheat.png",
-    "Narrative/Timeline summary.md",
     "Characters/PC/Aime/Mazikeen.md",
     "Resources/Battlemaps/wintryPass.png",
     "Resources/Battlemaps/An Icy Crossing.jpg",
