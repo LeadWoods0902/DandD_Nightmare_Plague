@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "715339f2ffcbd995",
+            "id": "f2dc5a9a6480f0c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Tom/Stronvan Quatre.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Tom/Stronvan Quatre.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Tom/Stronvan Quatre.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Tom/Stronvan Quatre.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -191,8 +190,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "715339f2ffcbd995",
+  "active": "f2dc5a9a6480f0c8",
   "lastOpenFiles": [
+    "Narrative/Timeline summary.md",
+    "conflict-files-obsidian-git.md",
+    "Characters/PC/Tom/Stronvan Quatre.md",
     "Resources/Conditions Cheat Sheat.png",
     "Characters/PC/Tom/Seram Dos.md",
     "Characters/PC/Tom/Rolbam Eins.md",
@@ -226,12 +228,9 @@
     "Narrative/5 -/- Session Notes -.md",
     "Narrative/4 -/28..md",
     "Narrative/4 -/27..md",
-    "Narrative/4 -/26..md",
-    "Narrative/4 -/25..md",
     "Narrative/3 -",
     "Resources/mistress.png",
     "Resources/gingerhuman.png",
-    "Resources/female_runeWarrior.png",
     "Resources/Character Art/Crew of the Kilfenora",
     "Quests/Individual/Past within the Present",
     "Narrative/Overviews",
