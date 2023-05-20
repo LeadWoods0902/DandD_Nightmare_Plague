@@ -38,7 +38,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Resources/Battlemaps/CopperCasket.png"
+                "file": "Resources/Battlemaps/Crater.png"
               }
             }
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Battlemaps/CopperCasket.png",
+                "file": "Resources/Battlemaps/Crater.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Battlemaps/CopperCasket.png",
+                "file": "Resources/Battlemaps/Crater.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Battlemaps/CopperCasket.png"
+                "file": "Resources/Battlemaps/Crater.png"
               }
             }
           },
@@ -189,6 +189,10 @@
   },
   "active": "11331e9c7ac467c7",
   "lastOpenFiles": [
+    "Resources/Battlemaps/Kilfenora_1.png",
+    "Resources/Battlemaps/Kilfenora_2.png",
+    "Resources/Battlemaps/Crater.png",
+    "Resources/Battlemaps/CopperCasket.png",
     "Narrative/Timeline summary.md",
     "Additional Lore/Astronomical Knowledge/Astronomy.md",
     "conflict-files-obsidian-git.md",
@@ -202,9 +206,6 @@
     "Resources/Conditions Cheat Sheat.png",
     "Characters/PC/Aime/Mazikeen.md",
     "Resources/Battlemaps/wintryPass.png",
-    "Resources/Battlemaps/An Icy Crossing.jpg",
-    "Resources/Battlemaps/Kilfenora_1.png",
-    "Resources/Battlemaps/Kilfenora_2.png",
     "Narrative/1 - The Worst days of their lives/6. The Auction.md",
     "Resources/Battlemaps",
     "Resources/New folder",
@@ -227,7 +228,6 @@
     "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
     "Narrative/temp/The Ascension.md",
     "Quests/Quests.md",
-    "Quests/Individual/- Individual Quests -.md",
     "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora",
     "Resources/Possibilities",
