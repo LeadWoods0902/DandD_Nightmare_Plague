@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/PC/Aime/Mazikeen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/PC/Aime/Mazikeen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/PC/Aime/Mazikeen.md"
+              }
             }
           },
           {
@@ -185,7 +190,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a763b60f8dc01661",
+  "active": "47f8fdfa3d20a337",
   "lastOpenFiles": [
     "Characters/PC/Aime/Mazikeen.md",
     "Resources/Battlemaps/wintryPass.png",
