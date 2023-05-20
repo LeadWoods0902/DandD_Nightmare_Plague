@@ -1,6 +1,6 @@
 Notes: [[Narrative/1 - The Worst days of their lives/- Session Notes -]]
 
-First: [[1. The Twinned Ships]]
+First: [[overview]]
 
 Next: [[Currencies of The Empire]]
 
