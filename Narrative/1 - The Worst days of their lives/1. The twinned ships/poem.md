@@ -1,9 +1,5 @@
-Amidst the waves, a homesick heart,
-Mahogany memories tear apart.
-Sweet wine's longing, bungalow's embrace,
-Yearning for home in this endless chase.
 
-Amidst the waves, the rolling tide,
-I yearn for the shores I left aside.
-Oh, Captain, I shan't falter,
-As I navigate this homesick line.
+Together we face the vast unknown,
+Seeking solace in the land we've known.
+Captain, my friend, by your side I'll stay,
+Until we reach the shores we once knew.
