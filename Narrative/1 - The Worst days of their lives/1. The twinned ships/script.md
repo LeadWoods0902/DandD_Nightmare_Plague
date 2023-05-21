@@ -1,4 +1,4 @@
-Two ships sail upon tranquil water, embraced only by a gentle breeze - the sun shines brightly overhead, casting its warm rays upon the tanned crew as they navigate the ship with skilful precision. With not a cloud in sight, the ship glides effortlessly over the smooth un-tampered waters, leaving a trail of ripples in its wake.
+Two ships sail upon tranquil water, embraced only by a gentle breeze - the sun shines brightly overhead, casting its warm rays upon the tanned crew as they navigate the ship with skilful precision. With not a cloud in sight, the ship glides effortlessly over the smooth un-tampered waters, leaving a trail of ripples in its wake - the only sign of their existence in thsi vast open space. The silence broken only by:
 
 Deckhand: 
 	Three years we've been away! This last voyage alone has taken 4 months and what do we have to show for it? A box of scraps and some pets for the empress!? Aye, it'll pay well that's for sure but not a penny of which we'll see - mark me brothers, once this ship docks I'm making straight for the border and leaving the country - it was fucked when we left, it'll be a damn sight worse when we return.
