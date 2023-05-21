@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The twinned ships/poem.md",
+                "file": "Narrative/1 - The Worst days of their lives/1. The twinned ships/script.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The twinned ships/poem.md",
+                "file": "Narrative/1 - The Worst days of their lives/1. The twinned ships/script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The twinned ships/poem.md",
+                "file": "Narrative/1 - The Worst days of their lives/1. The twinned ships/script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The twinned ships/poem.md"
+                "file": "Narrative/1 - The Worst days of their lives/1. The twinned ships/script.md"
               }
             }
           },
@@ -192,8 +192,9 @@
   },
   "active": "7f6ea9b850cf12fd",
   "lastOpenFiles": [
-    "Narrative/1 - The Worst days of their lives/1. The twinned ships/overview.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/poem.md",
+    "Narrative/1 - The Worst days of their lives/1. The twinned ships/script.md",
+    "Narrative/1 - The Worst days of their lives/1. The twinned ships/overview.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships",
     "Narrative/Timeline summary.md",
     "conflict-files-obsidian-git.md",
@@ -228,7 +229,6 @@
     "Narrative/5 -/30..md",
     "Narrative/5 -/29..md",
     "Narrative/5 -/- Session Notes -.md",
-    "Narrative/4 -/28..md",
     "Narrative/3 -",
     "Resources/mistress.png",
     "Resources/gingerhuman.png",
