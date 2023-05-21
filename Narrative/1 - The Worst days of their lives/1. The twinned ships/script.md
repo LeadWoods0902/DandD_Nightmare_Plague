@@ -1,1 +1,1 @@
-three years we've been away! This last voyage home alone has taken
+three years we've been away! This last voyage alone has taken 4 months and what do we have to show for it? A box of scraps and some pets for the empress!? Eye, it'll pay well that's for sure but not a penny of which we'll see
