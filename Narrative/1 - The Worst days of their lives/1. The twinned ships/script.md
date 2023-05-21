@@ -4,4 +4,6 @@ Deckhand:
 Herouk:
 	Aye, it's been a long old slog but relax my friend - land should only be a day away and while it be a troubled peace, it was a peace both sides agreed to.
 
-Herouk begins to make his way to his cabin to use the sending stone with . After the untimely death of the Melodius Linnet's former Captain, 
+Herouk begins to make his way to his cabin to use the sending stone within to talk with the captain of the ships's sister-ship. The Melodius Linnet was a fine ship, perfectly fast and sturdy to boot but unmatched was it by the grace with which the Kife
+
+. After the untimely death of the Melodius Linnet's former Captain, 
