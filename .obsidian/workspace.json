@@ -25,7 +25,7 @@
               "type": "markdown",
               "state": {
                 "file": "Narrative/Timeline summary.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
@@ -33,15 +33,12 @@
             }
           },
           {
-            "id": "7f6ea9b850cf12fd",
+            "id": "11331e9c7ac467c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The twinned ships/script.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Resources/Battlemaps/Crater.png"
               }
             }
           }
@@ -93,7 +90,7 @@
             }
           },
           {
-            "id": "9d743de7a6ac792a",
+            "id": "a44ab730e017968b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -104,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -121,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The twinned ships/script.md",
+                "file": "Resources/Battlemaps/Crater.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The twinned ships/script.md",
+                "file": "Resources/Battlemaps/Crater.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The twinned ships/script.md"
+                "file": "Resources/Battlemaps/Crater.png"
               }
             }
           },
@@ -191,54 +187,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f6ea9b850cf12fd",
+  "active": "11331e9c7ac467c7",
   "lastOpenFiles": [
-    "Narrative/1 - The Worst days of their lives/1. The twinned ships/poem.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/script.md",
+    "Narrative/1 - The Worst days of their lives/1. The twinned ships/poem.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/overview.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships",
-    "Narrative/Timeline summary.md",
-    "conflict-files-obsidian-git.md",
-    "Characters/PC/Tom/Stronvan Quatre.md",
-    "Resources/Conditions Cheat Sheat.png",
-    "Characters/PC/Tom/Seram Dos.md",
-    "Characters/PC/Tom/Rolbam Eins.md",
-    "Characters/PC/Tom/Malkath Tribus.md",
-    "Resources/rw0a3gxm39qa1.mp4",
-    "Resources/Battlemaps/wintryPass.png",
-    "Resources/Battlemaps/Talos_2.png",
-    "Resources/Battlemaps/Talos_1.png",
-    "Resources/Battlemaps/Kilfenora_2.png",
     "Resources/Battlemaps/Kilfenora_1.png",
+    "Resources/Battlemaps/Kilfenora_2.png",
     "Resources/Battlemaps/Crater.png",
     "Resources/Battlemaps/CopperCasket.png",
-    "Resources/Battlemaps",
-    "Quests/Quests.md",
-    "Quests/Individual/Past within the Present/Past within the Present.md",
-    "Quests/Individual/- Individual Quests -.md",
-    "Quests/Contracts/- Contracts -.md",
-    "Narrative/temp/The Invasion of Gogledd Ynys.md",
-    "Narrative/temp/The Broken Capital.md",
-    "Narrative/temp/The Ascension.md",
-    "Narrative/The large Talus.md",
-    "Narrative/Overviews/Chapter 5.md",
-    "Narrative/5 -/35..md",
-    "Narrative/5 -/34..md",
-    "Narrative/5 -/33..md",
-    "Narrative/5 -/32..md",
-    "Narrative/5 -/31..md",
-    "Narrative/5 -/30..md",
-    "Narrative/5 -/29..md",
-    "Narrative/5 -/- Session Notes -.md",
-    "Narrative/3 -",
+    "Narrative/Timeline summary.md",
+    "Additional Lore/Astronomical Knowledge/Astronomy.md",
+    "conflict-files-obsidian-git.md",
+    "TODO.md",
+    "Resources/rw0a3gxm39qa1.mp4",
     "Resources/mistress.png",
+    "Resources/Marta_Backstory_merchant.png",
     "Resources/gingerhuman.png",
+    "Resources/female_runeWarrior.png",
+    "Resources/Elaine.png",
+    "Resources/Conditions Cheat Sheat.png",
+    "Characters/PC/Aime/Mazikeen.md",
+    "Narrative/1 - The Worst days of their lives/6. The Auction.md",
+    "Resources/Battlemaps",
+    "Resources/New folder",
+    "Narrative/2 - Currencies of the Empire/12..md",
+    "Narrative/2 - Currencies of the Empire/10..md",
+    "Narrative/2 - Currencies of the Empire/11..md",
+    "Narrative/2 - Currencies of the Empire/9. Enters Valthuna.md",
+    "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md",
+    "Locations/Seni Isles/Cyfandirol/Port Town.md",
+    "Locations/Seni Isles/Cyfandirol/Menamawr.md",
+    "Locations/Seni Isles/Brokvar/-Brokvar-.md",
+    "Locations/Seni Isles/Cyfandirol/The Copper Cask.md",
+    "Locations/Seni Isles/Cyfandirol/Virmarr.md",
+    "Quests/Individual/Past within the Present/Rolbam's Quest.md",
+    "Quests/Individual/Past within the Present/Stronvan's Quest.md",
+    "Quests/Individual/Past within the Present/Seram's Quest.md",
+    "Quests/Individual/Past within the Present/Malkath's Quest.md",
+    "Quests/Individual/Past within the Present/Alfread's Quest.md",
+    "Quests/Individual/Echoes of the Forgotten.md",
+    "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
+    "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora",
+    "Resources/Possibilities",
+    "Narrative/3 -",
     "Quests/Individual/Past within the Present",
     "Narrative/Overviews",
-    "Narrative/3 -/Untitled",
-    "Narrative/temp",
-    "Narrative/6 -",
     "Characters/Family Trees/Shatterborne.canvas"
   ]
 }
