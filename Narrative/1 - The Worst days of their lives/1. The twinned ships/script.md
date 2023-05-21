@@ -16,4 +16,6 @@ Elsewhere in this same moment in time, a comet streaks over head. crashing down 
 ----
 
 Herouk:
-Nomli, we need to talk about what's going to happen 
+	Nomli, we need to talk about what's going to happen when we reach land - you know how I feel about transporting this kind of carg...
+
+With a crack like a whip, a thunder clap
