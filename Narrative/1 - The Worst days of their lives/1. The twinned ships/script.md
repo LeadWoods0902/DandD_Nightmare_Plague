@@ -8,7 +8,7 @@ Herouk:
 
 As Herouk finishes his sentenace, the deckhand feels a numbing warm wash over hi, sighing from a combination of sudden powerful emotions he heads back to his station beckoning his comrades to join him. Herouk smiles to himself, gladdended by the fact that despite the many years at sea, he had not lost his learned ways. 
 
-The Melodius Linnet was a fine ship, perfectly fast and sturdy to boot but unmatched  grace by the Kilfenora held. Herouk was unacustomed to the art of Captaincy, it was only after the untimely death of the Linnet's former Captain, that Nomli (the captain of the Kilfenora and Leader of this duologous convoy) had risen him to a position of leadership. 
+The Melodius Linnet was a fine ship, perfectly fast and sturdy to boot but unmatched  grace by its sister ship the Kilfenora. Herouk was a fast learner but still unacustomed to the art of Captaincy, it was only after the untimely death of the Linnet's former Captain, that Nomli (the captain of the Kilfenora and Leader of this duologous convoy) had risen him to a position of leadership. 
 
 Before entering the cabin, Nomli noted the sudden drop in the wind but thought nothing more of it than that the wind had simpl shifted.
 
