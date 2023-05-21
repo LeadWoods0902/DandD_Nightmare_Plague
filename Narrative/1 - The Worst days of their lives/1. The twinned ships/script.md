@@ -16,9 +16,8 @@ Before entering the cabin, Nomli noted the sudden drop in the wind but thought n
 
 Elsewhere in this same moment in time, a comet streaks over head. crashing down into a forest not far south from places civilised.
 
-
 ----
-
+Herouk palms a smooth stone in his hand, paired with one in the hand of Nomli 
 Herouk:
 	Nomli, we need to talk about what's going to happen when we reach land - you know how I feel about transporting this kind of carg...
 
