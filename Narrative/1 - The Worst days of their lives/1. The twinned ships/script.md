@@ -4,4 +4,4 @@ Deckhand:
 Herouk:
 	Aye, it's been a long old slog but relax my friend - land should only be a day away and while it be a troubled peace, it was a peace both sides agreed to.
 
-Herouk begins to make his way to his cabin. After the untimely death of the Melodius Linnet's former Captain, Herouk had been chosen to take over the command. This certainl
+Herouk begins to make his way to his cabin to use the sending stone with . After the untimely death of the Melodius Linnet's former Captain, 
