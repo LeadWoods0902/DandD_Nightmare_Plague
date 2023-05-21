@@ -11,4 +11,4 @@ As we traverse this boundless space.
 Together we face the vast unknown,
 Seeking solace in the land we've known.
 Captain, my friend, by your side I'll stay,
-Until we reach the shores of terra misericordiae.
+Even when we reach the shores of terra misericordiae.
