@@ -22,10 +22,10 @@ Herouk palms a smooth stone in his hand, paired with one in the posession of Nom
 Herouk:
 	Nomli, we need to talk about what's going to happen when we reach land - you know how I feel about transporting this kind of carg...
 
-With a crack like a whip, a thunder clap breaks the silence - rushing outside, what not a minute ago had been a calm serene sea was suddenly a dark abyss of swirling chaos. Mirroring the sky, turned evil by something lurking in the rapidly rolling fog. Herouk calls out to his crew: 
+With a crack like a whip, a thunder clap breaks the silence - rushing outside, what not a minute ago had been a calm serene sea was suddenly a dark abyss of swirling chaos. Mirroring the sky, turned evil by something lurking in the rapidly rolling fog. Herouk jumps atop the port side railing - 
 
 Herouk:
 	Avast me crew, ready yourselves, draw weapons and fight like you did in Sombahal - something's coming and it won't back down easy!
 
-Drawing his twinned cutlasses, Herouk glances towards the sister 
+Drawing his twinned cutlasses, Herouk glances towards the Kilfenora - in a similar position to himself stood the wonderful and marvelous 
 
