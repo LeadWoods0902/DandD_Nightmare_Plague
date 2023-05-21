@@ -6,6 +6,8 @@ Deckhand:
 Herouk:
 	Aye, it's been a long old slog but relax my friend - land should only be a day away and while it be a troubled peace, it was a peace both sides agreed to.
 
+As Herouk finishes his sentenace, the deckhand feels a numbing warm wash over hi, sighing with e
+
 Herouk begins to make his way to his cabin to use the sending stone within to talk with the captain of the ships's sister-ship. The Melodius Linnet was a fine ship, perfectly fast and sturdy to boot but unmatched was it by the grace with which the Kilfenora held. Herouk was unacustomed to the art of Captaincy, it was only after the untimely death of the Linnet's former Captain, that Nomli (the captain of the Kilfenora and Leader of this duologous convoy) had risen him to a position of leadership. 
 
 Before entering the cabin, Nomli noted the sudden drop in the wind but thought nothing more of it than that the wind had simpl shifted.
