@@ -27,5 +27,5 @@ With a crack like a whip, a thunder clap breaks the silence - rushing outside, w
 Herouk:
 	Avast me crew, ready yourselves, draw weapons and fight like you did in Sombahal - something unnaturals a'comin and it won't back down easy!
 
-Drawing his twinned cutlasses, Herouk glances towards the Kilfenora - in a similar position to himself stood the wonderful and marvelous Nomli Gurglegum - a dwarf like himself  
+Drawing his twinned cutlasses, Herouk glances towards the Kilfenora - in a similar position to himself stood the wonderful and marvelous Nomli Gurglegum - a dwarf like himself but preened to a level that even the richest of land-settlers could not attain: Nomli always assumed some degree of magic was involved in maintaining his appearance. Draped haed to to 
 
