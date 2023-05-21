@@ -10,4 +10,6 @@ Before entering the cabin, Nomli noted the sudden drop in the wind but thought n
 
 -----
 
-48 hours previously
+Elsewhere in this same moment in time, a comet streaks over head. crashing down into a forest far south of all
+
+
