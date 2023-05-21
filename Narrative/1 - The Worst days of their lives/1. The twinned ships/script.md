@@ -16,4 +16,4 @@ Elsewhere in this same moment in time, a comet streaks over head. crashing down 
 ----
 
 Herouk:
-Nomli by belove,
+Nomli, we need to talk about what's going to happen 
