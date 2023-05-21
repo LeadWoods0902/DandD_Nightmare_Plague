@@ -22,4 +22,4 @@ Herouk palms a smooth stone in his hand, paired with one in the posession of Nom
 Herouk:
 	Nomli, we need to talk about what's going to happen when we reach land - you know how I feel about transporting this kind of carg...
 
-With a crack like a whip, a thunder clap breaks the silence - rushing outside, what not 1
+With a crack like a whip, a thunder clap breaks the silence - rushing outside, what not a minute ago had been a calm serene day was suddenly a dark rancid 
