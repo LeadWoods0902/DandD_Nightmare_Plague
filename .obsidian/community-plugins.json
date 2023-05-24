@@ -1,5 +1,6 @@
 [
   "obsidian-git",
   "obsidian-discordrpc",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-vault-statistics-plugin"
 ]
