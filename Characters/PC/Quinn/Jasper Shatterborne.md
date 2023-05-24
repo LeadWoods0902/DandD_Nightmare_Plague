@@ -7,6 +7,5 @@ Younger sibling to Bismuth by two minutes.
 
 very trans-phobic family & homo-phobic -> left home
 
----
 
 
