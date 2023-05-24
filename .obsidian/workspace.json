@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -193,6 +192,9 @@
   },
   "active": "2395cf58a505be38",
   "lastOpenFiles": [
+    "That.md",
+    "Characters/PC/Quinn/Jasper Shatterborne.md",
+    "Additional Lore/That Time Jasper Helped a Village.md",
     "Narrative/Timeline summary.md",
     "Resources/Battlemaps/Crater.png",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/script.md",
@@ -230,8 +232,6 @@
     "Quests/Individual/Past within the Present/Stronvan's Quest.md",
     "Quests/Individual/Past within the Present/Seram's Quest.md",
     "Quests/Individual/Past within the Present/Malkath's Quest.md",
-    "Quests/Individual/Past within the Present/Alfread's Quest.md",
-    "Quests/Individual/Echoes of the Forgotten.md",
     "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora",
     "Resources/Possibilities",
