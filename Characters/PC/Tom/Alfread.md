@@ -13,8 +13,11 @@ While his master was conducting a ritual to summon the spirits of long dead warr
 
 ### Lore Notes
 
-You know very little about your past
+You have a confused memory of your past, events blur together 
+You know your name(s)
+You believe
+
+
 You know how to do basic stuff and still have a good survival instinct
 
-
-I will spoon feed you knowledge and add important knowledge to your character sheet
+I will spoon feed you knowledge and add important knowledge to your character sheets
