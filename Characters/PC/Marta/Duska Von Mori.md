@@ -12,9 +12,6 @@ Inconveniently for the Master Librarian, she had recently been giving Duska trou
 
 Duska spent many years purging Sunmaek of the undeserving and the immortal but found themselves growing attached to the young Chancellor's Daughter, [[Hinele]]. 
 
-The basis for your relationship with Hinele is up to you to decide, she is the daughter of the Chancellor - a very powerful figure in Sunmaek and is in line to succeed him
-
-The relationship could be:
 - A power move to get closer to the chancellor
 	- outright killing him would not get you anywhere
 - An attempt at swaying Hinele to your will / beliefs
@@ -26,4 +23,4 @@ The relationship could be:
 When given the opportunity to travel to a new land with them, Duska jumped at the opportunity. If only as an opportunity to spread their cold embrace and the word of Mortos.
 
 ---
-### Additional Notes
+### Lore Notes
