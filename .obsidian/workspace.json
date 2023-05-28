@@ -46,19 +46,6 @@
             }
           },
           {
-            "id": "0f1b6a4a5946647c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "63eb420f7d8d1a9e",
             "type": "leaf",
             "state": {
@@ -78,6 +65,19 @@
               "type": "markdown",
               "state": {
                 "file": "Characters/PC/Marta/Duska Von Mori.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f1b6a4a5946647c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Aime/Mazikeen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Marta/Duska Von Mori.md",
+                "file": "Characters/PC/Aime/Mazikeen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Marta/Duska Von Mori.md",
+                "file": "Characters/PC/Aime/Mazikeen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Marta/Duska Von Mori.md"
+                "file": "Characters/PC/Aime/Mazikeen.md"
               }
             }
           },
@@ -242,12 +242,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c81dc0de72077e01",
+  "active": "0f1b6a4a5946647c",
   "lastOpenFiles": [
+    "Characters/PC/Marta/Duska Von Mori.md",
     "Characters/PC/Aime/Mazikeen.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/PC/Tom/Alfread.md",
-    "Characters/PC/Marta/Duska Von Mori.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Additional Lore/That Time Jasper Helped a Village.md",
     "That.md",
