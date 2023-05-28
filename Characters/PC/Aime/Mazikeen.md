@@ -4,4 +4,5 @@ Mazikeen is fantasy pregnant
 
 ### Lore Notes
 
-Put frankly, you know 
+You know nothing about your past
+You know how to do basic stuff and still have a good survival instinct
