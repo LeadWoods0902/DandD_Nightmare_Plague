@@ -13,9 +13,11 @@ While his master was conducting a ritual to summon the spirits of long dead warr
 
 ### Lore Notes
 
-You have a confused memory of your past, events blur together 
+You have a confused memory of your past, events blur together but nothing is objectively incorrrect
+
 You know your name(s)
-You believe
+
+You believe you have been transported through time, your character(s) are not aware of being multi-inhabited 
 
 
 You know how to do basic stuff and still have a good survival instinct
