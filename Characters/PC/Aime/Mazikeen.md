@@ -8,3 +8,4 @@ You know nothing about your past
 You know how to do basic stuff and still have a good survival instinct
 
 
+I will spoon feed you knowledge and add important knowledge to your character sheet

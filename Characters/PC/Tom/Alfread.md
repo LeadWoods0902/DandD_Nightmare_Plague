@@ -11,4 +11,10 @@ While his master was conducting a ritual to summon the spirits of long dead warr
 [[Stronvan Quatre]]: 
 
 
+### Lore Notes
 
+You know very little about your past
+You know how to do basic stuff and still have a good survival instinct
+
+
+I will spoon feed you knowledge and add important knowledge to your character sheet
