@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Tom/Malkath Tribus.md",
+                "file": "Characters/PC/Tom/Stronvan Quatre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Tom/Malkath Tribus.md",
+                "file": "Characters/PC/Tom/Stronvan Quatre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Tom/Malkath Tribus.md"
+                "file": "Characters/PC/Tom/Stronvan Quatre.md"
               }
             }
           },
@@ -294,11 +294,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35bbb4cb86e625c1",
+  "active": "a557a1fb6aa71783",
   "lastOpenFiles": [
+    "Characters/PC/Tom/Malkath Tribus.md",
     "Characters/PC/Tom/Seram Dos.md",
     "Characters/PC/Tom/Rolbam Eins.md",
-    "Characters/PC/Tom/Malkath Tribus.md",
     "Characters/PC/Tom/Stronvan Quatre.md",
     "Characters/PC/Aime/Mazikeen.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
