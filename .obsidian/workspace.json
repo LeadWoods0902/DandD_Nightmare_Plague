@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Tom/Alfread.md",
+                "file": "Characters/PC/Aime/Mazikeen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Tom/Alfread.md",
+                "file": "Characters/PC/Aime/Mazikeen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Tom/Alfread.md"
+                "file": "Characters/PC/Aime/Mazikeen.md"
               }
             }
           },
@@ -242,13 +242,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51f66ddddfe1ac1b",
+  "active": "0f1b6a4a5946647c",
   "lastOpenFiles": [
-    "Characters/PC/Aime/Mazikeen.md",
-    "Characters/PC/Tom/Alfread.md",
-    "Characters/PC/Marta/Duska Von Mori.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
+    "Characters/PC/Marta/Duska Von Mori.md",
+    "Characters/PC/Aime/Mazikeen.md",
+    "Characters/PC/Tom/Alfread.md",
     "Additional Lore/That Time Jasper Helped a Village.md",
     "That.md",
     "Narrative/Timeline summary.md",

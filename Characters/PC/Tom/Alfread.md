@@ -17,7 +17,7 @@ You have a confused memory of your past, events blur together but nothing is obj
 
 You know your name(s)
 
-You believe you have been transported through time, your character(s) are not aware of being multi-inhabited 
+You believe you have been transported through time, your character(s) are not aware of multi-inhabiting the same body (at least to begin with)  
 
 
 You know how to do basic stuff and still have a good survival instinct
