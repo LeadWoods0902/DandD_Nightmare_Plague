@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Tom/Rolbam Eins.md",
+                "file": "Characters/PC/Tom/Seram Dos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Tom/Rolbam Eins.md",
+                "file": "Characters/PC/Tom/Seram Dos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Tom/Rolbam Eins.md"
+                "file": "Characters/PC/Tom/Seram Dos.md"
               }
             }
           },
@@ -294,12 +294,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4aed3301c0c00be",
+  "active": "0edc7adb6afe6b71",
   "lastOpenFiles": [
+    "Characters/PC/Tom/Rolbam Eins.md",
     "Characters/PC/Tom/Malkath Tribus.md",
     "Characters/PC/Tom/Stronvan Quatre.md",
     "Characters/PC/Tom/Seram Dos.md",
-    "Characters/PC/Tom/Rolbam Eins.md",
     "Characters/PC/Aime/Mazikeen.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
