@@ -10,17 +10,9 @@ Inconveniently for the Master Librarian, she had recently been giving Duska trou
 
 >*"The inevitability of death is the greatest equalizer; immortality, in all its forms, threatens to upset the delicate balance of life and death. The cycle of life must continue, unbroken and unchallenged, for all time."*
 
-Duska spent many years purging Sunmaek of the undeserving and the immortal, using their position to develop connections within the chancellorship. [[Hinele]], the daughter of the [[Chancellor Sturgis]] grew close to you
+Duska spent many years purging Sunmaek of the undeserving and the immortal, using their position to develop connections within the chancellorship. [[Hinele]], the daughter of the [[Chancellor Sturgis]] grew close to you after many years spent in the library - you've opted to exploit this relationship to get closer to the chancellor, and hopefully sway [[Hinele]] to your will.
 
-- A power move to get closer to the chancellor
-	- outright killing him would not get you anywhere
-- An attempt at swaying Hinele to your will / beliefs
-	- A loyal servant in a position of power would be very useful
-- A subconscious attempt at retribution
-	- Internally, you know Mortos is a primal evil
-- Something else entirely
-
-When given the opportunity to travel to a new land with them, Duska jumped at the opportunity. If only as an opportunity to spread their cold embrace and the word of Mortos.
+When given the opportunity to travel to Seni with chancellor Sturgias , Duska jumped at the opportunity. If only as an opportunity to spread their cold embrace and the word of Mortos.
 
 ---
 ### Lore Notes
