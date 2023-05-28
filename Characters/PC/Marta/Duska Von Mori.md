@@ -10,7 +10,7 @@ Inconveniently for the Master Librarian, she had recently been giving Duska trou
 
 >*"The inevitability of death is the greatest equalizer; immortality, in all its forms, threatens to upset the delicate balance of life and death. The cycle of life must continue, unbroken and unchallenged, for all time."*
 
-Duska spent many years purging Sunmaek of the undeserving and the immortal but found themselves growing attached to the young Chancellor's Daughter, [[Hinele]]. 
+Duska spent many years purging Sunmaek of the undeserving and the immortal, using their position to develop connections within the chancellorship. [[Hinele]], the daughter of the [[Chancellor Sturgis]] grew close to you
 
 - A power move to get closer to the chancellor
 	- outright killing him would not get you anywhere
