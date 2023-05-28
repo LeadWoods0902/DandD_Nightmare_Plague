@@ -85,6 +85,58 @@
             }
           },
           {
+            "id": "35bbb4cb86e625c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Tom/Malkath Tribus.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4aed3301c0c00be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Tom/Rolbam Eins.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0edc7adb6afe6b71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Tom/Seram Dos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a557a1fb6aa71783",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Tom/Stronvan Quatre.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "51f66ddddfe1ac1b",
             "type": "leaf",
             "state": {
@@ -98,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -172,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
+                "file": "Characters/PC/Tom/Rolbam Eins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
+                "file": "Characters/PC/Tom/Rolbam Eins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md"
+                "file": "Characters/PC/Tom/Rolbam Eins.md"
               }
             }
           },
@@ -242,12 +294,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f1b6a4a5946647c",
+  "active": "c4aed3301c0c00be",
   "lastOpenFiles": [
+    "Characters/PC/Tom/Malkath Tribus.md",
+    "Characters/PC/Tom/Stronvan Quatre.md",
+    "Characters/PC/Tom/Seram Dos.md",
+    "Characters/PC/Tom/Rolbam Eins.md",
+    "Characters/PC/Aime/Mazikeen.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Characters/PC/Marta/Duska Von Mori.md",
-    "Characters/PC/Aime/Mazikeen.md",
     "Characters/PC/Tom/Alfread.md",
     "Additional Lore/That Time Jasper Helped a Village.md",
     "That.md",
@@ -280,10 +336,6 @@
     "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md",
     "Locations/Seni Isles/Cyfandirol/Port Town.md",
     "Locations/Seni Isles/Cyfandirol/Menamawr.md",
-    "Locations/Seni Isles/Brokvar/-Brokvar-.md",
-    "Locations/Seni Isles/Cyfandirol/The Copper Cask.md",
-    "Locations/Seni Isles/Cyfandirol/Virmarr.md",
-    "Quests/Individual/Past within the Present/Rolbam's Quest.md",
     "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora",
     "Resources/Possibilities",
