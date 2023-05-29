@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Tom/Stronvan Quatre.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Tom/Stronvan Quatre.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Tom/Stronvan Quatre.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Tom/Stronvan Quatre.md"
+                "file": "TODO.md"
               }
             }
           },
@@ -296,36 +296,36 @@
   },
   "active": "a557a1fb6aa71783",
   "lastOpenFiles": [
+    "That.md",
+    "Resources/Conditions Cheat Sheat.png",
+    "Resources/female_runeWarrior.png",
+    "Resources/gingerhuman.png",
+    "Resources/Marta_Backstory_merchant.png",
+    "Resources/mistress.png",
+    "Resources/rw0a3gxm39qa1.mp4",
+    "Resources/Tokens/Hinele_Token.png",
+    "Resources/Tokens/DisfiguredKnight_Token.png",
+    "Resources/Tokens/Bismuth_Token.png",
+    "Resources/Tokens/barkeep_token.png",
+    "Resources/Possibilities/Rapscallion.png",
+    "Characters/PC/Tom/Stronvan Quatre.md",
     "Characters/PC/Tom/Malkath Tribus.md",
     "Characters/PC/Tom/Seram Dos.md",
     "Characters/PC/Tom/Rolbam Eins.md",
-    "Characters/PC/Tom/Stronvan Quatre.md",
     "Characters/PC/Aime/Mazikeen.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Characters/PC/Marta/Duska Von Mori.md",
     "Characters/PC/Tom/Alfread.md",
     "Additional Lore/That Time Jasper Helped a Village.md",
-    "That.md",
     "Narrative/Timeline summary.md",
-    "Resources/Battlemaps/Crater.png",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/script.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/poem.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/overview.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships",
-    "Resources/Battlemaps/Kilfenora_1.png",
-    "Resources/Battlemaps/Kilfenora_2.png",
-    "Resources/Battlemaps/CopperCasket.png",
     "Additional Lore/Astronomical Knowledge/Astronomy.md",
     "conflict-files-obsidian-git.md",
     "TODO.md",
-    "Resources/rw0a3gxm39qa1.mp4",
-    "Resources/mistress.png",
-    "Resources/Marta_Backstory_merchant.png",
-    "Resources/gingerhuman.png",
-    "Resources/female_runeWarrior.png",
-    "Resources/Elaine.png",
-    "Resources/Conditions Cheat Sheat.png",
     "Narrative/1 - The Worst days of their lives/6. The Auction.md",
     "Resources/Battlemaps",
     "Resources/New folder",
@@ -335,7 +335,6 @@
     "Narrative/2 - Currencies of the Empire/9. Enters Valthuna.md",
     "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md",
     "Locations/Seni Isles/Cyfandirol/Port Town.md",
-    "Locations/Seni Isles/Cyfandirol/Menamawr.md",
     "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora",
     "Resources/Possibilities",
