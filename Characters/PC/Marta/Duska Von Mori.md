@@ -24,3 +24,7 @@ You create an aura of dark magic that fills a 15-foot-radius sphere centered on 
 ##### Accursed Bolt
 
 You unleash a bolt of malevolent necrotic energy that streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 necrotic damage.
+
+Additionally, the target is wreathed in dark, lingering energy. Until the end of its next turn, the target emits a sickly aura. Any attacks made against the target have advantage, and the target has disadvantage on all saving throws against necrotic damage.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
