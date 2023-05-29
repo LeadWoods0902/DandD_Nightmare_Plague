@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Additional Lore/Currency/Baht.md",
+                "file": "Characters/PC/Marta/Duska Von Mori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Additional Lore/Currency/Baht.md",
+                "file": "Characters/PC/Marta/Duska Von Mori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Additional Lore/Currency/Baht.md"
+                "file": "Characters/PC/Marta/Duska Von Mori.md"
               }
             }
           },
@@ -294,8 +294,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a557a1fb6aa71783",
+  "active": "c81dc0de72077e01",
   "lastOpenFiles": [
+    "Additional Lore/Currency/Baht.md",
     "Quests/Contracts/Creature in the Crop.md",
     "Quests/Contracts/Brother Lost.md",
     "TODO.md",
@@ -335,7 +336,6 @@
     "Narrative/2 - Currencies of the Empire/10..md",
     "Narrative/2 - Currencies of the Empire/11..md",
     "Narrative/2 - Currencies of the Empire/9. Enters Valthuna.md",
-    "Locations/Seni Isles/Cyfandirol/-Cyfandirol-.md",
     "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora",
     "Resources/Possibilities",
