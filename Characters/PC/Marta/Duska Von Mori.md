@@ -19,4 +19,4 @@ When given the opportunity to travel to Seni with chancellor Sturgis and Hinele,
 
 ##### Zone of Deceit
 
-You create an aura of dark magic that fills a 15-foot-radius sphere centered on a point you choose within range. This aura becomes a zone of deceit. Within this zone, creatures that enter or start their turn must make a Charisma saving throw. On a failed save, a creature can't speak a deliberate lie while in the zone. On a successful save, the creature can lie but will take damage when doing so
+You create an aura of dark magic that fills a 15-foot-radius sphere centered on a point you choose within range. This aura becomes a zone of deceit. Within this zone, creatures that enter or start their turn must make a Charisma saving throw. On a failed save, a creature can't speak a deliberate lie while in the zone. On a successful save, the creature is unaffected and can speak freely.
