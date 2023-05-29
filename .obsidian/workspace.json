@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "Characters/PC/Tom/Rolbam Eins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "Characters/PC/Tom/Rolbam Eins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timeline summary.md"
+                "file": "Characters/PC/Tom/Rolbam Eins.md"
               }
             }
           },
@@ -294,14 +294,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "401099d019e4938b",
+  "active": "c4aed3301c0c00be",
   "lastOpenFiles": [
-    "Characters/PC/Marta/Duska Von Mori.md",
+    "Characters/PC/Tom/Seram Dos.md",
     "Additional Lore/Currency/Baht.md",
+    "Characters/PC/Tom/Alfread.md",
+    "Quests/Quests.md",
+    "That.md",
+    "Narrative/Timeline summary.md",
+    "Characters/PC/Marta/Duska Von Mori.md",
     "Quests/Contracts/Creature in the Crop.md",
     "Quests/Contracts/Brother Lost.md",
     "TODO.md",
-    "That.md",
     "Resources/Conditions Cheat Sheat.png",
     "Resources/female_runeWarrior.png",
     "Resources/gingerhuman.png",
@@ -315,14 +319,11 @@
     "Resources/Possibilities/Rapscallion.png",
     "Characters/PC/Tom/Stronvan Quatre.md",
     "Characters/PC/Tom/Malkath Tribus.md",
-    "Characters/PC/Tom/Seram Dos.md",
     "Characters/PC/Tom/Rolbam Eins.md",
     "Characters/PC/Aime/Mazikeen.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
-    "Characters/PC/Tom/Alfread.md",
     "Additional Lore/That Time Jasper Helped a Village.md",
-    "Narrative/Timeline summary.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/script.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/poem.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/overview.md",
@@ -335,7 +336,6 @@
     "Narrative/2 - Currencies of the Empire/12..md",
     "Narrative/2 - Currencies of the Empire/10..md",
     "Narrative/2 - Currencies of the Empire/11..md",
-    "Narrative/2 - Currencies of the Empire/9. Enters Valthuna.md",
     "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora",
     "Resources/Possibilities",
