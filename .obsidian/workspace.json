@@ -64,7 +64,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Resources/Character Art/Crew of the Kilfenora/1.png"
+                "file": "Resources/Marta_Backstory_merchant.png"
               }
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Character Art/Crew of the Kilfenora/1.png",
+                "file": "Resources/Marta_Backstory_merchant.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Character Art/Crew of the Kilfenora/1.png",
+                "file": "Resources/Marta_Backstory_merchant.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Character Art/Crew of the Kilfenora/1.png"
+                "file": "Resources/Marta_Backstory_merchant.png"
               }
             }
           },
@@ -215,12 +215,12 @@
   },
   "active": "c81dc0de72077e01",
   "lastOpenFiles": [
+    "Resources/Character Art/Crew of the Kilfenora/1.png",
     "Resources/Character Art/Crew of the Kilfenora/5.png",
     "Resources/Character Art/Crew of the Kilfenora/6.png",
     "Resources/Character Art/Crew of the Kilfenora/4.png",
     "Resources/Character Art/Crew of the Kilfenora/3.png",
     "Resources/Character Art/Crew of the Kilfenora/2.png",
-    "Resources/Character Art/Crew of the Kilfenora/1.png",
     "Characters/PC/Marta/Duska Von Mori.md",
     "Characters/PC/Tom/Seram Dos.md",
     "Characters/PC/Tom/Malkath Tribus.md",
