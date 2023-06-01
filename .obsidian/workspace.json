@@ -34,6 +34,25 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "2669ba54cea23df0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8fe159546497064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Marta/Duska Von Mori.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "Characters/PC/Marta/Duska Von Mori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "Characters/PC/Marta/Duska Von Mori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timeline summary.md"
+                "file": "Characters/PC/Marta/Duska Von Mori.md"
               }
             }
           },
@@ -177,8 +196,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "401099d019e4938b",
+  "active": "c8fe159546497064",
   "lastOpenFiles": [
+    "Narrative/Timeline summary.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Resources/Marta_Backstory_merchant.png",
@@ -197,7 +217,6 @@
     "Characters/PC/Tom/Alfread.md",
     "Quests/Quests.md",
     "That.md",
-    "Narrative/Timeline summary.md",
     "Quests/Contracts/Creature in the Crop.md",
     "Quests/Contracts/Brother Lost.md",
     "TODO.md",
