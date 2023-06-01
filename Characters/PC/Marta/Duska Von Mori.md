@@ -1,5 +1,8 @@
 ![[DuskVonMori_Token.png]]
 ### Backstory
+
+Season of Birth: 1649/02
+Age at start of campaign: 
 Once a humble servant of the [[Master Librarian]] of the [[Sunmaek Royal Library]], Duska Halloni was a quiet, mostly reserved character and was content with their position. Along with being happy with their role, Dusk was well liked among by both the other library staff and Sunmaek's royalty. If it wasn't for  one unfortunate night, Dusk may have naturally risen to a greater position; however on one stormy night, Dusk made an unexpected discovery within the great halls of the royal library. A dark leather bound book, well weathered and beaten, the sort one would often discard to the back of a shelf or leave unnoticed in a dark corner - which is exactly where Dusk discovered it. And like a moth to the flame, Dusk found themselves delving into the pages of the book, uncovering an ancient and **abhorrent** history. A history laced with all manner of abhorrent horror, including many references to one "many faced god of death, [[Mortos]]".
 
 After discovering this primordial text, Duska Von Mori began to search the library for more abandoned knowledge. Scouring every nook and cranny for similar tomes. This undying and sudden passion was noticed by two beings: the first being the master librarian, the second: Mortos themselves.
