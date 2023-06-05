@@ -2,7 +2,7 @@
 - After the effect procs:
 	- Disadvantage on ability checks
 	- Takes d6 damage at the end of their turn
-- Effects lasts for 8 turns
+- Effects lasts for 4 turns
 - Blood loss can be stopped with a bandage and a successful \[medicine\] check
 
 #### Frostbite
@@ -16,7 +16,7 @@
 - After the effect procs:
 	- Disadvantage on attack rolls
 	- Disadvantage on ability checks
-	- takes d4 damage at the end of their turn
+	- takes d4 damage at the end of the first and last round
 - Lasts for 6 rounds
 - Can be cured with an appropriate remedy
 
@@ -40,24 +40,26 @@
 - Disadvantage on rolls that would be significantly effected on not being able to see
 - Enemies have advantage on attack rolls
 
-#### Charmed
-- A charmed creature cannot attack the target or otherwise bring harm to them through intentional actions
-- The charmer has advantage on any ability check against the charmed creature
-- The charmed creature responds positively to the charmer socially (the charmed creature is not "entranced" (see below))
-
 #### Deafened
 - Automatically fail any ability checks that would require hearing
 - Disadvantage on rolls that would be significantly effected on not being able to hear
 - Enemies have advantage on attacks from out of sight
 
+#### Charmed
+- A charmed creature cannot attack the target or otherwise bring harm to them through intentional actions
+- The charmer has advantage on any ability check against the charmed creature
+- The charmed creature responds positively to the charmer socially (the charmed creature is not "entranced" (see below))
+
 #### Frightened
-- A frightened creature has disadvantage on Ability checks and Attack rolls while the source of its fear is within both line of sight and 60ft
+- A frightened creature has disadvantage on Ability checks and Attack rolls while the source of its fear is within line of sight or 120ft audible range
 - A creature cannot willingly move closer to the source of fear 
-- A creature cannot willingly move within 60ft of the source of fear
+
+#### Incapacitated
+- An incapacitated creature cannot attack, react or move. 
+- Attack rolls against the creature have advantage
 
 #### Stunned
-- see incapacitated
-- Speech is slurred
+- Disadvantage on speech based skills
 - automatically fail \[STR\] and \[DEX\] saving throws
 
 #### Prone
@@ -66,13 +68,9 @@
 - An Attack roll against the creature has advantage if the attacker is within reach of the creature
 
 #### Grappled 
-- The restrained effect is applied while the grappler continually grapples the target. 
+- The Incapacitated effect is applied while the grappler continually grapples the target. 
 - A grapple can be broken on a successful \[STR\] or \[DEX\] challenge
 - A grapple can be broken by an external influence by a reasonable means
-
-#### Incapacitated
-- An incapacitated creature cannot attack, react or move. 
-- Attack rolls against the creature have advantage
 
 #### Invisible
 - A (truly) invisible creature:
@@ -96,6 +94,7 @@
 		- warmth
 	- Attacks against the target have disadvantage if the attacker does not have "a good lock" on the invisible target
 
+
 #### Paralysed
 - see Incapacitated
 - Creature cannot speak
@@ -107,6 +106,6 @@
 - The creature drops everything it is holding and falls prone
 
 #### Exhausted
-- Disadvantage on ability checks for duration of effect
+- Disadvantage on ability checks for duration
 - Speed halved
-- Lasts until a round is complete with less than half of stamina consumed
+- Lasts until next long rest
