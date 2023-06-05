@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2669ba54cea23df0",
+        "id": "de7c806d8692e3a7",
         "type": "tabs",
         "children": [
           {
-            "id": "c8fe159546497064",
+            "id": "f7f82a67def7461a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/PC/Marta/Duska Von Mori.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc96b1a8435cc5b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPC/Sunmaek/Hinele.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35dd4c45f210b86b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/NPC/Sunmaek/Chancellor Sturgis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,8 +155,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35dd4c45f210b86b",
+  "active": "f7f82a67def7461a",
   "lastOpenFiles": [
+    "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
     "Characters/NPC/Sunmaek/Hinele.md",
     "Characters/PC/Marta/Duska Von Mori.md",
     "Resources/Tokens/DuskVonMori_Token.png",
@@ -232,7 +197,6 @@
     "Narrative/1 - The Worst days of their lives/6. The Auction.md",
     "Resources/Battlemaps",
     "Resources/New folder",
-    "Narrative/2 - Currencies of the Empire/12..md",
     "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora",
     "Resources/Possibilities",
