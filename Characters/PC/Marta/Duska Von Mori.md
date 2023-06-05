@@ -2,7 +2,7 @@
 ### World Lore (things you know in brief)
 You have a complete understanding of Sunmaek's History
 You have knowledge of Seni's history and its recent conflicts
-You know that the dominant religion in Brokvar (the area of Seni you'll be in) revolves around healing and eternal life
+You know that the dominant religion in Brokvar (the area of Seni you'll be in) is related to some character that goes by the name of 
 
 ### Character Info
 
