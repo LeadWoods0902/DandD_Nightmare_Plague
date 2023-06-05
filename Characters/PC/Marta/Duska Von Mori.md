@@ -4,15 +4,22 @@
 
 ### Character Info
 
-Name: Duska Halloni (self refers as Von Mori after entering contract with Mortos)
-Current Age: 144
+##### Name 
+Duska Halloni (self refers as Von Mori after entering contract with Mortos)
 
-Race: Yuan-Ti (vampiric via ritual)
-Class: Cleric of Death
+##### Current Age
+144
 
-Alignment: True/Lawful Neutral (lawful to Mortos' doctrine)
+##### Race
+Yuan-Ti (vampiric via ritual)
 
-Personality Traits:
+##### Class
+Cleric of Death
+
+##### Alignment
+True/Lawful Neutral (lawful to Mortos' doctrine)
+
+##### Personality Traits
 - Curious
 - Reserved
 - Manipulative
@@ -20,6 +27,7 @@ Personality Traits:
 - Ambitious
 - Cynical
 
+Goals:
 
 ### Backstory
 
