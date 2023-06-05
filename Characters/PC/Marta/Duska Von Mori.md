@@ -5,7 +5,7 @@
 ### Character Info
 
 Name: Duska Halloni (self refers as Von Mori after entering contract with Mortos)
-Season of Birth: Ve
+Season of Birth under Seni Calendar: Vetrsker (kinda like winter)
 Current Age: 144
 
 
