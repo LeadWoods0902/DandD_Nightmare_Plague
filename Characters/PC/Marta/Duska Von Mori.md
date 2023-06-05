@@ -5,7 +5,7 @@
 ### Character Info
 
 Name: Duska Halloni (self refers as Von Mori after entering contract with Mortos)
-Seni Season of 
+Seni Season of birth
 Current Age: 144
 
 
