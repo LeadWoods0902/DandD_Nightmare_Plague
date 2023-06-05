@@ -51,19 +51,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d5884f67e7fd5b67",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +197,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d5884f67e7fd5b67",
+  "active": "c8fe159546497064",
   "lastOpenFiles": [
     "Narrative/Timeline summary.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
