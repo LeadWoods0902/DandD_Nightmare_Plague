@@ -37,6 +37,8 @@ True/Lawful Neutral (lawful to Mortos' doctrine)
 - Spread Mortos' word by recruiting followers that are willing to embrace the inevitability of death
 - Unearth Forbidden Knowledge
 
+##### Motivations
+After discovering that their country has been lying to them for generations, creating a 
 
 ### Backstory
 
