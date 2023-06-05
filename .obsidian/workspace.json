@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Rules/Gang Fights.md",
+                "file": "Game Rules/Necrotic Damage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Rules/Gang Fights.md",
+                "file": "Game Rules/Necrotic Damage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Rules/Gang Fights.md",
+                "file": "Game Rules/Necrotic Damage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Rules/Gang Fights.md"
+                "file": "Game Rules/Necrotic Damage.md"
               }
             }
           },
@@ -166,6 +166,10 @@
   },
   "active": "f7f82a67def7461a",
   "lastOpenFiles": [
+    "Game Rules/Mutli-classing.md",
+    "Game Rules/Multi-sub-classing.md",
+    "Game Rules/Ingenuity.md",
+    "Game Rules/Gang Fights.md",
     "Game Rules/Fate rolls.md",
     "Game Rules/Dash & Sprint.md",
     "Game Rules/Critical Health Levels.md",
@@ -196,13 +200,9 @@
     "Additional Lore/Currency/Baht.md",
     "Characters/PC/Tom/Alfread.md",
     "Quests/Quests.md",
-    "Quests/Contracts/Creature in the Crop.md",
-    "Quests/Contracts/Brother Lost.md",
-    "TODO.md",
     "Resources/Conditions Cheat Sheat.png",
     "Resources/female_runeWarrior.png",
     "Resources/rw0a3gxm39qa1.mp4",
-    "Characters/PC/Tom/Stronvan Quatre.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships",
     "Resources/Battlemaps",
     "Resources/New folder",
