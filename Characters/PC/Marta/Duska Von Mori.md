@@ -1,6 +1,7 @@
 ![[DuskVonMori_Token.png]]
-### World Lore
-
+### World Lore (things you know in brief)
+You have a complete understanding of Sunmaek History
+You have a decen
 
 ### Character Info
 
