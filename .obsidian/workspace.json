@@ -52,8 +52,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75af00c22aa6e3af",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Tokens/DuskVonMori_Token.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Marta/Duska Von Mori.md",
+                "file": "Resources/Tokens/DuskVonMori_Token.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Marta/Duska Von Mori.md",
+                "file": "Resources/Tokens/DuskVonMori_Token.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Marta/Duska Von Mori.md"
+                "file": "Resources/Tokens/DuskVonMori_Token.png"
               }
             }
           },
@@ -198,10 +209,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8fe159546497064",
+  "active": "75af00c22aa6e3af",
   "lastOpenFiles": [
-    "Characters/Deities/Seni/Nëoris.md",
     "Characters/PC/Marta/Duska Von Mori.md",
+    "Characters/Deities/Seni/Nëoris.md",
     "Narrative/Timeline summary.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
