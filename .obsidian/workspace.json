@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "Characters/PC/Marta/Duska Von Mori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "Characters/PC/Marta/Duska Von Mori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timeline summary.md"
+                "file": "Characters/PC/Marta/Duska Von Mori.md"
               }
             }
           },
@@ -199,10 +199,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "401099d019e4938b",
+  "active": "c8fe159546497064",
   "lastOpenFiles": [
-    "Characters/PC/Marta/Duska Von Mori.md",
     "Narrative/Timeline summary.md",
+    "Characters/PC/Marta/Duska Von Mori.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Resources/Marta_Backstory_merchant.png",
