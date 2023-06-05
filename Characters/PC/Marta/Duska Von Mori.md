@@ -10,7 +10,9 @@ Current Age: 144
 Race: Yuan-Ti (vampiric via ritual)
 Class: Cleric of Death
 
-Alignment: 
+Alignment: True/Lawful Neutral (lawful to Mortos' doctrine)
+
+Personality Traits:
 
 
 ### Backstory
