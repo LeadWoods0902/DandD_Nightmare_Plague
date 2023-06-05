@@ -33,9 +33,9 @@ True/Lawful Neutral (lawful to Mortos' doctrine)
 - 
 
 ##### Additional Goals
-- Solidify Position of Power within Sunmaek high-leadership by manipulating the channc
-- Spread Mortos' word
-- 
+- Solidify Position of Power within Sunmaek high-leadership by manipulating the channcerlorship 
+- Spread Mortos' word by recruiting followers that are willing to embrace the inevitability of death
+- Unearth Forbidden Knowledge
 
 
 ### Backstory
