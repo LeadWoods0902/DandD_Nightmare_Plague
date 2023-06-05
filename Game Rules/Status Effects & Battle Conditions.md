@@ -33,7 +33,7 @@
 - The effect lasts indefinitely
 - The effect can be cancelled with an appropriate remedy:
 	- Submerging the enflamed area in water
-	- spending a turn rolling on the ground (this action ends with you prone)
+	- spending two turns rolling on the ground (this action ends with you prone)
 
 #### Blindness
 - Automatically fail any ability checks that would require sight
