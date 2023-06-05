@@ -7,7 +7,9 @@ You have knowledge of Seni's history and its recent conflicts
 
 You know that the dominant religion in Brokvar (the area of Seni you'll be in) is related to some character that goes by the name of Nëoris. There is some relation to healing and eternal life.
 
-You are versed i
+You are well-versed in both the magics of the twin sun snakes and the magics of Mortos.
+
+
 
 
 
