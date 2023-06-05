@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Rules/Psychic Damage.md",
+                "file": "Game Rules/Status Effects & Battle Conditions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Rules/Psychic Damage.md",
+                "file": "Game Rules/Status Effects & Battle Conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Rules/Psychic Damage.md",
+                "file": "Game Rules/Status Effects & Battle Conditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Rules/Psychic Damage.md"
+                "file": "Game Rules/Status Effects & Battle Conditions.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "f7f82a67def7461a",
   "lastOpenFiles": [
+    "Game Rules/Psychic Damage.md",
     "Game Rules/Necrotic Damage.md",
     "Game Rules/Oblivious Start.md",
     "Game Rules/Mutli-classing.md",
@@ -199,7 +200,6 @@
     "Characters/PC/Tom/Malkath Tribus.md",
     "Characters/PC/Aime/Mazikeen.md",
     "Characters/PC/Tom/Rolbam Eins.md",
-    "Additional Lore/Currency/Baht.md",
     "Resources/Conditions Cheat Sheat.png",
     "Resources/female_runeWarrior.png",
     "Resources/rw0a3gxm39qa1.mp4",
