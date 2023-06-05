@@ -127,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/PC/Marta/Duska Von Mori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/PC/Marta/Duska Von Mori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/PC/Marta/Duska Von Mori.md"
+              }
             }
           },
           {
@@ -193,8 +197,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a763b60f8dc01661",
+  "active": "c8fe159546497064",
   "lastOpenFiles": [
+    "Characters/Deities/Seni/Nëoris.md",
     "Characters/PC/Marta/Duska Von Mori.md",
     "Narrative/Timeline summary.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
