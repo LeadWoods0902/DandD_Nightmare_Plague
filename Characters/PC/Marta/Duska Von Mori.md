@@ -13,6 +13,12 @@ Class: Cleric of Death
 Alignment: True/Lawful Neutral (lawful to Mortos' doctrine)
 
 Personality Traits:
+- Curious
+- Reserved
+- Manipulative
+- Ruthless & Calculating
+- Ambitious
+- Cynical
 
 
 ### Backstory
