@@ -5,6 +5,7 @@
 ### Character Info
 
 Name: Duska Halloni (self refers as Von Mori after entering contract with Mortos)
+Race: Yuan-Ti (vampiric via magical 
 Seni Season of birth
 Current Age: 144
 
