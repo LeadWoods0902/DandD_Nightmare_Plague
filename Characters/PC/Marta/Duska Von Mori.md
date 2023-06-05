@@ -9,10 +9,6 @@ You know that the dominant religion in Brokvar (the area of Seni you'll be in) i
 
 You are well-versed in both the magics of the twin sun snakes and the magics of Mortos.
 
-
-
-
-
 ### Character Info
 
 ##### Name 
@@ -78,18 +74,3 @@ Inconveniently for the Master Librarian, she had recently been giving Duska trou
 Duska spent many years purging Sunmaek of the undeserving and the immortal, using their position to develop connections within the chancellorship. [[Hinele]], the daughter of the [[Chancellor Sturgis]] grew close to you after many years spent in the library - you've opted to exploit this relationship to get closer to the chancellor, and hopefully sway Hinele to your will.
 
 When given the opportunity to travel to Seni with chancellor Sturgis and Hinele, you jumped at the opportunity. If only as an opportunity to spread your cold embrace and the word of Mortos.
-
----
-### Special Magics
-
-##### Zone of Deceit
-
-You create an aura of dark magic that fills a 15-foot-radius sphere centered on a point you choose within range. This aura becomes a zone of deceit. Within this zone, creatures that enter or start their turn must make a Charisma saving throw. On a failed save, a creature can't speak a deliberate lie while in the zone. On a successful save, the creature is unaffected and can speak freely.
-
-##### Accursed Bolt
-
-You unleash a bolt of malevolent necrotic energy that streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 necrotic damage.
-
-Additionally, the target is wreathed in dark, lingering energy. Until the end of its next turn, the target emits a sickly aura. Any attacks made against the target have advantage, and the target has disadvantage on all saving throws against necrotic damage.
-
-At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
