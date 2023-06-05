@@ -44,7 +44,7 @@ After discovering that their country has been lying to them for generations, Dus
 Unwilling to compromise as the ends always justify the means
 
 ##### Affiliations
-
+The Veiled Heralds of Mortos
 
 
 ### Backstory
