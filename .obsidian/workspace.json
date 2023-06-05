@@ -11,8 +11,13 @@
             "id": "f7f82a67def7461a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Game Rules/Combat.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Rules/Combat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Rules/Combat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Game Rules/Combat.md"
+              }
             }
           },
           {
@@ -155,8 +164,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "f7f82a67def7461a",
   "lastOpenFiles": [
+    "Game Rules/Assists.md",
+    "Game Rules/Alcohol.md",
+    "That.md",
     "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
     "Characters/NPC/Sunmaek/Hinele.md",
     "Characters/PC/Marta/Duska Von Mori.md",
@@ -179,7 +191,6 @@
     "Additional Lore/Currency/Baht.md",
     "Characters/PC/Tom/Alfread.md",
     "Quests/Quests.md",
-    "That.md",
     "Quests/Contracts/Creature in the Crop.md",
     "Quests/Contracts/Brother Lost.md",
     "TODO.md",
@@ -193,8 +204,6 @@
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/overview.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships",
     "Additional Lore/Astronomical Knowledge/Astronomy.md",
-    "conflict-files-obsidian-git.md",
-    "Narrative/1 - The Worst days of their lives/6. The Auction.md",
     "Resources/Battlemaps",
     "Resources/New folder",
     "Narrative/5 -",
