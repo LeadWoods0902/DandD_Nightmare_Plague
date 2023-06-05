@@ -10,6 +10,9 @@ Duska Halloni (self refers as Von Mori after entering contract with Mortos)
 ##### Current Age
 144
 
+##### Place of Origin
+Sunmaek, 
+
 ##### Race
 Yuan-Ti (vampiric via ritual)
 
@@ -46,8 +49,7 @@ Unwilling to compromise as the ends always justify the means
 ##### Affiliations
 - The Veiled Heralds of Mortos
 - Sunmaek Chancellorship
-- Librarians Guild
-- 
+- The Luminary Consortium
 
 
 ### Backstory
