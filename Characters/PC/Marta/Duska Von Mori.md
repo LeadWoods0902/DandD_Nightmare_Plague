@@ -27,7 +27,11 @@ True/Lawful Neutral (lawful to Mortos' doctrine)
 - Ambitious
 - Cynical
 
-Goals:
+##### Long Term Goals
+- rid the world of immortals and restore the balance of life and death
+- fulfill Mortos' plans
+
+
 
 ### Backstory
 
