@@ -38,7 +38,9 @@ True/Lawful Neutral (lawful to Mortos' doctrine)
 - Unearth Forbidden Knowledge
 
 ##### Motivations
-After discovering that their country has been lying to them for generations, creating a state of increased population through a false belief that life can continue forever
+After discovering that their country has been lying to them for generations, Duska 
+
+creating a state of increased population through a false belief that life can continue forever
 
 ### Backstory
 
