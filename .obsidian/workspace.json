@@ -6,6 +6,7 @@
       {
         "id": "e89283c32473b946",
         "type": "tabs",
+        "dimension": 42.11087420042644,
         "children": [
           {
             "id": "a763b60f8dc01661",
@@ -38,6 +39,7 @@
       {
         "id": "2669ba54cea23df0",
         "type": "tabs",
+        "dimension": 57.88912579957356,
         "children": [
           {
             "id": "c8fe159546497064",
@@ -200,6 +202,7 @@
   "active": "c8fe159546497064",
   "lastOpenFiles": [
     "Narrative/Timeline summary.md",
+    "Characters/PC/Marta/Duska Von Mori.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Resources/Marta_Backstory_merchant.png",
@@ -209,7 +212,6 @@
     "Resources/Character Art/Crew of the Kilfenora/4.png",
     "Resources/Character Art/Crew of the Kilfenora/3.png",
     "Resources/Character Art/Crew of the Kilfenora/2.png",
-    "Characters/PC/Marta/Duska Von Mori.md",
     "Characters/PC/Tom/Seram Dos.md",
     "Characters/PC/Tom/Malkath Tribus.md",
     "Characters/PC/Aime/Mazikeen.md",
