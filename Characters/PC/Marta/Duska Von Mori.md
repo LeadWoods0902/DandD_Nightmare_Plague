@@ -5,8 +5,9 @@
 ### Character Info
 
 Name: Duska Halloni (self refers as Von Mori after entering contract with Mortos)
-"Date" of Birth: 1649/02
+Year of Birth: 1649
 Current Age: 144
+
 
 ### Backstory
 
