@@ -28,9 +28,9 @@ True/Lawful Neutral (lawful to Mortos' doctrine)
 - Cynical
 
 ##### Long Term Goals
-- Rid the world of immortals and restore the balance of life and death
-- Fulfill Mortos' plans
-- 
+- Unlock the Secrets of True Immortality
+- Eliminate Immortals
+- Restore Balance to the cycle of life and death
 
 ##### Additional Goals
 - Solidify Position of Power within Sunmaek high-leadership by manipulating the channcerlorship 
