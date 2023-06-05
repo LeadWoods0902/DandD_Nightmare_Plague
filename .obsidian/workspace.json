@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Rules/Status Effects & Battle Conditions.md",
+                "file": "Additional Lore/Suimin Mahi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Rules/Status Effects & Battle Conditions.md",
+                "file": "Additional Lore/Suimin Mahi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Rules/Status Effects & Battle Conditions.md",
+                "file": "Additional Lore/Suimin Mahi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Rules/Status Effects & Battle Conditions.md"
+                "file": "Additional Lore/Suimin Mahi.md"
               }
             }
           },
@@ -164,8 +164,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7f82a67def7461a",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
+    "Additional Lore/That Time Jasper Helped a Village.md",
+    "Narrative/temp/The Ascension.md",
+    "Narrative/temp/The Broken Capital.md",
+    "Narrative/temp/The Invasion of Gogledd Ynys.md",
+    "Narrative/The large Talus.md",
+    "Narrative/Timeline summary.md",
+    "Game Rules/Status Effects & Battle Conditions.md",
     "Game Rules/Psychic Damage.md",
     "Game Rules/Necrotic Damage.md",
     "Game Rules/Oblivious Start.md",
@@ -186,9 +193,6 @@
     "Characters/PC/Marta/Duska Von Mori.md",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Characters/Deities/Seni/Nëoris.md",
-    "Narrative/Timeline summary.md",
-    "Characters/PC/Quinn/Jasper Shatterborne.md",
-    "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Resources/Marta_Backstory_merchant.png",
     "Resources/Character Art/Crew of the Kilfenora/1.png",
     "Resources/Character Art/Crew of the Kilfenora/5.png",
@@ -196,10 +200,6 @@
     "Resources/Character Art/Crew of the Kilfenora/4.png",
     "Resources/Character Art/Crew of the Kilfenora/3.png",
     "Resources/Character Art/Crew of the Kilfenora/2.png",
-    "Characters/PC/Tom/Seram Dos.md",
-    "Characters/PC/Tom/Malkath Tribus.md",
-    "Characters/PC/Aime/Mazikeen.md",
-    "Characters/PC/Tom/Rolbam Eins.md",
     "Resources/Conditions Cheat Sheat.png",
     "Resources/female_runeWarrior.png",
     "Resources/rw0a3gxm39qa1.mp4",
