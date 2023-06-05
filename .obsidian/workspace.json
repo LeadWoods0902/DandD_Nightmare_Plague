@@ -4,41 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "e89283c32473b946",
-        "type": "tabs",
-        "dimension": 42.11087420042644,
-        "children": [
-          {
-            "id": "a763b60f8dc01661",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "401099d019e4938b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/Timeline summary.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
         "id": "2669ba54cea23df0",
         "type": "tabs",
-        "dimension": 57.88912579957356,
         "children": [
           {
             "id": "c8fe159546497064",
@@ -54,17 +21,33 @@
             }
           },
           {
-            "id": "75af00c22aa6e3af",
+            "id": "fc96b1a8435cc5b4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Tokens/DuskVonMori_Token.png"
+                "file": "Characters/NPC/Sunmaek/Hinele.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35dd4c45f210b86b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -139,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Tokens/DuskVonMori_Token.png",
+                "file": "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Tokens/DuskVonMori_Token.png",
+                "file": "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Tokens/DuskVonMori_Token.png"
+                "file": "Characters/NPC/Sunmaek/Chancellor Sturgis.md"
               }
             }
           },
@@ -209,9 +191,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75af00c22aa6e3af",
+  "active": "35dd4c45f210b86b",
   "lastOpenFiles": [
+    "Characters/NPC/Sunmaek/Hinele.md",
     "Characters/PC/Marta/Duska Von Mori.md",
+    "Resources/Tokens/DuskVonMori_Token.png",
     "Characters/Deities/Seni/Nëoris.md",
     "Narrative/Timeline summary.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
@@ -236,7 +220,6 @@
     "TODO.md",
     "Resources/Conditions Cheat Sheat.png",
     "Resources/female_runeWarrior.png",
-    "Resources/gingerhuman.png",
     "Resources/rw0a3gxm39qa1.mp4",
     "Characters/PC/Tom/Stronvan Quatre.md",
     "Additional Lore/That Time Jasper Helped a Village.md",
@@ -250,7 +233,6 @@
     "Resources/Battlemaps",
     "Resources/New folder",
     "Narrative/2 - Currencies of the Empire/12..md",
-    "Narrative/2 - Currencies of the Empire/10..md",
     "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora",
     "Resources/Possibilities",
