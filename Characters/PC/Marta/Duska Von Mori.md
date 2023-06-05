@@ -38,9 +38,12 @@ True/Lawful Neutral (lawful to Mortos' doctrine)
 - Unearth Forbidden Knowledge
 
 ##### Motivations
-After discovering that their country has been lying to them for generations, Duska 
+After discovering that their country has been lying to them for generations, Duska decided to restore Balance by executing the will of Mortos and undo the state of increased population through a false belief that life can continue forever.
 
-creating a state of increased population through a false belief that life can continue forever
+##### Flaws
+Unwilling to compromise
+
+
 
 ### Backstory
 
