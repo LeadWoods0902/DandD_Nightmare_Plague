@@ -33,6 +33,8 @@ True/Lawful Neutral (lawful to Mortos' doctrine)
 - 
 
 ##### Additional Goals
+- Solidify Position of Power within Sunmaek high-leadership by manipulating the channc
+- Spread Mortos' word
 - 
 
 
