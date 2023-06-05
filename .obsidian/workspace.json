@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Rules/Dash & Sprint.md",
+                "file": "Game Rules/Gang Fights.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Rules/Dash & Sprint.md",
+                "file": "Game Rules/Gang Fights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Rules/Dash & Sprint.md",
+                "file": "Game Rules/Gang Fights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Rules/Dash & Sprint.md"
+                "file": "Game Rules/Gang Fights.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   },
   "active": "f7f82a67def7461a",
   "lastOpenFiles": [
+    "Game Rules/Fate rolls.md",
+    "Game Rules/Dash & Sprint.md",
     "Game Rules/Critical Health Levels.md",
     "Game Rules/Critical Death Save.md",
     "Game Rules/Combat.md",
@@ -201,8 +203,6 @@
     "Resources/female_runeWarrior.png",
     "Resources/rw0a3gxm39qa1.mp4",
     "Characters/PC/Tom/Stronvan Quatre.md",
-    "Additional Lore/That Time Jasper Helped a Village.md",
-    "Narrative/1 - The Worst days of their lives/1. The twinned ships/script.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships",
     "Resources/Battlemaps",
     "Resources/New folder",
