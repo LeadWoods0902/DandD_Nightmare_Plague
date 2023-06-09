@@ -38,20 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Marta/Duska Von Mori.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2227c82dcb9c6828",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Characters/NPC/Sunmaek/master librarian.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Characters/NPC/Sunmaek/master librarian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Characters/NPC/Sunmaek/master librarian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Characters/NPC/Sunmaek/master librarian.md"
               }
             }
           },
@@ -203,7 +190,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2227c82dcb9c6828",
+  "active": "c28223ddbe9cba8e",
   "lastOpenFiles": [
     "Characters/PC/Marta/Duska Von Mori.md",
     "conflict-files-obsidian-git.md",
