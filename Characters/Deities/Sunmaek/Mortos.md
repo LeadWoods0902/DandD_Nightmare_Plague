@@ -1,1 +1,1 @@
-The Yuan-Ti form of [[Olum Yilani]], descended from the cosmos, this powerful being bestows powers upon those that seek to aid in balancing the cosmos
+The Yuan-Ti form of [[Olum Yilani]], descended from the cosmos, this powerful being bestows powers upon those that seek to aid in balancing the world.
