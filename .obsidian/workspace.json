@@ -59,6 +59,19 @@
             }
           },
           {
+            "id": "580cb40727aef286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "West Snake.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8c221ad6013eabd3",
             "type": "leaf",
             "state": {
@@ -72,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -146,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Sunmaek/-Sunmaek-.md",
+                "file": "West Snake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Sunmaek/-Sunmaek-.md",
+                "file": "West Snake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Sunmaek/-Sunmaek-.md"
+                "file": "West Snake.md"
               }
             }
           },
@@ -216,8 +230,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96608f8c6c2b9f07",
+  "active": "580cb40727aef286",
   "lastOpenFiles": [
+    "Locations/Sunmaek/-Sunmaek-.md",
+    "West Snake.md",
+    "Dogu Yilani.md",
     "Groups/The Luminary Consortium.md",
     "Characters/NPC/Sunmaek/Master Librarian.md",
     "Locations/Sunmaek/The Tomehold.md",
@@ -254,9 +271,6 @@
     "Narrative/temp/The Ascension.md",
     "Narrative/The large Talus.md",
     "Narrative/Overviews/Chapter 5.md",
-    "Narrative/5 -/35..md",
-    "Narrative/5 -/34..md",
-    "Narrative/5 -/33..md",
     "Narrative/3 -",
     "Resources/Character Art/Crew of the Kilfenora",
     "Quests/Individual/Past within the Present",
