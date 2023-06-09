@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groups/The Luminary Consortium.md",
+                "file": "Locations/Sunmaek/The Tomehold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groups/The Luminary Consortium.md",
+                "file": "Locations/Sunmaek/The Tomehold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groups/The Luminary Consortium.md"
+                "file": "Locations/Sunmaek/The Tomehold.md"
               }
             }
           },
@@ -229,10 +229,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a25d3f3d5b590b7",
+  "active": "ce7456078ac8b597",
   "lastOpenFiles": [
-    "Locations/Sunmaek/The Tomehold.md",
     "Groups/The Luminary Consortium.md",
+    "Locations/Sunmaek/The Tomehold.md",
     "Characters/NPC/Sunmaek/Master Librarian.md",
     "Characters/PC/Marta/Duska Von Mori.md",
     "Locations/Sunmaek/Sunmaek Royal Library.md",
