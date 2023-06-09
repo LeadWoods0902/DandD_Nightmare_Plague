@@ -44,9 +44,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2227c82dcb9c6828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Marta/Duska Von Mori.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Marta/Duska Von Mori.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Marta/Duska Von Mori.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -190,14 +203,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c28223ddbe9cba8e",
+  "active": "2227c82dcb9c6828",
   "lastOpenFiles": [
+    "Characters/PC/Marta/Duska Von Mori.md",
+    "conflict-files-obsidian-git.md",
+    "Resources/Enemies/Art/koloktos.png",
+    "Resources/Enemies/Art/brassAutomata.png",
+    "Resources/Enemies/Art/IceTalus.png",
+    "Resources/Character Art/Elaine.png",
+    "Additional Lore/That Time Jasper Helped a Village.md",
     "Narrative/Timeline summary.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/script.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/poem.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/overview.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships",
-    "conflict-files-obsidian-git.md",
     "Characters/PC/Tom/Stronvan Quatre.md",
     "Resources/Conditions Cheat Sheat.png",
     "Characters/PC/Tom/Seram Dos.md",
@@ -209,8 +228,6 @@
     "Resources/Battlemaps/Talos_1.png",
     "Resources/Battlemaps/Kilfenora_2.png",
     "Resources/Battlemaps/Kilfenora_1.png",
-    "Resources/Battlemaps/Crater.png",
-    "Resources/Battlemaps/CopperCasket.png",
     "Resources/Battlemaps",
     "Quests/Quests.md",
     "Quests/Individual/Past within the Present/Past within the Present.md",
@@ -227,11 +244,7 @@
     "Narrative/5 -/32..md",
     "Narrative/5 -/31..md",
     "Narrative/5 -/30..md",
-    "Narrative/5 -/29..md",
-    "Narrative/5 -/- Session Notes -.md",
     "Narrative/3 -",
-    "Resources/mistress.png",
-    "Resources/gingerhuman.png",
     "Resources/Character Art/Crew of the Kilfenora",
     "Quests/Individual/Past within the Present",
     "Narrative/Overviews",
