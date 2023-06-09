@@ -44,9 +44,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96608f8c6c2b9f07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Luminary Consortium.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Sunmaek/master librarian.md",
+                "file": "The Luminary Consortium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Sunmaek/master librarian.md",
+                "file": "The Luminary Consortium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Sunmaek/master librarian.md"
+                "file": "The Luminary Consortium.md"
               }
             }
           },
@@ -190,8 +203,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c28223ddbe9cba8e",
+  "active": "96608f8c6c2b9f07",
   "lastOpenFiles": [
+    "Characters/NPC/Sunmaek/master librarian.md",
+    "The Luminary Consortium.md",
     "Characters/PC/Marta/Duska Von Mori.md",
     "conflict-files-obsidian-git.md",
     "Resources/Enemies/Art/koloktos.png",
@@ -229,8 +244,6 @@
     "Narrative/5 -/34..md",
     "Narrative/5 -/33..md",
     "Narrative/5 -/32..md",
-    "Narrative/5 -/31..md",
-    "Narrative/5 -/30..md",
     "Narrative/3 -",
     "Resources/Character Art/Crew of the Kilfenora",
     "Quests/Individual/Past within the Present",
