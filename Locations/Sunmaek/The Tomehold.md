@@ -1,4 +1,4 @@
-Hidden deep within the labyrinthine recesses of the country, The Tomehold stands as a fabled vault of unparalleled wisdom and enlightenment. With its name whispered in hushed tones among the elite, this sanctum guards the most coveted and exclusive knowledge of the entire realm.
+Hidden deep within the labyrinthine recesses of the [[Grand Library of the Bati Yilani]], The Tomehold stands as a fabled vault of unparalleled wisdom and enlightenment. With its name whispered in hushed tones among the elite, this sanctum guards the most coveted and exclusive knowledge of the entire realm.
 
 Access to The Tomehold is an honor reserved for a select and esteemed group within the noble class, whose lineage intertwines with the annals of the country's history. The keys to this sacred repository of intellect and revelation are entrusted only to those whose bloodline bears the weight of generations past.
 

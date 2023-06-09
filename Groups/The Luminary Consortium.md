@@ -6,7 +6,7 @@ At the heart of their mission lies the ardent ambition to uphold Sunmaek's unriv
 
 Scholars within the Luminary Consortium tirelessly delve into the depths of academia, conducting extensive research, unearthing forgotten texts, and unraveling the mysteries of the past. Their invaluable insights and discoveries serve as the foundation for the intellectual growth and progress of Sunmaek as a whole.
 
-The librarians, guardians of the written word, meticulously curate vast collections of books, manuscripts, and scrolls within the hallowed halls of Sunmaek's prestigious Grand Library of the [[Bati Yilani]]. They diligently organize, catalog, and preserve these treasures of knowledge, ensuring their accessibility to both scholars and the curious minds who seek wisdom.
+The librarians, guardians of the written word, meticulously curate vast collections of books, manuscripts, and scrolls within the hallowed halls of Sunmaek's prestigious [[Grand Library of the Bati Yilani]]. They diligently organize, catalog, and preserve these treasures of knowledge, ensuring their accessibility to both scholars and the curious minds who seek wisdom.
 
 Archivists play a crucial role in the Luminary Consortium, meticulously documenting historical events, compiling records, and safeguarding ancient artifacts. Through their meticulous efforts, they weave a tapestry of the past, preserving the rich tapestry of Sunmaek's cultural heritage for future generations to explore and learn from.
 
