@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Sunmaek/master librarian.md",
+                "file": "Characters/NPC/Sunmaek/Master Librarian.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Luminary Consortium.md",
+                "file": "Characters/NPC/Sunmaek/Master Librarian.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Luminary Consortium.md",
+                "file": "Characters/NPC/Sunmaek/Master Librarian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Luminary Consortium.md",
+                "file": "Characters/NPC/Sunmaek/Master Librarian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Luminary Consortium.md"
+                "file": "Characters/NPC/Sunmaek/Master Librarian.md"
               }
             }
           },
@@ -205,8 +205,8 @@
   },
   "active": "96608f8c6c2b9f07",
   "lastOpenFiles": [
-    "Characters/NPC/Sunmaek/master librarian.md",
-    "The Luminary Consortium.md",
+    "Groups/The Luminary Consortium.md",
+    "Characters/NPC/Sunmaek/Master Librarian.md",
     "Characters/PC/Marta/Duska Von Mori.md",
     "conflict-files-obsidian-git.md",
     "Resources/Enemies/Art/koloktos.png",
