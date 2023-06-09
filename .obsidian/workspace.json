@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/The Luminary Consortium.md",
+                "file": "Locations/Sunmaek/-Sunmaek-.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groups/The Luminary Consortium.md",
+                "file": "Locations/Sunmaek/-Sunmaek-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groups/The Luminary Consortium.md",
+                "file": "Locations/Sunmaek/-Sunmaek-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groups/The Luminary Consortium.md"
+                "file": "Locations/Sunmaek/-Sunmaek-.md"
               }
             }
           },
@@ -219,9 +218,9 @@
   },
   "active": "96608f8c6c2b9f07",
   "lastOpenFiles": [
+    "Groups/The Luminary Consortium.md",
     "Characters/NPC/Sunmaek/Master Librarian.md",
     "Locations/Sunmaek/The Tomehold.md",
-    "Groups/The Luminary Consortium.md",
     "Characters/PC/Marta/Duska Von Mori.md",
     "conflict-files-obsidian-git.md",
     "Resources/Enemies/Art/koloktos.png",

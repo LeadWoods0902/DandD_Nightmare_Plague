@@ -5,8 +5,8 @@ A Theocratic Oligarchy
 
 
 #### Major Cities
-- Qotus (Capital City)
-- Duqedo (Largest port city)
+- [[Qotus]] (Capital City)
+- [Duqedo]] (Largest port city)
 - Wadur
 - Odohra
 - Itha
