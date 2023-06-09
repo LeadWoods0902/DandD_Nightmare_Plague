@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Deities/Sunmaek/Dogu Yilani.md",
+                "file": "Characters/Deities/Sunmaek/Mortos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Deities/Sunmaek/Dogu Yilani.md",
+                "file": "Characters/Deities/Sunmaek/Mortos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Deities/Sunmaek/Dogu Yilani.md",
+                "file": "Characters/Deities/Sunmaek/Mortos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Deities/Sunmaek/Dogu Yilani.md"
+                "file": "Characters/Deities/Sunmaek/Mortos.md"
               }
             }
           },
@@ -192,10 +192,10 @@
   },
   "active": "8c221ad6013eabd3",
   "lastOpenFiles": [
-    "Characters/Deities/Sunmaek/Bati Yilani.md",
-    "Characters/Deities/Sunmaek/Dogu Yilani.md",
-    "Characters/Deities/Sunmaek/Mortos.md",
     "Characters/Deities/Sunmaek/Olum Yilani.md",
+    "Characters/Deities/Sunmaek/Mortos.md",
+    "Characters/Deities/Sunmaek/Dogu Yilani.md",
+    "Characters/Deities/Sunmaek/Bati Yilani.md",
     "Locations/Sunmaek/Sunmaek Royal Library.md",
     "Locations/Sunmaek/The Tomehold.md",
     "Locations/Sunmaek/Grand Library of the Bati Yilani.md",
