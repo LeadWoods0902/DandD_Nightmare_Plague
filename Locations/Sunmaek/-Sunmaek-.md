@@ -1,12 +1,12 @@
 A Theocratic Oligarchy  
 
 #### Religions
-- Strong belief in the triad: East Snake, West Snake and the Eclipse
+- Strong, national belief in the dichotomous gods: [[East Snake]] and [[West Snake]]
 
 
 #### Major Cities
 - [[Qotus]] (Capital City)
-- [Duqedo]] (Largest port city)
-- Wadur
-- Odohra
-- Itha
+- [[Duqedo]] (Largest port city)
+- [[Wadur]]
+- [[Odohra]]
+- [[Itha]]
