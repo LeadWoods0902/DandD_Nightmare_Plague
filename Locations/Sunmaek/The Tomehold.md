@@ -2,7 +2,7 @@ Hidden deep within the labyrinthine recesses of the [[Grand Library of the Bati 
 
 Access to The Tomehold is an honor reserved for a select and esteemed group within the noble class, whose lineage intertwines with the annals of the country's history. The keys to this sacred repository of intellect and revelation are entrusted only to those whose bloodline bears the weight of generations past. Knowledge of The Tomehold's exact location is a closely guarded secret, known only to the initiated few. Hidden behind layers of intricate puzzles, concealed entrances, and arcane protections, it remains an enigma to all but those deemed worthy by birthright or exceptional merit.
 
-The custodian of this sacred vault is the revered figure of the Grand Librarian, whose role transcends that of a mere keeper of books. The Grand Librarian, with their encyclopedic knowledge and unwavering dedication, safeguards the sanctity of The Tomehold and acts as the conduit between the chosen few and the vast wealth of knowledge held within.
+The custodian of this sacred vault is the revered figure of the [[Master Librarian]], whose role transcends that of a mere keeper of books. The Master Librarian, with their encyclopedic knowledge and unwavering dedication, safeguards the sanctity of The Tomehold and acts as the conduit between the chosen few and the vast wealth of knowledge held within.
 
 Stepping into The Tomehold is an awe-inspiring experience. Time seems to slow within its hallowed halls, as scholars and nobles alike immerse themselves in the profound depths of its texts, unearthing arcane secrets, deciphering long-forgotten languages, and unlocking the mysteries of history and beyond.
 
