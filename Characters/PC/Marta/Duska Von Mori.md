@@ -17,7 +17,7 @@ You have connections to [[The Chancellorship]] through your friendship with Chan
 Duska Halloni (became Von Mori after entering contract with Mortos)
 
 ##### Current Age
-144 (Life expectancy for Yuan-Ti is around 200 but they don't age like
+144 (Life expectancy for Yuan-Ti is around 200 but they don't age like humans
 
 ##### Place of Origin
 [[Qotus]]
