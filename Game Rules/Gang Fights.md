@@ -1,1 +1,1 @@
-Turn order is randomised between rounds, 
+Turn order is randomised between rounds and is hidden until actions are ready to be carried oui
