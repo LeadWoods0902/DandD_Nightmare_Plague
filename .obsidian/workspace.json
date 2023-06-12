@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/2. The Librarian's Accord.md",
+                "file": "Narrative/1 - The Worst days of their lives/6. The Auction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/2. The Librarian's Accord.md",
+                "file": "Narrative/1 - The Worst days of their lives/6. The Auction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/2. The Librarian's Accord.md",
+                "file": "Narrative/1 - The Worst days of their lives/6. The Auction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/2. The Librarian's Accord.md"
+                "file": "Narrative/1 - The Worst days of their lives/6. The Auction.md"
               }
             }
           },
@@ -164,8 +164,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "03ef905b619da07d",
   "lastOpenFiles": [
+    "Narrative/1 - The Worst days of their lives/4. That time we did that thing.md",
+    "Narrative/1 - The Worst days of their lives/7. Upon which the party is founded.md",
+    "Narrative/1 - The Worst days of their lives/6. The Auction.md",
+    "Narrative/1 - The Worst days of their lives/5. The Forging of the Minds.md",
+    "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
+    "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes.md",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/overview.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/poem.md",
@@ -187,11 +193,6 @@
     "Narrative/The large Talus.md",
     "Narrative/Timeline summary.md",
     "Game Rules/Status Effects & Battle Conditions.md",
-    "Game Rules/Psychic Damage.md",
-    "Game Rules/Necrotic Damage.md",
-    "Game Rules/Oblivious Start.md",
-    "Game Rules/Mutli-classing.md",
-    "Game Rules/Multi-sub-classing.md",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Marta_Backstory_merchant.png",
     "Resources/Character Art/Crew of the Kilfenora/1.png",
@@ -211,7 +212,6 @@
     "Resources/Possibilities",
     "Narrative/3 -",
     "Quests/Individual/Past within the Present",
-    "Narrative/Overviews",
     "Characters/Family Trees/Shatterborne.canvas"
   ]
 }
