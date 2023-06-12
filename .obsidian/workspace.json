@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/the chancellorship.md",
+                "file": "Groups/The Chancellorship.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groups/the chancellorship.md",
+                "file": "Characters/PC/Marta/Duska Von Mori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groups/the chancellorship.md",
+                "file": "Characters/PC/Marta/Duska Von Mori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groups/the chancellorship.md"
+                "file": "Characters/PC/Marta/Duska Von Mori.md"
               }
             }
           },
@@ -179,10 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "03ef905b619da07d",
   "lastOpenFiles": [
+    "Groups/The Chancellorship.md",
     "Characters/PC/Marta/Duska Von Mori.md",
-    "Groups/the chancellorship.md",
     "Narrative/1 - The Worst days of their lives/6. The Auction.md",
     "Narrative/1 - The Worst days of their lives/4. That time we did that thing.md",
     "Narrative/1 - The Worst days of their lives/7. Upon which the party is founded.md",
