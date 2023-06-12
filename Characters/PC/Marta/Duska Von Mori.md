@@ -20,7 +20,7 @@ Duska Halloni (self refers as Von Mori after entering contract with Mortos)
 144
 
 ##### Place of Origin
-Sunmaek capital (specific name TBD)
+[[Qotus]]
 
 ##### Race
 Yuan-Ti (vampiric via ritual)
