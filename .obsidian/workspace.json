@@ -11,8 +11,13 @@
             "id": "03ef905b619da07d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Game Rules/Gang Fights.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Rules/Gang Fights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Rules/Gang Fights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Game Rules/Gang Fights.md"
+              }
             }
           },
           {
@@ -157,6 +166,7 @@
   },
   "active": "03ef905b619da07d",
   "lastOpenFiles": [
+    "Game Rules/Untitled.md",
     "Additional Lore/Suimin Mahi.md",
     "Locations/Sunmaek/The Tomehold.md",
     "Locations/Sunmaek/Grand Library of the Bati Yilani.md",
@@ -182,7 +192,6 @@
     "Game Rules/Fate rolls.md",
     "Game Rules/Dash & Sprint.md",
     "Game Rules/Critical Health Levels.md",
-    "Game Rules/Critical Death Save.md",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Marta_Backstory_merchant.png",
     "Resources/Character Art/Crew of the Kilfenora/1.png",
