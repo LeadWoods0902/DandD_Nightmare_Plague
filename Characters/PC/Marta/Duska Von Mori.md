@@ -9,7 +9,7 @@ You know that the dominant religion in Brokvar (the area of Seni you'll be in) i
 
 You are well-versed in both the magics of the twin sun snakes and the magics of Mortos.
 
-You have connections to the chancellorship through your friendship with Chancellor Sturgis. 
+You have connections to [[the chancellorship]] through your friendship with Chancellor Sturgis. 
 
 ### Character Info
 
