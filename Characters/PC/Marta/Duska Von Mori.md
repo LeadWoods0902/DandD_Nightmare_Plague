@@ -14,10 +14,10 @@ You have connections to [[The Chancellorship]] through your friendship with Chan
 ### Character Info
 
 ##### Name 
-Duska Halloni (self refers as Von Mori after entering contract with Mortos)
+Duska Halloni (became Von Mori after entering contract with Mortos)
 
 ##### Current Age
-144
+144 (Life expectancy for Yuan-Ti is around 200 but theu
 
 ##### Place of Origin
 [[Qotus]]
