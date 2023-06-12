@@ -1,9 +1,9 @@
 ![[DuskVonMori_Token.png]]
 ### World Lore (things you know in brief)
 
-You have a complete understanding of Sunmaek's History
+You have a complete understanding of Sunmaek's History (advantage on history checks)
 
-You have knowledge of Seni's history and its recent conflicts
+You have some knowledge of Seni's history and its recent conflicts
 
 You know that the dominant religion in Brokvar (the area of Seni you'll be in) is related to some character that goes by the name of Nëoris. There is some relation to healing and eternal life.
 
