@@ -16,17 +16,18 @@ Bismuth Shatterborne
 ##### Family
 
 Siblings: 
-[[Jasper Shatterborne]]
-[[Agate Shatterborne]]
-[[Citrine Shatterborne]]
-[[Garnet Shatterborne]]
-[[Zircon Shatterborne]]
+- [[Jasper Shatterborne]]
+- [[Agate Shatterborne]]
+- [[Citrine Shatterborne]]
+- [[Garnet Shatterborne]]
+- [[Zircon Shatterborne]]
 
 Parents:
-[[Malachix]]
+- [[Malachix Shatterborne]]
+- [[Fj
 
-
-[[Peridot Shatterborne]]
+Other: 
+- Niece[[Peridot Shatterborne]]
 
 ##### Race
 Genasi Pure Blood
