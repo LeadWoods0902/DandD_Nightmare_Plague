@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
+                "file": "Yamanohana.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
+                "file": "Yamanohana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
+                "file": "Yamanohana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Chimo-Nahagi/-Chimo Nahagi-.md"
+                "file": "Yamanohana.md"
               }
             }
           },
@@ -166,10 +166,11 @@
   },
   "active": "08d2b3a63939e684",
   "lastOpenFiles": [
+    "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
+    "Yamanohana.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "The Travelling Merchants.md",
     "Characters/PC/Marta/Duska Von Mori.md",
-    "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
     "Homebrew Rules/Status Effects & Battle Conditions.md",
     "Narrative/Timeline summary.md",
     "Game Rules/Status Effects & Battle Conditions.md",
@@ -192,7 +193,6 @@
     "Game Rules/Gang Fights.md",
     "Game Rules/Dash & Sprint.md",
     "Game Rules/Fate rolls.md",
-    "Game Rules/Critical Health Levels.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
     "Resources/Tokens/DuskVonMori_Token.png",
