@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Rules/Combat.md",
+                "file": "Game Rules/Critical Death Save.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Rules/Combat.md",
+                "file": "Game Rules/Critical Death Save.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Rules/Combat.md",
+                "file": "Game Rules/Critical Death Save.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Rules/Combat.md"
+                "file": "Game Rules/Critical Death Save.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   "active": "8927f7893103829e",
   "lastOpenFiles": [
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
+    "Game Rules/Combat.md",
     "Game Rules/Assists.md",
     "Game Rules/Alcohol.md",
     "Characters/Family Trees/Shatterborne.canvas",
@@ -246,7 +247,6 @@
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/overview.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/poem.md",
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/script.md",
-    "Game Rules/Gang Fights.md",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Marta_Backstory_merchant.png",
     "Resources/Character Art/Crew of the Kilfenora/1.png",
