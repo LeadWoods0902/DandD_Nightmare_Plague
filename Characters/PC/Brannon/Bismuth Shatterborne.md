@@ -31,7 +31,8 @@ Energetic
 Independent
 
 ##### Long Term Goals
-Would like t
+Would like to find a way home or a new home
+
 
 ##### Additional Goals
 
