@@ -26,20 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiary/WilderBeast.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "720ed3a4b9d59da8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Additional Lore/That Time Jasper Helped a Village.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -160,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bestiary/WilderBeast.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bestiary/WilderBeast.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bestiary/WilderBeast.md"
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md"
               }
             }
           },
@@ -232,10 +219,10 @@
   },
   "active": "c824867f7831593e",
   "lastOpenFiles": [
-    "Characters/PC/Brannon/Bismuth Shatterborne.md",
-    "Additional Lore/That Time Jasper Helped a Village.md",
-    "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Bestiary/WilderBeast.md",
+    "Additional Lore/That Time Jasper Helped a Village.md",
+    "Characters/PC/Brannon/Bismuth Shatterborne.md",
+    "Characters/PC/Quinn/Jasper Shatterborne.md",
     "The other slaves.md",
     "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
     "Characters/PC/Marta/Duska Von Mori.md",
