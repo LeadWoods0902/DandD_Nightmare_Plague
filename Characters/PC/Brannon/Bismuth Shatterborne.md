@@ -24,10 +24,10 @@ Siblings:
 
 Parents:
 - [[Malachix Shatterborne]]
-- [[Fj
+- [[Fjordina Waveborne]]
 
 Other: 
-- Niece[[Peridot Shatterborne]]
+- Niece [[Peridot Shatterborne]]
 
 ##### Race
 Genasi Pure Blood
