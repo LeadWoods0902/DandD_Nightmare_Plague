@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-
+Bismuth Shatterborne
 
 ##### Current Age
 
