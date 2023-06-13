@@ -36,7 +36,7 @@ Would like to find a way home or a new home
 
 ##### Additional Goals
 Learn more about Family History
-Commune with 
+Commune with Kaede
 
 ##### Motivations
 

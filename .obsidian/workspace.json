@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
+                "file": "Bestiary/WilderBeasts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
+                "file": "Bestiary/WilderBeasts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
+                "file": "Bestiary/WilderBeasts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md"
+                "file": "Bestiary/WilderBeasts.md"
               }
             }
           },
@@ -193,8 +193,10 @@
   },
   "active": "c824867f7831593e",
   "lastOpenFiles": [
-    "Characters/PC/Marta/Duska Von Mori.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kaede.md",
+    "Bestiary/WilderBeasts.md",
+    "Characters/PC/Marta/Duska Von Mori.md",
     "Narrative/Timeline summary.md",
     "Locations/Sunmaek/Qotus.md",
     "Locations/Sunmaek/-Sunmaek-.md",
@@ -218,8 +220,6 @@
     "Characters/NPC/Sunmaek/Master Librarian.md",
     "Characters/Deities/Sunmaek/Olum Yilani.md",
     "Characters/Deities/Sunmaek/Dogu Yilani.md",
-    "Characters/Deities/Sunmaek/Bati Yilani.md",
-    "Additional Lore/That Time Jasper Helped a Village.md",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Marta_Backstory_merchant.png",
     "Resources/Character Art/Crew of the Kilfenora/1.png",
