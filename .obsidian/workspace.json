@@ -4,55 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b0758345c605ec8",
+        "id": "8ab50e9a27204322",
         "type": "tabs",
         "children": [
           {
-            "id": "03ef905b619da07d",
+            "id": "08d2b3a63939e684",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew Rules/Status Effects & Battle Conditions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1014c3b2be1e219b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "527d5b402d07f8da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/PC/Marta/Duska Von Mori.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6251fff367549f23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Travelling Merchants.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -133,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew Rules/Status Effects & Battle Conditions.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew Rules/Status Effects & Battle Conditions.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew Rules/Status Effects & Battle Conditions.md"
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md"
               }
             }
           },
@@ -203,12 +164,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03ef905b619da07d",
+  "active": "08d2b3a63939e684",
   "lastOpenFiles": [
+    "The Travelling Merchants.md",
+    "Characters/PC/Marta/Duska Von Mori.md",
+    "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
+    "Homebrew Rules/Status Effects & Battle Conditions.md",
     "Narrative/Timeline summary.md",
     "Game Rules/Status Effects & Battle Conditions.md",
     "Homebrew Rules/To Hit Rules.md",
-    "Homebrew Rules/Status Effects & Battle Conditions.md",
     "Homebrew Rules/Psychic Damage.md",
     "Homebrew Rules/Necrotic Damage.md",
     "Homebrew Rules/Ingenuity.md",
@@ -229,9 +193,6 @@
     "Game Rules/Fate rolls.md",
     "Game Rules/Critical Health Levels.md",
     "Game Rules/Critical Death Save.md",
-    "Characters/PC/Brannon/Bismuth Shatterborne.md",
-    "Game Rules/Combat.md",
-    "Game Rules/Assists.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
     "Resources/Tokens/DuskVonMori_Token.png",
