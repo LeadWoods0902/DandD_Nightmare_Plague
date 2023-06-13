@@ -2,7 +2,7 @@
 | ------ | ------------- | --------- | ----- |
 | | -184 | Seni | The Warlocks arrive |
 | | -163 | | Malkath Tribus does a thing |
-| 1576/03 | -96 | **Unknown** | Mazikeen is born |
+| 1576/03 | -96 | **Unknown** | Mazikeen is born - move this|
 | 1649/02 | -23 | Sunmaek | Duska Von Mori is born |
 | 1672/03 | 0 | Brokvar | Napella Lundgren is born |
 | 1693/03 | 21 | Eastern Seni Isles | Eastern Civil War begins | 
