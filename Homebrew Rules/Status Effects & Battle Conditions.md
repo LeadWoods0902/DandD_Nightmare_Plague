@@ -32,9 +32,10 @@
 - After the effect procs
 	- Take d12 damage at the end of every turn for the duration of the effect
 - The effect lasts indefinitely
-- The effect can be cancelled with an appropriate remedy:
+- The effect can be cancelled with an appropriate remedy ie:
 	- Submerging the enflamed area in water
-	- spending two turns rolling on the ground (this action ends with you prone)
+	- Spending one turn rolling on the ground (this action ends with you prone)
+	- Another appropriate remedy
 
 #### Blindness
 - Automatically fail any ability checks that would require sight
