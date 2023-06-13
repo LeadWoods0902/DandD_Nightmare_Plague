@@ -1,19 +1,11 @@
 ![[Bismuth_Token.png]]
 ### World Lore (things you know in brief)
 
-You have a complete understanding of Sunmaek's History (advantage on history checks)
-
-You have some knowledge of Seni's history and its recent conflicts
-
-You know that the dominant religion in Brokvar (the area of Seni you'll be in) is related to some character that goes by the name of Nëoris. There is some relation to healing and eternal life.
-
-You are well-versed in both the magics of the twin sun snakes and the magics of Mortos.
-
-You have connections to [[The Chancellorship]] through your friendship with Chancellor Sturgis. 
 
 ### Character Info
 
 ##### Name 
+
 
 ##### Current Age
 
