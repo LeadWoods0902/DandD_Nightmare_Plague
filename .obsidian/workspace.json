@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiary/WilderBeasts.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bestiary/WilderBeasts.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bestiary/WilderBeasts.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bestiary/WilderBeasts.md"
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md"
               }
             }
           },
@@ -193,9 +193,9 @@
   },
   "active": "c824867f7831593e",
   "lastOpenFiles": [
-    "Characters/PC/Brannon/Bismuth Shatterborne.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kaede.md",
     "Bestiary/WilderBeasts.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kaede.md",
+    "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Characters/PC/Marta/Duska Von Mori.md",
     "Narrative/Timeline summary.md",
     "Locations/Sunmaek/Qotus.md",
