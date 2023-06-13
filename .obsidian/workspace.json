@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Rules/Gang Fights.md",
+                "file": "Game Rules/Ingenuity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Rules/Gang Fights.md",
+                "file": "Game Rules/Ingenuity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Rules/Gang Fights.md",
+                "file": "Game Rules/Ingenuity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Rules/Gang Fights.md"
+                "file": "Game Rules/Ingenuity.md"
               }
             }
           },
@@ -219,6 +219,7 @@
   },
   "active": "8927f7893103829e",
   "lastOpenFiles": [
+    "Game Rules/Gang Fights.md",
     "Game Rules/Dash & Sprint.md",
     "Game Rules/Fate rolls.md",
     "Game Rules/Critical Health Levels.md",
@@ -245,7 +246,6 @@
     "Narrative/1 - The Worst days of their lives/4. That time we did that thing.md",
     "Narrative/1 - The Worst days of their lives/7. Upon which the party is founded.md",
     "Narrative/1 - The Worst days of their lives/5. The Forging of the Minds.md",
-    "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Marta_Backstory_merchant.png",
