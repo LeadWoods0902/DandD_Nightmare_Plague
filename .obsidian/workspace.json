@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "c824867f7831593e",
+            "id": "8927f7893103829e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -217,11 +217,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c824867f7831593e",
+  "active": "8927f7893103829e",
   "lastOpenFiles": [
+    "Characters/Family Trees/Shatterborne.canvas",
+    "Characters/PC/Brannon/Bismuth Shatterborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Zircon Shatterborne.md",
     "Bestiary/WilderBeast.md",
     "Additional Lore/That Time Jasper Helped a Village.md",
-    "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "The other slaves.md",
     "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
@@ -244,8 +246,6 @@
     "Narrative/1 - The Worst days of their lives/1. The twinned ships/script.md",
     "Game Rules/Gang Fights.md",
     "Game Rules/Untitled.md",
-    "Additional Lore/Suimin Mahi.md",
-    "Locations/Sunmaek/The Tomehold.md",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Marta_Backstory_merchant.png",
     "Resources/Character Art/Crew of the Kilfenora/1.png",
@@ -264,7 +264,6 @@
     "Resources/Character Art/Crew of the Kilfenora",
     "Resources/Possibilities",
     "Narrative/3 -",
-    "Quests/Individual/Past within the Present",
-    "Characters/Family Trees/Shatterborne.canvas"
+    "Quests/Individual/Past within the Present"
   ]
 }
