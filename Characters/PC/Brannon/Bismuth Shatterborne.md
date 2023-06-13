@@ -23,6 +23,11 @@ Path of the Beast Barbarian
 Neutral Good
 
 ##### Personality Traits
+Adventuruous
+Curious
+Restless
+Open-minded
+Energetic
 
 
 ##### Long Term Goals
