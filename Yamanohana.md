@@ -1,0 +1,1 @@
+Mountain 'town' that [[Bismuth Shatterborne]] and [[Jasper Shatterborne]] hail from
