@@ -11,16 +11,16 @@ Bismuth Shatterborne
 25
 
 ##### Place of Origin
-[[-Chimo Nahagi-]]
+[[-Chimo Nahagi-]] - More specific tbw
 
 ##### Race
-
+Genasi Pure Blood
 
 ##### Class
-
+Path of the Beast Barbarian
 
 ##### Alignment
-
+Neutral Good
 
 ##### Personality Traits
 
