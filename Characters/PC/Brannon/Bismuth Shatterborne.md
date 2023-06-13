@@ -37,6 +37,7 @@ Neutral Good
 ##### Additional Goals
 - Learn more about Family History
 - Commune with Kaede
+- Find out why Chimo-Naha
 
 ##### Motivations
 After being taken as a slave and forced into a new land, Bismuth desires to find a place of safety for himself and his brother. And if possible take revenge on those that brought him here.
@@ -58,8 +59,7 @@ While exploring a ruin overtaken by forest, Bismuth encountered a [[WilderBeast]
 
 While never as successful at self-transfiguration as their Sibling Jasper, Bismuth's Tactical understanding of combat combined with the ferocious nature of the beasts he has mastered has made him a combative marvel. 
 
-As you further explore 
-
+As you further explore Chimo-Nahagi you have a run in with some foreign slavers, a band of Human, Dwarven and Tabaxi. 
 
 
 ---
