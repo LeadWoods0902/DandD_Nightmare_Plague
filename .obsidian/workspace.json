@@ -45,6 +45,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6251fff367549f23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Travelling Merchants.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -194,6 +207,7 @@
   "active": "c824867f7831593e",
   "lastOpenFiles": [
     "Characters/PC/Marta/Duska Von Mori.md",
+    "The Travelling Merchants.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Bestiary/WilderBeasts.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kaede.md",
@@ -219,7 +233,6 @@
     "Groups/The Luminary Consortium.md",
     "Characters/NPC/Sunmaek/Master Librarian.md",
     "Characters/Deities/Sunmaek/Olum Yilani.md",
-    "Characters/Deities/Sunmaek/Dogu Yilani.md",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Marta_Backstory_merchant.png",
     "Resources/Character Art/Crew of the Kilfenora/1.png",
