@@ -46,7 +46,8 @@ Past experiences with bad leadership have lead me to feel the need to be in char
 
 ##### Affiliations
 - [[The Travelling Merchants]]
-- 
+- [[The other slaves]]
+
 ### Backstory
 
 Born to [[Malachix Shatterborne]], Bismuth had a very troubled upbringing after his mother died birthing him. Despite being one of 6 siblings, only developed a close relationship with one: his twin sibling Jasper. The two were inseparable from birth and stood up for each other when no one else would. When Jasper came out as Trans, the family denounced her right to the name Shatterborne. On hearing the news, Malachix tried to strike Jasper and would've succeeded if not for the intervention of Bismuth. The pair promptly left their home in search of adventure and freedom. 
