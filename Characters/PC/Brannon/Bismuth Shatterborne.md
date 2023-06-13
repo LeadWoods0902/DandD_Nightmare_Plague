@@ -17,26 +17,26 @@ Bismuth Shatterborne
 Genasi Pure Blood
 
 ##### Class
-Path of the Beast Barbarian
+- Path of the Beast Barbarian
 
 ##### Alignment
-Neutral Good
+- Neutral Good
 
 ##### Personality Traits
-Adventurous
-Curious
-Restless
-Open-Minded
-Energetic
-Independent
+- Adventurous
+- Curious
+- Restless
+- Open-Minded
+- Energetic
+- Independent
 
 ##### Long Term Goals
-Would like to find a way home or a new home
+- Would like to find a way home or a new home
 
 
 ##### Additional Goals
-Learn more about Family History
-Commune with Kaede
+- Learn more about Family History
+- Commune with Kaede
 
 ##### Motivations
 
