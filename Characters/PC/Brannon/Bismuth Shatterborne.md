@@ -15,7 +15,12 @@ Bismuth Shatterborne
 
 ##### Family
 [[Jasper Shatterborne]]
-[[M
+[[Malachix Shatterborne]]
+[[Agate Shatterborne]]
+[[Citrine Shatterborne]]
+[[Garnet Shatterborne]]
+[[Peridot Shatterborne]]
+[[Zircon Shatterborne]]
 
 ##### Race
 Genasi Pure Blood
