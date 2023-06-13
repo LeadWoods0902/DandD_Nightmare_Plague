@@ -17,10 +17,10 @@ Bismuth Shatterborne
 Genasi Pure Blood
 
 ##### Class
-- Path of the Beast Barbarian
+Path of the Beast Barbarian
 
 ##### Alignment
-- Neutral Good
+Neutral Good
 
 ##### Personality Traits
 - Adventurous
