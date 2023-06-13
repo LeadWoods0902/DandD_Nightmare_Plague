@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
+                "file": "Bestiary/WilderBeast.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
+                "file": "Bestiary/WilderBeast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
+                "file": "Bestiary/WilderBeast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md"
+                "file": "Bestiary/WilderBeast.md"
               }
             }
           },
@@ -232,9 +232,9 @@
   },
   "active": "c824867f7831593e",
   "lastOpenFiles": [
+    "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Additional Lore/That Time Jasper Helped a Village.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
-    "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Bestiary/WilderBeast.md",
     "The other slaves.md",
     "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
