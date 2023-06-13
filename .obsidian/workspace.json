@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Rules/Psychic Damage.md",
+                "file": "Game Rules/Status Effects & Battle Conditions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Rules/Psychic Damage.md",
+                "file": "Game Rules/Status Effects & Battle Conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Rules/Psychic Damage.md",
+                "file": "Game Rules/Status Effects & Battle Conditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Rules/Psychic Damage.md"
+                "file": "Game Rules/Status Effects & Battle Conditions.md"
               }
             }
           },
@@ -232,6 +232,7 @@
   },
   "active": "a63ce4098d677fdd",
   "lastOpenFiles": [
+    "Game Rules/Psychic Damage.md",
     "Game Rules/Necrotic Damage.md",
     "Game Rules/Ingenuity.md",
     "Game Rules/Mutli-classing.md",
@@ -258,7 +259,6 @@
     "Narrative/Timeline summary.md",
     "Locations/Sunmaek/Qotus.md",
     "Locations/Sunmaek/-Sunmaek-.md",
-    "Groups/The Chancellorship.md",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Marta_Backstory_merchant.png",

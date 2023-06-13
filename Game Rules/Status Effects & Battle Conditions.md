@@ -24,7 +24,7 @@
 - After the effect procs:
 	- Locked into using the same action for the duration of the effect
 	- Disadvantage on saving throws
-- Effect lasts for 3 rounds
+- Effect lasts for 1 round
 - Cannot be remedied early
 
 #### Burning
