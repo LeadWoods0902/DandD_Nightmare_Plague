@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The other slaves.md",
+                "file": "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The other slaves.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The other slaves.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The other slaves.md"
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md"
               }
             }
           },
@@ -217,10 +217,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1014c3b2be1e219b",
+  "active": "c824867f7831593e",
   "lastOpenFiles": [
-    "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "The other slaves.md",
+    "Characters/PC/Brannon/Bismuth Shatterborne.md",
+    "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
     "Characters/PC/Marta/Duska Von Mori.md",
     "The Travelling Merchants.md",
     "Bestiary/WilderBeasts.md",
@@ -245,7 +246,6 @@
     "Locations/Sunmaek/The Tomehold.md",
     "Locations/Sunmaek/Grand Library of the Bati Yilani.md",
     "Groups/The Luminary Consortium.md",
-    "Characters/NPC/Sunmaek/Master Librarian.md",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Marta_Backstory_merchant.png",
     "Resources/Character Art/Crew of the Kilfenora/1.png",
