@@ -5,5 +5,9 @@
 
 - Understand the immortal and powerful existence of Djinn but generally do not acknowledge them as Deities.
 
-#### Major Cities
+#### Major Locations
+- [[Yamanohana]]
+- [[Tsurukaze]]
+- [[Satsukiya]]
+- 
 
