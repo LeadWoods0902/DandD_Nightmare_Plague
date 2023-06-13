@@ -39,7 +39,7 @@ Neutral Good
 - Commune with Kaede
 
 ##### Motivations
-After being taken as a slave and forced into a new land, Bismuth desires to find a place of safety 
+After being taken as a slave and forced into a new land, Bismuth desires to find a place of safety
 
 ##### Flaws
 
