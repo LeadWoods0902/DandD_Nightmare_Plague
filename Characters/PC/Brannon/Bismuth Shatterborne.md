@@ -32,17 +32,17 @@ Neutral Good
 
 ##### Long Term Goals
 - Would like to find a way home or a new home
-
+- Take revenge on those that brought you to Seni
 
 ##### Additional Goals
 - Learn more about Family History
 - Commune with Kaede
 
 ##### Motivations
-After being taken as a slave and forced into a new land, Bismuth desires to find a place of safety for himself and his brother. And if possible take revenge on those that brought him here
+After being taken as a slave and forced into a new land, Bismuth desires to find a place of safety for himself and his brother. And if possible take revenge on those that brought him here.
 
 ##### Flaws
-
+Past experiences with bad leadership have lead me to feel the need to be in charge of any group I join
 
 ##### Affiliations
 
