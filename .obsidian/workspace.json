@@ -13,33 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Timeline summary.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8927f7893103829e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Rules/Necrotic Damage.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a63ce4098d677fdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Rules/Status Effects & Battle Conditions.md",
+                "file": "Homebrew Rules/Status Effects & Battle Conditions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Rules/Status Effects & Battle Conditions.md",
+                "file": "Homebrew Rules/Status Effects & Battle Conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Rules/Status Effects & Battle Conditions.md",
+                "file": "Homebrew Rules/Status Effects & Battle Conditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Rules/Status Effects & Battle Conditions.md"
+                "file": "Homebrew Rules/Status Effects & Battle Conditions.md"
               }
             }
           },
@@ -230,8 +203,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a63ce4098d677fdd",
+  "active": "03ef905b619da07d",
   "lastOpenFiles": [
+    "Narrative/Timeline summary.md",
+    "Game Rules/Status Effects & Battle Conditions.md",
+    "Homebrew Rules/To Hit Rules.md",
+    "Homebrew Rules/Status Effects & Battle Conditions.md",
+    "Homebrew Rules/Psychic Damage.md",
+    "Homebrew Rules/Necrotic Damage.md",
+    "Homebrew Rules/Ingenuity.md",
+    "Homebrew Rules/Gang Fights.md",
+    "Homebrew Rules/Critical Death Save.md",
+    "Homebrew Rules/Dash & Sprint.md",
+    "Homebrew Rules/Critical Health Levels.md",
+    "Homebrew Rules/- Rules -.md",
+    "Homebrew Rules",
+    "Game Rules/To Hit Rules.md",
     "Game Rules/Psychic Damage.md",
     "Game Rules/Necrotic Damage.md",
     "Game Rules/Ingenuity.md",
@@ -245,20 +232,7 @@
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Game Rules/Combat.md",
     "Game Rules/Assists.md",
-    "Game Rules/Alcohol.md",
     "Characters/Family Trees/Shatterborne.canvas",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Zircon Shatterborne.md",
-    "Bestiary/WilderBeast.md",
-    "Additional Lore/That Time Jasper Helped a Village.md",
-    "Characters/PC/Quinn/Jasper Shatterborne.md",
-    "The other slaves.md",
-    "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
-    "Characters/PC/Marta/Duska Von Mori.md",
-    "The Travelling Merchants.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kaede.md",
-    "Narrative/Timeline summary.md",
-    "Locations/Sunmaek/Qotus.md",
-    "Locations/Sunmaek/-Sunmaek-.md",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Marta_Backstory_merchant.png",
@@ -277,7 +251,6 @@
     "Narrative/5 -",
     "Resources/Character Art/Crew of the Kilfenora",
     "Resources/Possibilities",
-    "Narrative/3 -",
-    "Quests/Individual/Past within the Present"
+    "Narrative/3 -"
   ]
 }
