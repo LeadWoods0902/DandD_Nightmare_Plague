@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c824867f7831593e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timeline summary.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timeline summary.md"
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md"
               }
             }
           },
@@ -164,10 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03ef905b619da07d",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
-    "Locations/Sunmaek/Qotus.md",
     "Narrative/Timeline summary.md",
+    "Locations/Sunmaek/Qotus.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Characters/PC/Marta/Duska Von Mori.md",
     "Locations/Sunmaek/-Sunmaek-.md",

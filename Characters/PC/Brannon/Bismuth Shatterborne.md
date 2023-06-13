@@ -8,10 +8,10 @@
 Bismuth Shatterborne
 
 ##### Current Age
-
+25
 
 ##### Place of Origin
-
+[[-Chimo Nahagi-]]
 
 ##### Race
 
