@@ -1,5 +1,4 @@
 Rolling a natural 20 on a death saving throw will give you 1 success; and on the next turn the dc will be 10 - \[CON\]mod (taking the mod value as positive). 
 
-Rolling a dirty 20 will decrease the DC by half your \[CON\]mod (rounded up)
+Rolling a natural 1 on a death saving throw will give you 1 failure; and on the next turn the dc wil be 10 + \[CON\]mod (taking the mod value as positive). 
 
-The DC decreases for both Player and Fate Death Saves
