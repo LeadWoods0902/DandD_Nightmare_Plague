@@ -3,7 +3,7 @@
 	- Disadvantage on ability checks
 	- Takes d6 damage at the end of their turn
 - Effects lasts for 4 turns
-- Blood loss can be stopped with a bandage and a successful \[medicine\] check
+- Blood loss can be stopped with a bandage, a successful \[medicine\] check or an appropriate spell (cure wounds).
 
 #### Frostbite
 - After the effect procs:
