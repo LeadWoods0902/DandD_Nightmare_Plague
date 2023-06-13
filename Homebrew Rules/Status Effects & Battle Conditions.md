@@ -17,7 +17,7 @@
 	- Disadvantage on attack rolls
 	- Disadvantage on ability checks
 	- Takes d4 damage at the end of the first and last round (unless remedied)
-	- Disadvantage on death saving  
+	- Disadvantage on death saving throws  
 - Lasts for 6 rounds
 - Can be cured with an appropriate remedy
 
