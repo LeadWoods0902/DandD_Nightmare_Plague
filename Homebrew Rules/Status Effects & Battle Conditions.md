@@ -16,7 +16,7 @@
 - After the effect procs:
 	- Disadvantage on attack rolls
 	- Disadvantage on ability checks
-	- takes d4 damage at the end of the first and last round
+	- takes d4 damage at the end of the first and last round (unless remedied)
 - Lasts for 6 rounds
 - Can be cured with an appropriate remedy
 
