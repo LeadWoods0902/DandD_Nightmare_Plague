@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Additional Lore/That Time Jasper Helped a Village.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Additional Lore/That Time Jasper Helped a Village.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Additional Lore/That Time Jasper Helped a Village.md"
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md"
               }
             }
           },
@@ -230,8 +230,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "720ed3a4b9d59da8",
+  "active": "c824867f7831593e",
   "lastOpenFiles": [
+    "Additional Lore/That Time Jasper Helped a Village.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Bestiary/WilderBeast.md",
@@ -258,7 +259,6 @@
     "Game Rules/Untitled.md",
     "Additional Lore/Suimin Mahi.md",
     "Locations/Sunmaek/The Tomehold.md",
-    "Locations/Sunmaek/Grand Library of the Bati Yilani.md",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Marta_Backstory_merchant.png",
     "Resources/Character Art/Crew of the Kilfenora/1.png",
