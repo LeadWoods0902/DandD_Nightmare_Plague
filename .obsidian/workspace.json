@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Rules/Critical Death Save.md",
+                "file": "Game Rules/Critical Health Levels.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Rules/Critical Death Save.md",
+                "file": "Game Rules/Critical Health Levels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Rules/Critical Death Save.md",
+                "file": "Game Rules/Critical Health Levels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Rules/Critical Death Save.md"
+                "file": "Game Rules/Critical Health Levels.md"
               }
             }
           },
@@ -219,8 +219,8 @@
   },
   "active": "8927f7893103829e",
   "lastOpenFiles": [
-    "Game Rules/Critical Health Levels.md",
     "Game Rules/Critical Death Save.md",
+    "Game Rules/Critical Health Levels.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Game Rules/Combat.md",
     "Game Rules/Assists.md",
