@@ -28,7 +28,7 @@ Curious
 Restless
 Open-minded
 Energetic
-
+Independant
 
 ##### Long Term Goals
 
