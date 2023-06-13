@@ -14,13 +14,19 @@ Bismuth Shatterborne
 [[-Chimo Nahagi-]] - More specific tbw
 
 ##### Family
+
+Siblings: 
 [[Jasper Shatterborne]]
-[[Malachix Shatterborne]]
 [[Agate Shatterborne]]
 [[Citrine Shatterborne]]
 [[Garnet Shatterborne]]
-[[Peridot Shatterborne]]
 [[Zircon Shatterborne]]
+
+Parents:
+[[Malachix]]
+
+
+[[Peridot Shatterborne]]
 
 ##### Race
 Genasi Pure Blood
