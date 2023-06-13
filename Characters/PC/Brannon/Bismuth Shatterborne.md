@@ -26,12 +26,12 @@ Neutral Good
 Adventurous
 Curious
 Restless
-Open-minded
+Open-Minded
 Energetic
 Independent
 
 ##### Long Term Goals
-
+Would like t
 
 ##### Additional Goals
 
