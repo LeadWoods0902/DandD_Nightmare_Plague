@@ -26,7 +26,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Resources/items/Weapons/swordStaff.png"
+                "file": "Resources/Tokens/DuskVonMori_Token.png"
               }
             }
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/items/Weapons/swordStaff.png",
+                "file": "Resources/Tokens/DuskVonMori_Token.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/items/Weapons/swordStaff.png",
+                "file": "Resources/Tokens/DuskVonMori_Token.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/items/Weapons/swordStaff.png"
+                "file": "Resources/Tokens/DuskVonMori_Token.png"
               }
             }
           },
@@ -177,18 +177,18 @@
   },
   "active": "94e4bd961010a188",
   "lastOpenFiles": [
+    "Resources/Tokens/DisfiguredKnight_Token.png",
+    "Resources/Tokens/Bismuth_Token.png",
+    "Resources/Tokens/barkeep_token.png",
+    "Resources/Possibilities/Rapscallion.png",
+    "Resources/Possibilities/PrettyBoi.png",
+    "Resources/Possibilities/Mortos_Human.png",
+    "Resources/Possibilities/IceGenasi_Full.png",
+    "Resources/Possibilities/ForestRanger.png",
+    "Resources/items/Weapons/swordStaff.png",
     "Resources/items/Weapons/arcRifle.png",
     "Resources/items/Weapons/Spell Focuses/MortosFlask.png",
-    "Resources/items/Weapons/Spell Focuses/whiteBranch.png",
-    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Minute Meteor 2 - 5 ft. radius - 4x4.png",
     "Resources/Game Resources/Combat Art.zip",
-    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Wall of Fire - 60 ft. line - 14x2.png",
-    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Wall of Fire - 20 ft. diameter - 6x6.png",
-    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Minute Meteor 1 - 5 ft. radius - 4x4.png",
-    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Glyph 4 - 1x1.png",
-    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Glyph 3 - 1x1.png",
-    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Fiery wall 2 - 4x3.png",
-    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Fiery area 1 - 4x4.png",
     "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
     "Quests/Individual/What was, is not always what is.md",
     "Quests/Individual/Echoes of the Forgotten.md",
