@@ -8,6 +8,19 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0b47435ead03bdab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "08d2b3a63939e684",
             "type": "leaf",
             "state": {
@@ -19,24 +32,28 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7968d2ab84e0f838",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Characters/Family Trees/Lundgren.canvas",
-                "viewState": {
-                  "x": 244.84633123689753,
-                  "y": -567.843396226415,
-                  "zoom": -1.478659825510006
-                }
-              }
-            }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "486019aa5de9734e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b9337552203ee87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Family Trees/Lundgren.canvas",
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Family Trees/Lundgren.canvas",
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Family Trees/Lundgren.canvas"
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md"
               }
             }
           },
@@ -180,16 +197,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7968d2ab84e0f838",
+  "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "Characters/PC/Brannon/Bismuth Shatterborne.md",
+    "Characters/PC/Quinn/Jasper Shatterborne.md",
+    "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
     "Ven-Kylgh's Wife.md",
     "Hinele's Mother.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Grand-Genasi.md",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Change Name.md",
-    "Characters/PC/Quinn/Jasper Shatterborne.md",
-    "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Locations/Chimo-Nahagi/Hakushin.md",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Tokens/DisfiguredKnight_Token.png",
