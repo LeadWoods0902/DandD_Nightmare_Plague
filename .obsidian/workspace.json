@@ -28,9 +28,9 @@
               "state": {
                 "file": "Characters/Family Trees/Sunmaek Nobility.canvas",
                 "viewState": {
-                  "x": 430.33126119589997,
-                  "y": 154.67648286842734,
-                  "zoom": -1.6666666666666665
+                  "x": 222.36722208992626,
+                  "y": -273.4300571411069,
+                  "zoom": -1
                 }
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Seni/Lundgren Family/Ven-Dryk.md",
+                "file": "Characters/Family Trees/Sunmaek Nobility.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Seni/Lundgren Family/Ven-Dryk.md",
+                "file": "Characters/Family Trees/Sunmaek Nobility.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Seni/Lundgren Family/Ven-Dryk.md"
+                "file": "Characters/Family Trees/Sunmaek Nobility.canvas"
               }
             }
           },
