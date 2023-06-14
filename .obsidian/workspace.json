@@ -50,7 +50,7 @@
                 "file": "Characters/Family Trees/Shatterborne.canvas",
                 "viewState": {
                   "x": 435.366220085795,
-                  "y": 78.46319446785884,
+                  "y": -99.3661359432619,
                   "zoom": -0.9351906744252916
                 }
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas",
+                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas",
+                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas"
+                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa.md"
               }
             }
           },
@@ -204,15 +204,15 @@
   },
   "active": "6bb8f90c03f0a74b",
   "lastOpenFiles": [
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Magnar Shatterborne.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
+    "Characters/Family Trees/Shatterborne.canvas",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Magnar Shatterborne.md",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite Crystalborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
     "Ven-Kylgh's Wife.md",
     "Hinele's Mother.md",
-    "Characters/Family Trees/Shatterborne.canvas",
     "Crystal Genasi.md",
     "Locations/Chimo-Nahagi/Hakushin.md",
     "Resources/Tokens/DuskVonMori_Token.png",
@@ -243,7 +243,6 @@
     "Locations/Sunmaek/-Sunmaek-.md",
     "Locations/Sunmaek/Itha.md",
     "Locations/Sunmaek/Odohra.md",
-    "Locations/Sunmaek/Wadur.md",
     "Homebrew Rules",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
     "Resources/rw0a3gxm39qa1.mp4",
