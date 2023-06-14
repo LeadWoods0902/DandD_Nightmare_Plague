@@ -21,17 +21,17 @@ Bismuth Shatterborne
 
 Siblings: 
 - [[Jasper Shatterborne]]
-- [[Agate Shatterborne]]
-- [[Citrine Shatterborne]]
-- [[Garnet Shatterborne]]
-- [[Zircon Shatterborne]]
+- [[Beryllis Shatterborne]]
+- [[Nicodemus Shatterborne]]
+- [[Vesper Shatterborne]]
+- [[Pyrrhus Shatterborne]]
 
 Parents:
 - [[Magnar Shatterborne]]
 - [[Dolomite Crystalborne]]
 
 Other: 
-- Niece [[Peridot Shatterborne]]
+- Niece [[Ynessa Shatterborne]]
 
 ##### Race
 Genasi Pure Blood

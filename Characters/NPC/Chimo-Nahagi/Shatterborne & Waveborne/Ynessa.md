@@ -1,5 +1,5 @@
 [[Magnar Shatterborne]]'s first wife and mother of:
-[[Agate Shatterborne]]
-[[Citrine Shatterborne]]
+[[Beryllis Shatterborne]]
+[[Nicodemus Shatterborne]]
 [[Jasper Shatterborne]]
-[[Zircon Shatterborne]]
+[[Pyrrhus Shatterborne]]

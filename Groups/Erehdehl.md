@@ -1,3 +1,3 @@
 Group of religious zealots that aim to achieve world peace by any means. While not an evil group, this group puts macro-ethics to the side when considering the health of the world. 
 
-This group sent a hunter after the pair of Genasi [[Jasper Shatterborne]] and [[Bismuth Shatterborne]]. Their Niece [[Peridot Shatterborne]] was caught up in this mess and was brought to the continent as they were considered to potentially be of help
+This group sent a hunter after the pair of Genasi [[Jasper Shatterborne]] and [[Bismuth Shatterborne]]. Their Niece [[Ynessa Shatterborne]] was caught up in this mess and was brought to the continent as they were considered to potentially be of help
