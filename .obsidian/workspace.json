@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "94e4bd961010a188",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Tokens/DuskVonMori_Token.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Tokens/DuskVonMori_Token.png",
+                "file": "Locations/Chimo-Nahagi/Hakushin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Tokens/DuskVonMori_Token.png",
+                "file": "Locations/Chimo-Nahagi/Hakushin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Tokens/DuskVonMori_Token.png"
+                "file": "Locations/Chimo-Nahagi/Hakushin.md"
               }
             }
           },
@@ -175,8 +164,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94e4bd961010a188",
+  "active": "08d2b3a63939e684",
   "lastOpenFiles": [
+    "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Tokens/DisfiguredKnight_Token.png",
     "Resources/Tokens/Bismuth_Token.png",
     "Resources/Tokens/barkeep_token.png",
@@ -187,7 +177,6 @@
     "Resources/Possibilities/ForestRanger.png",
     "Resources/items/Weapons/swordStaff.png",
     "Resources/items/Weapons/arcRifle.png",
-    "Resources/items/Weapons/Spell Focuses/MortosFlask.png",
     "Resources/Game Resources/Combat Art.zip",
     "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
     "Quests/Individual/What was, is not always what is.md",
