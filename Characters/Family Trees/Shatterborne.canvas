@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Rilldina.md","id":"3ef9f83ccefb2ad8","x":-1016,"y":-823,"width":298,"height":200,"color":"6"},
-		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Change Name.md","id":"d04124d25e5aedec","x":-524,"y":-823,"width":298,"height":200,"color":"1"},
+		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Crystalborne.md","id":"d04124d25e5aedec","x":-524,"y":-823,"width":298,"height":200,"color":"1"},
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Carolynn.md","id":"723752c0a6710aa0","x":-1016,"y":-1400,"width":298,"height":200,"color":"1"},
 		{"type":"text","text":"","id":"b4c2ad215f30ff76","x":-649,"y":-970,"width":50,"height":60},
 		{"type":"file","file":"Characters/Djinn/Sansom, the mountain shatterer.md","id":"261f2a2251030e84","x":-152,"y":-1400,"width":298,"height":200,"color":"4"},

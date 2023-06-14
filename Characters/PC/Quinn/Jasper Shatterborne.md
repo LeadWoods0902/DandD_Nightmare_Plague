@@ -27,7 +27,7 @@ Siblings:
 
 Parents:
 - [[Malachix Shatterborne]]
-- [[Change Name]]
+- [[Crystalborne]]
 
 Other: 
 - Niece [[Peridot Shatterborne]]
