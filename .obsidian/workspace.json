@@ -26,7 +26,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Resources/Enemies/Art/StoneTalus.png"
+                "file": "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Minute Meteor 2 - 5 ft. radius - 4x4.png"
               }
             }
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Enemies/Art/StoneTalus.png",
+                "file": "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Minute Meteor 2 - 5 ft. radius - 4x4.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Enemies/Art/StoneTalus.png",
+                "file": "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Minute Meteor 2 - 5 ft. radius - 4x4.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Enemies/Art/StoneTalus.png"
+                "file": "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Minute Meteor 2 - 5 ft. radius - 4x4.png"
               }
             }
           },
@@ -177,17 +177,17 @@
   },
   "active": "94e4bd961010a188",
   "lastOpenFiles": [
-    "Resources/Enemies/Art/RuneWolf.png",
-    "Resources/Enemies/Art/RuneBear.png",
-    "Resources/Enemies/Art/RuneWarrior.png",
-    "Resources/Enemies/Art/koloktos.png",
-    "Resources/Enemies/Art/IceTalus.png",
-    "Resources/Enemies/Art/brassAutomata.png",
-    "Resources/Character Art/WilderBeast_Full.png",
-    "Resources/Character Art/VenDryk_Full.png",
-    "Resources/Character Art/Tom_Full.jpg",
-    "Resources/Character Art/Sturgis.png",
-    "Resources/Character Art/Sansom_Full_Temp.jpg",
+    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Wall of Fire - 60 ft. line - 14x2.png",
+    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Wall of Fire - 20 ft. diameter - 6x6.png",
+    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Minute Meteor 1 - 5 ft. radius - 4x4.png",
+    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Glyph 4 - 1x1.png",
+    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Glyph 3 - 1x1.png",
+    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Fiery wall 2 - 4x3.png",
+    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Fiery area 1 - 4x4.png",
+    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Burning Hands - 15 ft. cone - 4x4.png",
+    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Breath weapon - 60 ft. cone A - 12x10.png",
+    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Breath weapon - 30 ft. cone A - 7x6.png",
+    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)/Breath weapon - 5 by 30 ft. line - 7x3.png",
     "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
     "Quests/Individual/What was, is not always what is.md",
     "Quests/Individual/Echoes of the Forgotten.md",
