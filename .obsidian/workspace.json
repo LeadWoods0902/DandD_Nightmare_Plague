@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md"
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md"
               }
             }
           },
@@ -196,10 +196,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b47435ead03bdab",
+  "active": "3b9337552203ee87",
   "lastOpenFiles": [
-    "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
+    "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
     "Ven-Kylgh's Wife.md",
