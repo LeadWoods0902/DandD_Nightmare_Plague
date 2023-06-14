@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"ea2289265447e27e","x":-607,"y":-1256,"width":250,"height":60,"type":"text","text":""},
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Rilldina.md","id":"3ef9f83ccefb2ad8","x":-1016,"y":-823,"width":298,"height":200,"color":"6"},
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Change Name.md","id":"d04124d25e5aedec","x":-524,"y":-823,"width":298,"height":200,"color":"6"},
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Carolynn.md","id":"723752c0a6710aa0","x":-1016,"y":-1400,"width":298,"height":200,"color":"1"},
@@ -19,7 +18,8 @@
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Agate Shatterborne.md","id":"75316ab8243586c3","x":-5,"y":280,"width":250,"height":200,"color":"6"},
 		{"type":"text","text":"","id":"e6bfe41c3f6d0f8d","x":560,"y":-120,"width":50,"height":60},
 		{"type":"file","file":"Characters/PC/Brannon/Bismuth Shatterborne.md","id":"44ac7ae9cf337e12","x":-396,"y":280,"width":298,"height":200,"color":"#0015b3"},
-		{"type":"file","file":"Characters/PC/Quinn/Jasper Shatterborne.md","id":"76fb308bd2374c34","x":-718,"y":280,"width":298,"height":200,"color":"#0015b3"}
+		{"type":"file","file":"Characters/PC/Quinn/Jasper Shatterborne.md","id":"76fb308bd2374c34","x":-718,"y":280,"width":298,"height":200,"color":"#0015b3"},
+		{"id":"9f38f5a34b9b5909","x":-624,"y":-1400,"width":352,"height":200,"type":"file","file":"Grand-Genasi.md"}
 	],
 	"edges":[
 		{"id":"6d52d66033063ae2","fromNode":"723752c0a6710aa0","fromSide":"bottom","toNode":"b4c2ad215f30ff76","toSide":"top"},
@@ -40,6 +40,7 @@
 		{"id":"7fed218663f5a80b","fromNode":"fc7ad192b308f103","fromSide":"bottom","toNode":"0631b3b8e91eefdb","toSide":"top"},
 		{"id":"16e4659b5e5a3891","fromNode":"3a0438129f9b4c7d","fromSide":"bottom","toNode":"76fb308bd2374c34","toSide":"top"},
 		{"id":"3a847c54dac7b2b4","fromNode":"3a0438129f9b4c7d","fromSide":"bottom","toNode":"44ac7ae9cf337e12","toSide":"top"},
-		{"id":"43531808d16ace00","fromNode":"e6bfe41c3f6d0f8d","fromSide":"bottom","toNode":"75316ab8243586c3","toSide":"top"}
+		{"id":"43531808d16ace00","fromNode":"e6bfe41c3f6d0f8d","fromSide":"bottom","toNode":"75316ab8243586c3","toSide":"top"},
+		{"id":"884ebd8696353ee3","fromNode":"9f38f5a34b9b5909","fromSide":"bottom","toNode":"b4c2ad215f30ff76","toSide":"top"}
 	]
 }

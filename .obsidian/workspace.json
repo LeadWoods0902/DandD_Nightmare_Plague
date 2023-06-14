@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas",
+                "file": "Grand-Genasi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas",
+                "file": "Grand-Genasi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas"
+                "file": "Grand-Genasi.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   },
   "active": "7968d2ab84e0f838",
   "lastOpenFiles": [
+    "Grand-Genasi.md",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Change Name.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
@@ -218,7 +219,6 @@
     "Locations/Sunmaek/Sunmaek Royal Library.md",
     "Locations/Sunmaek/Qotus.md",
     "Locations/Chimo-Nahagi/Harukaze.md",
-    "Locations/Chimo-Nahagi/Hayatsuyu.md",
     "Homebrew Rules",
     "Characters/Family Trees/Shatterborne.canvas",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
