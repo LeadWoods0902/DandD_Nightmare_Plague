@@ -1,3 +1,3 @@
 Water Djinn
 
-Djinn lineage of [[Crystalborne]]
+Djinn lineage of [[Dolomite Crystalborne]]
