@@ -1,3 +1,3 @@
 Earth Djinn
 
-Djinn-lineage of [[Malachix Shatterborne]]
+Djinn-lineage of [[Magnar Shatterborne]]

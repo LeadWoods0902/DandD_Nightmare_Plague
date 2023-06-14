@@ -1,4 +1,4 @@
-[[Malachix Shatterborne]]'s first wife and mother of:
+[[Magnar Shatterborne]]'s first wife and mother of:
 [[Agate Shatterborne]]
 [[Citrine Shatterborne]]
 [[Jasper Shatterborne]]

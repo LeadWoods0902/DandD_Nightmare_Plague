@@ -6,6 +6,7 @@
       {
         "id": "8ab50e9a27204322",
         "type": "tabs",
+        "dimension": 21.115288220551378,
         "children": [
           {
             "id": "0b47435ead03bdab",
@@ -25,6 +26,7 @@
       {
         "id": "486019aa5de9734e",
         "type": "tabs",
+        "dimension": 78.88471177944862,
         "children": [
           {
             "id": "3b9337552203ee87",
@@ -38,8 +40,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6bb8f90c03f0a74b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Characters/Family Trees/Shatterborne.canvas",
+                "viewState": {
+                  "x": 402.85978334397754,
+                  "y": -692.1305706469975,
+                  "zoom": -0.9351906744252916
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -113,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite Crystalborne.md",
+                "file": "Characters/Family Trees/Shatterborne.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite Crystalborne.md",
+                "file": "Characters/Family Trees/Shatterborne.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite Crystalborne.md"
+                "file": "Characters/Family Trees/Shatterborne.canvas"
               }
             }
           },
@@ -183,17 +202,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b47435ead03bdab",
+  "active": "6bb8f90c03f0a74b",
   "lastOpenFiles": [
-    "Characters/PC/Brannon/Bismuth Shatterborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Magnar Shatterborne.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite Crystalborne.md",
+    "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
     "Ven-Kylgh's Wife.md",
     "Hinele's Mother.md",
     "Characters/Family Trees/Shatterborne.canvas",
-    "Grand-Genasi.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite Crystalborne.md",
+    "Crystal Genasi.md",
     "Locations/Chimo-Nahagi/Hakushin.md",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Tokens/DisfiguredKnight_Token.png",

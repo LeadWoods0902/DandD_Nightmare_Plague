@@ -1,1 +1,1 @@
-[[Malachix Shatterborne]]'s Mother
+[[Magnar Shatterborne]]'s Mother

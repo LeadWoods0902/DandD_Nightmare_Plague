@@ -26,7 +26,7 @@ Siblings:
 - [[Zircon Shatterborne]]
 
 Parents:
-- [[Malachix Shatterborne]]
+- [[Magnar Shatterborne]]
 - [[Dolomite Crystalborne]]
 
 Other: 
