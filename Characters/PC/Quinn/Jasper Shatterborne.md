@@ -33,7 +33,7 @@ Other:
 Genasi Pure Blood
 
 ##### Class
-Path of the Beast Barbarian
+Land Druid
 
 ##### Alignment
 Neutral Good
