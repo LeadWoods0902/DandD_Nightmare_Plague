@@ -49,16 +49,16 @@ Chaotic Good
 
 
 ### Motivations
-
+My family and friends are the most important things to me, even when we are far apart
 
 ##### Flaws
-Past experiences with bad leadership have lead me to feel the need to be in charge of any group I join
+There is no room for caution in a life filled to the brim. I don't think before doing what I believe is the right thing
 
 ##### Affiliations
 - [[The Travelling Merchants]]
 - [[The other slaves]]
 
-### Backstory
+##### Backstory
 Twin sibling to [[Bismuth Shatterborne]]
 
 Younger sibling to Bismuth by two minutes.
