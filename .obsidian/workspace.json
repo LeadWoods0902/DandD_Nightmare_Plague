@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yamanohana.md",
+                "file": "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85b78418dbbffca9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tsurukaze.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yamanohana.md",
+                "file": "Tsurukaze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yamanohana.md",
+                "file": "Tsurukaze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yamanohana.md"
+                "file": "Tsurukaze.md"
               }
             }
           },
@@ -164,9 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08d2b3a63939e684",
+  "active": "85b78418dbbffca9",
   "lastOpenFiles": [
     "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
+    "Tsurukaze.md",
     "Yamanohana.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "The Travelling Merchants.md",
@@ -192,7 +207,6 @@
     "Game Rules/Multi-sub-classing.md",
     "Game Rules/Gang Fights.md",
     "Game Rules/Dash & Sprint.md",
-    "Game Rules/Fate rolls.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
     "Resources/Tokens/DuskVonMori_Token.png",
