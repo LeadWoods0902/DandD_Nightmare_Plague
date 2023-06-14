@@ -1,7 +1,10 @@
 ![[Jasper_Token.png]]
+
+---
 ### World Lore (things you know in brief)
 
 
+---
 ### Character Info
 
 ##### Name 
@@ -58,7 +61,8 @@ There is no room for caution in a life filled to the brim. I don't think before 
 - [[The Travelling Merchants]]
 - [[The other slaves]]
 
-##### Backstory
+---
+### Backstory
 Twin sibling to [[Bismuth Shatterborne]]
 
 Younger sibling to Bismuth by two minutes.
@@ -66,5 +70,3 @@ Younger sibling to Bismuth by two minutes.
 very trans-phobic family & homo-phobic -> left home
 
 [Jasper helped a village](That%20Time%20Jasper%20Helped%20a%20Village)
-
-### Lore Notes
