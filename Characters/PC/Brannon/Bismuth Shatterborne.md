@@ -85,5 +85,3 @@ As you further explore Chimo-Nahagi you have a run in with some foreign slavers,
 
 
 ---
-### Additional Notes
-This character infects everyone with [[Suimin Mahi]] that they spend a prolonged period of time with
