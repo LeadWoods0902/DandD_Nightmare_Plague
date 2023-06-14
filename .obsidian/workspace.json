@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Sunmaek/Duqedo.md",
+                "file": "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Sunmaek/Duqedo.md",
+                "file": "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Sunmaek/Duqedo.md",
+                "file": "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Sunmaek/Duqedo.md"
+                "file": "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md"
               }
             }
           },
@@ -178,13 +178,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "94e4bd961010a188",
   "lastOpenFiles": [
+    "Quests/Individual/What was, is not always what is.md",
+    "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
+    "Quests/Individual/Echoes of the Forgotten.md",
+    "Quests/Individual/Deathless, even in Death.md",
+    "Quests/Individual/- Individual Quests -.md",
+    "Quests/Individual/Past within the Present/Malkath's Quest.md",
+    "Quests/Individual/Past within the Present/Alfread's Quest.md",
+    "Quests/Contracts/Help!.md",
+    "Quests/Contracts/Creature in the Crop.md",
+    "Quests/Contracts/Brother Lost.md",
+    "Quests/Contracts/- Contracts -.md",
+    "Narrative/Timeline summary.md",
+    "Narrative/The large Talus.md",
+    "Locations/Sunmaek/Duqedo.md",
     "Locations/Sunmaek/-Sunmaek-.md",
     "Locations/Sunmaek/Itha.md",
     "Locations/Sunmaek/Odohra.md",
-    "Wadur.md",
-    "Locations/Sunmaek/Duqedo.md",
+    "Locations/Sunmaek/Wadur.md",
     "Locations/Sunmaek/Sunmaek Royal Library.md",
     "Locations/Sunmaek/Qotus.md",
     "Locations/Chimo-Nahagi/Hakushin.md",
@@ -193,19 +206,6 @@
     "Locations/Chimo-Nahagi/Kirioka.md",
     "Locations/Chimo-Nahagi/Nagaregawa.md",
     "Locations/Chimo-Nahagi/Satsukiya.md",
-    "Locations/Chimo-Nahagi/Tsurukaze.md",
-    "Locations/Chimo-Nahagi/Yamanohana.md",
-    "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
-    "Locations/Seni Isles/Llawyr un Mawr/The Ozeaux.md",
-    "Characters/PC/Brannon/Bismuth Shatterborne.md",
-    "The Travelling Merchants.md",
-    "Characters/PC/Marta/Duska Von Mori.md",
-    "Homebrew Rules/Status Effects & Battle Conditions.md",
-    "Narrative/Timeline summary.md",
-    "Game Rules/Status Effects & Battle Conditions.md",
-    "Homebrew Rules/To Hit Rules.md",
-    "Homebrew Rules/Psychic Damage.md",
-    "Homebrew Rules/Necrotic Damage.md",
     "Homebrew Rules",
     "Characters/Family Trees/Shatterborne.canvas",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
