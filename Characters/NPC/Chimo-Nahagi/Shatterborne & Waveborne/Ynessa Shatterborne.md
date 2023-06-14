@@ -1,4 +1,4 @@
-Incestuous daughter of [[Vesper Shatterborne]] and [[Nicodemus Shatterborne]]
+Incestuous daughter of [[Vesper Shatterborne]] and [[Nicodemus Shatterborne]].
 
-
+Named for
 
