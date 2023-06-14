@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Harukaze.md",
+                "file": "Locations/Sunmaek/Duqedo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Harukaze.md",
+                "file": "Locations/Sunmaek/Duqedo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Harukaze.md",
+                "file": "Locations/Sunmaek/Duqedo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Harukaze.md"
+                "file": "Locations/Sunmaek/Duqedo.md"
               }
             }
           },
@@ -178,16 +178,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94e4bd961010a188",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
-    "Locations/Chimo-Nahagi/Hayatsuyu.md",
+    "Locations/Sunmaek/-Sunmaek-.md",
+    "Locations/Sunmaek/Itha.md",
+    "Locations/Sunmaek/Odohra.md",
+    "Wadur.md",
+    "Locations/Sunmaek/Duqedo.md",
+    "Locations/Sunmaek/Sunmaek Royal Library.md",
+    "Locations/Sunmaek/Qotus.md",
+    "Locations/Chimo-Nahagi/Hakushin.md",
     "Locations/Chimo-Nahagi/Harukaze.md",
+    "Locations/Chimo-Nahagi/Hayatsuyu.md",
     "Locations/Chimo-Nahagi/Kirioka.md",
     "Locations/Chimo-Nahagi/Nagaregawa.md",
     "Locations/Chimo-Nahagi/Satsukiya.md",
     "Locations/Chimo-Nahagi/Tsurukaze.md",
     "Locations/Chimo-Nahagi/Yamanohana.md",
-    "Locations/Chimo-Nahagi/Hakushin.md",
     "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
     "Locations/Seni Isles/Llawyr un Mawr/The Ozeaux.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
@@ -199,14 +206,7 @@
     "Homebrew Rules/To Hit Rules.md",
     "Homebrew Rules/Psychic Damage.md",
     "Homebrew Rules/Necrotic Damage.md",
-    "Homebrew Rules/Ingenuity.md",
-    "Homebrew Rules/Gang Fights.md",
-    "Homebrew Rules/Critical Death Save.md",
-    "Homebrew Rules/Dash & Sprint.md",
-    "Homebrew Rules/Critical Health Levels.md",
-    "Homebrew Rules/- Rules -.md",
     "Homebrew Rules",
-    "Game Rules/To Hit Rules.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
     "Resources/Tokens/DuskVonMori_Token.png",
