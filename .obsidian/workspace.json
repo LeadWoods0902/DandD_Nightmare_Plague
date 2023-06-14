@@ -28,9 +28,9 @@
               "state": {
                 "file": "Characters/Family Trees/Sunmaek Nobility.canvas",
                 "viewState": {
-                  "x": -1376,
-                  "y": -685,
-                  "zoom": 0
+                  "x": 430.33126119589997,
+                  "y": 154.67648286842734,
+                  "zoom": -1.6666666666666665
                 }
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hinele's Mother.md",
+                "file": "Characters/NPC/Seni/Lundgren Family/Ven-Dryk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hinele's Mother.md",
+                "file": "Characters/NPC/Seni/Lundgren Family/Ven-Dryk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hinele's Mother.md"
+                "file": "Characters/NPC/Seni/Lundgren Family/Ven-Dryk.md"
               }
             }
           },

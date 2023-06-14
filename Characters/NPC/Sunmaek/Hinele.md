@@ -1,5 +1,5 @@
 **Race**:  Yuan-Ti
-**Age**: 20 - 25 (Yuan-Ti have a similar age range to humans)
+**Age**: 47
 **Gender**: Female
 
 
