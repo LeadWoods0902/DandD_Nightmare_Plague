@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Hakushin.md",
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7968d2ab84e0f838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Change Name.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Hakushin.md",
+                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Change Name.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Hakushin.md",
+                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Change Name.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Hakushin.md"
+                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Change Name.md"
               }
             }
           },
@@ -164,8 +178,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08d2b3a63939e684",
+  "active": "7968d2ab84e0f838",
   "lastOpenFiles": [
+    "Characters/PC/Quinn/Jasper Shatterborne.md",
+    "Characters/PC/Brannon/Bismuth Shatterborne.md",
+    "Locations/Chimo-Nahagi/Hakushin.md",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Tokens/DisfiguredKnight_Token.png",
     "Resources/Tokens/Bismuth_Token.png",
@@ -176,7 +193,6 @@
     "Resources/Possibilities/IceGenasi_Full.png",
     "Resources/Possibilities/ForestRanger.png",
     "Resources/items/Weapons/swordStaff.png",
-    "Resources/items/Weapons/arcRifle.png",
     "Resources/Game Resources/Combat Art.zip",
     "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
     "Quests/Individual/What was, is not always what is.md",
@@ -198,11 +214,9 @@
     "Locations/Sunmaek/Wadur.md",
     "Locations/Sunmaek/Sunmaek Royal Library.md",
     "Locations/Sunmaek/Qotus.md",
-    "Locations/Chimo-Nahagi/Hakushin.md",
     "Locations/Chimo-Nahagi/Harukaze.md",
     "Locations/Chimo-Nahagi/Hayatsuyu.md",
     "Locations/Chimo-Nahagi/Kirioka.md",
-    "Locations/Chimo-Nahagi/Nagaregawa.md",
     "Homebrew Rules",
     "Characters/Family Trees/Shatterborne.canvas",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",

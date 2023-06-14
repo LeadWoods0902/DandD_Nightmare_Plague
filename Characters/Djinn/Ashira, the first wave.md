@@ -1,3 +1,3 @@
 Water Djinn
 
-Djinn lineage of [[Fjordina Waveborne]]
+Djinn lineage of [[Change Name]]

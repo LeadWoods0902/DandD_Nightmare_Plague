@@ -24,7 +24,7 @@ Siblings:
 
 Parents:
 - [[Malachix Shatterborne]]
-- [[Fjordina Waveborne]]
+- [[Change Name]]
 
 Other: 
 - Niece [[Peridot Shatterborne]]
