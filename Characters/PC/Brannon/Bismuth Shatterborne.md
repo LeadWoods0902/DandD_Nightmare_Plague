@@ -3,7 +3,7 @@
 ---
 ### World Lore (things you know in brief)
 [[The Greater Dragons]]
-[[
+
 
 ---
 ### Character Info
