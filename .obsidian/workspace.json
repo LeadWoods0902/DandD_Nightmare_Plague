@@ -26,11 +26,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Characters/Family Trees/Sunmaek Nobility.canvas",
+                "file": "Characters/Family Trees/Lundgren.canvas",
                 "viewState": {
-                  "x": 222.36722208992626,
-                  "y": -273.4300571411069,
-                  "zoom": -1
+                  "x": 244.84633123689753,
+                  "y": -567.843396226415,
+                  "zoom": -1.478659825510006
                 }
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Family Trees/Sunmaek Nobility.canvas",
+                "file": "Characters/Family Trees/Lundgren.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Family Trees/Sunmaek Nobility.canvas",
+                "file": "Characters/Family Trees/Lundgren.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Family Trees/Sunmaek Nobility.canvas"
+                "file": "Characters/Family Trees/Lundgren.canvas"
               }
             }
           },
@@ -182,6 +182,8 @@
   },
   "active": "7968d2ab84e0f838",
   "lastOpenFiles": [
+    "Characters/Family Trees/Sunmaek Nobility.canvas",
+    "Ven-Kylgh's Wife.md",
     "Hinele's Mother.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Grand-Genasi.md",
@@ -218,8 +220,6 @@
     "Locations/Sunmaek/Itha.md",
     "Locations/Sunmaek/Odohra.md",
     "Locations/Sunmaek/Wadur.md",
-    "Locations/Sunmaek/Sunmaek Royal Library.md",
-    "Locations/Sunmaek/Qotus.md",
     "Homebrew Rules",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
     "Resources/rw0a3gxm39qa1.mp4",
