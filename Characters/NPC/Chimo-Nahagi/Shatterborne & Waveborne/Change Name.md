@@ -1,3 +1,3 @@
 Mother of:
 [[Bismuth Shatterborne]]
-[[Agate Shatterborne]]
+[[Jasper Shatterborne]]
