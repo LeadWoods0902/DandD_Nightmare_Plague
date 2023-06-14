@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Tsurukaze.md",
+                "file": "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c315a86c23f93b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Satsukiya.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Tsurukaze.md",
+                "file": "Satsukiya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Tsurukaze.md",
+                "file": "Satsukiya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Tsurukaze.md"
+                "file": "Satsukiya.md"
               }
             }
           },
@@ -178,9 +191,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "c315a86c23f93b0e",
   "lastOpenFiles": [
     "Locations/Chimo-Nahagi/-Chimo Nahagi-.md",
+    "Satsukiya.md",
+    "Locations/Seni Isles/Llawyr un Mawr/The Ozeaux.md",
     "Locations/Chimo-Nahagi/Tsurukaze.md",
     "Locations/Chimo-Nahagi/Yamanohana.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
@@ -205,8 +220,6 @@
     "Game Rules/Ingenuity.md",
     "Game Rules/Mutli-classing.md",
     "Game Rules/Multi-sub-classing.md",
-    "Game Rules/Gang Fights.md",
-    "Game Rules/Dash & Sprint.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
     "Resources/Tokens/DuskVonMori_Token.png",
