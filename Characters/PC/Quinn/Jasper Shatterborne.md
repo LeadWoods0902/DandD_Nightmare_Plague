@@ -38,7 +38,7 @@ Land Druid
 ##### Alignment
 Chaotic Good
 
-##### Personality Traits
+### Personality Traits
 
 
 ### Long Term Goals
@@ -46,12 +46,10 @@ Chaotic Good
 - Take revenge on those that brought you to Seni
 
 ### Additional Goals
-- Learn more about Family History
-- Commune with Kaede
-- Find out why Chimo-Nahagi locals are aiding in foreign slave trade
 
-##### Motivations
-After being taken as a slave and forced into a new land, Bismuth desires to find a place of safety for himself and his brother. And if possible take revenge on those that brought him here.
+
+### Motivations
+
 
 ##### Flaws
 Past experiences with bad leadership have lead me to feel the need to be in charge of any group I join
