@@ -36,21 +36,16 @@ Genasi Pure Blood
 Land Druid
 
 ##### Alignment
-Neutral Good
+Chaotic Good
 
 ##### Personality Traits
-- Adventurous
-- Curious
-- Restless
-- Open-Minded
-- Energetic
-- Independent
 
-##### Long Term Goals
+
+### Long Term Goals
 - Would like to find a way home or a new home
 - Take revenge on those that brought you to Seni
 
-##### Additional Goals
+### Additional Goals
 - Learn more about Family History
 - Commune with Kaede
 - Find out why Chimo-Nahagi locals are aiding in foreign slave trade
