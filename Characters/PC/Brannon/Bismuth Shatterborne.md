@@ -2,7 +2,7 @@
 
 ---
 ### World Lore (things you know in brief)
-
+[[Greater
 
 ---
 ### Character Info
