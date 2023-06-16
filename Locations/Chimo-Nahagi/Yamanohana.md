@@ -1,3 +1,3 @@
-A quaint town set within a valley in the mountain ranges of Northern [[Chimo-Nahagi]]: the southern end opening up into a view of the plains of central CN, it's northern end spills out over the peninsula 
+A quaint town set within a valley in the mountain ranges of Northern [[Chimo-Nahagi]]: the southern end opening up into a view of the plains of central CN, it's northern end climbing down towards the bordering country [[ 
 
 Mountain 'town' that [[Bismuth Shatterborne]] and [[Jasper Shatterborne]] hail from.
