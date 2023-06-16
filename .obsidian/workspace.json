@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
+                "file": "Locations/Chimo-Nahagi/Yamanohana.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
+                "file": "Locations/Chimo-Nahagi/Yamanohana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
+                "file": "Locations/Chimo-Nahagi/Yamanohana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Quinn/Jasper Shatterborne.md"
+                "file": "Locations/Chimo-Nahagi/Yamanohana.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Djinn/Nameena, the swift of breath.md",
     "Characters/Djinn/Koranga, the Eternal Flame.md",
@@ -176,7 +177,6 @@
     "Characters/Djinn/Ashira, the First Wave.md",
     "Characters/Djinn/Auroris, the Shimmering Sentinal.md",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite (Dola) Shimmerborne.md",
-    "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Magnar Shatterborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Characters/Family Trees/Lundgren.canvas",
