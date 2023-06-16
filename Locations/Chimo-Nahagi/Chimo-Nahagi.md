@@ -1,4 +1,4 @@
-
+A large island consisting of the two countries [[Chimo]] and [[Nahagi]]
 #### The Greater Dragons
 ![[The Greater Dragons]]
 
