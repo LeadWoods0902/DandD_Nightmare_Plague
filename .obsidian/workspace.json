@@ -4,29 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "8ab50e9a27204322",
-        "type": "tabs",
-        "dimension": 12.523481527864746,
-        "children": [
-          {
-            "id": "d5191d81ed91325e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Djinn/Nameena, the swift of breath.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "486019aa5de9734e",
         "type": "tabs",
-        "dimension": 87.47651847213525,
         "children": [
           {
             "id": "3b9337552203ee87",
@@ -49,9 +28,9 @@
               "state": {
                 "file": "Characters/Family Trees/Shatterborne.canvas",
                 "viewState": {
-                  "x": 924.3311375468393,
-                  "y": 303.3162848602599,
-                  "zoom": -0.9351906744252916
+                  "x": 140.89109040846188,
+                  "y": -456.5037156691481,
+                  "zoom": -1.2685240077586248
                 }
               }
             }
@@ -115,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -211,7 +191,7 @@
     "Characters/Djinn/Ashira, the First Wave.md",
     "Characters/Djinn/Auroris, the Shimmering Sentinal.md",
     "Characters/Family Trees/Shatterborne.canvas",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite (Dola) Crystalborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite (Dola) Shimmerborne.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Magnar Shatterborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",

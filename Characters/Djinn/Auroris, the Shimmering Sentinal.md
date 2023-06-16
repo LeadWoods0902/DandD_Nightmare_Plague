@@ -1,2 +1,2 @@
-[[Dolomite (Dola) Crystalborne]]'s Djinn
+[[Dolomite (Dola) Shimmerborne]]'s Djinn
 Parent
