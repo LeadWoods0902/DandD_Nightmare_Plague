@@ -50,7 +50,7 @@
                 "file": "Characters/Family Trees/Shatterborne.canvas",
                 "viewState": {
                   "x": 154.28114943595887,
-                  "y": -774.3527341704189,
+                  "y": -952.1820645815396,
                   "zoom": -0.9351906744252916
                 }
               }
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "d86284bd8a071899",
