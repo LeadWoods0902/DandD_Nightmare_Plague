@@ -18,7 +18,7 @@
 		{"type":"text","text":"","id":"e6bfe41c3f6d0f8d","x":560,"y":-120,"width":50,"height":60},
 		{"type":"file","file":"Characters/PC/Brannon/Bismuth Shatterborne.md","id":"44ac7ae9cf337e12","x":-396,"y":280,"width":298,"height":200,"color":"#0015b3"},
 		{"type":"file","file":"Characters/PC/Quinn/Jasper Shatterborne.md","id":"76fb308bd2374c34","x":-718,"y":280,"width":298,"height":200,"color":"#0015b3"},
-		{"type":"file","file":"Characters/Djinn/Auroris, the.md","id":"9f38f5a34b9b5909","x":-624,"y":-1400,"width":352,"height":200,"color":"4"},
+		{"type":"file","file":"Characters/Djinn/Auroris, the Shimmering Sentinal.md","id":"9f38f5a34b9b5909","x":-624,"y":-1400,"width":352,"height":200,"color":"4"},
 		{"type":"text","text":"","id":"b4c2ad215f30ff76","x":-649,"y":-1000,"width":50,"height":60}
 	],
 	"edges":[

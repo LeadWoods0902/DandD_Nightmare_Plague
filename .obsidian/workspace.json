@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Djinn/Auroris, the.md",
+                "file": "Characters/Djinn/Belorus, the coming storm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Djinn/Auroris, the.md",
+                "file": "Characters/Djinn/Belorus, the coming storm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Djinn/Auroris, the.md",
+                "file": "Characters/Djinn/Belorus, the coming storm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Djinn/Auroris, the.md"
+                "file": "Characters/Djinn/Belorus, the coming storm.md"
               }
             }
           },
@@ -203,6 +203,7 @@
   },
   "active": "d5191d81ed91325e",
   "lastOpenFiles": [
+    "Characters/Djinn/Auroris, the Shimmering Sentinal.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite (Dola) Crystalborne.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
@@ -212,7 +213,6 @@
     "Characters/Family Trees/Sunmaek Nobility.canvas",
     "Ven-Kylgh's Wife.md",
     "Hinele's Mother.md",
-    "Characters/Djinn/Auroris, the.md",
     "Locations/Chimo-Nahagi/Hakushin.md",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Tokens/DisfiguredKnight_Token.png",
