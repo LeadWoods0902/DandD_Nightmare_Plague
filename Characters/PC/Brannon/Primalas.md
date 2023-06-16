@@ -1,4 +1,4 @@
-Primalas Hails from [[Chimo Nahagi]]
+Primalas Hails from [[Chimo-Nahagi]]
 ![[Primalas_Full_Temp.png]]
 
 ### Backstory
