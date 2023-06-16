@@ -6,7 +6,7 @@
       {
         "id": "8ab50e9a27204322",
         "type": "tabs",
-        "dimension": 27.345415778251596,
+        "dimension": 12.523481527864746,
         "children": [
           {
             "id": "d5191d81ed91325e",
@@ -26,7 +26,7 @@
       {
         "id": "486019aa5de9734e",
         "type": "tabs",
-        "dimension": 72.6545842217484,
+        "dimension": 87.47651847213525,
         "children": [
           {
             "id": "3b9337552203ee87",
@@ -49,9 +49,9 @@
               "state": {
                 "file": "Characters/Family Trees/Shatterborne.canvas",
                 "viewState": {
-                  "x": 26.167545806441822,
-                  "y": 5.801747633207327,
-                  "zoom": -0.9351906744252916
+                  "x": 282.27237494401413,
+                  "y": -402.5634959981514,
+                  "zoom": -1.101857341091958
                 }
               }
             }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Djinn/Nameena, the swift of breath.md",
+                "file": "Characters/Family Trees/Shatterborne.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Djinn/Nameena, the swift of breath.md",
+                "file": "Characters/Family Trees/Shatterborne.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Djinn/Nameena, the swift of breath.md"
+                "file": "Characters/Family Trees/Shatterborne.canvas"
               }
             }
           },
@@ -201,8 +201,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d5191d81ed91325e",
+  "active": "6bb8f90c03f0a74b",
   "lastOpenFiles": [
+    "Characters/Djinn/Nameena, the swift of breath.md",
     "Characters/Djinn/Koranga, the Eternal Flame.md",
     "Characters/Djinn/Efreeti, the Arctic Herald.md",
     "Bestiary/Pyroclasm.md",
@@ -242,7 +243,6 @@
     "Quests/Contracts/Brother Lost.md",
     "Quests/Contracts/- Contracts -.md",
     "Narrative/Timeline summary.md",
-    "Narrative/The large Talus.md",
     "Homebrew Rules",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
     "Resources/rw0a3gxm39qa1.mp4",
