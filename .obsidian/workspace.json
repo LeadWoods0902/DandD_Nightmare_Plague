@@ -6,7 +6,7 @@
       {
         "id": "8ab50e9a27204322",
         "type": "tabs",
-        "dimension": 35.18123667377399,
+        "dimension": 27.345415778251596,
         "children": [
           {
             "id": "0b47435ead03bdab",
@@ -26,7 +26,7 @@
       {
         "id": "486019aa5de9734e",
         "type": "tabs",
-        "dimension": 64.81876332622602,
+        "dimension": 72.6545842217484,
         "children": [
           {
             "id": "3b9337552203ee87",
@@ -49,8 +49,8 @@
               "state": {
                 "file": "Characters/Family Trees/Shatterborne.canvas",
                 "viewState": {
-                  "x": -59.87890439248764,
-                  "y": -688.3062839714896,
+                  "x": 154.28114943595887,
+                  "y": -596.5234037592982,
                   "zoom": -0.9351906744252916
                 }
               }
@@ -204,10 +204,10 @@
   },
   "active": "6bb8f90c03f0a74b",
   "lastOpenFiles": [
-    "Characters/PC/Quinn/Jasper Shatterborne.md",
-    "Characters/Family Trees/Shatterborne.canvas",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Magnar Shatterborne.md",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite Crystalborne.md",
+    "Characters/Family Trees/Shatterborne.canvas",
+    "Characters/PC/Quinn/Jasper Shatterborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Magnar Shatterborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
