@@ -27,7 +27,7 @@ Siblings:
 
 Parents:
 - [[Magnar Shatterborne]]
-- [[Dolomite Crystalborne]]
+- [[Dolomite (Dola) Crystalborne]]
 
 Other: 
 - Niece [[Ynessa Shatterborne]]

@@ -1,1 +1,1 @@
-[[Dolomite Crystalborne]]'s Genasi Parent
+[[Dolomite (Dola) Crystalborne]]'s Genasi Parent

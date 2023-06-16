@@ -1,1 +1,1 @@
-[[Dolomite Crystalborne]]'s mother
+[[Dolomite (Dola) Crystalborne]]'s mother
