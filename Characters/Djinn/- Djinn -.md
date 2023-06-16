@@ -2,7 +2,7 @@ Djinn are powerful beings, matched in power by none but the true deities themsel
 
 [[Ashira, the First Wave]]
 [[Belorus, the Stormweaver]]
-[[Efreeti, the Blizzard Herald]]
+[[Efreeti, the Arctic Herald]]
 [[Koranga, the Eternal Fire]]
 [[Nameena, the last breath]]
 [[Sansom, the mountain shatterer]]
