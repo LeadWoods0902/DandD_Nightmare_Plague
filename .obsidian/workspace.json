@@ -9,12 +9,12 @@
         "dimension": 27.345415778251596,
         "children": [
           {
-            "id": "0b47435ead03bdab",
+            "id": "d5191d81ed91325e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite (Dola) Crystalborne.md",
+                "file": "Characters/Djinn/Crystal Djinn.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas",
+                "file": "Characters/Djinn/Crystal Djinn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas",
+                "file": "Characters/Djinn/Crystal Djinn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas"
+                "file": "Characters/Djinn/Crystal Djinn.md"
               }
             }
           },
@@ -201,10 +201,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6bb8f90c03f0a74b",
+  "active": "d5191d81ed91325e",
   "lastOpenFiles": [
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite (Dola) Crystalborne.md",
     "Characters/Family Trees/Shatterborne.canvas",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite (Dola) Crystalborne.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Magnar Shatterborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
@@ -212,7 +212,7 @@
     "Characters/Family Trees/Sunmaek Nobility.canvas",
     "Ven-Kylgh's Wife.md",
     "Hinele's Mother.md",
-    "Crystal Genasi.md",
+    "Characters/Djinn/Crystal Djinn.md",
     "Locations/Chimo-Nahagi/Hakushin.md",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Tokens/DisfiguredKnight_Token.png",
