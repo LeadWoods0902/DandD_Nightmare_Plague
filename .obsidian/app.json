@@ -6,7 +6,7 @@
   "spellcheck": false,
   "attachmentFolderPath": "resources",
   "promptDelete": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "strictLineBreaks": false,
   "rightToLeft": false,
   "autoPairBrackets": false,
