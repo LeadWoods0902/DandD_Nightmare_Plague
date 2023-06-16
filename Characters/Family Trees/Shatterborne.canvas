@@ -18,8 +18,8 @@
 		{"type":"file","file":"Characters/PC/Quinn/Jasper Shatterborne.md","id":"76fb308bd2374c34","x":-718,"y":280,"width":298,"height":200,"color":"#0015b3"},
 		{"type":"file","file":"Characters/Djinn/Auroris, the Shimmering Sentinal.md","id":"9f38f5a34b9b5909","x":-624,"y":-1400,"width":352,"height":200,"color":"4"},
 		{"type":"text","text":"","id":"b4c2ad215f30ff76","x":-649,"y":-1000,"width":50,"height":60},
-		{"type":"text","text":"","id":"58c26084e30f6a70","x":2083,"y":450,"width":50,"height":60},
-		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa Shatterborne.md","id":"de48c6ebf0619eec","x":1960,"y":580,"width":298,"height":200,"color":"4"}
+		{"type":"text","text":"","id":"58c26084e30f6a70","x":886,"y":560,"width":50,"height":60},
+		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa Shatterborne.md","id":"de48c6ebf0619eec","x":763,"y":690,"width":298,"height":200,"color":"4"}
 	],
 	"edges":[
 		{"id":"6d52d66033063ae2","fromNode":"723752c0a6710aa0","fromSide":"bottom","toNode":"b4c2ad215f30ff76","toSide":"top"},
@@ -39,6 +39,8 @@
 		{"id":"16e4659b5e5a3891","fromNode":"3a0438129f9b4c7d","fromSide":"bottom","toNode":"76fb308bd2374c34","toSide":"top"},
 		{"id":"3a847c54dac7b2b4","fromNode":"3a0438129f9b4c7d","fromSide":"bottom","toNode":"44ac7ae9cf337e12","toSide":"top"},
 		{"id":"43531808d16ace00","fromNode":"e6bfe41c3f6d0f8d","fromSide":"bottom","toNode":"75316ab8243586c3","toSide":"top"},
-		{"id":"884ebd8696353ee3","fromNode":"9f38f5a34b9b5909","fromSide":"bottom","toNode":"b4c2ad215f30ff76","toSide":"top"}
+		{"id":"884ebd8696353ee3","fromNode":"9f38f5a34b9b5909","fromSide":"bottom","toNode":"b4c2ad215f30ff76","toSide":"top"},
+		{"id":"eb496802b67ee5e7","fromNode":"05e804f78e9de10e","fromSide":"bottom","toNode":"58c26084e30f6a70","toSide":"top"},
+		{"id":"68a5c2f774c79413","fromNode":"e941084d7e30f6f9","fromSide":"bottom","toNode":"58c26084e30f6a70","toSide":"top"}
 	]
 }

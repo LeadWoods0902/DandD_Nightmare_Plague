@@ -19,24 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6bb8f90c03f0a74b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas",
-                "viewState": {
-                  "x": 140.89109040846188,
-                  "y": -456.5037156691481,
-                  "zoom": -1.2685240077586248
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas",
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas",
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas"
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md"
               }
             }
           },
@@ -181,8 +165,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6bb8f90c03f0a74b",
+  "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Djinn/Nameena, the swift of breath.md",
     "Characters/Djinn/Koranga, the Eternal Flame.md",
     "Characters/Djinn/Efreeti, the Arctic Herald.md",
@@ -190,7 +175,6 @@
     "Characters/Djinn/Belorus, the Stormweaver.md",
     "Characters/Djinn/Ashira, the First Wave.md",
     "Characters/Djinn/Auroris, the Shimmering Sentinal.md",
-    "Characters/Family Trees/Shatterborne.canvas",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite (Dola) Shimmerborne.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Magnar Shatterborne.md",
@@ -222,7 +206,6 @@
     "Quests/Contracts/Creature in the Crop.md",
     "Quests/Contracts/Brother Lost.md",
     "Quests/Contracts/- Contracts -.md",
-    "Narrative/Timeline summary.md",
     "Homebrew Rules",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
     "Resources/rw0a3gxm39qa1.mp4",
