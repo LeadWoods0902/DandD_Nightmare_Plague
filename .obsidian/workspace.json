@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Djinn/Belorus, the coming storm.md",
+                "file": "Characters/Djinn/Efreeti, the bracing cold.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Djinn/Belorus, the coming storm.md",
+                "file": "Characters/Djinn/Efreeti, the bracing cold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Djinn/Belorus, the coming storm.md",
+                "file": "Characters/Djinn/Efreeti, the bracing cold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Djinn/Belorus, the coming storm.md"
+                "file": "Characters/Djinn/Efreeti, the bracing cold.md"
               }
             }
           },
@@ -203,6 +203,8 @@
   },
   "active": "d5191d81ed91325e",
   "lastOpenFiles": [
+    "Characters/Djinn/Belorus, the Stormweaver.md",
+    "Characters/Djinn/Ashira, the First Wave.md",
     "Characters/Djinn/Auroris, the Shimmering Sentinal.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite (Dola) Crystalborne.md",
@@ -241,7 +243,6 @@
     "Locations/Sunmaek/Duqedo.md",
     "Locations/Sunmaek/-Sunmaek-.md",
     "Locations/Sunmaek/Itha.md",
-    "Locations/Sunmaek/Odohra.md",
     "Homebrew Rules",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
     "Resources/rw0a3gxm39qa1.mp4",
