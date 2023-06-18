@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "file": "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "file": "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "file": "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md"
+                "file": "Characters/NPC/Seni/Brokvar/Jarae the fair.md"
               }
             }
           },
@@ -166,8 +166,10 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
-    "Locations/Chimo-Nahagi/Yamanohana.md",
+    "Characters/NPC/Seni/Brokvar/Iosefka.md",
+    "Characters/NPC/Seni/Brokvar/Gabriel.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+    "Locations/Chimo-Nahagi/Yamanohana.md",
     "Locations/Sunmaek/Sunmaek.md",
     "Locations/Seni Isles/Seni Isles.md",
     "Chimo-Nahagi.md",
@@ -204,8 +206,6 @@
     "Quests/Individual/Echoes of the Forgotten.md",
     "Quests/Individual/Deathless, even in Death.md",
     "Quests/Individual/- Individual Quests -.md",
-    "Quests/Individual/Past within the Present/Malkath's Quest.md",
-    "Quests/Individual/Past within the Present/Alfread's Quest.md",
     "Homebrew Rules",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
     "Resources/rw0a3gxm39qa1.mp4",
