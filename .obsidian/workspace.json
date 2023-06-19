@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Quinn/Jasper Shatterborne.md"
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md"
               }
             }
           },
@@ -166,6 +166,21 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "Locations/Chimo-Nahagi/Hakushin.md",
+    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+    "Groups/Brokvar Royalty.md",
+    "Groups/Eastern Confederacy.md",
+    "Groups/church of the sun.md",
+    "Craftables/Syrthni.md",
+    "Craftables/Burn Salve.md",
+    "Craftables/potion of healing.md",
+    "Craftables/Effiria.md",
+    "Characters/PC/Tom/Stronvan Quatre.md",
+    "Characters/PC/Tom/Seram Dos.md",
+    "Characters/PC/Tom/Rolbam Eins.md",
+    "Characters/PC/Tom/Malkath Tribus.md",
+    "Characters/PC/Tom/Alfread.md",
+    "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/PC/Marta/Duska Von Mori.md",
     "Characters/PC/Brannon/Primalas.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
@@ -177,21 +192,6 @@
     "Characters/NPC/Chimo-Nahagi/Nieveler Genlen.md",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Udayra.md",
     "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Vesper Shatterborne.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa Shatterborne.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Rilldina (Dina) Shimmerborne.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Pyrrhus Shatterborne.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Nicodemus Shatterborne.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Magnar Shatterborne.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite (Dola) Shimmerborne.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Carolynn.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Beryllis Shatterborne.md",
-    "Characters/NPC/Seni/Young Duchess Roderika.md",
-    "Characters/NPC/Seni/The Mistress.md",
-    "Characters/NPC/Seni/The crew of the Melodius Linnet.md",
-    "Characters/NPC/Seni/The crew of the Kilfenora.md",
-    "Characters/NPC/Seni/The Captain of the Canvas Beater.md",
-    "Characters/NPC/Seni/Elaine.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
