@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Gabriel.md",
+                "file": "Characters/NPC/Seni/Brokvar/Iosefka.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Gabriel.md",
+                "file": "Characters/NPC/Seni/Brokvar/Iosefka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Gabriel.md",
+                "file": "Characters/NPC/Seni/Brokvar/Iosefka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Gabriel.md"
+                "file": "Characters/NPC/Seni/Brokvar/Iosefka.md"
               }
             }
           },
@@ -166,10 +166,10 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "Characters/NPC/Seni/Brokvar/Gabriel.md",
     "Characters/NPC/Seni/Brokvar/Iosefka.md",
     "Characters/NPC/Seni/Brokvar/Rune Warriors.md",
     "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
-    "Characters/NPC/Seni/Brokvar/Gabriel.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Chimo-Nahagi/Yamanohana.md",
     "Locations/Sunmaek/Sunmaek.md",
