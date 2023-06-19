@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Iosefka.md",
+                "file": "Characters/NPC/Seni/Lundgren Family/Ayven Torrieth.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Iosefka.md",
+                "file": "Characters/NPC/Seni/Lundgren Family/Ayven Torrieth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Iosefka.md",
+                "file": "Characters/NPC/Seni/Lundgren Family/Ayven Torrieth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Iosefka.md"
+                "file": "Characters/NPC/Seni/Lundgren Family/Ayven Torrieth.md"
               }
             }
           },
@@ -166,8 +166,17 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
-    "Characters/NPC/Seni/Brokvar/Gabriel.md",
+    "Characters/NPC/Seni/Lundgren Family/Ven-Dryk.md",
+    "Characters/NPC/Seni/Lundgren Family/Napella Lundgren.md",
+    "Characters/NPC/Seni/Lundgren Family/Lupella Lundgren.md",
+    "Characters/NPC/Seni/Lundgren Family/Odonna-Dryk Lundgren.md",
+    "Characters/NPC/Seni/Lundgren Family/Innë-Dryk Lungdren.md",
+    "Characters/NPC/Seni/Lundgren Family/Ayven Torrieth.md",
+    "Characters/NPC/Seni/Lundgren Family/Amorella Lundgren.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
     "Characters/NPC/Seni/Brokvar/Iosefka.md",
+    "Characters/NPC/Seni/Brokvar/Gabriel.md",
     "Characters/NPC/Seni/Brokvar/Rune Warriors.md",
     "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
@@ -184,14 +193,8 @@
     "Characters/Djinn/Belorus, the Stormweaver.md",
     "Characters/Djinn/Ashira, the First Wave.md",
     "Characters/Djinn/Auroris, the Shimmering Sentinal.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite (Dola) Shimmerborne.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Magnar Shatterborne.md",
-    "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
-    "Ven-Kylgh's Wife.md",
-    "Hinele's Mother.md",
-    "Locations/Chimo-Nahagi/Hakushin.md",
     "Resources/Tokens/DuskVonMori_Token.png",
     "Resources/Tokens/DisfiguredKnight_Token.png",
     "Resources/Tokens/Bismuth_Token.png",
@@ -203,9 +206,6 @@
     "Resources/Possibilities/ForestRanger.png",
     "Resources/items/Weapons/swordStaff.png",
     "Resources/Game Resources/Combat Art.zip",
-    "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
-    "Quests/Individual/What was, is not always what is.md",
-    "Quests/Individual/Echoes of the Forgotten.md",
     "Homebrew Rules",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
     "Resources/rw0a3gxm39qa1.mp4",
