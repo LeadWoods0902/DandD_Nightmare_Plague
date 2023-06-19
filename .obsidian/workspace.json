@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Seni/Lundgren Family/Ayven Torrieth.md",
+                "file": "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Seni/Lundgren Family/Ayven Torrieth.md",
+                "file": "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Seni/Lundgren Family/Ayven Torrieth.md",
+                "file": "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Seni/Lundgren Family/Ayven Torrieth.md"
+                "file": "Characters/NPC/Sunmaek/Chancellor Sturgis.md"
               }
             }
           },
@@ -164,35 +164,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b9337552203ee87",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
-    "Characters/NPC/Seni/Lundgren Family/Ven-Dryk.md",
+    "Characters/NPC/Sunmaek/Hinele.md",
+    "Characters/NPC/Sunmaek/Master Librarian.md",
+    "Characters/NPC/Sunmaek/Ven-Kylgh Ashahalla.md",
+    "Characters/NPC/Chimo-Nahagi/Nieveler Genlen.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Udayra.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Vesper Shatterborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa Shatterborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Ynessa.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Rilldina (Dina) Shimmerborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Pyrrhus Shatterborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Nicodemus Shatterborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Magnar Shatterborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Dolomite (Dola) Shimmerborne.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Carolynn.md",
+    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Beryllis Shatterborne.md",
+    "Characters/NPC/Seni/Young Duchess Roderika.md",
+    "Characters/NPC/Seni/The Mistress.md",
+    "Characters/NPC/Seni/The crew of the Melodius Linnet.md",
+    "Characters/NPC/Seni/The crew of the Kilfenora.md",
+    "Characters/NPC/Seni/The Captain of the Canvas Beater.md",
+    "Characters/NPC/Seni/Elaine.md",
+    "Characters/NPC/Seni/Duke Henselt.md",
+    "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
+    "Characters/NPC/Seni/Rheilliiwch/Disfigured Knight.md",
     "Characters/NPC/Seni/Lundgren Family/Napella Lundgren.md",
-    "Characters/NPC/Seni/Lundgren Family/Lupella Lundgren.md",
-    "Characters/NPC/Seni/Lundgren Family/Odonna-Dryk Lundgren.md",
-    "Characters/NPC/Seni/Lundgren Family/Innë-Dryk Lungdren.md",
     "Characters/NPC/Seni/Lundgren Family/Ayven Torrieth.md",
-    "Characters/NPC/Seni/Lundgren Family/Amorella Lundgren.md",
-    "Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum.md",
-    "Characters/NPC/Seni/LLawyr Yn Mawr/Herouk Barrelbasher.md",
-    "Characters/NPC/Seni/Brokvar/Iosefka.md",
-    "Characters/NPC/Seni/Brokvar/Gabriel.md",
-    "Characters/NPC/Seni/Brokvar/Rune Warriors.md",
-    "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
-    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
-    "Locations/Chimo-Nahagi/Yamanohana.md",
-    "Locations/Sunmaek/Sunmaek.md",
-    "Locations/Seni Isles/Seni Isles.md",
-    "Chimo-Nahagi.md",
-    "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/Family Trees/Shatterborne.canvas",
-    "Characters/Djinn/Nameena, the swift of breath.md",
-    "Characters/Djinn/Koranga, the Eternal Flame.md",
-    "Characters/Djinn/Efreeti, the Arctic Herald.md",
-    "Bestiary/Pyroclasm.md",
-    "Characters/Djinn/Belorus, the Stormweaver.md",
-    "Characters/Djinn/Ashira, the First Wave.md",
-    "Characters/Djinn/Auroris, the Shimmering Sentinal.md",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
     "Resources/Tokens/DuskVonMori_Token.png",
