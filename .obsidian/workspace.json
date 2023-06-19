@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md",
+                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md",
+                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md",
+                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md"
+                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md"
               }
             }
           },
@@ -166,6 +166,9 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ikuri.md",
+    "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Chimo-Nahagi/Hakushin.md",
     "Groups/Brokvar Royalty.md",
@@ -189,9 +192,6 @@
     "Characters/NPC/Sunmaek/Hinele.md",
     "Characters/NPC/Sunmaek/Master Librarian.md",
     "Characters/NPC/Sunmaek/Ven-Kylgh Ashahalla.md",
-    "Characters/NPC/Chimo-Nahagi/Nieveler Genlen.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Udayra.md",
-    "Characters/NPC/Chimo-Nahagi/Shatterborne & Waveborne/Vesper Shatterborne.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
