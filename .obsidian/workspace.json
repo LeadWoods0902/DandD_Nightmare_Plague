@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/The large Talus.md",
+                "file": "Characters/PC/Brannon/Primalas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/The large Talus.md",
+                "file": "Characters/PC/Brannon/Primalas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/The large Talus.md",
+                "file": "Characters/PC/Brannon/Primalas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/The large Talus.md"
+                "file": "Characters/PC/Brannon/Primalas.md"
               }
             }
           },
@@ -164,8 +164,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "Characters/PC/Brannon/Bismuth Shatterborne.md",
+    "Narrative/The large Talus.md",
     "Resources/Enemies/Tokens/token_1.png",
     "Bestiary/Spectres",
     "Bestiary/Necrophages",
@@ -202,7 +204,6 @@
     "Craftables/Syrthni.md",
     "Craftables/Burn Salve.md",
     "Craftables/potion of healing.md",
-    "Craftables/Effiria.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
@@ -211,7 +212,6 @@
     "Resources/Tokens/Bismuth_Token.png",
     "Resources/Tokens/barkeep_token.png",
     "Resources/Possibilities/Rapscallion.png",
-    "Resources/Possibilities/PrettyBoi.png",
     "Resources/Game Resources/Combat Art.zip",
     "Homebrew Rules",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord"
