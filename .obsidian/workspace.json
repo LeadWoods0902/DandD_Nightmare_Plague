@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md"
+                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
-    "Locations/Chimo-Nahagi/Hakushin.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+    "Locations/Chimo-Nahagi/Hakushin.md",
     "Groups/Brokvar Royalty.md",
     "Groups/Eastern Confederacy.md",
     "Groups/church of the sun.md",
