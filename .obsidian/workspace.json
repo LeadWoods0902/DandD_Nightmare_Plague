@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Yamanohana.md",
+                "file": "Characters/Bosses/Effigy of the Twin Suns.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Yamanohana.md",
+                "file": "Characters/Bosses/Effigy of the Twin Suns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Yamanohana.md",
+                "file": "Characters/Bosses/Effigy of the Twin Suns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Yamanohana.md"
+                "file": "Characters/Bosses/Effigy of the Twin Suns.md"
               }
             }
           },
@@ -164,13 +164,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b9337552203ee87",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
+    "Characters/Bosses/Sun Priest  Heleotite.md",
+    "Characters/Bosses/Effigy of the Twin Suns.md",
+    "Locations/Chimo-Nahagi/Yamanohana.md",
     "Locations/Chimo-Nahagi/Hakushin.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Chimo-Nahagi/Nahagi.md",
     "Locations/Chimo-Nahagi/Chimo.md",
-    "Locations/Chimo-Nahagi/Yamanohana.md",
     "Locations/Chimo-Nahagi/Harukaze.md",
     "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md",
@@ -191,8 +193,6 @@
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/PC/Marta/Duska Von Mori.md",
     "Characters/PC/Brannon/Primalas.md",
-    "Characters/PC/Brannon/Bismuth Shatterborne.md",
-    "Characters/PC/Aime/Mazikeen.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
