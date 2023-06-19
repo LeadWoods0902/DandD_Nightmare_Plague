@@ -1,0 +1,1 @@
+![[Soromo_full.png]]
