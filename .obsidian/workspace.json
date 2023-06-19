@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
+                "file": "Characters/NPC/Seni/Brokvar/Gabriel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
+                "file": "Characters/NPC/Seni/Brokvar/Gabriel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
+                "file": "Characters/NPC/Seni/Brokvar/Gabriel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Jarae the fair.md"
+                "file": "Characters/NPC/Seni/Brokvar/Gabriel.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
     "Characters/NPC/Seni/Brokvar/Iosefka.md",
+    "Characters/NPC/Seni/Brokvar/Rune Warriors.md",
+    "Characters/NPC/Seni/Brokvar/Jarae the fair.md",
     "Characters/NPC/Seni/Brokvar/Gabriel.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Chimo-Nahagi/Yamanohana.md",
@@ -204,8 +206,6 @@
     "Quests/Individual/From the mountain, born a rock; from the rock, born a mountain..md",
     "Quests/Individual/What was, is not always what is.md",
     "Quests/Individual/Echoes of the Forgotten.md",
-    "Quests/Individual/Deathless, even in Death.md",
-    "Quests/Individual/- Individual Quests -.md",
     "Homebrew Rules",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord",
     "Resources/rw0a3gxm39qa1.mp4",
