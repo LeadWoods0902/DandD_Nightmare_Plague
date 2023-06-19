@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Sunmaek/Chancellor Sturgis.md"
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md"
               }
             }
           },
@@ -164,8 +164,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "Characters/PC/Marta/Duska Von Mori.md",
+    "Characters/PC/Brannon/Primalas.md",
+    "Characters/PC/Brannon/Bismuth Shatterborne.md",
+    "Characters/PC/Aime/Mazikeen.md",
+    "Characters/NPC/Sunmaek/Chancellor Sturgis.md",
     "Characters/NPC/Sunmaek/Hinele.md",
     "Characters/NPC/Sunmaek/Master Librarian.md",
     "Characters/NPC/Sunmaek/Ven-Kylgh Ashahalla.md",
@@ -187,11 +192,6 @@
     "Characters/NPC/Seni/The crew of the Kilfenora.md",
     "Characters/NPC/Seni/The Captain of the Canvas Beater.md",
     "Characters/NPC/Seni/Elaine.md",
-    "Characters/NPC/Seni/Duke Henselt.md",
-    "Characters/NPC/Seni/Rheilliiwch/Fenian Naezana.md",
-    "Characters/NPC/Seni/Rheilliiwch/Disfigured Knight.md",
-    "Characters/NPC/Seni/Lundgren Family/Napella Lundgren.md",
-    "Characters/NPC/Seni/Lundgren Family/Ayven Torrieth.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
