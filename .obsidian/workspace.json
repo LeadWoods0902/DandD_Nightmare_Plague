@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+                "file": "Locations/Chimo-Nahagi/Yamanohana.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+                "file": "Locations/Chimo-Nahagi/Yamanohana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+                "file": "Locations/Chimo-Nahagi/Yamanohana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md"
+                "file": "Locations/Chimo-Nahagi/Yamanohana.md"
               }
             }
           },
@@ -166,12 +166,13 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md",
+    "Locations/Chimo-Nahagi/Hakushin.md",
+    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+    "Locations/Chimo-Nahagi/Harukaze.md",
     "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md",
     "Resources/Character Art/greaterDragons/Soromo_full.png",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ikuri.md",
-    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
-    "Locations/Chimo-Nahagi/Hakushin.md",
     "Groups/Brokvar Royalty.md",
     "Groups/Eastern Confederacy.md",
     "Groups/church of the sun.md",
