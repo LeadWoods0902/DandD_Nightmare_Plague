@@ -1,6 +1,8 @@
 Greedy - perhaps the reason their wife had to sacrifice themselves to save them
 
-Mazikeen was a lady of a foreign court
+Mazikeen was a lady of a foreign court by day, mercenary/smuggler by night.
+
+Grand-daughter of Seram Dos
 
 
 ### Lore Notes
