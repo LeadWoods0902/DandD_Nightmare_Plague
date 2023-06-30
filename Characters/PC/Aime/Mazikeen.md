@@ -1,6 +1,7 @@
 Greedy - perhaps the reason their wife had to sacrifice themselves to save them
 
-Mazikeen is fantasy pregnant
+Mazikeen was a lady of a foreign court
+
 
 ### Lore Notes
 
