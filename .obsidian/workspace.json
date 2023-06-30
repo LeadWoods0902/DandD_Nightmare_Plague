@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
+                "file": "Hinele's Mother.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
+                "file": "Hinele's Mother.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
+                "file": "Hinele's Mother.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md"
+                "file": "Hinele's Mother.md"
               }
             }
           },
@@ -166,6 +166,10 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "The other slaves.md",
+    "The Travelling Merchants.md",
+    "Ven-Kylgh's Wife.md",
+    "Characters/PC/Aime/Mazikeen.md",
     "Characters/PC/Brannon/Primalas.md",
     "Resources/Battlemaps/Virmarr_Far.png",
     "Resources/Battlemaps/Virmarr_Close.png",
@@ -205,9 +209,6 @@
     "Locations/Chimo-Nahagi/Chimo.md",
     "Locations/Chimo-Nahagi/Harukaze.md",
     "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Soromo.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ikuri.md",
-    "Groups/Brokvar Royalty.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
