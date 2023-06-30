@@ -2,7 +2,7 @@ Greedy - perhaps the reason their wife had to sacrifice themselves to save them
 
 Mazikeen was a lady of a foreign court by day, mercenary/smuggler by night.
 
-Trained under Seram Dos
+Was trained under Seram Dos
 
 
 ### Lore Notes
