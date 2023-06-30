@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
+                "file": "Additional Lore/Currency/Baht.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
+                "file": "Additional Lore/Currency/Baht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
+                "file": "Additional Lore/Currency/Baht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md"
+                "file": "Additional Lore/Currency/Baht.md"
               }
             }
           },
@@ -166,11 +166,11 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "Characters/PC/Aime/Mazikeen.md",
     "Hinele's Mother.md",
     "The other slaves.md",
     "The Travelling Merchants.md",
     "Ven-Kylgh's Wife.md",
-    "Characters/PC/Aime/Mazikeen.md",
     "Characters/PC/Brannon/Primalas.md",
     "Resources/Battlemaps/Virmarr_Far.png",
     "Resources/Battlemaps/Virmarr_Close.png",
