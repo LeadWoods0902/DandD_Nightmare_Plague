@@ -1,6 +1,6 @@
 Daughter of the Duke of [[Woodfall]] by day, turned smuggler by night: Mazikeen was sent to the capital at a young age for tutelage in the art of ruling. 
 
-Mazikeen took to her lessons with [[Seram Dos]], the court spy master and after [[event X]]
+Mazikeen took to her lessons with [[Seram Dos]], the court spy master. After [[event X]] Seram took Mazikeen under his wing, training her in the art of deception - Mazikeen took employ as a smuggler and vowed revenge on the 
 
 
 ### Lore Notes
