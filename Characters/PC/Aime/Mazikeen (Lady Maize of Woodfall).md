@@ -2,7 +2,7 @@ Daughter of the Duke of [[Woodfall]] by day, turned smuggler by night: Mazikeen 
 
 Mazikeen took to her lessons with [[Seram Dos]], the court spy master. After [[The death of the duke of Woodfall]] Seram took Mazikeen under his wing, training her in the art of deception - Mazikeen took employ as a smuggler and vowed revenge on the Brokvar Court
 
-
+Mazikeen dies after betraying [[Lupella Lundgren]]
 ### Lore Notes
 
 You know nothing about your past
