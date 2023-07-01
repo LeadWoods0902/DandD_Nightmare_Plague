@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Additional Lore/Currency/Baht.md",
+                "file": "Characters/PC/Aime/Mazikeen (Lady Maize).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Additional Lore/Currency/Baht.md",
+                "file": "Characters/PC/Aime/Mazikeen (Lady Maize).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Additional Lore/Currency/Baht.md",
+                "file": "Characters/PC/Aime/Mazikeen (Lady Maize).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Additional Lore/Currency/Baht.md"
+                "file": "Characters/PC/Aime/Mazikeen (Lady Maize).md"
               }
             }
           },
@@ -166,7 +166,8 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
-    "Characters/PC/Aime/Mazikeen.md",
+    "Additional Lore/Currency/Baht.md",
+    "Characters/PC/Aime/Mazikeen (Lady Maize).md",
     "Hinele's Mother.md",
     "The other slaves.md",
     "The Travelling Merchants.md",
@@ -208,7 +209,6 @@
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Chimo-Nahagi/Nahagi.md",
     "Locations/Chimo-Nahagi/Chimo.md",
-    "Locations/Chimo-Nahagi/Harukaze.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
