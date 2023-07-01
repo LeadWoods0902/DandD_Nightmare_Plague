@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "380efd2844c570ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Seni Isles/Llawyr un Mawr/Woodfall.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "efc0d09f61ccf944",
             "type": "leaf",
             "state": {
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Seni Isles/Llawyr un Mawr/Woodfall.md",
+                "file": "Characters/PC/Aime/Mazikeen (Lady Maize of Woodfall).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Seni Isles/Llawyr un Mawr/Woodfall.md",
+                "file": "Characters/PC/Aime/Mazikeen (Lady Maize of Woodfall).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Seni Isles/Llawyr un Mawr/Woodfall.md"
+                "file": "Characters/PC/Aime/Mazikeen (Lady Maize of Woodfall).md"
               }
             }
           },
@@ -191,10 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc0d09f61ccf944",
+  "active": "3b9337552203ee87",
   "lastOpenFiles": [
-    "Locations/Seni Isles/Llawyr un Mawr/Nirnon.md",
     "Locations/Seni Isles/Llawyr un Mawr/Woodfall.md",
+    "Locations/Seni Isles/Llawyr un Mawr/Nirnon.md",
     "Characters/PC/Tom/Seram Dos.md",
     "Characters/PC/Aime/Mazikeen (Lady Maize of Woodfall).md",
     "Additional Lore/Currency/Baht.md",

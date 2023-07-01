@@ -1,1 +1,1 @@
-A city on the edge of the great forest [[Nirnon]]: Woodfall is known for its "timber artisans", highly skilled workers capable of working wood in ways no o
+A city on the edge of the great forest [[Nirnon]]: Woodfall is known for its "timber artisans", highly skilled workers capable of working wood in ways no other group can.

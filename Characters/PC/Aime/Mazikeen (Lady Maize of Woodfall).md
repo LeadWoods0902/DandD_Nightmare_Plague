@@ -1,4 +1,4 @@
-The first lady of [[Woodfall]]
+A lady of the court of [[Woodfall]] by day, turned smuggler by night
 
 Greedy - perhaps the reason their wife had to sacrifice themselves to save them
 
