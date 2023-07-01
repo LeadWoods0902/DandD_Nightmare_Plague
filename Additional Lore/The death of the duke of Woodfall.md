@@ -1,1 +1,1 @@
-The duke of woodfall was aiding in the occupation of Brokvar and was slain by
+The duke of woodfall was aiding in the occupation of Brokvar and was slain by [[Ven-Dryk]] in combat. 
