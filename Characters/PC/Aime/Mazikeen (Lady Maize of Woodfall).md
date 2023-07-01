@@ -1,10 +1,6 @@
 Daughter of the Duke of [[Woodfall]] by day, turned smuggler by night: Mazikeen was sent to the capital at a young age for tutelage in the art of ruling. 
 
-Greedy - perhaps the reason their wife had to sacrifice themselves to save them
-
-Mazikeen was a lady of a foreign court by day, mercenary/smuggler by night.
-
-Trained in espionage under Seram Dos
+Mazikeen took to her lessons with [[Seram Dos]], the court spy master and after [[event X]]
 
 
 ### Lore Notes
