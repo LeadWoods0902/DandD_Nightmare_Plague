@@ -1,4 +1,4 @@
-A lady of the court of [[Woodfall]] by day, turned smuggler by night
+Daughter of the Duke of [[Woodfall]] by day, turned smuggler by night: Mazikeen was sent to the capital ata young age for tutelage in royal 
 
 Greedy - perhaps the reason their wife had to sacrifice themselves to save them
 
