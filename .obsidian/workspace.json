@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen (Lady Maize).md",
+                "file": "Characters/PC/Aime/Mazikeen (Lady Maize of Woodfall).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "380efd2844c570ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Tom/Seram Dos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen (Lady Maize).md",
+                "file": "Characters/PC/Tom/Seram Dos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen (Lady Maize).md",
+                "file": "Characters/PC/Tom/Seram Dos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen (Lady Maize).md"
+                "file": "Characters/PC/Tom/Seram Dos.md"
               }
             }
           },
@@ -164,10 +178,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b9337552203ee87",
+  "active": "380efd2844c570ad",
   "lastOpenFiles": [
+    "Locations/Seni Isles/Woodfall.md",
+    "Characters/PC/Aime/Mazikeen (Lady Maize of Woodfall).md",
     "Additional Lore/Currency/Baht.md",
-    "Characters/PC/Aime/Mazikeen (Lady Maize).md",
     "Hinele's Mother.md",
     "The other slaves.md",
     "The Travelling Merchants.md",
@@ -208,7 +223,6 @@
     "Locations/Chimo-Nahagi/Hakushin.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Chimo-Nahagi/Nahagi.md",
-    "Locations/Chimo-Nahagi/Chimo.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
