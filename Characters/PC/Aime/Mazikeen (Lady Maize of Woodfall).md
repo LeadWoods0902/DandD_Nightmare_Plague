@@ -2,7 +2,7 @@ Daughter of the Duke of [[Woodfall]] by day, turned smuggler by night: Mazikeen 
 
 Mazikeen took to her lessons with [[Seram Dos]], the court spy master. After [[The death of the duke of Woodfall]] Seram took Mazikeen under his wing, training her in the art of deception - Mazikeen took employ as a smuggler and vowed revenge on the Brokvar Court
 
-Mazikeen dies after betraying [[Lupella Lundgren]]
+Mazikeen has a bounty placed on her after [[Lupella Lundgren]] realises that Mazikeen aims to kill her grandfather [[Ven-Dryk]]. While fleeing, Mazikeen and her wife are slain by a gravity sorcerer however her wife sacrifices her 
 ### Lore Notes
 
 You know nothing about your past
