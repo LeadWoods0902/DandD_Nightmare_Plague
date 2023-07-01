@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen (Lady Maize of Woodfall).md",
+                "file": "Additional Lore/The death of.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen (Lady Maize of Woodfall).md",
+                "file": "Additional Lore/The death of.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen (Lady Maize of Woodfall).md",
+                "file": "Additional Lore/The death of.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen (Lady Maize of Woodfall).md"
+                "file": "Additional Lore/The death of.md"
               }
             }
           },
@@ -179,10 +179,11 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "Characters/PC/Aime/Mazikeen (Lady Maize of Woodfall).md",
+    "Additional Lore/The death of.md",
     "Locations/Seni Isles/Llawyr un Mawr/Woodfall.md",
     "Locations/Seni Isles/Llawyr un Mawr/Nirnon.md",
     "Characters/PC/Tom/Seram Dos.md",
-    "Characters/PC/Aime/Mazikeen (Lady Maize of Woodfall).md",
     "Additional Lore/Currency/Baht.md",
     "Hinele's Mother.md",
     "The other slaves.md",
@@ -221,7 +222,6 @@
     "Characters/Bosses/Effigy of the Twin Suns.md",
     "Characters/Bosses/Sun Priest  Heleotite.md",
     "Locations/Chimo-Nahagi/Yamanohana.md",
-    "Locations/Chimo-Nahagi/Hakushin.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
