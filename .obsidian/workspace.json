@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Djinn/Auroris, the Shimmering Sentinal.md",
+                "file": "Characters/Djinn/Koranga, the Eternal Flame.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Djinn/Auroris, the Shimmering Sentinal.md",
+                "file": "Characters/Djinn/Koranga, the Eternal Flame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Djinn/Auroris, the Shimmering Sentinal.md",
+                "file": "Characters/Djinn/Koranga, the Eternal Flame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Djinn/Auroris, the Shimmering Sentinal.md"
+                "file": "Characters/Djinn/Koranga, the Eternal Flame.md"
               }
             }
           },
@@ -166,11 +166,12 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
-    "Characters/Djinn/Ashira, the First Wave.md",
+    "Characters/Djinn/Efreeti, the Arctic Herald.md",
     "Characters/Djinn/Belorus, the Stormweaver.md",
+    "Characters/Djinn/Auroris, the Shimmering Sentinal.md",
+    "Characters/Djinn/Ashira, the First Wave.md",
     "Resources/Full Art/Djinn/Koranga.png",
     "Resources/Full Art/Djinn/Belorus.png",
-    "Characters/Djinn/Efreeti, the Arctic Herald.md",
     "Resources/Full Art/Djinn/Sansom.png",
     "Resources/Full Art/Djinn/Auroris.png",
     "Resources/Full Art/Djinn/Ashira.png",
@@ -181,7 +182,6 @@
     "Resources/Full Art/Sansom.jpg",
     "Resources/Full Art/Primalas.png",
     "Resources/Full Art/VenDryk.png",
-    "Characters/Djinn/Auroris, the Shimmering Sentinal.md",
     "Resources/rw0a3gxm39qa1.mp4",
     "Items/weapons/SwordStaff.md",
     "Items/weapons/Branch of the Brokvar Tree.md",

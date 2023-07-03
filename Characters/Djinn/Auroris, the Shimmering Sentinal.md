@@ -1,2 +1,2 @@
-[[Dolomite (Dola) Shimmerborne]]'s Djinn
-Parent
+![[Auroris.png]]
+Djinn lineage of [[Dolomite (Dola) Shimmerborne]]

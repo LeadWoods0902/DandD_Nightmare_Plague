@@ -1,1 +1,1 @@
-Fire Djinn
+![[Koranga.png]]

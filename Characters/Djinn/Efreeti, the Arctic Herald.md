@@ -1,1 +1,1 @@
-Ice Djinn
+![[Efreeti.png]]
