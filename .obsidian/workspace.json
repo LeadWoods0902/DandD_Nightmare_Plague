@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hinele's Mother.md",
+                "file": "Items/weapons/SwordStaff.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "7290557eb8784428",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/items/Weapons/swordStaff.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hinele's Mother.md",
+                "file": "Resources/items/Weapons/swordStaff.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hinele's Mother.md",
+                "file": "Resources/items/Weapons/swordStaff.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hinele's Mother.md"
+                "file": "Resources/items/Weapons/swordStaff.png"
               }
             }
           },
@@ -164,8 +175,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b9337552203ee87",
+  "active": "7290557eb8784428",
   "lastOpenFiles": [
+    "Items/weapons/SwordStaff.md",
+    "Items/weapons/Branch of the Brokvar Tree.md",
+    "Items/weapons/Arc Rifle.md",
+    "Hinele's Mother.md",
     "The other slaves.md",
     "The Travelling Merchants.md",
     "Bestiary/Elementa/Helioclasm.md",
@@ -183,7 +198,6 @@
     "Locations/Seni Isles/Llawyr un Mawr/Nirnon.md",
     "Characters/PC/Tom/Seram Dos.md",
     "Additional Lore/Currency/Baht.md",
-    "Hinele's Mother.md",
     "Ven-Kylgh's Wife.md",
     "Characters/PC/Brannon/Primalas.md",
     "Resources/Battlemaps/Virmarr_Far.png",
@@ -196,8 +210,6 @@
     "Characters/PC/Marta/Duska Von Mori.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Zenryoku.md",
-    "Narrative/The large Talus.md",
     "Resources/Enemies/Tokens/token_1.png",
     "Bestiary/Spectres",
     "Bestiary/Necrophages",
@@ -208,7 +220,6 @@
     "Bestiary/NightmarePlagueTemplate.zip",
     "Resources/Battlemaps/The Talos Attack - post reveal.jpg",
     "Resources/Battlemaps/The Talos Attack - pre reveal.jpg",
-    "Narrative/Overviews/The Worst Days of their Lives.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
