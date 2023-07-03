@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Djinn/Koranga, the Eternal Flame.md",
+                "file": "Characters/Djinn/Sansom, the mountain shatterer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Djinn/Koranga, the Eternal Flame.md",
+                "file": "Characters/Djinn/Sansom, the mountain shatterer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Djinn/Koranga, the Eternal Flame.md",
+                "file": "Characters/Djinn/Sansom, the mountain shatterer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Djinn/Koranga, the Eternal Flame.md"
+                "file": "Characters/Djinn/Sansom, the mountain shatterer.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "Characters/Djinn/Koranga, the Eternal Flame.md",
     "Characters/Djinn/Efreeti, the Arctic Herald.md",
     "Characters/Djinn/Belorus, the Stormweaver.md",
     "Characters/Djinn/Auroris, the Shimmering Sentinal.md",
