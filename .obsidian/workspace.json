@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7290557eb8784428",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/items/Weapons/swordStaff.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/items/Weapons/swordStaff.png",
+                "file": "Items/weapons/SwordStaff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/items/Weapons/swordStaff.png",
+                "file": "Items/weapons/SwordStaff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/items/Weapons/swordStaff.png"
+                "file": "Items/weapons/SwordStaff.md"
               }
             }
           },
@@ -175,10 +164,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7290557eb8784428",
+  "active": "3b9337552203ee87",
   "lastOpenFiles": [
-    "Items/weapons/SwordStaff.md",
     "Items/weapons/Branch of the Brokvar Tree.md",
+    "Items/weapons/SwordStaff.md",
+    "Resources/items/Weapons/swordStaff.png",
     "Items/weapons/Arc Rifle.md",
     "Hinele's Mother.md",
     "The other slaves.md",
@@ -209,7 +199,6 @@
     "Resources/Enemies/Tokens/token_2.png",
     "Characters/PC/Marta/Duska Von Mori.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
-    "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Resources/Enemies/Tokens/token_1.png",
     "Bestiary/Spectres",
     "Bestiary/Necrophages",
@@ -219,7 +208,6 @@
     "Bestiary/Arcane",
     "Bestiary/NightmarePlagueTemplate.zip",
     "Resources/Battlemaps/The Talos Attack - post reveal.jpg",
-    "Resources/Battlemaps/The Talos Attack - pre reveal.jpg",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
