@@ -163,6 +163,9 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "Resources/Tokens/token_1.png",
+    "Resources/Tokens/token_2.png",
+    "Resources/Tokens/token_3.png",
     "Resources/rw0a3gxm39qa1.mp4",
     "Resources/mistress.png",
     "Resources/Marta_Backstory_merchant.png",
@@ -195,8 +198,6 @@
     "Characters/PC/Brannon/Primalas.md",
     "Resources/Battlemaps/Virmarr_Far.png",
     "Resources/Battlemaps/Virmarr_Close.png",
-    "Resources/Battlemaps/De Foret.jpg",
-    "Resources/Battlemaps/An Icy Crossing.jpg",
     "Characters/PC/Marta/Duska Von Mori.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Bestiary/Spectres",
@@ -210,7 +211,6 @@
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
     "Resources/Game Resources/Combat Art.zip",
-    "Homebrew Rules",
-    "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord"
+    "Homebrew Rules"
   ]
 }
