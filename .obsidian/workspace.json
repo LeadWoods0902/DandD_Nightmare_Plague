@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiary/Rune Beasts.md",
+                "file": "Bestiary/Talus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bestiary/Rune Beasts.md",
+                "file": "Bestiary/Talus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bestiary/Rune Beasts.md",
+                "file": "Bestiary/Talus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bestiary/Rune Beasts.md"
+                "file": "Bestiary/Talus.md"
               }
             }
           },
@@ -166,11 +166,15 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "Bestiary/Beasts/WilderBeast.md",
+    "Bestiary/Arcane/The Soul Golem.md",
+    "Bestiary/The Black Cat.md",
+    "Bestiary/Talus.md",
+    "Bestiary/Arcane/Rune Beasts.md",
     "Bestiary/Elementa/Pyroclasm.md",
     "Bestiary/Beasts/Hop Head.md",
     "Bestiary/Pot Snakes.md",
     "Bestiary/Arcane/Husk.md",
-    "Bestiary/Talus.md",
     "Characters/PC/Aime/Mazikeen (Lady Maize of Woodfall).md",
     "Additional Lore/The death of the duke of Woodfall.md",
     "Locations/Seni Isles/Llawyr un Mawr/Woodfall.md",
@@ -205,10 +209,6 @@
     "Resources/Battlemaps/The Talos Attack - post reveal.jpg",
     "Resources/Battlemaps/The Talos Attack - pre reveal.jpg",
     "Narrative/Overviews/The Worst Days of their Lives.md",
-    "Narrative/1 - The Worst days of their lives/7. Upon which the party is founded.md",
-    "Narrative/1 - The Worst days of their lives/6. The Auction.md",
-    "Narrative/1 - The Worst days of their lives/5. That time we did that thing.md",
-    "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas",
