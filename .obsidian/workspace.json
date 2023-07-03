@@ -11,12 +11,9 @@
             "id": "3b9337552203ee87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Items/weapons/SwordStaff.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Resources/Conditions Cheat Sheat.png"
               }
             }
           }
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/weapons/SwordStaff.md",
+                "file": "Resources/Conditions Cheat Sheat.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/weapons/SwordStaff.md",
+                "file": "Resources/Conditions Cheat Sheat.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/weapons/SwordStaff.md"
+                "file": "Resources/Conditions Cheat Sheat.png"
               }
             }
           },
@@ -166,8 +163,8 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
-    "Items/weapons/Branch of the Brokvar Tree.md",
     "Items/weapons/SwordStaff.md",
+    "Items/weapons/Branch of the Brokvar Tree.md",
     "Resources/items/Weapons/swordStaff.png",
     "Items/weapons/Arc Rifle.md",
     "Hinele's Mother.md",
