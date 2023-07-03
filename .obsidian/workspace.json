@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Djinn/Efreeti, the Arctic Herald.md",
+                "file": "Characters/Djinn/Belorus, the Stormweaver.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Djinn/Efreeti, the Arctic Herald.md",
+                "file": "Characters/Djinn/Belorus, the Stormweaver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Djinn/Efreeti, the Arctic Herald.md",
+                "file": "Characters/Djinn/Belorus, the Stormweaver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Djinn/Efreeti, the Arctic Herald.md"
+                "file": "Characters/Djinn/Belorus, the Stormweaver.md"
               }
             }
           },
@@ -166,6 +166,9 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "Characters/Djinn/Efreeti, the Arctic Herald.md",
+    "Resources/Full Art/Djinn/Sansom.png",
+    "Resources/Full Art/Djinn/Auroris.png",
     "Resources/Full Art/Djinn/Ashira.png",
     "Resources/Full Art/Djinn/Sansom.jpg",
     "Resources/Full Art/Djinn/Efreeti.png",
@@ -176,9 +179,6 @@
     "Resources/Full Art/VenDryk.png",
     "Resources/Full Art/VirmarCivillian4.png",
     "Resources/Full Art/VirmarCivillian3.png",
-    "Resources/Full Art/VirmarCivilian4.png",
-    "Resources/Full Art/VirmarCivillian2.png",
-    "Resources/Full Art/VirmarCivillian1.png",
     "Characters/Djinn/Belorus, the Stormweaver.md",
     "Characters/Djinn/Auroris, the Shimmering Sentinal.md",
     "Characters/Djinn/Ashira, the First Wave.md",
