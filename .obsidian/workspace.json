@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiary/Talus.md",
+                "file": "Bestiary/Elementa/Pyroclasm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bestiary/Talus.md",
+                "file": "Bestiary/Elementa/Pyroclasm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bestiary/Talus.md",
+                "file": "Bestiary/Elementa/Pyroclasm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bestiary/Talus.md"
+                "file": "Bestiary/Elementa/Pyroclasm.md"
               }
             }
           },
@@ -166,10 +166,10 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "Bestiary/Talus.md",
     "Bestiary/Beasts/WilderBeast.md",
     "Bestiary/Arcane/The Soul Golem.md",
     "Bestiary/The Black Cat.md",
-    "Bestiary/Talus.md",
     "Bestiary/Arcane/Rune Beasts.md",
     "Bestiary/Elementa/Pyroclasm.md",
     "Bestiary/Beasts/Hop Head.md",
