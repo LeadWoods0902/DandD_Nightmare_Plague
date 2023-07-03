@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiary/Elementa/Pyroclasm.md",
+                "file": "Bestiary/Elementa/Helioclasm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bestiary/Elementa/Pyroclasm.md",
+                "file": "Bestiary/Elementa/Helioclasm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bestiary/Elementa/Pyroclasm.md",
+                "file": "Bestiary/Elementa/Helioclasm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bestiary/Elementa/Pyroclasm.md"
+                "file": "Bestiary/Elementa/Helioclasm.md"
               }
             }
           },
@@ -171,7 +171,7 @@
     "Bestiary/Arcane/The Soul Golem.md",
     "Bestiary/The Black Cat.md",
     "Bestiary/Arcane/Rune Beasts.md",
-    "Bestiary/Elementa/Pyroclasm.md",
+    "Bestiary/Elementa/Helioclasm.md",
     "Bestiary/Beasts/Hop Head.md",
     "Bestiary/Pot Snakes.md",
     "Bestiary/Arcane/Husk.md",
