@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiary/Elementa/Helioclasm.md",
+                "file": "Hinele's Mother.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bestiary/Elementa/Helioclasm.md",
+                "file": "Hinele's Mother.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bestiary/Elementa/Helioclasm.md",
+                "file": "Hinele's Mother.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bestiary/Elementa/Helioclasm.md"
+                "file": "Hinele's Mother.md"
               }
             }
           },
@@ -166,12 +166,14 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "The other slaves.md",
+    "The Travelling Merchants.md",
+    "Bestiary/Elementa/Helioclasm.md",
     "Bestiary/Talus.md",
     "Bestiary/Beasts/WilderBeast.md",
     "Bestiary/Arcane/The Soul Golem.md",
     "Bestiary/The Black Cat.md",
     "Bestiary/Arcane/Rune Beasts.md",
-    "Bestiary/Elementa/Helioclasm.md",
     "Bestiary/Beasts/Hop Head.md",
     "Bestiary/Pot Snakes.md",
     "Bestiary/Arcane/Husk.md",
@@ -182,8 +184,6 @@
     "Characters/PC/Tom/Seram Dos.md",
     "Additional Lore/Currency/Baht.md",
     "Hinele's Mother.md",
-    "The other slaves.md",
-    "The Travelling Merchants.md",
     "Ven-Kylgh's Wife.md",
     "Characters/PC/Brannon/Primalas.md",
     "Resources/Battlemaps/Virmarr_Far.png",
