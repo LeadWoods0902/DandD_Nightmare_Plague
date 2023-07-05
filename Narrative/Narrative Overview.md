@@ -10,4 +10,6 @@ Cutting to [[Virmarr]], we are introduced to [[Duska Von Mori]], a librarian of 
 
 ## [[Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview|The Forging Of The Minds]]
 
-## [[Narrative/1 - The Worst days of their lives/5. The Auction/overview|overview]]
+## [[Narrative/1 - The Worst days of their lives/5. The Auction/overview|The Auction]]
+
+## [[Narrative/1 - The Worst days of their lives/7. Upon Which The Party Is Founded/overview|Upon Which The Party Is Founded]]

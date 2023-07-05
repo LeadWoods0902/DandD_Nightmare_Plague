@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Narrative Overview.md",
+                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Narrative Overview.md",
+                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Narrative Overview.md",
+                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Narrative Overview.md"
+                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md"
               }
             }
           },
@@ -182,8 +182,11 @@
   },
   "active": "d959a0d54c9ce14d",
   "lastOpenFiles": [
-    "Narrative/Timeline summary.md",
     "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
+    "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar/overview.md",
+    "Narrative/Narrative Overview.md",
+    "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
+    "Narrative/Timeline summary.md",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
     "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes/overview.md",
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
@@ -198,7 +201,6 @@
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds.md",
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds",
     "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes.md",
-    "Narrative/Narrative Overview.md",
     "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes",
     "Narrative/1.md",
     "The Librarian's Accord.md",
@@ -211,7 +213,6 @@
     "Narrative/The large Talus.md",
     "Additional Lore/Ships/The Kilfenora.md",
     "Additional Lore/Ships/The Melodious Linnet.md",
-    "Additional Lore/The death of the duke of Woodfall.md",
     "Resources/Full Art/Djinn/Koranga.png",
     "Resources/Full Art/Djinn/Belorus.png",
     "Resources/Full Art/Djinn/Sansom.png",
@@ -227,7 +228,6 @@
     "Resources/rw0a3gxm39qa1.mp4",
     "Bestiary/Spectres",
     "Bestiary/Necrophages",
-    "Bestiary/Hybrids",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas"
