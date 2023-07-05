@@ -23,53 +23,60 @@
             }
           },
           {
-            "id": "7d4cd71297fabb44",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Character Art/greaterDragons/Musoko_full.png"
-              }
-            }
-          },
-          {
-            "id": "ffc7dac1421fa662",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "321de688b1910bfa",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Resources/Character Art/greaterDragons/Musoko_full.png"
+                "file": "Resources/Character Art/greaterDragons/Ike-Kotei_full.png"
               }
-            }
-          },
-          {
-            "id": "aa121d0821747f6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Musoko.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
+            },
+            "group": "fd8e74405468a086"
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
+      },
+      {
+        "id": "96827b68ee6911dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7abe1e123161860",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Resources/Character Art/greaterDragons/Ike-Kotei_full.png",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 4,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000004,
+                  "close": false
+                }
+              }
+            },
+            "group": "fd8e74405468a086"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Character Art/greaterDragons/Musoko_full.png",
+                "file": "Resources/Character Art/greaterDragons/Ike-Kotei_full.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Character Art/greaterDragons/Musoko_full.png",
+                "file": "Resources/Character Art/greaterDragons/Ike-Kotei_full.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Character Art/greaterDragons/Musoko_full.png"
+                "file": "Resources/Character Art/greaterDragons/Ike-Kotei_full.png"
               }
             }
           },
@@ -213,17 +220,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "321de688b1910bfa",
+  "active": "f7abe1e123161860",
   "lastOpenFiles": [
+    "Resources/Character Art/greaterDragons/Ikuri_full.png",
+    "Resources/Character Art/greaterDragons/Kaede_full.png",
+    "Resources/Character Art/greaterDragons/Musoko.png",
+    "Resources/Character Art/greaterDragons/Zenryuko.png",
+    "Resources/Character Art/greaterDragons/Ike-Kotei_full.png",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Musoko.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Zenryoku.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Musoko.md",
-    "Resources/Character Art/greaterDragons/Ike-Kotei_full.png",
-    "Resources/Character Art/greaterDragons/Musoko_full.png",
-    "Resources/Character Art/greaterDragons/Musoko.png",
     "Resources/Character Art/greaterDragons/Soromo_full.png",
-    "Resources/Character Art/greaterDragons/Kaede_full.png",
-    "Resources/Character Art/greaterDragons/Ikuri_full.png",
     "Resources/Creatures/HopHead_Full.jpg",
     "Resources/Enemies/Tokens/token_3.png",
     "Resources/Enemies/Tokens/token_4.png",
@@ -256,7 +263,6 @@
     "Narrative/1.md",
     "The Librarian's Accord.md",
     "Narrative%2F1 - The Worst days of their lives%2F2. The Librarian's Accord%2Foverview.md",
-    "[.md",
     "Resources/Full Art/Djinn",
     "Resources/Full Art/New folder",
     "Resources/rw0a3gxm39qa1.mp4",
