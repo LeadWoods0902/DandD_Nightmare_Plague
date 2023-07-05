@@ -3,7 +3,7 @@
 		{"type":"group","id":"dff2e3a8770bc2d1","x":-446,"y":-1004,"width":1633,"height":2406,"label":"Ashahalla"},
 		{"type":"group","id":"a065a1c9c43bd3a8","x":-2020,"y":-1004,"width":1466,"height":1461,"label":"Sturgis"},
 		{"type":"group","id":"de43de2efa15dbe7","x":1273,"y":-1004,"width":1198,"height":1709,"label":"The other leader guy's family"},
-		{"type":"file","file":"Characters/NPC/Sunmaek/Hinele.md","id":"575d13ded8071bb3","x":-1283,"y":-9,"width":400,"height":400},
+		{"type":"file","file":"Characters/NPC/Sunmaek/Hinelle.md","id":"575d13ded8071bb3","x":-1283,"y":-9,"width":400,"height":400},
 		{"type":"text","text":"","id":"0f79e28f45bae47f","x":-1176,"y":-309,"width":60,"height":50},
 		{"type":"file","file":"Characters/NPC/Sunmaek/Chancellor Sturgis.md","id":"300ce8c267fc1a2b","x":-1116,"y":-885,"width":400,"height":400},
 		{"type":"file","file":"Characters/NPC/Sunmaek/Ven-Kylgh Ashahalla.md","id":"489bef7acb7cdfeb","x":-395,"y":-885,"width":400,"height":400},

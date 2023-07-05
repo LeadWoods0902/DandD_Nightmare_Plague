@@ -2,7 +2,7 @@
 [[Brokvar]]
 
 ## Characters
-- [[Hinele]]
+- [[Hinelle]]
 - [[Chancellor Sturgis]]
 - [[The Mistress]]
 ## Boss

@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b515e6f66cfbcb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPC/Sunmaek/Hinelle.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -166,8 +179,9 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
-    "Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum.md",
+    "Characters/NPC/Sunmaek/Hinelle.md",
     "Narrative/Narrative Overvoew.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum.md",
     "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
     "Narrative/Timeline summary.md",
     "Narrative/The large Talus.md",
@@ -204,7 +218,6 @@
     "Bestiary/Elementa/Helioclasm.md",
     "Bestiary/Talus.md",
     "Bestiary/Beasts/WilderBeast.md",
-    "Bestiary/Arcane/The Soul Golem.md",
     "Bestiary/Spectres",
     "Bestiary/Necrophages",
     "Bestiary/Hybrids",
