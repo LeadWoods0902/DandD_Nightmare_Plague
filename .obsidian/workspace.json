@@ -28,7 +28,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Resources/Full Art/Greater Dragons/Musoko.png"
+                "file": "Resources/Game Resources/Omen_FullArt.png"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Full Art/Greater Dragons/Musoko.png",
+                "file": "Resources/Game Resources/Omen_FullArt.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Full Art/Greater Dragons/Musoko.png",
+                "file": "Resources/Game Resources/Omen_FullArt.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Full Art/Greater Dragons/Musoko.png"
+                "file": "Resources/Game Resources/Omen_FullArt.png"
               }
             }
           },
@@ -179,21 +179,22 @@
   },
   "active": "4385bc2b650062e3",
   "lastOpenFiles": [
-    "Resources/Full Art/Greater Dragons/Kaede.png",
-    "Resources/Full Art/Greater Dragons/Musoko.png",
-    "Resources/Full Art/Greater Dragons/Zenryoku.png",
-    "Resources/Full Art/Greater Dragons/Soromo.png",
-    "Resources/Full Art/Greater Dragons/Ikuri.png",
-    "Resources/Full Art/Greater Dragons/Ike-Kotei.png",
+    "Resources/Game Resources/Omen_Token.png",
+    "Resources/Game Resources/Omen_FullArt.png",
+    "Resources/Game Resources/terrain/ZoneOfTruth_Abhorrent.png",
+    "Resources/Game Resources/terrain/silence.png",
+    "Resources/Game Resources/terrain/RoughTerrain_Long.png",
+    "Resources/Game Resources/terrain/RoughTerrain_Circular.png",
+    "Resources/Game Resources/terrain/Entangle.png",
+    "Resources/Game Resources/runes/runes_master.png",
+    "Resources/Game Resources/runes/rune_3.png",
+    "Resources/Game Resources/runes/rune_2.png",
+    "Resources/Game Resources/runes/rune_1.png",
     "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Zenryoku.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Musoko.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
-    "Resources/Creatures/HopHead_Full.jpg",
-    "Resources/Enemies/Tokens/token_3.png",
-    "Resources/Enemies/Tokens/token_4.png",
-    "Resources/Enemies/Tokens/token_2.png",
     "Resources/Full Art/PCs",
     "Characters/NPC/Seni/The crew of the Kilfenora.md",
     "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
