@@ -26,12 +26,9 @@
             "id": "7d4cd71297fabb44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Resources/Tokens/barkeep_token.png"
               }
             }
           }
@@ -110,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
+                "file": "Resources/Tokens/barkeep_token.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
+                "file": "Resources/Tokens/barkeep_token.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md"
+                "file": "Resources/Tokens/barkeep_token.png"
               }
             }
           },
@@ -182,12 +179,14 @@
   },
   "active": "7d4cd71297fabb44",
   "lastOpenFiles": [
+    "Resources/Tokens/Ashira_Token.png",
+    "Characters/NPC/Seni/The crew of the Kilfenora.md",
+    "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
     "Narrative/Narrative Overview.md",
     "3. Rise from the Ashes.md",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
     "Locations/Seni Isles/Brokvar/Addun Brokvar.md",
     "Characters/NPC/Seni/Brokvar/Brovarra.md",
-    "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar/overview.md",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
     "Narrative/Timeline summary.md",
@@ -211,8 +210,6 @@
     "[.md",
     "The.md",
     "Characters/NPC/Sunmaek/Hinelle.md",
-    "Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum.md",
-    "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
     "Resources/Full Art/Djinn/Koranga.png",
     "Resources/Full Art/Djinn/Belorus.png",
     "Resources/Full Art/Djinn/Sansom.png",
