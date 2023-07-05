@@ -12,9 +12,10 @@ You project Omen onto the battlefield into a 5x5 area within range that lasts fo
 
 As a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it. 
 
-Alternatively, you may use your bonus action to blind all targets within 20fe
+Alternatively, you may use your bonus action to blind all targets within 20 feet of the weapon that fail a DC 10 \[CON\] save
 
 In Mortos Form:
 
+You project Omen onto the battlefield into a 5x5 area within range that lasts for the duration or until you cast the spell again. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon dealing 1d8 + SPELL radiant damage.
 
-1d8 + SPELL necrot
+As a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it. 
