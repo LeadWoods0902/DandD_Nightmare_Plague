@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/5. The Auction/overview.md",
+                "file": "Narrative/Narrative Overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/5. The Auction/overview.md",
+                "file": "Narrative/Narrative Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/5. The Auction/overview.md",
+                "file": "Narrative/Narrative Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/5. The Auction/overview.md"
+                "file": "Narrative/Narrative Overview.md"
               }
             }
           },
@@ -180,37 +180,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "d959a0d54c9ce14d",
   "lastOpenFiles": [
-    "Narrative/1 - The Worst days of their lives/Untitled",
-    "Narrative/1 - The Worst days of their lives/6. The Auction.md",
-    "Narrative/1 - The Worst days of their lives/5. The Auction/overview.md",
-    "Narrative/1 - The Worst days of their lives/5. That time we did that thing.md",
+    "Narrative/Timeline summary.md",
+    "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
+    "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
+    "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes/overview.md",
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
+    "Narrative/1 - The Worst days of their lives/5. The Auction/overview.md",
+    "Narrative/1 - The Worst days of their lives/7. Upon Which The Party Is Founded/overview.md",
+    "Narrative/1 - The Worst days of their lives/7. Upon which the party is founded.md",
+    "Narrative/1 - The Worst days of their lives/7. Upon Which The Party Is Founded",
+    "Narrative/1 - The Worst days of their lives/6. The Auction.md",
+    "Narrative/1 - The Worst days of their lives/5. That time we did that thing.md",
     "Narrative/1 - The Worst days of their lives/- Session Notes -.md",
     "Narrative/1 - The Worst days of their lives/5. The Auction",
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds.md",
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds",
-    "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes/overview.md",
     "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes.md",
     "Narrative/Narrative Overview.md",
     "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes",
-    "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
     "Narrative/1.md",
     "The Librarian's Accord.md",
     "Narrative%2F1 - The Worst days of their lives%2F2. The Librarian's Accord%2Foverview.md",
     "[.md",
-    "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
     "The.md",
     "Characters/NPC/Sunmaek/Hinelle.md",
     "Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum.md",
     "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
-    "Narrative/Timeline summary.md",
     "Narrative/The large Talus.md",
     "Additional Lore/Ships/The Kilfenora.md",
     "Additional Lore/Ships/The Melodious Linnet.md",
     "Additional Lore/The death of the duke of Woodfall.md",
-    "Additional Lore/That Time Jasper Helped a Village.md",
     "Resources/Full Art/Djinn/Koranga.png",
     "Resources/Full Art/Djinn/Belorus.png",
     "Resources/Full Art/Djinn/Sansom.png",
@@ -227,7 +228,6 @@
     "Bestiary/Spectres",
     "Bestiary/Necrophages",
     "Bestiary/Hybrids",
-    "Bestiary/Elementa",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas"
