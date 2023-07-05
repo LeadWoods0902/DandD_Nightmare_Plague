@@ -6,4 +6,4 @@ A pair of ships, north east of [[Brokvar]] are heading for the capital [[Heinabe
 ## [[Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview|The Librarian's Accord]]
 Cutting to [[Virmarr]], we are introduced to [[Duska Von Mori]], a librarian of [[Sunmaek]]. Accompanied by [[Chancellor Sturgis]] and his daughter [[Hinelle]], the trio are waiting upon the arrival of a contact from the city of [[Brokvar]] who is set to guide them the rest of the way to the city. The contact, [[Elaine]], is set to arrive in three days time.
 
-## [[overview
+## [[Narrative/1 - The Worst days of their lives/3. Rise From The Ashes/overview|Rise From The Ashes]]

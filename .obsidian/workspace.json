@@ -10,17 +10,33 @@
           {
             "id": "3b9337552203ee87",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes/Untitled.md",
+                "file": "Narrative/Narrative Overview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d959a0d54c9ce14d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes/Untitled.md",
+                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes/Untitled.md",
+                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes/Untitled.md"
+                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds.md"
               }
             }
           },
@@ -164,11 +180,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b9337552203ee87",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
-    "Narrative/Narrative Overvoew.md",
-    "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes/Untitled.md",
-    "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes",
+    "Narrative/1 - The Worst days of their lives/Untitled",
+    "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes/overview.md",
+    "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes.md",
+    "Narrative/Narrative Overview.md",
+    "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
     "Narrative/1.md",
     "The Librarian's Accord.md",
@@ -191,7 +209,6 @@
     "Characters/Djinn/Efreeti, the Arctic Herald.md",
     "Characters/Djinn/Belorus, the Stormweaver.md",
     "Characters/Djinn/Auroris, the Shimmering Sentinal.md",
-    "Characters/Djinn/Ashira, the First Wave.md",
     "Resources/Full Art/Djinn/Koranga.png",
     "Resources/Full Art/Djinn/Belorus.png",
     "Resources/Full Art/Djinn/Sansom.png",
@@ -205,7 +222,6 @@
     "Resources/Full Art/Primalas.png",
     "Resources/Full Art/VenDryk.png",
     "Resources/rw0a3gxm39qa1.mp4",
-    "Items/weapons/SwordStaff.md",
     "Bestiary/Spectres",
     "Bestiary/Necrophages",
     "Bestiary/Hybrids",
