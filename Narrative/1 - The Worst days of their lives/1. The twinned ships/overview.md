@@ -1,5 +1,5 @@
 ## Characters
-- Jasper Shatterborne
+- [[Jasper Shatterborne]]
 - Bismuth Shatterborne
 - Nomli Gurglegum
 - Herouk Barrelbasher

@@ -1,1 +1,1 @@
-The barkeep and owen
+The barkeep and owner of [[The Copper Cask]]

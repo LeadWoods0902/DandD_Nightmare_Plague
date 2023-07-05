@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "d959a0d54c9ce14d",
+            "id": "7d4cd71297fabb44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0a7ac7653b21d69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Brovarra.md",
+                "file": "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Brovarra.md",
+                "file": "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Brovarra.md",
+                "file": "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Seni/Brokvar/Brovarra.md"
+                "file": "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md"
               }
             }
           },
@@ -193,13 +180,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "7d4cd71297fabb44",
   "lastOpenFiles": [
+    "Narrative/Narrative Overview.md",
+    "3. Rise from the Ashes.md",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
+    "Locations/Seni Isles/Brokvar/Addun Brokvar.md",
     "Characters/NPC/Seni/Brokvar/Brovarra.md",
     "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar/overview.md",
-    "Narrative/Narrative Overview.md",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
     "Narrative/Timeline summary.md",
     "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes/overview.md",
@@ -224,8 +213,6 @@
     "Characters/NPC/Sunmaek/Hinelle.md",
     "Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum.md",
     "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
-    "Narrative/The large Talus.md",
-    "Additional Lore/Ships/The Kilfenora.md",
     "Resources/Full Art/Djinn/Koranga.png",
     "Resources/Full Art/Djinn/Belorus.png",
     "Resources/Full Art/Djinn/Sansom.png",
