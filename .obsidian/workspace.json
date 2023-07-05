@@ -26,60 +26,14 @@
             "id": "321de688b1910bfa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Resources/Full Art/Greater Dragons/Musoko.png"
               }
-            },
-            "group": "fd8e74405468a086"
+            }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "96827b68ee6911dd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f7abe1e123161860",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0000000000000004,
-                  "close": true
-                }
-              }
-            },
-            "group": "fd8e74405468a086"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+                "file": "Resources/Full Art/Greater Dragons/Musoko.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+                "file": "Resources/Full Art/Greater Dragons/Musoko.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md"
+                "file": "Resources/Full Art/Greater Dragons/Musoko.png"
               }
             }
           },
@@ -223,19 +177,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "321de688b1910bfa",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Zenryoku.md",
+    "Resources/Full Art/Greater Dragons/Kaede.png",
+    "Resources/Full Art/Greater Dragons/Musoko.png",
+    "Resources/Full Art/Greater Dragons/Zenryoku.png",
+    "Resources/Full Art/Greater Dragons/Soromo.png",
+    "Resources/Full Art/Greater Dragons/Ikuri.png",
+    "Resources/Full Art/Greater Dragons/Ike-Kotei.png",
     "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
-    "Resources/Character Art/greaterDragons/Zenryoku.png",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Zenryoku.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
-    "Resources/Character Art/greaterDragons/Ike-Kotei_full.png",
-    "Resources/Character Art/greaterDragons/Ikuri_full.png",
-    "Resources/Character Art/greaterDragons/Kaede_full.png",
-    "Resources/Character Art/greaterDragons/Musoko.png",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Musoko.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
-    "Resources/Character Art/greaterDragons/Soromo_full.png",
     "Resources/Creatures/HopHead_Full.jpg",
     "Resources/Enemies/Tokens/token_3.png",
     "Resources/Enemies/Tokens/token_4.png",

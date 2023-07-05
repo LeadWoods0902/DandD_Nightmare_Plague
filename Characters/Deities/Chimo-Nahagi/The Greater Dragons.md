@@ -6,6 +6,6 @@
 | [[Ikuri]] | The emperor of the reef | Has dominion over the coral reefs north of Chimo-Nahagi |
 | [[Kaede]] | The protector of the Forests | Protects the living nature of Chimo-Nahagi, mother of the wilderbeasts |
 | [[Zenryoku]] | The future sighted | The eldest of the greater Dragons, Zenryoku has foreseen many futures; all end with the coming of Musoko |
-| [[Kenzen]] | The justified | Uses its two heads to enact justice on Chimo-Nahagi |
+| [[Kenzen]] | The justified |  |
 | [[Iyashi]] | The renewing spirit | "The salvation of Chimo-nahagi", grants reincarnation to those deserving |
 | [[Bōshi]] | The Brawler | The youngest of the greater Dragons, Boshi is yet to live up to the expectations of his mother, Soromo |

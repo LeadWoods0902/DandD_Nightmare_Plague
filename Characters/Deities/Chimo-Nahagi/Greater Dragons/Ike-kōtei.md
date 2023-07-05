@@ -1,1 +1,1 @@
-![[Ike-Kotei_full.png]]
+![[Ike-Kotei.png]]
