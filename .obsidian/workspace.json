@@ -23,12 +23,15 @@
             }
           },
           {
-            "id": "321de688b1910bfa",
+            "id": "f3c4f59bd395a297",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Game Resources/Omen_FullArt.png"
+                "file": "Items/weapons/Omen.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -107,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Game Resources/Omen_FullArt.png",
+                "file": "Items/weapons/Omen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Game Resources/Omen_FullArt.png",
+                "file": "Items/weapons/Omen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Game Resources/Omen_FullArt.png"
+                "file": "Items/weapons/Omen.md"
               }
             }
           },
@@ -177,9 +180,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "f3c4f59bd395a297",
   "lastOpenFiles": [
-    "Resources/items/Weapons/Sun's Omen.png",
+    "Locations/Sunmaek/Sunmaek.md",
+    "Items/weapons/Omen.md",
+    "Resources/items/Weapons/Omen.png",
+    "Narrative/Narrative Overview.md",
     "Resources/Game Resources/Omen_Token.png",
     "Resources/Game Resources/Omen_FullArt.png",
     "Resources/Game Resources/terrain/ZoneOfTruth_Abhorrent.png",
@@ -189,7 +195,6 @@
     "Resources/Game Resources/terrain/Entangle.png",
     "Resources/Game Resources/runes/runes_master.png",
     "Resources/Game Resources/runes/rune_3.png",
-    "Resources/Game Resources/runes/rune_2.png",
     "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Zenryoku.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
@@ -198,7 +203,6 @@
     "Resources/Full Art/PCs",
     "Characters/NPC/Seni/The crew of the Kilfenora.md",
     "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
-    "Narrative/Narrative Overview.md",
     "3. Rise from the Ashes.md",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
     "Locations/Seni Isles/Brokvar/Addun Brokvar.md",
@@ -220,7 +224,6 @@
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds",
     "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes.md",
     "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes",
-    "Narrative/1.md",
     "Resources/Full Art/Djinn",
     "Resources/Full Art/New folder",
     "Resources/rw0a3gxm39qa1.mp4",
