@@ -1,6 +1,6 @@
 ![[Omen.png]]
 A sword of [[Sunmaek]] legend, thought to be lost for millennia, the sword was retrieved by [[Duska Von Mori]] under the guidance of [[Mortos]]. 
 
-When brandished in the name of [[The Twins]], Omen shines with a bright light capable of blinding it's enemies - when tainted with the ink of [[Mortos]], the blade is instead filled with necrotic energy and saps the life from both it's wielder and victims. 
+Omen, when wielded in the name of The Twins, emanates a radiant light of such intensity that it has the power to blind and disorient its adversaries. Alternatively, when infused with the ink of Mortos, the blade becomes a conduit for necrotic energy, draining the life force of both its wielder and its unfortunate victims.
 
-In both forms, the sword can be sent out and controlled from a distance - done so by concentrating on the non-corporeal form that remains in their hand.
+Regardless of its state, the sword possesses the ability to be projected and manipulated from a distance. This is accomplished by focusing one's concentration on the ethereal form that remains within the hand of its possessor.
