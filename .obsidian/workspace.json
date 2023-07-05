@@ -19,19 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2b515e6f66cfbcb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPC/Sunmaek/Hinelle.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -177,11 +164,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b9337552203ee87",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
-    "Narrative/1 - The Worst days of their lives/1. The twinned ships/The Twinned Ships.md",
-    "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/The Librarian's Accord.md",
+    "The.md",
     "Narrative/Narrative Overvoew.md",
+    "[.md",
+    "Narrative/1 - The Worst days of their lives/1. The twinned ships/overview.md",
+    "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
     "The Librarian's Accord.md",
     "Characters/NPC/Sunmaek/Hinelle.md",
     "Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum.md",
@@ -216,8 +205,6 @@
     "Items/weapons/Branch of the Brokvar Tree.md",
     "Items/weapons/Arc Rifle.md",
     "Hinele's Mother.md",
-    "The other slaves.md",
-    "The Travelling Merchants.md",
     "Bestiary/Spectres",
     "Bestiary/Necrophages",
     "Bestiary/Hybrids",

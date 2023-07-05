@@ -28,4 +28,4 @@ The sound cuts to a sudden stop and a formless black shape snaps through the smo
 
 
 ---
-Next: [[Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/The Librarian's Accord]]
+Next: [[Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview]]
