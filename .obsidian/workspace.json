@@ -34,35 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cceb90329d195467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Sunmaek/Sunmaek.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbdb854274455ddc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Deities/Sunmaek/Dogu Yilani.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Deities/Sunmaek/Dogu Yilani.md",
+                "file": "Items/weapons/Omen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Deities/Sunmaek/Dogu Yilani.md",
+                "file": "Items/weapons/Omen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Deities/Sunmaek/Dogu Yilani.md"
+                "file": "Items/weapons/Omen.md"
               }
             }
           },
@@ -206,10 +180,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "f3c4f59bd395a297",
   "lastOpenFiles": [
     "Locations/Sunmaek/Sunmaek.md",
-    "Characters/Deities/The Twins.md",
+    "Characters/Deities/Sunmaek/Olum Yilani.md",
+    "Characters/Deities/Sunmaek/The Twins.md",
+    "Characters/Deities/Sunmaek/Dogu Yilani.md",
     "Items/weapons/Omen.md",
     "Characters/Deities/Sunmaek/Mortos.md",
     "Resources/items/Weapons/Omen.png",
@@ -245,8 +221,6 @@
     "Narrative/1 - The Worst days of their lives/7. Upon which the party is founded.md",
     "Narrative/1 - The Worst days of their lives/7. Upon Which The Party Is Founded",
     "Narrative/1 - The Worst days of their lives/6. The Auction.md",
-    "Narrative/1 - The Worst days of their lives/5. That time we did that thing.md",
-    "Narrative/1 - The Worst days of their lives/- Session Notes -.md",
     "Narrative/1 - The Worst days of their lives/5. The Auction",
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds",
     "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes",
