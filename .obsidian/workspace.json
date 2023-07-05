@@ -28,7 +28,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Resources/Character Art/Crew of the Kilfenora/1.png"
+                "file": "Resources/Full Art/PCs/Alfread.png"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Character Art/Crew of the Kilfenora/1.png",
+                "file": "Resources/Full Art/PCs/Alfread.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Character Art/Crew of the Kilfenora/1.png",
+                "file": "Resources/Full Art/PCs/Alfread.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Character Art/Crew of the Kilfenora/1.png"
+                "file": "Resources/Full Art/PCs/Alfread.png"
               }
             }
           },
@@ -177,19 +177,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d4cd71297fabb44",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
-    "Resources/Character Art/Crew of the Kilfenora/2.png",
-    "Resources/Character Art/Crew of the Kilfenora/1.png",
+    "Resources/Full Art/PCs",
+    "Resources/Full Art/Crew of the Kilfenora/Ingo.png",
+    "Resources/Full Art/Crew of the Kilfenora/Jareth.png",
+    "Resources/Full Art/Crew of the Kilfenora/Thorkil.png",
+    "Resources/Full Art/Crew of the Kilfenora/Isabella.png",
+    "Resources/Full Art/Crew of the Kilfenora/Seraphina.png",
+    "Resources/Full Art/Crew of the Kilfenora/Magnus.png",
     "Resources/Full Art/WilderBeast_Full.png",
     "Resources/Full Art/VirmarCivillian4.png",
     "Resources/Full Art/VirmarCivillian2.png",
     "Resources/Full Art/VirmarCivillian1.png",
-    "Resources/Full Art/VenDryk.png",
-    "Resources/Full Art/Sturgis.png",
-    "Resources/Full Art/RuneWolf.png",
-    "Resources/Full Art/RuneWarrior.png",
-    "Resources/Full Art/RuneBear.png",
     "Characters/NPC/Seni/The crew of the Kilfenora.md",
     "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
     "Narrative/Narrative Overview.md",
