@@ -3,7 +3,7 @@
   "livePreview": true,
   "showFrontmatter": true,
   "showLineNumber": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "attachmentFolderPath": "resources",
   "promptDelete": false,
   "readableLineLength": true,
