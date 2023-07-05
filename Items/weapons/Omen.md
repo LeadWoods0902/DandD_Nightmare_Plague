@@ -8,7 +8,7 @@ Regardless of its state, the sword possesses the ability to be projected and man
 ---
 In Twin Snakes Form:
 
-You project Omen onto the battlefield into a 5x5 area within range that lasts for the duration or until you cast the spell again. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon dealing 1d8 + SPELL radiant damage.
+You project Omen onto the battlefield into a 5x5 area within range that lasts for the duration or until you cast the spell again. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon dealing 1d8 + \[SPELL\] radiant damage.
 
 As a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it. 
 
@@ -16,6 +16,8 @@ Alternatively, you may use your bonus action to blind all targets within 20 feet
 
 In Mortos Form:
 
-You project Omen onto the battlefield into a 5x5 area within range that lasts for the duration or until you cast the spell again. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon dealing 1d8 + SPELL radiant damage.
+You project Omen onto the battlefield into a 5x5 area within range that lasts for the duration or until you cast the spell again. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon dealing 1d8 + \[SPELL\] necrotic damage.
 
 As a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it. 
+
+Alternatively, you may use your bonus action to deal 1d4 necrotic damage to all targets within 20 feet of the weapon that fail a DC 10 \[CON\] save
