@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Narrative Overvoew.md",
+                "file": "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Narrative Overvoew.md",
+                "file": "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Narrative Overvoew.md",
+                "file": "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Narrative Overvoew.md"
+                "file": "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes/Untitled.md"
               }
             }
           },
@@ -166,13 +166,15 @@
   },
   "active": "3b9337552203ee87",
   "lastOpenFiles": [
-    "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
     "Narrative/Narrative Overvoew.md",
+    "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes/Untitled.md",
+    "Narrative/1 - The Worst days of their lives/3. Rise from the Ashes",
+    "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
     "Narrative/1.md",
     "The Librarian's Accord.md",
     "Narrative%2F1 - The Worst days of their lives%2F2. The Librarian's Accord%2Foverview.md",
     "[.md",
-    "Narrative/1 - The Worst days of their lives/1. The twinned ships/overview.md",
+    "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
     "The.md",
     "Characters/NPC/Sunmaek/Hinelle.md",
     "Characters/NPC/Seni/LLawyr Yn Mawr/Nomli Gurglegum.md",
@@ -204,14 +206,12 @@
     "Resources/Full Art/VenDryk.png",
     "Resources/rw0a3gxm39qa1.mp4",
     "Items/weapons/SwordStaff.md",
-    "Items/weapons/Branch of the Brokvar Tree.md",
     "Bestiary/Spectres",
     "Bestiary/Necrophages",
     "Bestiary/Hybrids",
     "Bestiary/Elementa",
     "Bestiary/Beasts",
     "Bestiary/Arcane",
-    "Bestiary/NightmarePlagueTemplate.zip",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas"
