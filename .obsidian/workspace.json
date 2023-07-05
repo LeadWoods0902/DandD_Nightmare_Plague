@@ -28,7 +28,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Resources/Tokens/barkeep_token.png"
+                "file": "Resources/Character Art/Crew of the Kilfenora/1.png"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Tokens/barkeep_token.png",
+                "file": "Resources/Character Art/Crew of the Kilfenora/1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Tokens/barkeep_token.png",
+                "file": "Resources/Character Art/Crew of the Kilfenora/1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Tokens/barkeep_token.png"
+                "file": "Resources/Character Art/Crew of the Kilfenora/1.png"
               }
             }
           },
@@ -179,7 +179,17 @@
   },
   "active": "7d4cd71297fabb44",
   "lastOpenFiles": [
-    "Resources/Tokens/Ashira_Token.png",
+    "Resources/Character Art/Crew of the Kilfenora/2.png",
+    "Resources/Character Art/Crew of the Kilfenora/1.png",
+    "Resources/Full Art/WilderBeast_Full.png",
+    "Resources/Full Art/VirmarCivillian4.png",
+    "Resources/Full Art/VirmarCivillian2.png",
+    "Resources/Full Art/VirmarCivillian1.png",
+    "Resources/Full Art/VenDryk.png",
+    "Resources/Full Art/Sturgis.png",
+    "Resources/Full Art/RuneWolf.png",
+    "Resources/Full Art/RuneWarrior.png",
+    "Resources/Full Art/RuneBear.png",
     "Characters/NPC/Seni/The crew of the Kilfenora.md",
     "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
     "Narrative/Narrative Overview.md",
@@ -210,18 +220,8 @@
     "[.md",
     "The.md",
     "Characters/NPC/Sunmaek/Hinelle.md",
-    "Resources/Full Art/Djinn/Koranga.png",
-    "Resources/Full Art/Djinn/Belorus.png",
-    "Resources/Full Art/Djinn/Sansom.png",
-    "Resources/Full Art/Djinn/Auroris.png",
-    "Resources/Full Art/Djinn/Ashira.png",
-    "Resources/Full Art/Djinn/Sansom.jpg",
-    "Resources/Full Art/Djinn/Efreeti.png",
     "Resources/Full Art/Djinn",
     "Resources/Full Art/New folder",
-    "Resources/Full Art/Sansom.jpg",
-    "Resources/Full Art/Primalas.png",
-    "Resources/Full Art/VenDryk.png",
     "Resources/rw0a3gxm39qa1.mp4",
     "Bestiary/Spectres",
     "Bestiary/Necrophages",
