@@ -1,1 +1,1 @@
-![[Musoko_full.png]]
+![[Musoko.png]]
