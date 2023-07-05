@@ -3,4 +3,4 @@ A sword of [[Sunmaek]] legend, thought to be lost for millennia, the sword was r
 
 When brandished in the name of [[The Twins]], Omen shines with a bright light capable of blinding it's enemies - when tainted with the ink of [[Mortos]], the blade is instead filled with necrotic energy and saps the life from both it's wielder and victims. 
 
-In both forms, the sword can be contr
+In both forms, the sword can be sent out in a spiritual form and controlled from a distance
