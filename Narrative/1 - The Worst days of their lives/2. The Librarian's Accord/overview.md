@@ -1,11 +1,11 @@
 ## Characters
-- Duska
-- Hinelle
-- Chancellor Sturgis
-- Elaine
-- Barkeep
+- [[Duska Von Mori]]
+- [[Hinelle]]
+- [[Chancellor Sturgis]]
+- [[Elaine]]
+- [[Bark
 - Patrons
-- Mazikeen
+- [[Mazikeen (Lady Maize of Woodfall)]]
 
 ## Scene
 
