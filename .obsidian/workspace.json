@@ -90,6 +90,19 @@
             }
           },
           {
+            "id": "4b8f8103487cce76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Aime/Mazikeen of Woodfall.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "10e58469ca3126cc",
             "type": "leaf",
             "state": {
@@ -116,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -190,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Characters/PC/Aime/Mazikeen of Woodfall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Characters/PC/Aime/Mazikeen of Woodfall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md"
+                "file": "Characters/PC/Aime/Mazikeen of Woodfall.md"
               }
             }
           },
@@ -260,16 +273,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "247bcb66101e161a",
+  "active": "4b8f8103487cce76",
   "lastOpenFiles": [
+    "Narrative/Timelines/Aime's Timeline.md",
+    "Characters/PC/Aime/Mazikeen of Woodfall.md",
     "Narrative/Timelines/Brannon's Timeline.md",
     "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
     "Locations/Seni Isles/Llawyr un Mawr/The Ozeaux.md",
     "Locations/Seni Isles/Llawyr un Mawr/Nirnon.md",
     "Locations/Seni Isles/Llawyr un Mawr/Llawyr un Mawr.md",
-    "Narrative/Timelines/Aime's Timeline.md",
     "Characters/NPC/Seni/Young Duchess Roderika.md",
-    "Characters/PC/Aime/Mazikeen of Woodfall.md",
     "Narrative/Timelines/Timeline summary.md",
     "Locations/Chimo-Nahagi/Yamanohana.md",
     "Narrative/Timelines/Quinn's Timeline.md",
