@@ -23,6 +23,21 @@
             }
           },
           {
+            "id": "4c13d35f961ff7d3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/Timelines/Timeline summary.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "4a61417932d284d3",
             "type": "leaf",
             "state": {
@@ -75,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,6 +237,7 @@
   "active": "4a61417932d284d3",
   "lastOpenFiles": [
     "Narrative/Timelines/Timeline summary.md",
+    "Narrative/Timelines/Tom's Timeline.md",
     "Narrative/Timelines/Marta's Timeline.md",
     "Items/weapons/Omen.md",
     "Locations/Sunmaek/Sunmaek.md",
@@ -234,7 +250,6 @@
     "Narrative/Timelines/Brannon's Timeline.md",
     "Narrative/Timelines/Aime's Timeline.md",
     "Narrative/Timelines",
-    "Narrative/Timelines/Tom's Timeline.md",
     "Characters/PC/Tom/Rolbam Eins.md",
     "Locations/Seni Isles/Esgid/-Esgid-.md",
     "Narrative/Narrative Overview.md",
