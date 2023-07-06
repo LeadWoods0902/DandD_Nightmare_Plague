@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Seni Isles/Llawyr un Mawr/Llawyr un Mawr.md",
+                "file": "Narrative/Timelines/Aime's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Seni Isles/Llawyr un Mawr/Llawyr un Mawr.md",
+                "file": "Narrative/Timelines/Aime's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Seni Isles/Llawyr un Mawr/Llawyr un Mawr.md"
+                "file": "Narrative/Timelines/Aime's Timeline.md"
               }
             }
           },
@@ -273,10 +273,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "10e58469ca3126cc",
+  "active": "380a750dbf5eb54c",
   "lastOpenFiles": [
-    "Characters/PC/Aime/Mazikeen of Woodfall.md",
+    "Characters/NPC/Seni/Young Duchess Roderika.md",
     "Narrative/Timelines/Aime's Timeline.md",
+    "Characters/PC/Aime/Mazikeen of Woodfall.md",
+    "Locations/Seni Isles/Llawyr un Mawr/Llawyr un Mawr.md",
     "Narrative/Timelines/Timeline summary.md",
     "Narrative/Timelines/Brannon's Timeline.md",
     "Locations/Chimo-Nahagi/Yamanohana.md",
@@ -300,8 +302,6 @@
     "Narrative/Timelines",
     "Characters/PC/Tom/Rolbam Eins.md",
     "Locations/Seni Isles/Esgid/-Esgid-.md",
-    "Narrative/Narrative Overview.md",
-    "Locations/Seni Isles/Llawyr un Mawr/Llawyr un Mawr.md",
     "Resources/items/Weapons/Omen.png",
     "Resources/Game Resources/Omen_Token.png",
     "Resources/Game Resources/Omen_FullArt.png",
