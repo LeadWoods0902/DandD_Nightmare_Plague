@@ -12,7 +12,7 @@ Jasper Shatterborne
 
 
 ##### Description
-Chestnut hair
+With the sides of your head shaved, chestnut hair hangs down from the top of your head
 The hair is artfully styled into a long braided high-set tail, which adds an element of elegance and practicality to their overall appearance.
 
 Complementing their distinctive hairstyle is their warm golden skin, evoking a radiant glow akin to sunlight filtering through the foliage of a dense forest. Their earthy complexion exudes a natural charm and hints at a deep connection with the elements.
