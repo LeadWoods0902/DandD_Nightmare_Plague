@@ -49,6 +49,19 @@
             }
           },
           {
+            "id": "828b442f1bfe7d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Marta/Duska Von Mori.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "076de2632423768a",
             "type": "leaf",
             "state": {
@@ -221,8 +234,10 @@
   },
   "active": "bdfef4567cbc2a8c",
   "lastOpenFiles": [
-    "Mortos' tome.md",
+    "Characters/NPC/Sunmaek/Master Librarian.md",
     "Narrative/Timelines/Marta's Timeline.md",
+    "Characters/PC/Marta/Duska Von Mori.md",
+    "Mortos' tome.md",
     "Narrative/Timelines/Timeline summary.md",
     "Narrative/Timelines/Quinn's Timeline.md",
     "Narrative/Timelines/Brannon's Timeline.md",
@@ -235,7 +250,6 @@
     "Locations/Seni Isles/Llawyr un Mawr/Llawyr un Mawr.md",
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
     "Homebrew Rules/Status Effects & Battle Conditions.md",
-    "Characters/PC/Marta/Duska Von Mori.md",
     "Items/weapons/Omen.md",
     "Locations/Sunmaek/Sunmaek.md",
     "Characters/Deities/Sunmaek/Olum Yilani.md",
@@ -258,7 +272,6 @@
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Musoko.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Resources/Full Art/PCs",
-    "Characters/NPC/Seni/The crew of the Kilfenora.md",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
     "Narrative/1 - The Worst days of their lives/7. Upon Which The Party Is Founded",
     "Narrative/1 - The Worst days of their lives/5. The Auction",
