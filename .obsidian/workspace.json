@@ -103,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Tom's Secret Timeline.md",
+                "file": "Narrative/Timelines/Marta's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Tom's Secret Timeline.md",
+                "file": "Narrative/Timelines/Marta's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Tom's Secret Timeline.md"
+                "file": "Narrative/Timelines/Marta's Timeline.md"
               }
             }
           },
@@ -247,15 +247,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4a61417932d284d3",
+  "active": "bdfef4567cbc2a8c",
   "lastOpenFiles": [
+    "Narrative/Timelines/Tom's Secret Timeline.md",
     "Narrative/Timelines/Aime's Secret Timeline.md",
+    "Characters/PC/Tom/Malkath Tribus.md",
+    "Characters/PC/Tom/Alfread.md",
     "Narrative/Timelines/Marta's Timeline.md",
     "Narrative/Timelines/Brannon's Timeline.md",
     "Narrative/Timelines/Quinn's Timeline.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Narrative/Timelines/Timeline summary.md",
-    "Narrative/Timelines/Tom's Secret Timeline.md",
     "Characters/PC/Brannon/Primalas.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Characters/NPC/Seni/Lundgren Family/Amorella Lundgren.md",
@@ -273,8 +275,6 @@
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Chimo-Nahagi/Harukaze.md",
     "Locations/Chimo-Nahagi/Hakushin.md",
-    "Locations/Chimo-Nahagi/Satsukiya.md",
-    "Locations/Chimo-Nahagi/Tsurukaze.md",
     "Narrative/Timelines",
     "Resources/items/Weapons/Omen.png",
     "Resources/Game Resources/Omen_Token.png",
