@@ -5,7 +5,7 @@
 - [[Elaine]]
 - [[Brovarra]]
 - Patrons
-- [[Mazikeen of Woodfall]]
+- [[Mazikeen]]
 
 ## Scene
 

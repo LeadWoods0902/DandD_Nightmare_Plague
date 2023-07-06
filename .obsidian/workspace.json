@@ -90,19 +90,6 @@
             }
           },
           {
-            "id": "4b8f8103487cce76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/PC/Aime/Mazikeen of Woodfall.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "10e58469ca3126cc",
             "type": "leaf",
             "state": {
@@ -129,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -203,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen of Woodfall.md",
+                "file": "Narrative/Timelines/Aime's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen of Woodfall.md",
+                "file": "Narrative/Timelines/Aime's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen of Woodfall.md"
+                "file": "Narrative/Timelines/Aime's Timeline.md"
               }
             }
           },
@@ -273,10 +260,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b8f8103487cce76",
+  "active": "247bcb66101e161a",
   "lastOpenFiles": [
+    "The Duke of Woodfall.md",
+    "Characters/PC/Aime/Mazikeen.md",
     "Narrative/Timelines/Aime's Timeline.md",
-    "Characters/PC/Aime/Mazikeen of Woodfall.md",
+    "Additional Lore/The death of the duke of Woodfall.md",
     "Narrative/Timelines/Brannon's Timeline.md",
     "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
     "Locations/Seni Isles/Llawyr un Mawr/The Ozeaux.md",
@@ -299,8 +288,6 @@
     "Locations/Sunmaek/Sunmaek.md",
     "Locations/Sunmaek/Qotus.md",
     "Locations/Sunmaek/Wadur.md",
-    "Characters/NPC/Sunmaek/Master Librarian.md",
-    "Characters/PC/Marta/Duska Von Mori.md",
     "Narrative/Timelines",
     "Resources/items/Weapons/Omen.png",
     "Resources/Game Resources/Omen_Token.png",
