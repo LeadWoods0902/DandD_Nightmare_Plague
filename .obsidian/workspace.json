@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1eed5101ee52de3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew Rules/Status Effects & Battle Conditions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew Rules/Status Effects & Battle Conditions.md",
+                "file": "Narrative/Narrative Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew Rules/Status Effects & Battle Conditions.md",
+                "file": "Narrative/Narrative Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew Rules/Status Effects & Battle Conditions.md"
+                "file": "Narrative/Narrative Overview.md"
               }
             }
           },
@@ -180,8 +166,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1eed5101ee52de3b",
+  "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "Homebrew Rules/Status Effects & Battle Conditions.md",
     "Narrative/Narrative Overview.md",
     "Characters/PC/Marta/Duska Von Mori.md",
     "Items/weapons/Omen.md",
@@ -219,7 +206,6 @@
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
     "Narrative/1 - The Worst days of their lives/5. The Auction/overview.md",
     "Narrative/1 - The Worst days of their lives/7. Upon Which The Party Is Founded/overview.md",
-    "Narrative/1 - The Worst days of their lives/7. Upon which the party is founded.md",
     "Narrative/1 - The Worst days of their lives/7. Upon Which The Party Is Founded",
     "Narrative/1 - The Worst days of their lives/5. The Auction",
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds",
