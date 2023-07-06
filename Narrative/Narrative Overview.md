@@ -33,7 +33,7 @@ In a non-determined order:
 
 
 ## [[Narrative/1 - The Worst days of their lives/5. The Auction/overview|The Auction]]
-Duska & 
+Duska, Alfread & Mazikeen find themselves at the slave act
 
 
 ## [[Narrative/1 - The Worst days of their lives/7. Upon Which The Party Is Founded/overview|Upon Which The Party Is Founded]]
