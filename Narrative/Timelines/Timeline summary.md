@@ -1,6 +1,5 @@
 |  year  | relative year |  location | event | 
 | ------ | ------------- | --------- | ----- |
-| 1576/03 | -96 | **Unknown** | Mazikeen is born |
 | 1649/02 | -23 | Sunmaek | Duska Von Mori is born |
 | 1672/03 | 0 | Brokvar | Napella Lundgren is born |
 | 1689/03 | 17 | Eastern Seni Isles | Eastern Civil War begins between LLawyr un Mawr and Esgid | 
@@ -16,6 +15,7 @@
 | 1715/03 | 43 | Brokvar | Ven-Dryk leads a rebellion against the IC <br> Brokvar is reunited <br> The Ymerodrol Empire begins to form |
 | 1720/03 | 48 | Brokvar | Addun Brokvar becomes the city of the Artificer Guild, after several discoveries lend itself to their trade |
 | 1721/02 | 49 | Brokvar | Alfread is born |
+
 | 1731/01 | 59 | Brokvar | The Addun Brokvar Catastrophe |
 | 1753/02 | 81 | Sunmaek | Duska Discovers Mortos' tome | 
 | 1763/02 | 91 | Rheilliwch | Ymerodrol Empire flies its colours for the first time |
