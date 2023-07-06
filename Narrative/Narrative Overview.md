@@ -11,7 +11,11 @@ Cutting to [[The Copper Cask]] of [[Virmarr]], we are introduced to [[Duska Von 
 As events reach a climax, a dazed and fatigued character stumbles into the bar 
 
 ## [[Narrative/1 - The Worst days of their lives/3. Rise From The Ashes/overview|Rise From The Ashes]]
-A week prior to the events that unfolded in the Copper Cask, [[Mazikeen (Lady Maize of Woodfall)]] finds themselves awakening in a grand crater - around them lie shards of green crystalline matter. To their right, lies a burnt up husk that may have once resembled another person, to
+A week prior to the events that unfolded in the Copper Cask, [[Mazikeen (Lady Maize of Woodfall)]] finds themselves awakening in a grand crater - around them lie shards of green crystalline matter. To their right, lies a burnt up husk that may have once resembled another person and to their left, partly clutched in their hand, a broken weapon.
+
+...
+
+Mazikeen is drawn to the sound of civil
 
 ## [[Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview|The Forging Of The Minds]]
 
