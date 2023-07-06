@@ -103,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md",
+                "file": "Narrative/Timelines/Brannon's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md",
+                "file": "Narrative/Timelines/Brannon's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md"
+                "file": "Narrative/Timelines/Brannon's Timeline.md"
               }
             }
           },
@@ -247,20 +247,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5202f0f566ae3779",
+  "active": "7bb33e458fc0bb84",
   "lastOpenFiles": [
-    "Narrative/Timelines/Brannon's Timeline.md",
     "Narrative/Timelines/Quinn's Timeline.md",
+    "Narrative/Timelines/Aime's Secret Timeline.md",
+    "Narrative/Timelines/Tom's Secret Timeline.md",
+    "Narrative/Timelines/Marta's Timeline.md",
+    "Narrative/Timelines/Brannon's Timeline.md",
+    "Narrative/Narrative Overview.md",
+    "Narrative/Timelines/Timeline summary.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Kaede's scales.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Bestiary/Beasts/Wilderbeast.md",
-    "Narrative/Timelines/Tom's Secret Timeline.md",
-    "Narrative/Timelines/Marta's Timeline.md",
-    "Narrative/Timelines/Aime's Secret Timeline.md",
     "Characters/PC/Tom/Malkath Tribus.md",
     "Characters/PC/Tom/Alfread.md",
-    "Narrative/Timelines/Timeline summary.md",
     "Characters/PC/Brannon/Primalas.md",
     "Characters/NPC/Seni/Lundgren Family/Amorella Lundgren.md",
     "Locations/Seni Isles/Gogledd-Ynys/Gogledd-Ynys.md",
@@ -274,7 +275,6 @@
     "Characters/NPC/Seni/Young Duchess Roderika.md",
     "Locations/Chimo-Nahagi/Yamanohana.md",
     "Characters/NPC/Chimo-Nahagi/Nieveler Genlen.md",
-    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Narrative/Timelines",
     "Resources/items/Weapons/Omen.png",
     "Resources/Game Resources/Omen_Token.png",
