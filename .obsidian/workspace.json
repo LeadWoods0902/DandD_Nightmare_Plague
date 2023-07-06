@@ -64,6 +64,19 @@
             }
           },
           {
+            "id": "e659c36be111c2f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Brannon/Primalas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8171912dce0c32c9",
             "type": "leaf",
             "state": {
@@ -116,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -190,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md",
+                "file": "Characters/PC/Brannon/Primalas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md",
+                "file": "Characters/PC/Brannon/Primalas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md"
+                "file": "Characters/PC/Brannon/Primalas.md"
               }
             }
           },
@@ -260,9 +273,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5202f0f566ae3779",
+  "active": "e659c36be111c2f9",
   "lastOpenFiles": [
+    "Narrative/Timelines/Quinn's Timeline.md",
     "Narrative/Timelines/Brannon's Timeline.md",
+    "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/PC/Brannon/Primalas.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Narrative/Timelines/Aime's Timeline.md",
@@ -278,7 +293,6 @@
     "Characters/NPC/Seni/Young Duchess Roderika.md",
     "Narrative/Timelines/Timeline summary.md",
     "Locations/Chimo-Nahagi/Yamanohana.md",
-    "Narrative/Timelines/Quinn's Timeline.md",
     "Characters/NPC/Chimo-Nahagi/Nieveler Genlen.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Chimo-Nahagi/Harukaze.md",
@@ -287,7 +301,6 @@
     "Locations/Chimo-Nahagi/Tsurukaze.md",
     "Narrative/Timelines/Tom's Timeline.md",
     "Narrative/Timelines/Marta's Timeline.md",
-    "Locations/Chimo-Nahagi/Chimo.md",
     "Narrative/Timelines",
     "Resources/items/Weapons/Omen.png",
     "Resources/Game Resources/Omen_Token.png",
