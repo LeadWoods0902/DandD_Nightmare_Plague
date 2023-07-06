@@ -6,6 +6,6 @@
 	- Can blood bend
 		- Thorns ER
 		- body manipulation ATLA
-- [ ] Climbing
 - [ ] Thorstein
-- [ ] Major read through
+- [ ] House of S**ASS**
+- [ ] 
