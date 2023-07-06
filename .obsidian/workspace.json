@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "bdfef4567cbc2a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/Timeline summary.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "076de2632423768a",
             "type": "leaf",
             "state": {
@@ -35,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Narrative Overview.md",
+                "file": "Narrative/Timeline summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Narrative Overview.md",
+                "file": "Narrative/Timeline summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Narrative Overview.md"
+                "file": "Narrative/Timeline summary.md"
               }
             }
           },
@@ -179,10 +193,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b9337552203ee87",
+  "active": "bdfef4567cbc2a8c",
   "lastOpenFiles": [
-    "Characters/PC/Tom/Rolbam Eins.md",
     "Narrative/Narrative Overview.md",
+    "Characters/PC/Tom/Rolbam Eins.md",
     "Locations/Seni Isles/Llawyr un Mawr/Llawyr un Mawr.md",
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
     "Homebrew Rules/Status Effects & Battle Conditions.md",
