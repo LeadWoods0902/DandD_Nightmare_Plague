@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Brannon's Timeline.md",
+                "file": "Narrative/Timelines/Quinn's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Brannon's Timeline.md",
+                "file": "Narrative/Timelines/Quinn's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Brannon's Timeline.md"
+                "file": "Narrative/Timelines/Quinn's Timeline.md"
               }
             }
           },
@@ -260,10 +260,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8171912dce0c32c9",
+  "active": "5202f0f566ae3779",
   "lastOpenFiles": [
-    "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Narrative/Timelines/Brannon's Timeline.md",
+    "Characters/PC/Brannon/Primalas.md",
+    "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Narrative/Timelines/Aime's Timeline.md",
     "Characters/NPC/Seni/Lundgren Family/Amorella Lundgren.md",
     "Locations/Seni Isles/Gogledd-Ynys/Gogledd-Ynys.md",
@@ -287,7 +288,6 @@
     "Narrative/Timelines/Tom's Timeline.md",
     "Narrative/Timelines/Marta's Timeline.md",
     "Locations/Chimo-Nahagi/Chimo.md",
-    "Items/weapons/Omen.md",
     "Narrative/Timelines",
     "Resources/items/Weapons/Omen.png",
     "Resources/Game Resources/Omen_Token.png",
