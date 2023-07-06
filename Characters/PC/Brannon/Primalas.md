@@ -3,4 +3,4 @@ Primalas Hails from [[Chimo-Nahagi]]
 
 ### Backstory
 
-Primalas is a minor dragon and a descendant of the greater dragon [[Zenryoku]]. Primalas has spent his life searching for knowledge and travels to Seni to seek out Sunmaek's Master Librarian, who he's heard is travelling to Seni for important matters
+Primalas is a minor dragon and a descendant of the greater dragon [[Zenryoku]]. Primalas has spent his life searching for knowledge and travels to Seni to seek out foreign knowledege
