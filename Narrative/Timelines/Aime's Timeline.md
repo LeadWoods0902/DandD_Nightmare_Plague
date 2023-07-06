@@ -5,6 +5,7 @@
 | TBC | TBC | [[Theg Doruhl]] | Mazikeen begins their tutelage under their uncle and court spymaster, [[Seram Dos]] |
 | TBC | TBC | [[Brokvar]] | [[The Duke of Woodfall]] is slain during the defence of Brokvar |
 | TBC | TBC | [[Theg Doruhl]] | Seram takes Mazikeen under his wing, beginning to teach her his grand array of skills
-| TBC | TBC | [[Gogledd-Ynys]] | Mazikeen meee
+| TBC | TBC | [[Gogledd-Ynys]] | Mazikeen begins working for [[Amorella Lundgren]] as a smuggler | 
+| TBC | TBC | [[Gogledd-Ynys]] | Amorella discovers Mazikeen's true intentions and puts a bounty on her head
 
 | 1793 | 0 | [[Virmarr]] | Campaign begins |
