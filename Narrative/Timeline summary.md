@@ -11,8 +11,8 @@
 | 1698/03 | 26 | Brokvar | Napella Marries Ven-Dryk |
 | 1701 | 29 | Rheilliwch | With the backing of a mysterious group of Warlocks, Rheilliwch forms a confederacy with neighbouring country Esgid | 
 | 1704/02 | 32 | Brokvar | Napella Lundgren gives birth to a daughter(Amorella Lundgren) |
-| 1706/03 | 34 | Brokvar | Amorella is sent away by her mother after whisperings of a confederacy conspiracy <br> The Butchering of Brokvar initiated by The Confederacy <br> Napella dies along with many of her subjects <br> Ven-Dryk's brother dies defending the royal family <br> Ven-Dryk is supplanted and the Confeder install a leader of their own. |
-| 1707/02 | 35 | Brokvar | Addun Brokvar is formed under the leadership of Ven-Dryk and Brokvar is split in two, the Brokvar capital remains IC controlled |
+| 1706/03 | 34 | Brokvar | Amorella is sent away by her mother after whisperings of a confederacy conspiracy <br> The Butchering of Brokvar initiated by The Confederacy <br> Napella dies along with many of her subjects <br> Ven-Dryk's brother dies defending the royal family <br> Ven-Dryk is supplanted and the Confederacy install a leader of their own. |
+| 1707/02 | 35 | Brokvar | Addun Brokvar is formed under the leadership of Ven-Dryk and Brokvar is split in two, the Brokvar capital remains Confederacy controlled |
 | 1715/03 | 43 | Brokvar | Ven-Dryk leads a rebellion against the IC <br> Brokvar is reunited <br> The Ymerodrol Empire begins to form |
 | 1720/03 | 48 | Brokvar | Addun Brokvar becomes the city of the Artificer Guild, after several discoveries lend itself to their trade |
 | 1721/02 | 49 | Brokvar | Alfread is born |
