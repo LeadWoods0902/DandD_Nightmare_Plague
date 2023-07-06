@@ -64,6 +64,19 @@
             }
           },
           {
+            "id": "b417301d6c0b94ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bdfef4567cbc2a8c",
             "type": "leaf",
             "state": {
@@ -103,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -177,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md",
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md",
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md"
+                "file": "Characters/PC/Quinn/Jasper Shatterborne.md"
               }
             }
           },
@@ -247,10 +260,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5202f0f566ae3779",
+  "active": "b417301d6c0b94ae",
   "lastOpenFiles": [
-    "Kaede's scales.md",
     "Narrative/Timelines/Quinn's Timeline.md",
+    "Kaede's scales.md",
     "Narrative/Timelines/Brannon's Timeline.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Bestiary/Beasts/Wilderbeast.md",

@@ -10,6 +10,17 @@
 ##### Name 
 Jasper Shatterborne
 
+
+##### Description
+Chestnut hair inches on top and shaved sides, your Genasi possesses a striking and unique hairstyle. The hair is artfully styled into a long braided high-set tail, which adds an element of elegance and practicality to their overall appearance.
+
+Complementing their distinctive hairstyle is their warm golden skin, evoking a radiant glow akin to sunlight filtering through the foliage of a dense forest. Their earthy complexion exudes a natural charm and hints at a deep connection with the elements.
+
+Accentuating their captivating features are eyes of a deep forest green, reminiscent of lush foliage and the tranquility found within secluded woodlands. These dark green eyes hold an air of wisdom and an innate connection to nature.
+
+As for attire, your Genasi has a preference for a green knee-length belted jumpsuit, providing a perfect blend of comfort and functionality. Padded with light wooden plates around their hips and chest, their outfit offers a subtle layer of protection while allowing for freedom of movement. The jumpsuit's green hue complements their natural coloring, further harmonizing their connection with the natural world.
+
+
 ##### Current Age
 25
 
