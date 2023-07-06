@@ -51,19 +51,6 @@
             }
           },
           {
-            "id": "d585e1f543adb79c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5202f0f566ae3779",
             "type": "leaf",
             "state": {
@@ -190,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
+                "file": "Narrative/Timelines/Quinn's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
+                "file": "Narrative/Timelines/Quinn's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md"
+                "file": "Narrative/Timelines/Quinn's Timeline.md"
               }
             }
           },
@@ -260,11 +247,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d585e1f543adb79c",
+  "active": "5202f0f566ae3779",
   "lastOpenFiles": [
     "Narrative/Timelines/Brannon's Timeline.md",
-    "Bestiary/Beasts/Wilderbeast.md",
     "Narrative/Timelines/Quinn's Timeline.md",
+    "Characters/PC/Brannon/Bismuth Shatterborne.md",
+    "Bestiary/Beasts/Wilderbeast.md",
     "Narrative/Timelines/Tom's Secret Timeline.md",
     "Narrative/Timelines/Marta's Timeline.md",
     "Narrative/Timelines/Aime's Secret Timeline.md",
@@ -273,7 +261,6 @@
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Narrative/Timelines/Timeline summary.md",
     "Characters/PC/Brannon/Primalas.md",
-    "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Characters/NPC/Seni/Lundgren Family/Amorella Lundgren.md",
     "Locations/Seni Isles/Gogledd-Ynys/Gogledd-Ynys.md",
     "The Duke of Woodfall.md",
