@@ -1,11 +1,9 @@
 |  year  | relative year |  location | event | 
 | ------ | ------------- | --------- | ----- |
-| | -184 | Seni | The Warlocks arrive |
-| | -163 | | Malkath Tribus does a thing |
-| 1576/03 | -96 | **Unknown** | Mazikeen is born - move this|
+| 1576/03 | -96 | **Unknown** | Mazikeen is born |
 | 1649/02 | -23 | Sunmaek | Duska Von Mori is born |
 | 1672/03 | 0 | Brokvar | Napella Lundgren is born |
-| 1693/03 | 21 | Eastern Seni Isles | Eastern Civil War begins | 
+| 1693/03 | 21 | Eastern Seni Isles | Eastern Civil War begins between LLawyr un Mawr and Esgid | 
 | 1695/02 | 23 | Eastern Seni Isles | Napella joins the war |
 | 1695/03 | 23 | Cyfandirol | Napella burns down the old capital of Rheilliwch <br> remains of capital washed down mountain |
 | 1996/02 | 24 | Seni | The  civil war ends |
