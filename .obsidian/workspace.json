@@ -90,7 +90,7 @@
             }
           },
           {
-            "id": "247bcb66101e161a",
+            "id": "75f38c0b5d706365",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -103,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Narrative/Timelines/Brannon's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Narrative/Timelines/Brannon's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md"
+                "file": "Narrative/Timelines/Brannon's Timeline.md"
               }
             }
           },
@@ -247,17 +247,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "247bcb66101e161a",
+  "active": "7bb33e458fc0bb84",
   "lastOpenFiles": [
-    "Narrative/Timelines/Brannon's Timeline.md",
-    "Narrative/Timelines/Timeline summary.md",
-    "Narrative/Timelines/Aime's Timeline.md",
-    "Narrative/Timelines/Tom's Secret Timeline.md",
-    "Narrative/Timelines/Marta's Timeline.md",
     "Narrative/Timelines/Quinn's Timeline.md",
-    "TODO.md",
+    "Narrative/Timelines/Marta's Timeline.md",
+    "Narrative/Timelines/Tom's Secret Timeline.md",
+    "Narrative/Timelines/Aime's Timeline.md",
     "Mortos' Tome.md",
+    "TODO.md",
+    "Narrative/Timelines/Brannon's Timeline.md",
     "Narrative/Narrative Overview.md",
+    "Narrative/Timelines/Timeline summary.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Kaede's scales.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
