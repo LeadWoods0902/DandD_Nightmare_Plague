@@ -5,8 +5,8 @@
 | ? | ? | ? | Seram is born |
 | ? | ? | ? | Malkath is born |
 | ? | ? | ? | Stronvan is born |
-| ? | ? | ? | Rolbam dies while experimenting |
-| ? | ? | ? | Seram dies |
-| ? | ? | ? | Malkath dies |
-| ? | ? | ? | Stronvan dies |
+| ? | ? | ? | Rolbam dies while experimenting with a new magic|
+| ? | ? | ? | Seram dies after being struck with a magical bolt|
+| ? | ? | ? | Malkath is executed magically |
+| ? | ? | ? | Stronvan is assassinated with a magical spell|
 | 1793 | 0 | [[Virmarr]] | Campaign begins |
