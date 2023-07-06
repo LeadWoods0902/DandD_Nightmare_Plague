@@ -15,9 +15,25 @@ A week prior to the events that unfolded in the Copper Cask, [[Mazikeen (Lady Ma
 
 ...
 
-Mazikeen is drawn to the sound of civil
+Mazikeen is drawn to the sound of civilisation, somewhere south of where she currently is
 
 ## [[Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview|The Forging Of The Minds]]
+
+In a non-determined order:
+### Rolbam
+Being a wizard
+
+### Seram
+Spying on someone
+
+### Malkath
+Discussing a pollitical
+
+### Stronvan
+Burning down a village
+
+
+
 
 ## [[Narrative/1 - The Worst days of their lives/5. The Auction/overview|The Auction]]
 
