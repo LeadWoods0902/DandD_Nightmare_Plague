@@ -6,6 +6,8 @@
 | TBC | TBC | [[Brokvar]] | [[The Duke of Woodfall]] is slain during the defence of Brokvar |
 | TBC | TBC | [[Theg Doruhl]] | Seram takes Mazikeen under his wing, beginning to teach her his grand array of skills
 | TBC | TBC | [[Gogledd-Ynys]] | Mazikeen begins working for [[Amorella Lundgren]] as a smuggler | 
-| TBC | TBC | [[Gogledd-Ynys]] | Amorella discovers Mazikeen's true intentions and puts a bounty on her head
+| TBC | TBC | [[Gogledd-Ynys]] | Amorella discovers Mazikeen's true intentions and puts a bounty on her head |
+| 1793 | 0 | [[Virmarr]] | Bounty hunters catch up with Mazikeen and her wife, killing them with a meteor spell | 
+| 1793 | 0 | [[Virmarr]] | Mazikeen 
 
 | 1793 | 0 | [[Virmarr]] | Campaign begins |
