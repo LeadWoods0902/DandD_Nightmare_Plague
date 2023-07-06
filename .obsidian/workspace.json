@@ -77,25 +77,12 @@
             }
           },
           {
-            "id": "380a750dbf5eb54c",
+            "id": "247bcb66101e161a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Narrative/Timelines/Aime's Timeline.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66d6297584c653c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/PC/Aime/Mazikeen of Woodfall.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -273,14 +260,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "380a750dbf5eb54c",
+  "active": "247bcb66101e161a",
   "lastOpenFiles": [
-    "Characters/NPC/Seni/Young Duchess Roderika.md",
-    "Narrative/Timelines/Aime's Timeline.md",
-    "Characters/PC/Aime/Mazikeen of Woodfall.md",
-    "Locations/Seni Isles/Llawyr un Mawr/Llawyr un Mawr.md",
-    "Narrative/Timelines/Timeline summary.md",
     "Narrative/Timelines/Brannon's Timeline.md",
+    "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
+    "Locations/Seni Isles/Llawyr un Mawr/The Ozeaux.md",
+    "Locations/Seni Isles/Llawyr un Mawr/Nirnon.md",
+    "Locations/Seni Isles/Llawyr un Mawr/Llawyr un Mawr.md",
+    "Narrative/Timelines/Aime's Timeline.md",
+    "Characters/NPC/Seni/Young Duchess Roderika.md",
+    "Characters/PC/Aime/Mazikeen of Woodfall.md",
+    "Narrative/Timelines/Timeline summary.md",
     "Locations/Chimo-Nahagi/Yamanohana.md",
     "Narrative/Timelines/Quinn's Timeline.md",
     "Characters/NPC/Chimo-Nahagi/Nieveler Genlen.md",
@@ -298,10 +288,7 @@
     "Locations/Sunmaek/Wadur.md",
     "Characters/NPC/Sunmaek/Master Librarian.md",
     "Characters/PC/Marta/Duska Von Mori.md",
-    "Mortos' tome.md",
     "Narrative/Timelines",
-    "Characters/PC/Tom/Rolbam Eins.md",
-    "Locations/Seni Isles/Esgid/-Esgid-.md",
     "Resources/items/Weapons/Omen.png",
     "Resources/Game Resources/Omen_Token.png",
     "Resources/Game Resources/Omen_FullArt.png",
