@@ -23,12 +23,25 @@
             }
           },
           {
+            "id": "4a61417932d284d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/Timelines/Timeline summary.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bdfef4567cbc2a8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Timelines/Brannon & Quinn's Timeline.md",
+                "file": "Narrative/Timelines/Marta's Timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Brannon & Quinn's Timeline.md",
+                "file": "Narrative/Timelines/Marta's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Brannon & Quinn's Timeline.md",
+                "file": "Narrative/Timelines/Marta's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Brannon & Quinn's Timeline.md"
+                "file": "Narrative/Timelines/Marta's Timeline.md"
               }
             }
           },
@@ -208,11 +221,13 @@
   },
   "active": "bdfef4567cbc2a8c",
   "lastOpenFiles": [
+    "Narrative/Timelines/Timeline summary.md",
+    "Narrative/Timelines/Marta's Timeline.md",
+    "Narrative/Timelines/Quinn's Timeline.md",
+    "Narrative/Timelines/Brannon's Timeline.md",
     "Narrative/Timelines/Aime's Timeline.md",
-    "Narrative/Timelines/Brannon & Quinn's Timeline.md",
     "Narrative/Timelines",
     "Narrative/Timelines/Tom's Timeline.md",
-    "Narrative/Timelines/Timeline summary.md",
     "Characters/PC/Tom/Rolbam Eins.md",
     "Locations/Seni Isles/Esgid/-Esgid-.md",
     "Narrative/Narrative Overview.md",
@@ -244,8 +259,6 @@
     "Resources/Full Art/PCs",
     "Characters/NPC/Seni/The crew of the Kilfenora.md",
     "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
-    "3. Rise from the Ashes.md",
-    "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
     "Narrative/1 - The Worst days of their lives/7. Upon Which The Party Is Founded",
     "Narrative/1 - The Worst days of their lives/5. The Auction",
