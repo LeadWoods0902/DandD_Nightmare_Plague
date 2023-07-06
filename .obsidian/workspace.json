@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f3c4f59bd395a297",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/weapons/Omen.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/weapons/Omen.md",
+                "file": "Narrative/Narrative Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/weapons/Omen.md",
+                "file": "Narrative/Narrative Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/weapons/Omen.md"
+                "file": "Narrative/Narrative Overview.md"
               }
             }
           },
@@ -180,13 +166,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3c4f59bd395a297",
+  "active": "3b9337552203ee87",
   "lastOpenFiles": [
+    "Characters/PC/Marta/Duska Von Mori.md",
+    "Items/weapons/Omen.md",
     "Locations/Sunmaek/Sunmaek.md",
     "Characters/Deities/Sunmaek/Olum Yilani.md",
     "Characters/Deities/Sunmaek/The Twins.md",
     "Characters/Deities/Sunmaek/Dogu Yilani.md",
-    "Items/weapons/Omen.md",
     "Characters/Deities/Sunmaek/Mortos.md",
     "Resources/items/Weapons/Omen.png",
     "Narrative/Narrative Overview.md",
@@ -220,7 +207,6 @@
     "Narrative/1 - The Worst days of their lives/7. Upon Which The Party Is Founded/overview.md",
     "Narrative/1 - The Worst days of their lives/7. Upon which the party is founded.md",
     "Narrative/1 - The Worst days of their lives/7. Upon Which The Party Is Founded",
-    "Narrative/1 - The Worst days of their lives/6. The Auction.md",
     "Narrative/1 - The Worst days of their lives/5. The Auction",
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds",
     "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes",
