@@ -103,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Timeline summary.md",
+                "file": "Narrative/Timelines/Aime's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Timeline summary.md",
+                "file": "Narrative/Timelines/Aime's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Timeline summary.md"
+                "file": "Narrative/Timelines/Aime's Timeline.md"
               }
             }
           },
@@ -247,17 +247,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c13d35f961ff7d3",
+  "active": "247bcb66101e161a",
   "lastOpenFiles": [
+    "Narrative/Timelines/Brannon's Timeline.md",
+    "Narrative/Timelines/Timeline summary.md",
     "Narrative/Timelines/Aime's Timeline.md",
     "Narrative/Timelines/Tom's Secret Timeline.md",
     "Narrative/Timelines/Marta's Timeline.md",
     "Narrative/Timelines/Quinn's Timeline.md",
-    "Narrative/Timelines/Brannon's Timeline.md",
     "TODO.md",
     "Mortos' Tome.md",
     "Narrative/Narrative Overview.md",
-    "Narrative/Timelines/Timeline summary.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Kaede's scales.md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",

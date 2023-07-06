@@ -15,7 +15,7 @@
 | 1715/03 | 43 | Brokvar | Ven-Dryk leads a rebellion against the IC <br> Brokvar is reunited <br> The Ymerodrol Empire begins to form |
 | 1720/03 | 48 | Brokvar | Addun Brokvar becomes the city of the Artificer Guild, after several discoveries lend itself to their trade |
 | 1721/02 | 49 | Brokvar | Alfread is born |
-
+| 1721 | --- | woodfall | Mazikeen is born |
 | 1731/01 | 59 | Brokvar | The Addun Brokvar Catastrophe |
 | 1753/02 | 81 | Sunmaek | Duska Discovers Mortos' tome | 
 | 1763/02 | 91 | Rheilliwch | Ymerodrol Empire flies its colours for the first time |
