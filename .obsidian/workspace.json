@@ -90,6 +90,19 @@
             }
           },
           {
+            "id": "66d6297584c653c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Aime/Mazikeen of Woodfall.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bdfef4567cbc2a8c",
             "type": "leaf",
             "state": {
@@ -103,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -177,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Characters/PC/Aime/Mazikeen of Woodfall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Characters/PC/Aime/Mazikeen of Woodfall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md"
+                "file": "Characters/PC/Aime/Mazikeen of Woodfall.md"
               }
             }
           },
@@ -247,10 +260,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "380a750dbf5eb54c",
+  "active": "66d6297584c653c3",
   "lastOpenFiles": [
-    "Narrative/Timelines/Timeline summary.md",
     "Narrative/Timelines/Aime's Timeline.md",
+    "Characters/PC/Aime/Mazikeen of Woodfall.md",
+    "Narrative/Timelines/Timeline summary.md",
     "Narrative/Timelines/Brannon's Timeline.md",
     "Locations/Chimo-Nahagi/Yamanohana.md",
     "Narrative/Timelines/Quinn's Timeline.md",
@@ -275,7 +289,6 @@
     "Locations/Seni Isles/Esgid/-Esgid-.md",
     "Narrative/Narrative Overview.md",
     "Locations/Seni Isles/Llawyr un Mawr/Llawyr un Mawr.md",
-    "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
     "Resources/items/Weapons/Omen.png",
     "Resources/Game Resources/Omen_Token.png",
     "Resources/Game Resources/Omen_FullArt.png",

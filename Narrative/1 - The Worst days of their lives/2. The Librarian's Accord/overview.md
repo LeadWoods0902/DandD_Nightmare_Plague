@@ -5,7 +5,7 @@
 - [[Elaine]]
 - [[Brovarra]]
 - Patrons
-- [[Mazikeen (Lady Maize of Woodfall)]]
+- [[Mazikeen of Woodfall]]
 
 ## Scene
 

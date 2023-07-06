@@ -1,1 +1,1 @@
-[[Mazikeen (Lady Maize of Woodfall)]]'s individual quest
+[[Mazikeen of Woodfall]]'s individual quest
