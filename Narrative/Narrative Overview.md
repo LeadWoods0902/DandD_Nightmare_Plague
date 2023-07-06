@@ -22,7 +22,7 @@ Mazikeen is drawn to the sound of civilisation, somewhere south of where she cur
 In a non-determined order:
 
 ### Rolbam
-In the courts of [[Duke Henselt]] of [[Llawyr un Mawr]] 
+In the courts of [[Duke Henselt]] of [[Llawyr un Mawr]], Rolbam is discussing
 
 ### Seram
 Spying on someone
