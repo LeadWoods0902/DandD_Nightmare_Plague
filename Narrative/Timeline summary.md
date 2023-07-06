@@ -4,13 +4,13 @@
 | 1649/02 | -23 | Sunmaek | Duska Von Mori is born |
 | 1672/03 | 0 | Brokvar | Napella Lundgren is born |
 | 1689/03 | 17 | Eastern Seni Isles | Eastern Civil War begins between LLawyr un Mawr and Esgid | 
-| 1691/01 | 19 | Eastern Seni Isles | Esgid receives support from Rheilliwch | 
+| 1691/01 | 19 | Eastern Seni Isles | Esgid receives controversial support from Rheilliwch | 
 | 1695/02 | 23 | Eastern Seni Isles | Napella joins the war |
-| 1695/03 | 23 | Cyfandirol | Napella burns down the old capital of Rheilliwch <br> remains of capital washed down mountain |
+| 1695/03 | 23 | Cyfandirol | Napella burns down the capital of Rheilliwch |
 | 1996/02 | 24 | Seni | The  civil war ends |
 | 1698/03 | 26 | Brokvar | Napella Marries Ven-Dryk |
 | 1704/02 | 32 | Brokvar | Napella Lundgren gives birth to a daughter(Amorella Lundgren) |
-| 1706/03 | 34 | Brokvar | Amorella is sent away by her mother after whisperings of an IC conspiracy <br> The Butchering of Brokvar initiated by the Eastern Confederacy <br> Napella dies along with many of her subjects <br> Ven-Dryk's brother dies defending the royal family <br> Ven-Dryk is supplanted and the IC install a leader of their own. |
+| 1706/03 | 34 | Brokvar | Amorella is sent away by her mother after whisperings of an EC conspiracy <br> The Butchering of Brokvar initiated by the Eastern Confederacy <br> Napella dies along with many of her subjects <br> Ven-Dryk's brother dies defending the royal family <br> Ven-Dryk is supplanted and the IC install a leader of their own. |
 | 1707/02 | 35 | Brokvar | Addun Brokvar is formed under the leadership of Ven-Dryk and Brokvar is split in two, the Brokvar capital remains IC controlled |
 | 1715/03 | 43 | Brokvar | Ven-Dryk leads a rebellion against the IC <br> Brokvar is reunited <br> The Ymerodrol Empire begins to form |
 | 1720/03 | 48 | Brokvar | Addun Brokvar becomes the city of the Artificer Guild, after several discoveries lend itself to their trade |
