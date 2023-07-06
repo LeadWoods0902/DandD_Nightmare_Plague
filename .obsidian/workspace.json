@@ -64,6 +64,32 @@
             }
           },
           {
+            "id": "15e61ba1a61767ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "143129ade5e98c30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Chimo-Nahagi/Satsukiya.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bdfef4567cbc2a8c",
             "type": "leaf",
             "state": {
@@ -77,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md",
+                "file": "Locations/Chimo-Nahagi/Satsukiya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md",
+                "file": "Locations/Chimo-Nahagi/Satsukiya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md"
+                "file": "Locations/Chimo-Nahagi/Satsukiya.md"
               }
             }
           },
@@ -221,13 +247,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5202f0f566ae3779",
+  "active": "143129ade5e98c30",
   "lastOpenFiles": [
-    "Locations/Chimo-Nahagi/Chimo.md",
+    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+    "Locations/Chimo-Nahagi/Tsurukaze.md",
+    "Locations/Chimo-Nahagi/Yamanohana.md",
     "Narrative/Timelines/Quinn's Timeline.md",
-    "Narrative/Timelines/Marta's Timeline.md",
     "Narrative/Timelines/Timeline summary.md",
     "Narrative/Timelines/Tom's Timeline.md",
+    "Narrative/Timelines/Marta's Timeline.md",
+    "Locations/Chimo-Nahagi/Chimo.md",
     "Items/weapons/Omen.md",
     "Locations/Sunmaek/Sunmaek.md",
     "Locations/Sunmaek/Qotus.md",
@@ -247,7 +276,6 @@
     "Characters/Deities/Sunmaek/Olum Yilani.md",
     "Characters/Deities/Sunmaek/The Twins.md",
     "Characters/Deities/Sunmaek/Dogu Yilani.md",
-    "Characters/Deities/Sunmaek/Mortos.md",
     "Resources/items/Weapons/Omen.png",
     "Resources/Game Resources/Omen_Token.png",
     "Resources/Game Resources/Omen_FullArt.png",
@@ -258,8 +286,6 @@
     "Resources/Game Resources/terrain/Entangle.png",
     "Resources/Game Resources/runes/runes_master.png",
     "Resources/Game Resources/runes/rune_3.png",
-    "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Zenryoku.md",
     "Resources/Full Art/PCs",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
     "Narrative/1 - The Worst days of their lives/7. Upon Which The Party Is Founded",
