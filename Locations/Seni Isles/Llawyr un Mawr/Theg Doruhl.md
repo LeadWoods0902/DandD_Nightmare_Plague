@@ -1,1 +1,1 @@
-The capital of [[-Llawyr un Mawr-]]
+The capital of [[Llawyr un Mawr]]

@@ -20,8 +20,9 @@ Mazikeen is drawn to the sound of civilisation, somewhere south of where she cur
 ## [[Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview|The Forging Of The Minds]]
 
 In a non-determined order:
+
 ### Rolbam
-Being a wizard
+In the courts of [[Duke Henselt]] of [[Llawyr un Mawr]] 
 
 ### Seram
 Spying on someone
