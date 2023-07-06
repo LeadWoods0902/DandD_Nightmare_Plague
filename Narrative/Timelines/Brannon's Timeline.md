@@ -2,4 +2,5 @@
 | ------ | ------------- | --------- | ----- |
 |  1768 | -25 | [[Yamanohana]] | Bimsuth is born |
 | 1790 | -3 | [[Harukaze]] | Bismuth aids in the saving of Harukaze |
+| 1790 | -3 | near [[Harukaze]] | Bismuth and Jasper are caught by slavers in their sleep |
 | 1793 | 0 | [[Virmarr]] | Campaign begins |

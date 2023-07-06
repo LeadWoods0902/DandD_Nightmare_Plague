@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Narrative/Timelines/Brannon's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Narrative/Timelines/Brannon's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md"
+                "file": "Narrative/Timelines/Brannon's Timeline.md"
               }
             }
           },
@@ -260,10 +260,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "247bcb66101e161a",
+  "active": "8171912dce0c32c9",
   "lastOpenFiles": [
-    "Characters/NPC/Seni/Lundgren Family/Amorella Lundgren.md",
     "Narrative/Timelines/Aime's Timeline.md",
+    "Characters/NPC/Seni/Lundgren Family/Amorella Lundgren.md",
     "Locations/Seni Isles/Gogledd-Ynys/Gogledd-Ynys.md",
     "The Duke of Woodfall.md",
     "Characters/PC/Aime/Mazikeen.md",
