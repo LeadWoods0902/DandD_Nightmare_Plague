@@ -51,6 +51,19 @@
             }
           },
           {
+            "id": "d585e1f543adb79c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5202f0f566ae3779",
             "type": "leaf",
             "state": {
@@ -103,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Brannon's Timeline.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Brannon's Timeline.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Brannon's Timeline.md"
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md"
               }
             }
           },
@@ -247,12 +260,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7bb33e458fc0bb84",
+  "active": "d585e1f543adb79c",
   "lastOpenFiles": [
+    "Narrative/Timelines/Brannon's Timeline.md",
+    "Bestiary/Beasts/Wilderbeast.md",
     "Narrative/Timelines/Quinn's Timeline.md",
     "Narrative/Timelines/Tom's Secret Timeline.md",
     "Narrative/Timelines/Marta's Timeline.md",
-    "Narrative/Timelines/Brannon's Timeline.md",
     "Narrative/Timelines/Aime's Secret Timeline.md",
     "Characters/PC/Tom/Malkath Tribus.md",
     "Characters/PC/Tom/Alfread.md",
@@ -274,7 +288,6 @@
     "Characters/NPC/Chimo-Nahagi/Nieveler Genlen.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Chimo-Nahagi/Harukaze.md",
-    "Locations/Chimo-Nahagi/Hakushin.md",
     "Narrative/Timelines",
     "Resources/items/Weapons/Omen.png",
     "Resources/Game Resources/Omen_Token.png",
