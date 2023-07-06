@@ -10,9 +10,6 @@
 ##### Name 
 Jasper Shatterborne
 
-
-
-
 ##### Current Age
 25
 
