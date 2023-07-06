@@ -2,7 +2,7 @@
 | ------ | ------------- | --------- | ----- |
 | 1649 | -144 | [[Wadur]] | [[Duska Von Mori]] is born |
 | --- | --- | --- | --- |
-| 1753 | -40 | [[Qotus]] | Duska Discovers [[Mortos' tome]] |
+| 1753 | -40 | [[Qotus]] | Duska Discovers [[Mortos' Tome]] |
 | 1753 | -40 | [[Qotus]] | Duska swears fealty to [[Mortos]] |
 | 1753 | -40 | [[Qotus]] | Duska swears is granted titled of [[Master Librarian]] |
 | --- | --- | --- | --- |
