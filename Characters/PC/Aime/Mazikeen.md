@@ -8,19 +8,10 @@ Mazikeen
 Young Adult, presumably over 50
 
 ##### Place of Origin
-Unknwon
+Unknown
 
 ##### Family
-
-Siblings: 
-- [[Lilim Everglade]]
-
-Parents:
-- [[The Duke of Woodfall]]
-- [[Mazikeen's Mother]]
-
-Other: 
-- Uncle: [[Seram Dos]]
+Unknown
 
 ##### Race
 Elf
@@ -33,7 +24,6 @@ Chaotic Good
 
 ##### Personality Traits
 - Humorous
-- Greedy
 - Free-spirited
 
 ##### Long Term Goals
@@ -45,10 +35,8 @@ Chaotic Good
 
 ##### Motivations
 
-
 ##### Flaws
-Past experiences with bad leadership have lead me to feel the need to be in charge of any group I join
+Greedy
 
 ##### Affiliations
-- [[The Travelling Merchants]]
-- [[The other slaves]]
+Unknown
