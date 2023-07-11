@@ -36,9 +36,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "cf9e25e76a4f946e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Timeline summary.md",
+                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Timeline summary.md",
+                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Timeline summary.md"
+                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Untitled.md"
               }
             }
           },
@@ -182,8 +195,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c13d35f961ff7d3",
+  "active": "cf9e25e76a4f946e",
   "lastOpenFiles": [
+    "Characters/PC/Aime/Mazikeen.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Untitled.md",
+    "Narrative/Timelines/Timeline summary.md",
     "Resources/Full Art/SmokeWarrior.png",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Resources/Full Art/Misstress Chen.png",
@@ -195,7 +211,6 @@
     "Resources/Tokens/Nomli_Token.png",
     "Resources/Tokens/SmokeWarrior_Token.png",
     "Resources/Tokens/token_1.png",
-    "Narrative/Timelines/Timeline summary.md",
     "Narrative/Timelines/Aime's Timeline.md",
     "Narrative/Timelines/Marta's Timeline.md",
     "Narrative/Timelines/Quinn's Timeline.md",
@@ -213,7 +228,6 @@
     "Characters/NPC/Seni/Lundgren Family/Amorella Lundgren.md",
     "Locations/Seni Isles/Gogledd-Ynys/Gogledd-Ynys.md",
     "The Duke of Woodfall.md",
-    "Characters/PC/Aime/Mazikeen.md",
     "Additional Lore/The death of the duke of Woodfall.md",
     "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
     "Locations/Seni Isles/Llawyr un Mawr/The Ozeaux.md",
