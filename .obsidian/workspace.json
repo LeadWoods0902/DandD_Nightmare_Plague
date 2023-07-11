@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew Rules/Dash & Sprint.md",
+                "file": "Homebrew Rules/Necrotic Damage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew Rules/Dash & Sprint.md",
+                "file": "Homebrew Rules/Necrotic Damage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew Rules/Dash & Sprint.md",
+                "file": "Homebrew Rules/Necrotic Damage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew Rules/Dash & Sprint.md"
+                "file": "Homebrew Rules/Necrotic Damage.md"
               }
             }
           },
@@ -210,6 +210,9 @@
   },
   "active": "e437d1cc4cf2598e",
   "lastOpenFiles": [
+    "Homebrew Rules/Dash & Sprint.md",
+    "Homebrew Rules/Ingenuity.md",
+    "Homebrew Rules/Gang Fights.md",
     "Homebrew Rules/Critical Health Levels.md",
     "Homebrew Rules/Critical Death Save.md",
     "Narrative/Timelines/Aime's Timeline.md",
@@ -243,9 +246,6 @@
     "Bestiary/Beasts/Wilderbeast.md",
     "Characters/PC/Tom/Malkath Tribus.md",
     "Characters/PC/Tom/Alfread.md",
-    "Characters/PC/Brannon/Primalas.md",
-    "Characters/NPC/Seni/Lundgren Family/Amorella Lundgren.md",
-    "Locations/Seni Isles/Gogledd-Ynys/Gogledd-Ynys.md",
     "Narrative/Timelines",
     "Resources/Full Art/PCs",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
