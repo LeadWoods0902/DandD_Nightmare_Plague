@@ -8,13 +8,13 @@ Mazikeen has a bounty placed on her after [[Lupella Lundgren]] realises that Maz
 ### Character Info
 
 ##### Name 
-Bismuth Shatterborne
+Mazikeen 
 
 ##### Current Age
-25
+63 
 
 ##### Place of Origin
-[[Yamanohana]]
+[[Woodfall]]
 
 ##### Family
 
@@ -26,7 +26,7 @@ Siblings:
 - [[Pyrrhus Shatterborne]]
 
 Parents:
-- [[Magnar Shatterborne]]
+- [[The Duke of Woodfall]]
 - [[Dolomite (Dola) Shimmerborne]]
 
 Other: 
