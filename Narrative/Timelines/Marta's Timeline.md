@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 | 1753 | -40 | [[Qotus]] | Duska Discovers [[Mortos' Tome]] |
 | 1753 | -40 | [[Qotus]] | Duska swears fealty to [[Mortos]] |
-| 1753 | -40 | [[Qotus]] | Duska swears is granted titled of [[Master Librarian]] |
+| 1753 | -40 | [[Qotus]] | Duska is granted title of [[Master Librarian]] |
 | --- | --- | --- | --- |
 | 1759 | -34 | ??? | Duska recovers [[Omen]] | 
 | 1793 | 0 | [[Virmarr]] | Campaign begins |

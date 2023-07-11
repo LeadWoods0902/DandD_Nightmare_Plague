@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Narrative/Timelines/Marta's Timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Narrative/Timelines/Marta's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Narrative/Timelines/Marta's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md"
+                "file": "Narrative/Timelines/Marta's Timeline.md"
               }
             }
           },
@@ -195,8 +196,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e1039d2d2f9d2b8",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
+    "Narrative/Timelines/Aime's Timeline.md",
     "Homebrew Rules/To Hit Rules.md",
     "Homebrew Rules/- Rules -.md",
     "Homebrew Rules/Status Effects & Battle Conditions.md",
@@ -207,7 +209,6 @@
     "Homebrew Rules/Gang Fights.md",
     "Homebrew Rules/Critical Health Levels.md",
     "Homebrew Rules/Critical Death Save.md",
-    "Narrative/Timelines/Aime's Timeline.md",
     "Narrative/Timelines/Timeline summary.md",
     "Characters/PC/Aime/Mazikeen.md",
     "Characters/PC/Aime/Mazikeen (private).md",
