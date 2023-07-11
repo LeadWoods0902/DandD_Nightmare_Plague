@@ -19,15 +19,11 @@ Mazikeen
 ##### Family
 
 Siblings: 
-- [[Jasper Shatterborne]]
-- [[Beryllis Shatterborne]]
-- [[Nicodemus Shatterborne]]
-- [[Vesper Shatterborne]]
-- [[Pyrrhus Shatterborne]]
+- [[
 
 Parents:
 - [[The Duke of Woodfall]]
-- [[Dolomite (Dola) Shimmerborne]]
+- [[Mazikeen's Mother]]
 
 Other: 
 - Niece [[Ynessa Shatterborne]]
