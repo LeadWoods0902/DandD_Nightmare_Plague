@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Timelines/Marta's Timeline.md",
+                "file": "Ven-Kylgh's Wife.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Narrative Overview.md",
+                "file": "Ven-Kylgh's Wife.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Narrative Overview.md",
+                "file": "Ven-Kylgh's Wife.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Narrative Overview.md"
+                "file": "Ven-Kylgh's Wife.md"
               }
             }
           },
@@ -195,8 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "1e1039d2d2f9d2b8",
   "lastOpenFiles": [
+    "TODO.md",
+    "The Travelling Merchants.md",
+    "The other slaves.md",
+    "Kaede's scales.md",
+    "Hinele's Mother.md",
+    "Quests/Contracts/The Somnivore.md",
+    "Narrative/Narrative Overview.md",
     "Items/Mortos' Tome.md",
     "Mortos' Tome.md",
     "Narrative/Timelines/Aime's Timeline.md",
@@ -216,9 +223,6 @@
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Characters/PC/Marta/Duska Von Mori.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
-    "Characters/NPC/Seni/LLawyr Yn Mawr/Mazikeen's Mother.md",
-    "Characters/NPC/Seni/LLawyr Yn Mawr/Lilim Everglade.md",
-    "Locations/Seni Isles/Llawyr un Mawr/Woodfall.md",
     "Resources/Full Art/Lilim.png",
     "Resources/Full Art/SmokeWarrior.png",
     "Resources/Full Art/Misstress Chen.png",
@@ -229,10 +233,6 @@
     "Resources/Tokens/Niahl_Token.png",
     "Resources/Tokens/Nomli_Token.png",
     "Resources/Tokens/SmokeWarrior_Token.png",
-    "Narrative/Timelines/Marta's Timeline.md",
-    "Narrative/Timelines/Quinn's Timeline.md",
-    "Narrative/Narrative Overview.md",
-    "Narrative/Timelines/Tom's Secret Timeline.md",
     "Narrative/Timelines",
     "Resources/Full Art/PCs",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
