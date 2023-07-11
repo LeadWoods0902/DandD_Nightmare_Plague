@@ -1,4 +1,4 @@
-Everyone can dash as an action, doubling your movement speed (1.5x).
+Everyone can dash as an action, doubling your movement speed for that turn.
 
 By consuming your action and bonus action, you can attempt to sprint, granting increased movement speed (2x). To sprint, you must succeed a dc 10 \[Athletics\] check or stumble and end your turn early (positionally, your roll % of the desired distance travelled of your base speed)
 
