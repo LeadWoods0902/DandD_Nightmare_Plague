@@ -19,31 +19,27 @@ Mazikeen
 ##### Family
 
 Siblings: 
-- [[
+- [[Lilim Everglade]]
 
 Parents:
 - [[The Duke of Woodfall]]
 - [[Mazikeen's Mother]]
 
 Other: 
-- Niece [[Ynessa Shatterborne]]
+- Uncle: [[Seram Dos]]
 
 ##### Race
-Genasi Pure Blood
+Elf
 
 ##### Class
-Path of the Beast Barbarian
+Soul-Reaper Barbarian
 
 ##### Alignment
-Neutral Good
+Chaotic Good
 
 ##### Personality Traits
-- Adventurous
-- Curious
-- Restless
-- Open-Minded
-- Energetic
-- Independent
+- Humorous
+- 
 
 ##### Long Term Goals
 - Would like to find a way home or a new home
