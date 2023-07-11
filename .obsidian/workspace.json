@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Marta's Timeline.md",
+                "file": "Narrative/Narrative Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Marta's Timeline.md",
+                "file": "Narrative/Narrative Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Marta's Timeline.md"
+                "file": "Narrative/Narrative Overview.md"
               }
             }
           },
