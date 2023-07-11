@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew Rules/Necrotic Damage.md",
+                "file": "Homebrew Rules/Psychic Damage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew Rules/Necrotic Damage.md",
+                "file": "Homebrew Rules/Psychic Damage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew Rules/Necrotic Damage.md",
+                "file": "Homebrew Rules/Psychic Damage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew Rules/Necrotic Damage.md"
+                "file": "Homebrew Rules/Psychic Damage.md"
               }
             }
           },
@@ -211,6 +210,7 @@
   },
   "active": "e437d1cc4cf2598e",
   "lastOpenFiles": [
+    "Homebrew Rules/Necrotic Damage.md",
     "Homebrew Rules/Dash & Sprint.md",
     "Homebrew Rules/Ingenuity.md",
     "Homebrew Rules/Gang Fights.md",
@@ -246,7 +246,6 @@
     "Kaede's scales.md",
     "Bestiary/Beasts/Wilderbeast.md",
     "Characters/PC/Tom/Malkath Tribus.md",
-    "Characters/PC/Tom/Alfread.md",
     "Narrative/Timelines",
     "Resources/Full Art/PCs",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
@@ -261,4 +260,3 @@
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas"
   ]
-}
