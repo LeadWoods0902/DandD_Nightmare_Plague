@@ -39,16 +39,15 @@ Chaotic Good
 
 ##### Personality Traits
 - Humorous
-- 
+- Greedy
+- Free-spirited
 
 ##### Long Term Goals
-- Would like to find a way home or a new home
-- Take revenge on those that brought you to Seni
+- Find out who the girl in the picture is
+- Find a way to recover memory
+- Find out why you awoke in a crater
 
-##### Additional Goals
-- Learn more about Family History
-- Commune with Kaede
-- Find out why Chimo-Nahagi locals are aiding in foreign slave trade
+##### Secondary Goals
 
 ##### Motivations
 After being taken as a slave and forced into a new land, Bismuth desires to find a place of safety for himself and his brother. And if possible take revenge on those that brought him here.
