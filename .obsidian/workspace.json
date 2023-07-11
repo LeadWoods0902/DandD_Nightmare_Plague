@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Homebrew Rules/Critical Death Save.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Homebrew Rules/Critical Death Save.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Homebrew Rules/Critical Death Save.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md"
+                "file": "Homebrew Rules/Critical Death Save.md"
               }
             }
           },
@@ -208,11 +208,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "e437d1cc4cf2598e",
   "lastOpenFiles": [
+    "Homebrew Rules/Critical Health Levels.md",
+    "Homebrew Rules/Critical Death Save.md",
+    "Narrative/Timelines/Aime's Timeline.md",
     "Narrative/Timelines/Timeline summary.md",
     "Characters/PC/Aime/Mazikeen.md",
-    "Narrative/Timelines/Aime's Timeline.md",
     "Characters/PC/Aime/Mazikeen (private).md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Characters/PC/Marta/Duska Von Mori.md",
@@ -244,8 +246,6 @@
     "Characters/PC/Brannon/Primalas.md",
     "Characters/NPC/Seni/Lundgren Family/Amorella Lundgren.md",
     "Locations/Seni Isles/Gogledd-Ynys/Gogledd-Ynys.md",
-    "Characters/NPC/Seni/LLawyr Yn Mawr/The Duke of Woodfall.md",
-    "Additional Lore/The death of the duke of Woodfall.md",
     "Narrative/Timelines",
     "Resources/Full Art/PCs",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
