@@ -54,7 +54,7 @@ Neutral Good
 - Would like to find a way home or a new home
 - Take revenge on those that brought you to Seni
 
-##### Additional Goals
+##### Secondary Goals
 - Learn more about Family History
 - Commune with Kaede
 - Find out why Chimo-Nahagi locals are aiding in foreign slave trade

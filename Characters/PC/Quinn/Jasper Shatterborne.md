@@ -48,7 +48,7 @@ Chaotic Good
 - Would like to find a way home or a new home
 - Take revenge on those that brought you to Seni
 
-### Additional Goals
+##### Secondary Goals
 
 
 ### Motivations

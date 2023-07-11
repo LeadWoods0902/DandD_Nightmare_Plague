@@ -50,7 +50,7 @@ Chaotic Good
 ##### Secondary Goals
 
 ##### Motivations
-After being taken as a slave and forced into a new land, Bismuth desires to find a place of safety for himself and his brother. And if possible take revenge on those that brought him here.
+
 
 ##### Flaws
 Past experiences with bad leadership have lead me to feel the need to be in charge of any group I join
