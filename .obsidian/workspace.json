@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Characters/PC/Aime/Mazikeen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Characters/PC/Aime/Mazikeen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md"
+                "file": "Characters/PC/Aime/Mazikeen.md"
               }
             }
           },
@@ -208,15 +208,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e1039d2d2f9d2b8",
+  "active": "cf9e25e76a4f946e",
   "lastOpenFiles": [
+    "Narrative/Timelines/Aime's Timeline.md",
     "Characters/PC/Aime/Mazikeen.md",
     "Characters/PC/Aime/Mazikeen (private).md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Characters/PC/Marta/Duska Von Mori.md",
     "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Characters/NPC/Seni/LLawyr Yn Mawr/Mazikeen's Mother.md",
-    "Narrative/Timelines/Aime's Timeline.md",
     "Characters/NPC/Seni/LLawyr Yn Mawr/Lilim Everglade.md",
     "Locations/Seni Isles/Llawyr un Mawr/Woodfall.md",
     "Resources/Full Art/Lilim.png",

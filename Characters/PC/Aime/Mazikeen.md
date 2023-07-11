@@ -27,9 +27,6 @@ Chaotic Good
 - Free-spirited
 
 ##### Long Term Goals
-- Find out who the girl in the picture is
-- Find a way to recover memory
-- Find out why you awoke in a crater
 
 ##### Secondary Goals
 
