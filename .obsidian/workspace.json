@@ -36,19 +36,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1f75da8c5d4a14b4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Full Art/SmokeWarrior.png"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Full Art/SmokeWarrior.png",
+                "file": "Narrative/Timelines/Timeline summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Full Art/SmokeWarrior.png",
+                "file": "Narrative/Timelines/Timeline summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Full Art/SmokeWarrior.png"
+                "file": "Narrative/Timelines/Timeline summary.md"
               }
             }
           },
@@ -192,8 +182,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f75da8c5d4a14b4",
+  "active": "4c13d35f961ff7d3",
   "lastOpenFiles": [
+    "Resources/Full Art/SmokeWarrior.png",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Resources/Full Art/Misstress Chen.png",
     "Resources/Full Art/Marta_Backstory_merchant.png",
@@ -204,7 +195,6 @@
     "Resources/Tokens/Nomli_Token.png",
     "Resources/Tokens/SmokeWarrior_Token.png",
     "Resources/Tokens/token_1.png",
-    "Resources/Full Art/SmokeWarrior.png",
     "Narrative/Timelines/Timeline summary.md",
     "Narrative/Timelines/Aime's Timeline.md",
     "Narrative/Timelines/Marta's Timeline.md",
