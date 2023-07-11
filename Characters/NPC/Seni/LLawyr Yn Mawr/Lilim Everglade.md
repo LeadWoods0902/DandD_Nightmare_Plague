@@ -1,3 +1,3 @@
 ![[Lilim.png]]
 
-[[Mazikeen]]'s little sister and resident of [[Woodfall]]
+[[Mazikeen (private)]]'s little sister and resident of [[Woodfall]]

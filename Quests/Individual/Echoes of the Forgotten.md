@@ -1,1 +1,1 @@
-[[Mazikeen]]'s individual quest
+[[Mazikeen (private)]]'s individual quest

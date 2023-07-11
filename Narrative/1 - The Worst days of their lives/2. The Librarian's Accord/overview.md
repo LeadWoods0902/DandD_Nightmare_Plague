@@ -5,7 +5,7 @@
 - [[Elaine]]
 - [[Brovarra]]
 - Patrons
-- [[Mazikeen]]
+- [[Mazikeen (private)]]
 
 ## Scene
 

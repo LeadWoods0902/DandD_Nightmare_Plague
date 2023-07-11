@@ -1,6 +1,6 @@
 |  year  | relative year |  location | event | 
 | ------ | ------------- | --------- | ----- |
-| 1730 | -63 | [[Woodfall]] | [[Mazikeen]] is born |
+| 1730 | -63 | [[Woodfall]] | [[Mazikeen (private)]] is born |
 | 1751 | -42 | [[Woodfall]] | Mazikeen is sent to the courts of [[Young Duchess Roderika]] to serve as a lady of the court |
 | 1758 | -35 | [[Brokvar]] | [[The Duke of Woodfall]] is slain during by [[Ven-Dryk]] during the reclamation of Brokvar |
 | 1758 | -35 | [[Theg Doruhl]] | [[Seram Dos]] takes Mazikeen under his wing, beginning to teach her his grand array of skills
