@@ -3,7 +3,7 @@ Daughter of [[The Duke of Woodfall]]: Mazikeen was sent to the capital at a youn
 
 Mazikeen took to her lessons with [[Seram Dos]], her uncle and court spy master of [[Llawyr un Mawr]]. After [[The death of the duke of Woodfall]] Seram took Mazikeen under his wing, training her in the art of deception - Mazikeen took employ as a smuggler and vowed revenge on the Brokvar Court
 
-Mazikeen has a bounty placed on her after [[Lupella Lundgren]] realises that Mazikeen aims to kill her grandfather [[Ven-Dryk]]. While fleeing, Mazikeen and her wife are attacked by a gravity sorcerer; and bringing down a great glowing green 
+Mazikeen has a bounty placed on her after [[Lupella Lundgren]] realises that Mazikeen aims to kill her grandfather [[Ven-Dryk]]. While fleeing, Mazikeen and her wife are attacked by a gravity sorcerer; and bringing down a great green missile slays them both. Mazikeen is fortunately resurrected during Alfread's master's experiment.
 
 ### Character Info
 
