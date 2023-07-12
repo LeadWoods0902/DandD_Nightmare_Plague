@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Squire Lirel.md",
+                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Squire Lirel.md",
+                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Squire Lirel.md"
+                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md"
               }
             }
           },
@@ -209,10 +209,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "1e1039d2d2f9d2b8",
   "lastOpenFiles": [
-    "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
     "Characters/NPC/Seni/LLawyr Yn Mawr/Squire Lirel.md",
+    "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
     "Characters/NPC/Seni/LLawyr Yn Mawr/Duke Lucius Crestwood of WoodFall.md",
     "Locations/Seni Isles/Llawyr un Mawr/Keep of Llawyr un Mawr.md",
     "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes/overview.md",
