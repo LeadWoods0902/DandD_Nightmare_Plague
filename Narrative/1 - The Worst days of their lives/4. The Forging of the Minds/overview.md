@@ -7,19 +7,7 @@
 
 ## Story
 
-Roll a d4
-
-### Rolbam
-Being a wizard
-
-### Seram
-Spying on someone
-
-### Malkath
-Discussing a pollitical
-
-### Stronvan
-Burning down a village
+"Roll a d4"
 
 ---
 Next: [[6. The Auction]]
