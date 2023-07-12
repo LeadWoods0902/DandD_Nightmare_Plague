@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ven-Kylgh's Wife.md",
+                "file": "Quests/Contracts/The Somnivore.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ven-Kylgh's Wife.md",
+                "file": "Quests/Contracts/The Somnivore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ven-Kylgh's Wife.md",
+                "file": "Quests/Contracts/The Somnivore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ven-Kylgh's Wife.md"
+                "file": "Quests/Contracts/The Somnivore.md"
               }
             }
           },
@@ -198,6 +198,7 @@
   "active": "1e1039d2d2f9d2b8",
   "lastOpenFiles": [
     "TODO.md",
+    "Ven-Kylgh's Wife.md",
     "The Travelling Merchants.md",
     "The other slaves.md",
     "Kaede's scales.md",
@@ -222,7 +223,6 @@
     "Characters/PC/Aime/Mazikeen (private).md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Characters/PC/Marta/Duska Von Mori.md",
-    "Characters/PC/Quinn/Jasper Shatterborne.md",
     "Resources/Full Art/Lilim.png",
     "Resources/Full Art/SmokeWarrior.png",
     "Resources/Full Art/Misstress Chen.png",
