@@ -49,19 +49,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "41c01a57a7d668cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Squire Lirel.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -211,8 +198,9 @@
   },
   "active": "1e1039d2d2f9d2b8",
   "lastOpenFiles": [
-    "Characters/NPC/Seni/LLawyr Yn Mawr/Squire Lirel.md",
+    "The Bulwark of Brokvar.md",
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Squire Lirel.md",
     "Characters/NPC/Seni/LLawyr Yn Mawr/Duke Lucius Crestwood of WoodFall.md",
     "Locations/Seni Isles/Llawyr un Mawr/Keep of Llawyr un Mawr.md",
     "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes/overview.md",
@@ -236,7 +224,6 @@
     "Homebrew Rules/Necrotic Damage.md",
     "Homebrew Rules/Dash & Sprint.md",
     "Homebrew Rules/Ingenuity.md",
-    "Homebrew Rules/Gang Fights.md",
     "Resources/Full Art/Lilim.png",
     "Resources/Full Art/SmokeWarrior.png",
     "Resources/Full Art/Misstress Chen.png",
