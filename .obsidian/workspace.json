@@ -49,9 +49,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "840a3ae1020e90e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keep of Llawyr un Mawr.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
+                "file": "Keep of Llawyr un Mawr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
+                "file": "Keep of Llawyr un Mawr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md"
+                "file": "Keep of Llawyr un Mawr.md"
               }
             }
           },
@@ -196,10 +208,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e1039d2d2f9d2b8",
+  "active": "840a3ae1020e90e0",
   "lastOpenFiles": [
-    "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes/overview.md",
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
+    "Keep of Llawyr un Mawr.md",
+    "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes/overview.md",
     "Narrative/1 - The Worst days of their lives/5. The Auction/overview.md",
     "5. The Auction.md",
     "Quests/Contracts/The Somnivore.md",
@@ -223,7 +236,6 @@
     "Homebrew Rules/Gang Fights.md",
     "Homebrew Rules/Critical Health Levels.md",
     "Homebrew Rules/Critical Death Save.md",
-    "Narrative/Timelines/Timeline summary.md",
     "Resources/Full Art/Lilim.png",
     "Resources/Full Art/SmokeWarrior.png",
     "Resources/Full Art/Misstress Chen.png",

@@ -11,7 +11,7 @@
 
 Seram's reputation as a spymaster precedes them, whispered among nobles and commoners alike. They possess an uncanny ability to uncover the deepest secrets and expose traitors within the court, making them an invaluable asset to the king.
 
-Open to Tom walking down one of the grand halls of the 
+Open to Tom walking down one of the grand halls of the [[Keep of Llawyr un Mawr]]
 
 ---
 Next: [[Narrative/1 - The Worst days of their lives/5. The Auction/overview|5. The Auction]]
