@@ -49,9 +49,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41c01a57a7d668cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Squire Lirel.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
+                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Squire Lirel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
+                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Squire Lirel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md"
+                "file": "Characters/NPC/Seni/LLawyr Yn Mawr/Squire Lirel.md"
               }
             }
           },
@@ -196,10 +209,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e1039d2d2f9d2b8",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
-    "Characters/NPC/Seni/LLawyr Yn Mawr/Duke Lucius Crestwood of WoodFall.md",
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Squire Lirel.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Duke Lucius Crestwood of WoodFall.md",
     "Locations/Seni Isles/Llawyr un Mawr/Keep of Llawyr un Mawr.md",
     "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes/overview.md",
     "Narrative/1 - The Worst days of their lives/5. The Auction/overview.md",
@@ -223,7 +237,6 @@
     "Homebrew Rules/Dash & Sprint.md",
     "Homebrew Rules/Ingenuity.md",
     "Homebrew Rules/Gang Fights.md",
-    "Homebrew Rules/Critical Health Levels.md",
     "Resources/Full Art/Lilim.png",
     "Resources/Full Art/SmokeWarrior.png",
     "Resources/Full Art/Misstress Chen.png",

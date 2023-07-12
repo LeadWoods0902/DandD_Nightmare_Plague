@@ -1,9 +1,7 @@
 ## Characters
+- [[Seram Dos]]
+- [[Squire Lirel]]
 
-
-## Scene
-
----
 
 ## Story
 
