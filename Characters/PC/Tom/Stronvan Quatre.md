@@ -19,7 +19,9 @@ Special Abilities:
 	- Whenever the Paladin's allies are reduced to 0 hit points or are killed in combat, the Paladin gains a cumulative +1 bonus to attack and damage rolls against the enemy responsible for their allies' demise. This bonus resets to +0 if the Paladin fails to successfully attack the enemy. This ability reflects the Paladin's unwavering determination to avenge fallen comrades and protect their allies.
 
 
+---
 
+#### Corrupted Touch
 Corrupted Touch: Starting at 2nd level, you can use your action to touch a creature and channel your corrupted energies. The target must make a Constitution saving throw against your spell save DC or suffer necrotic damage equal to your Charisma modifier + your Paladin level. Additionally, the target's maximum hit points are reduced by the amount of damage dealt until it finishes a long rest.
 
 Malevolent Healing: Starting at 6th level, you can use Corrupted Touch to restore your own hit points. When you use this feature on yourself, you regain hit points equal to twice the amount of necrotic damage dealt.
