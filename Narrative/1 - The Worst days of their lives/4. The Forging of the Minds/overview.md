@@ -16,7 +16,9 @@ scene ends just before Seram dies
 
 #### "Roll a d4 -> get Stronvan"
 
-Stronvan is burning and pillaging a village "in the name of the empire" (they are suspected of harbouring enemies of the empire). Stronvan begins to burn down the village. The villagers make a stand against S
+Stronvan is burning and pillaging a village "in the name of the empire" (they are suspected of harbouring enemies of the empire). Stronvan begins to burn down the village. The villagers make a stand against Stronvan and Stronvan plows through them with no trouble
+
+
 scene ends just before Stronvan dies
 
 
