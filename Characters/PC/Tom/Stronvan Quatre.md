@@ -17,3 +17,15 @@ Special Abilities:
 
 - **Resolute Avenger**
 	- Whenever the Paladin's allies are reduced to 0 hit points or are killed in combat, the Paladin gains a cumulative +1 bonus to attack and damage rolls against the enemy responsible for their allies' demise. This bonus resets to +0 if the Paladin fails to successfully attack the enemy. This ability reflects the Paladin's unwavering determination to avenge fallen comrades and protect their allies.
+
+
+
+Corrupted Touch: Starting at 2nd level, you can use your action to touch a creature and channel your corrupted energies. The target must make a Constitution saving throw against your spell save DC or suffer necrotic damage equal to your Charisma modifier + your Paladin level. Additionally, the target's maximum hit points are reduced by the amount of damage dealt until it finishes a long rest.
+
+Malevolent Healing: Starting at 6th level, you can use Corrupted Touch to restore your own hit points. When you use this feature on yourself, you regain hit points equal to twice the amount of necrotic damage dealt.
+
+Cursed Purge: Starting at 11th level, when you use Corrupted Touch, you have the option to expend one of your spell slots to amplify its effects. The target must make a Constitution saving throw with disadvantage against your spell save DC. On a failed save, the target suffers additional necrotic damage equal to the level of the expended spell slot.
+
+Aura of Affliction: At 15th level, your malevolent influence permeates your surroundings. The range of your Corrupted Touch feature increases to 10 feet. Additionally, hostile creatures that start their turn within this range suffer necrotic damage equal to your Charisma modifier.
+
+Twisted Redemption: At 20th level, your ability to corrupt and twist reaches its peak. Once per long rest, you can use Corrupted Touch on a fallen creature to return it to life as a vile undead servant. The creature becomes a loyal, mindless servant under your control, acting on your commands until destroyed.

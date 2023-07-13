@@ -49,9 +49,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "727821d4590d1456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Tom/Alfread.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3075f3d8f22fbf3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Tom/Stronvan Quatre.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
+                "file": "Characters/PC/Tom/Stronvan Quatre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
+                "file": "Characters/PC/Tom/Stronvan Quatre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md"
+                "file": "Characters/PC/Tom/Stronvan Quatre.md"
               }
             }
           },
@@ -196,10 +222,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e1039d2d2f9d2b8",
+  "active": "3075f3d8f22fbf3e",
   "lastOpenFiles": [
-    "The Bastion.md",
+    "Characters/PC/Tom/Alfread.md",
+    "Characters/PC/Tom/Seram Dos.md",
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
+    "The Bastion.md",
     "Characters/NPC/Seni/LLawyr Yn Mawr/Squire Lirel.md",
     "Characters/NPC/Seni/LLawyr Yn Mawr/Duke Lucius Crestwood of WoodFall.md",
     "Locations/Seni Isles/Llawyr un Mawr/Keep of Llawyr un Mawr.md",
@@ -222,8 +250,6 @@
     "Homebrew Rules/Status Effects & Battle Conditions.md",
     "Homebrew Rules/Psychic Damage.md",
     "Homebrew Rules/Necrotic Damage.md",
-    "Homebrew Rules/Dash & Sprint.md",
-    "Homebrew Rules/Ingenuity.md",
     "Resources/Full Art/Lilim.png",
     "Resources/Full Art/SmokeWarrior.png",
     "Resources/Full Art/Misstress Chen.png",
