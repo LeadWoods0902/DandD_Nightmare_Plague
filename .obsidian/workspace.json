@@ -38,30 +38,20 @@
             }
           },
           {
-            "id": "1e1039d2d2f9d2b8",
+            "id": "f18afb8464fc161c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/weapons/Omen.md",
+                "file": "Narrative/Timelines/Aime's Timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "98d08b5c2fb02fcd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Full Art/Crew of the Kilfenora/Seraphina.png"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Full Art/Crew of the Kilfenora/Seraphina.png",
+                "file": "Narrative/Timelines/Aime's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Full Art/Crew of the Kilfenora/Seraphina.png",
+                "file": "Narrative/Timelines/Aime's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Full Art/Crew of the Kilfenora/Seraphina.png"
+                "file": "Narrative/Timelines/Aime's Timeline.md"
               }
             }
           },
@@ -205,10 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "98d08b5c2fb02fcd",
+  "active": "f18afb8464fc161c",
   "lastOpenFiles": [
-    "Resources/Full Art/Crew of the Kilfenora/Thorkil.png",
+    "Resources/rw0a3gxm39qa1.mp4",
+    "Characters/PC/Aime/Mazikeen.md",
+    "Narrative/Narrative Overview.md",
+    "Narrative/Timelines/Timeline summary.md",
+    "Items/weapons/Omen.md",
     "Resources/Full Art/Crew of the Kilfenora/Seraphina.png",
+    "Resources/Full Art/Crew of the Kilfenora/Thorkil.png",
     "Resources/Full Art/Crew of the Kilfenora/Magnus.png",
     "Resources/Full Art/Crew of the Kilfenora/Jareth.png",
     "Resources/Full Art/Crew of the Kilfenora/Isabella.png",
@@ -217,9 +212,6 @@
     "Resources/items/Weapons/Omen.png",
     "Resources/items/Weapons/swordStaff.png",
     "Resources/items/Weapons/War Mace of Desolation.png",
-    "Characters/PC/Aime/Mazikeen.md",
-    "Resources/Tokens/Spotcol_Legion_Token.png",
-    "Items/weapons/Omen.md",
     "Items/weapons/Arc Rifle.md",
     "Items/weapons/Branch of the Brokvar Tree.md",
     "Items/weapons/SwordStaff.md",
@@ -242,8 +234,6 @@
     "The Travelling Merchants.md",
     "The other slaves.md",
     "Kaede's scales.md",
-    "Hinele's Mother.md",
-    "Narrative/Narrative Overview.md",
     "Narrative/Timelines",
     "Resources/Full Art/PCs",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
