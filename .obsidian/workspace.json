@@ -41,12 +41,9 @@
             "id": "1e1039d2d2f9d2b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Resources/Tokens/Mazikeen_token.png"
               }
             }
           }
@@ -125,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
+                "file": "Resources/Tokens/Mazikeen_token.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
+                "file": "Resources/Tokens/Mazikeen_token.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md"
+                "file": "Resources/Tokens/Mazikeen_token.png"
               }
             }
           },
@@ -195,11 +192,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "1e1039d2d2f9d2b8",
   "lastOpenFiles": [
+    "Characters/PC/Aime/Mazikeen.md",
+    "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
+    "Characters/PC/Aime",
     "Resources/Full Art/PCs/Mazikeen_SoulForm.png",
     "5. The Auction.md",
-    "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
     "Items/Obsidian Vanguard Set.md",
     "Characters/PC/Tom/Alfread.md",
     "Characters/PC/Tom/Stronvan Quatre.md",
@@ -232,7 +231,6 @@
     "Resources/Full Art/mistress.png",
     "Resources/Tokens/Niahl_Token.png",
     "Resources/Tokens/Nomli_Token.png",
-    "Resources/Tokens/SmokeWarrior_Token.png",
     "Narrative/Timelines",
     "Resources/Full Art/PCs",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
@@ -242,7 +240,6 @@
     "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes",
     "Resources/Full Art/Djinn",
     "Resources/Full Art/New folder",
-    "Resources/rw0a3gxm39qa1.mp4",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas"
