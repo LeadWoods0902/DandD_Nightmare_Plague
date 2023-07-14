@@ -1,1 +1,1 @@
-![[Mazikeen_Karambits.png]]
+![[Mazikeen_Karambit.png]]
