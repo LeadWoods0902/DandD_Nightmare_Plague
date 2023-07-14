@@ -54,12 +54,9 @@
             "id": "98d08b5c2fb02fcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Resources/Full Art/Crew of the Kilfenora/Seraphina.png"
               }
             }
           }
@@ -138,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
+                "file": "Resources/Full Art/Crew of the Kilfenora/Seraphina.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
+                "file": "Resources/Full Art/Crew of the Kilfenora/Seraphina.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md"
+                "file": "Resources/Full Art/Crew of the Kilfenora/Seraphina.png"
               }
             }
           },
@@ -210,23 +207,24 @@
   },
   "active": "98d08b5c2fb02fcd",
   "lastOpenFiles": [
+    "Resources/Full Art/Crew of the Kilfenora/Thorkil.png",
+    "Resources/Full Art/Crew of the Kilfenora/Seraphina.png",
+    "Resources/Full Art/Crew of the Kilfenora/Magnus.png",
+    "Resources/Full Art/Crew of the Kilfenora/Jareth.png",
+    "Resources/Full Art/Crew of the Kilfenora/Isabella.png",
+    "Resources/Full Art/Crew of the Kilfenora/Ingo.png",
+    "Resources/items/Weapons/arcRifle.png",
     "Resources/items/Weapons/Omen.png",
-    "Resources/Tokens/Spotcol_Legion_Token.png",
-    "Resources/Tokens/token_1(1).png",
-    "Resources/token_1(1).png",
-    "Resources/Full Art/Spotcol_Legion.png",
+    "Resources/items/Weapons/swordStaff.png",
     "Resources/items/Weapons/War Mace of Desolation.png",
-    "Resources/items/Weapons/Screenshot 2023-07-14 181503.png",
+    "Characters/PC/Aime/Mazikeen.md",
+    "Resources/Tokens/Spotcol_Legion_Token.png",
     "Items/weapons/Omen.md",
     "Items/weapons/Arc Rifle.md",
     "Items/weapons/Branch of the Brokvar Tree.md",
     "Items/weapons/SwordStaff.md",
-    "Resources/Tokens/Mazikeen_token.png",
-    "Resources/Tokens/Mazikeen_SoulForm.png",
-    "Characters/PC/Aime/Mazikeen.md",
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
     "Characters/PC/Aime",
-    "Resources/Full Art/PCs/Mazikeen_SoulForm.png",
     "5. The Auction.md",
     "Items/Obsidian Vanguard Set.md",
     "Characters/PC/Tom/Alfread.md",
@@ -246,7 +244,6 @@
     "Kaede's scales.md",
     "Hinele's Mother.md",
     "Narrative/Narrative Overview.md",
-    "Resources/Full Art/Lilim.png",
     "Narrative/Timelines",
     "Resources/Full Art/PCs",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
