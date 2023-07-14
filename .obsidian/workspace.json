@@ -54,9 +54,12 @@
             "id": "98d08b5c2fb02fcd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/items/Weapons/Omen.png"
+                "file": "Characters/PC/Aime/Mazikeen.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -135,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/items/Weapons/Omen.png",
+                "file": "Characters/PC/Aime/Mazikeen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/items/Weapons/Omen.png",
+                "file": "Characters/PC/Aime/Mazikeen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/items/Weapons/Omen.png"
+                "file": "Characters/PC/Aime/Mazikeen.md"
               }
             }
           },
@@ -207,6 +210,7 @@
   },
   "active": "98d08b5c2fb02fcd",
   "lastOpenFiles": [
+    "Resources/items/Weapons/Omen.png",
     "Resources/Tokens/Spotcol_Legion_Token.png",
     "Resources/Tokens/token_1(1).png",
     "Resources/token_1(1).png",
@@ -243,7 +247,6 @@
     "Hinele's Mother.md",
     "Narrative/Narrative Overview.md",
     "Resources/Full Art/Lilim.png",
-    "Resources/Full Art/SmokeWarrior.png",
     "Narrative/Timelines",
     "Resources/Full Art/PCs",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
