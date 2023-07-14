@@ -4,5 +4,5 @@ Rolling less than a target's AC deals no damage
 
 | AC | zero damage| half damage | full damage | [[Critical Hits]] |
 | --- | --- | --- | --- | --- |
-| 10 | 1..9 | 10 | 11..([[Critical Range]] - 1) | Critical Range..INF |
-| 15 | 1..14 | 15 | 16..([[Critical Range]] - 1) | Critical Range..INF |
+| 10 | 1..9 | 10 | 11..20 | Critical Range..INF |
+| 15 | 1..14 | 15 | 16..20 | Critical Range..INF |
