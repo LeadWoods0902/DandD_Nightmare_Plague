@@ -41,9 +41,12 @@
             "id": "1e1039d2d2f9d2b8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Tokens/Mazikeen_token.png"
+                "file": "Items/weapons/Omen.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -122,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Tokens/Mazikeen_token.png",
+                "file": "Items/weapons/Omen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Tokens/Mazikeen_token.png",
+                "file": "Items/weapons/Omen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Tokens/Mazikeen_token.png"
+                "file": "Items/weapons/Omen.md"
               }
             }
           },
@@ -194,6 +197,7 @@
   },
   "active": "1e1039d2d2f9d2b8",
   "lastOpenFiles": [
+    "Resources/Tokens/Mazikeen_token.png",
     "Resources/Tokens/Mazikeen_SoulForm.png",
     "Resources/Tokens/token_1(1).png",
     "Characters/PC/Aime/Mazikeen.md",
@@ -230,7 +234,6 @@
     "Resources/Full Art/gingerhuman.png",
     "Resources/Full Art/female_runeWarrior.png",
     "Resources/Full Art/mistress.png",
-    "Resources/Tokens/Niahl_Token.png",
     "Narrative/Timelines",
     "Resources/Full Art/PCs",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
