@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/weapons/Mazikeen's Karambits.md",
+                "file": "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/weapons/Mazikeen's Karambits.md",
+                "file": "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/weapons/Mazikeen's Karambits.md",
+                "file": "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/weapons/Mazikeen's Karambits.md"
+                "file": "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md"
               }
             }
           },
@@ -195,15 +195,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "f18afb8464fc161c",
   "lastOpenFiles": [
+    "Additional Lore/Nature/Nëor.md",
+    "Locations/Seni Isles/Brokvar/-Brokvar-.md",
+    "Locations/Seni Isles/Brokvar/Brokvar.md",
+    "Items/weapons/Mazikeen's Karambits.md",
     "Homebrew Rules/Critical Hits.md",
     "Items/Syrthni.md",
     "Items/potion of healing.md",
     "Items/Effiria.md",
     "Items/Burn Salve.md",
     "Mazikeen_Karambits.png.md",
-    "Items/weapons/Mazikeen's Karambits.md",
     "Resources/items/Weapons/Mazikeen_Karambit.png",
     "Resources/items/Screenshot 2023-07-14 234212.png",
     "Resources/Screenshot 2023-07-14 234212.png",
@@ -232,9 +235,6 @@
     "Characters/PC/Tom/Seram Dos.md",
     "The Bastion.md",
     "Characters/NPC/Seni/LLawyr Yn Mawr/Squire Lirel.md",
-    "Characters/NPC/Seni/LLawyr Yn Mawr/Duke Lucius Crestwood of WoodFall.md",
-    "Locations/Seni Isles/Llawyr un Mawr/Keep of Llawyr un Mawr.md",
-    "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes/overview.md",
     "Narrative/Timelines",
     "Resources/Full Art/PCs",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
