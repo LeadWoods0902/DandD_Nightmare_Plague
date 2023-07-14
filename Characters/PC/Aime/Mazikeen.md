@@ -27,10 +27,13 @@ Chaotic Good
 - Free-spirited
 
 ##### Long Term Goals
+Unknown
 
 ##### Secondary Goals
+Unknown
 
 ##### Motivations
+Unknown
 
 ##### Flaws
 Greedy
