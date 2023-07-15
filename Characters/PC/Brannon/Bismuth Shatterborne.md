@@ -67,7 +67,6 @@ Past experiences with bad leadership have lead me to feel the need to be in char
 - [[The Travelling Merchants]]
 - [[The other slaves]] + Primalas
 
-
 ---
 ### Backstory
 
