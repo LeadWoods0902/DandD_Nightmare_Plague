@@ -1,1 +1,5 @@
-![[GeodeSplitter_Kevin.png]]I
+![[GeodeSplitter_Kevin.png]]
+
+
+
+hi 

@@ -54,9 +54,12 @@
             "id": "cd604a690741a484",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/items/Weapons/GeodeSplitter_Kevin.png"
+                "file": "Items/weapons/The Geode Splitter (Kevin).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -135,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/items/Weapons/GeodeSplitter_Kevin.png",
+                "file": "Items/weapons/The Geode Splitter (Kevin).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/items/Weapons/GeodeSplitter_Kevin.png",
+                "file": "Items/weapons/The Geode Splitter (Kevin).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/items/Weapons/GeodeSplitter_Kevin.png"
+                "file": "Items/weapons/The Geode Splitter (Kevin).md"
               }
             }
           },
@@ -207,10 +210,10 @@
   },
   "active": "cd604a690741a484",
   "lastOpenFiles": [
+    "Resources/items/Weapons/GeodeSplitter_Kevin.png",
     "Resources/items/Weapons/Omen.png",
     "Resources/items/Weapons/War Mace of Desolation.png",
     "Resources/items/Weapons/Mazikeen_Karambit.png",
-    "Resources/items/Weapons/GeodeSplitter_Kevin.png",
     "Resources/items/Weapons/arcRifle.png",
     "Items/weapons/The Geode Splitter (Kevin).md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
