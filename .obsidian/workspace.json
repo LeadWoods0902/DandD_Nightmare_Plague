@@ -56,7 +56,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Resources/items/Weapons/Omen.png"
+                "file": "Resources/items/Weapons/GeodeSplitter_Kevin.png"
               }
             }
           }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/items/Weapons/Omen.png",
+                "file": "Resources/items/Weapons/GeodeSplitter_Kevin.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/items/Weapons/Omen.png",
+                "file": "Resources/items/Weapons/GeodeSplitter_Kevin.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/items/Weapons/Omen.png"
+                "file": "Resources/items/Weapons/GeodeSplitter_Kevin.png"
               }
             }
           },
@@ -207,6 +207,7 @@
   },
   "active": "cd604a690741a484",
   "lastOpenFiles": [
+    "Resources/items/Weapons/Omen.png",
     "Resources/items/Weapons/War Mace of Desolation.png",
     "Resources/items/Weapons/Mazikeen_Karambit.png",
     "Resources/items/Weapons/GeodeSplitter_Kevin.png",
@@ -221,7 +222,6 @@
     "Resources/Tokens/Mazikeen_token.png",
     "Resources/Tokens/Jasper_Token.png",
     "Resources/Tokens/Duska_Token.png",
-    "Resources/Tokens/Bismuth_Token.png",
     "Additional Lore/Nature/Nëor.md",
     "Locations/Seni Isles/Brokvar/-Brokvar-.md",
     "Locations/Seni Isles/Brokvar/Brokvar.md",
