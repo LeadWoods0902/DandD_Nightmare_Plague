@@ -30,8 +30,6 @@ Parents:
 - [[Magnar Shatterborne]]
 - [[Dolomite (Dola) Shimmerborne]]
 
-Other: 
-- Niece [[Ynessa Shatterborne]]
 
 ##### Race
 Genasi Pure Blood
@@ -56,7 +54,7 @@ Neutral Good
 
 ##### Secondary Goals
 - Learn more about Family History
-- Commune with Kaede
+- Commune with the o
 - Find out why Chimo-Nahagi locals are aiding in foreign slave trade
 
 ##### Motivations

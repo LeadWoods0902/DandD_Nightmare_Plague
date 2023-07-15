@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Timelines/Brannon's Timeline.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Brannon's Timeline.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Brannon's Timeline.md",
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Brannon's Timeline.md"
+                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md"
               }
             }
           },
@@ -249,6 +249,7 @@
   },
   "active": "7bb33e458fc0bb84",
   "lastOpenFiles": [
+    "Narrative/Timelines/Brannon's Timeline.md",
     "Narrative/Narrative Overview.md",
     "The Bastion.md",
     "Resources/items/Weapons/War Mace of Desolation.png",
@@ -280,7 +281,6 @@
     "Characters/NPC/Seni/Brokvar/Elaine.md",
     "Narrative/Timelines/Tom's Secret Timeline.md",
     "Narrative/Timelines/Timeline summary.md",
-    "Narrative/Timelines/Brannon's Timeline.md",
     "Narrative/Timelines/Quinn's Timeline.md",
     "Narrative/Timelines/Marta's Timeline.md",
     "Narrative/Timelines/Aime's Timeline.md",
