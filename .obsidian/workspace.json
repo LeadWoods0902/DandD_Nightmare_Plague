@@ -38,12 +38,64 @@
             }
           },
           {
-            "id": "f18afb8464fc161c",
+            "id": "7bb33e458fc0bb84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
+                "file": "Narrative/Timelines/Brannon's Timeline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5202f0f566ae3779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/Timelines/Quinn's Timeline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdfef4567cbc2a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/Timelines/Marta's Timeline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a61417932d284d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/Timelines/Tom's Secret Timeline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75f38c0b5d706365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/Timelines/Aime's Timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
+                "file": "Narrative/Timelines/Brannon's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
+                "file": "Narrative/Timelines/Brannon's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md"
+                "file": "Narrative/Timelines/Brannon's Timeline.md"
               }
             }
           },
@@ -195,46 +247,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f18afb8464fc161c",
+  "active": "7bb33e458fc0bb84",
   "lastOpenFiles": [
-    "Resources/Full Art/Mazikeen.png",
-    "Additional Lore/Nature/Nëor.md",
-    "Locations/Seni Isles/Brokvar/-Brokvar-.md",
-    "Locations/Seni Isles/Brokvar/Brokvar.md",
+    "Narrative/Narrative Overview.md",
+    "The Bastion.md",
+    "Resources/items/Weapons/War Mace of Desolation.png",
+    "Resources/items/Weapons/Mazikeen_Karambit.png",
+    "Resources/Tokens/Spotcol_Legion_Token.png",
+    "Resources/Tokens/SmokeWarrior_Token.png",
+    "Resources/Tokens/Mazikeen_SoulForm.png",
+    "Resources/Full Art/gingerhuman.png",
+    "Resources/Full Art/female_runeWarrior.png",
+    "Resources/Full Art/Spotcol_Legion.png",
+    "Resources/Full Art/SmokeWarrior.png",
+    "Resources/Full Art/Smoke.png",
+    "Quests/Contracts/The Somnivore.md",
+    "Locations/Seni Isles/Llawyr un Mawr/Keep of Llawyr un Mawr.md",
     "Items/weapons/Mazikeen's Karambits.md",
-    "Homebrew Rules/Critical Hits.md",
-    "Items/Syrthni.md",
     "Items/potion of healing.md",
+    "Items/Syrthni.md",
+    "Items/Obsidian Vanguard Set.md",
+    "Items/Mortos' Tome.md",
     "Items/Effiria.md",
     "Items/Burn Salve.md",
-    "Mazikeen_Karambits.png.md",
-    "Resources/items/Weapons/Mazikeen_Karambit.png",
-    "Resources/items/Screenshot 2023-07-14 234212.png",
-    "Resources/Screenshot 2023-07-14 234212.png",
-    "Screenshot 2023-07-14 234212.png",
-    "Narrative/Timelines/Aime's Timeline.md",
-    "Resources/rw0a3gxm39qa1.mp4",
-    "Characters/PC/Aime/Mazikeen.md",
-    "Narrative/Narrative Overview.md",
+    "Homebrew Rules/Critical Hits.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Young Duchess Roderika.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Squire Lirel.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Mazikeen's Mother.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Lilim Everglade.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Duke Lucius Crestwood of WoodFall.md",
+    "Characters/NPC/Seni/Brokvar/The Mistress.md",
+    "Characters/NPC/Seni/Brokvar/Elaine.md",
+    "Narrative/Timelines/Tom's Secret Timeline.md",
     "Narrative/Timelines/Timeline summary.md",
-    "Items/weapons/Omen.md",
-    "Resources/Full Art/Crew of the Kilfenora/Seraphina.png",
-    "Resources/Full Art/Crew of the Kilfenora/Thorkil.png",
-    "Resources/Full Art/Crew of the Kilfenora/Magnus.png",
-    "Resources/Full Art/Crew of the Kilfenora/Jareth.png",
-    "Resources/Full Art/Crew of the Kilfenora/Isabella.png",
-    "Resources/Full Art/Crew of the Kilfenora/Ingo.png",
-    "Items/weapons/Arc Rifle.md",
-    "Items/weapons/Branch of the Brokvar Tree.md",
-    "Items/weapons/SwordStaff.md",
-    "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
-    "Characters/PC/Aime",
-    "5. The Auction.md",
-    "Items/Obsidian Vanguard Set.md",
-    "Characters/PC/Tom/Alfread.md",
-    "Characters/PC/Tom/Stronvan Quatre.md",
-    "Characters/PC/Tom/Seram Dos.md",
-    "The Bastion.md",
+    "Narrative/Timelines/Brannon's Timeline.md",
+    "Narrative/Timelines/Quinn's Timeline.md",
+    "Narrative/Timelines/Marta's Timeline.md",
+    "Narrative/Timelines/Aime's Timeline.md",
+    "Mortos' Tome.md",
     "Narrative/Timelines",
     "Resources/Full Art/PCs",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
@@ -243,6 +293,8 @@
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds",
     "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes",
     "Resources/Full Art/Djinn",
+    "Resources/Full Art/New folder",
+    "Resources/rw0a3gxm39qa1.mp4",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas"
