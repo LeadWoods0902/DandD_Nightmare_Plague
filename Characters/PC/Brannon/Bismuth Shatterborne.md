@@ -55,6 +55,7 @@ Neutral Good
 - Learn more about Family History
 - Commune with the other Greater Dragons
 - Find out why Chimo-Nahagi locals are aiding in foreign slave trade
+- Keeping Jasper safe
 
 ##### Motivations
 After being taken as a slave and forced into a new land, Bismuth desires to find a place of safety for himself and his brother. And if possible take revenge on those that brought him here.
