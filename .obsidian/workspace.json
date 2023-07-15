@@ -56,7 +56,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Resources/items/Weapons/arcRifle.png"
+                "file": "Resources/items/Weapons/Omen.png"
               }
             }
           }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/items/Weapons/arcRifle.png",
+                "file": "Resources/items/Weapons/Omen.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/items/Weapons/arcRifle.png",
+                "file": "Resources/items/Weapons/Omen.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/items/Weapons/arcRifle.png"
+                "file": "Resources/items/Weapons/Omen.png"
               }
             }
           },
@@ -207,7 +207,10 @@
   },
   "active": "cd604a690741a484",
   "lastOpenFiles": [
+    "Resources/items/Weapons/War Mace of Desolation.png",
+    "Resources/items/Weapons/Mazikeen_Karambit.png",
     "Resources/items/Weapons/GeodeSplitter_Kevin.png",
+    "Resources/items/Weapons/arcRifle.png",
     "Items/weapons/The Geode Splitter (Kevin).md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Resources/Full Art/Greater Dragons/Kaede.png",
@@ -219,7 +222,6 @@
     "Resources/Tokens/Jasper_Token.png",
     "Resources/Tokens/Duska_Token.png",
     "Resources/Tokens/Bismuth_Token.png",
-    "Resources/Full Art/Mazikeen.png",
     "Additional Lore/Nature/Nëor.md",
     "Locations/Seni Isles/Brokvar/-Brokvar-.md",
     "Locations/Seni Isles/Brokvar/Brokvar.md",
@@ -230,7 +232,6 @@
     "Items/Effiria.md",
     "Items/Burn Salve.md",
     "Mazikeen_Karambits.png.md",
-    "Resources/items/Weapons/Mazikeen_Karambit.png",
     "Narrative/Timelines/Aime's Timeline.md",
     "Resources/rw0a3gxm39qa1.mp4",
     "Characters/PC/Aime/Mazikeen.md",
