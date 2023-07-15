@@ -30,7 +30,6 @@ Parents:
 - [[Magnar Shatterborne]]
 - [[Dolomite (Dola) Shimmerborne]]
 
-
 ##### Race
 Genasi Pure Blood
 
