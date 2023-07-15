@@ -43,15 +43,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/weapons/Kevin.md",
+                "file": "Items/weapons/The Geode Splitter (Kevin).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd604a690741a484",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/items/Weapons/arcRifle.png"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/weapons/Kevin.md",
+                "file": "Resources/items/Weapons/arcRifle.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/weapons/Kevin.md",
+                "file": "Resources/items/Weapons/arcRifle.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/weapons/Kevin.md"
+                "file": "Resources/items/Weapons/arcRifle.png"
               }
             }
           },
@@ -195,11 +205,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6dcd6f525f22d628",
+  "active": "cd604a690741a484",
   "lastOpenFiles": [
-    "Resources/Pasted image 20230715110847.png",
+    "Resources/items/Weapons/GeodeSplitter_Kevin.png",
+    "Items/weapons/The Geode Splitter (Kevin).md",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
-    "Items/weapons/Kevin.md",
     "Resources/Full Art/Greater Dragons/Kaede.png",
     "Narrative/Timelines/Timeline summary.md",
     "Resources/Full Art/Djinn/Sansom.png",
@@ -221,7 +231,6 @@
     "Items/Burn Salve.md",
     "Mazikeen_Karambits.png.md",
     "Resources/items/Weapons/Mazikeen_Karambit.png",
-    "Resources/items/Screenshot 2023-07-14 234212.png",
     "Narrative/Timelines/Aime's Timeline.md",
     "Resources/rw0a3gxm39qa1.mp4",
     "Characters/PC/Aime/Mazikeen.md",
