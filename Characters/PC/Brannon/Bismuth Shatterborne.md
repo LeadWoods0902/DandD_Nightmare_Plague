@@ -54,7 +54,7 @@ Neutral Good
 
 ##### Secondary Goals
 - Learn more about Family History
-- Commune with the o
+- Commune with the other Greater Dragons
 - Find out why Chimo-Nahagi locals are aiding in foreign slave trade
 
 ##### Motivations
