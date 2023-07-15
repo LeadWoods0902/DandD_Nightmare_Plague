@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
+                "file": "Items/weapons/Kevin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
+                "file": "Items/weapons/Kevin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md",
+                "file": "Items/weapons/Kevin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Brannon/Bismuth Shatterborne.md"
+                "file": "Items/weapons/Kevin.md"
               }
             }
           },
@@ -197,8 +197,10 @@
   },
   "active": "6dcd6f525f22d628",
   "lastOpenFiles": [
-    "Resources/Full Art/Greater Dragons/Kaede.png",
+    "Resources/Pasted image 20230715110847.png",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
+    "Items/weapons/Kevin.md",
+    "Resources/Full Art/Greater Dragons/Kaede.png",
     "Narrative/Timelines/Timeline summary.md",
     "Resources/Full Art/Djinn/Sansom.png",
     "Resources/Full Art/Djinn/Auroris.png",
@@ -220,7 +222,6 @@
     "Mazikeen_Karambits.png.md",
     "Resources/items/Weapons/Mazikeen_Karambit.png",
     "Resources/items/Screenshot 2023-07-14 234212.png",
-    "Resources/Screenshot 2023-07-14 234212.png",
     "Narrative/Timelines/Aime's Timeline.md",
     "Resources/rw0a3gxm39qa1.mp4",
     "Characters/PC/Aime/Mazikeen.md",
@@ -234,7 +235,6 @@
     "5. The Auction.md",
     "Items/Obsidian Vanguard Set.md",
     "Characters/PC/Tom/Alfread.md",
-    "Characters/PC/Tom/Stronvan Quatre.md",
     "Narrative/Timelines",
     "Resources/Full Art/PCs",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
