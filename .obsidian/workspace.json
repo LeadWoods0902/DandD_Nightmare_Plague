@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
+                "file": "Kaede's scale.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
+                "file": "Kaede's scale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
+                "file": "Kaede's scale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md"
+                "file": "Kaede's scale.md"
               }
             }
           },
@@ -198,6 +197,7 @@
   },
   "active": "cd604a690741a484",
   "lastOpenFiles": [
+    "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Chimo-Nahagi/The Forest of Mori.md",
     "Narrative/Timelines/Timeline summary.md",
@@ -209,7 +209,6 @@
     "Locations/Chimo-Nahagi/Major Locations",
     "Narrative/Timelines/Brannon's Timeline.md",
     "Locations/Chimo-Nahagi/Major Locations/Yamanohana.md",
-    "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
     "Locations/Chimo-Nahagi/Major Locations/Tsurukaze.md",
     "Locations/Chimo-Nahagi/Major Locations/Nagaregawa.md",
     "Locations/Chimo-Nahagi/Major Locations/Kirioka.md",
