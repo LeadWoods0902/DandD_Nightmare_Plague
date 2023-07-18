@@ -5,7 +5,11 @@ A large island consisting of the two countries [[Chimo]] and [[Nahagi]]. Divided
 
 - Understand the immortal and powerful existence of Djinn but generally do not acknowledge them as Deities.
 
-#### Major Locations
+#### Major Cities
+- [[Harugawa]]
+- [[Satsukaze]]
+
+#### Major Towns
 - [[Yamanohana]]
 - [[Tsurukaze]]
 - [[Satsukiya]]
@@ -15,4 +19,3 @@ A large island consisting of the two countries [[Chimo]] and [[Nahagi]]. Divided
 - [[Hayatsuyu]]
 - [[Nagaregawa]]
 
-- [[Harugawa]]

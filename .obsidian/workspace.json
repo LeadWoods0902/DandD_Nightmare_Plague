@@ -51,6 +51,19 @@
             }
           },
           {
+            "id": "a300e4c2f87c8d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Sunmaek/Major Locations/Satsukaze.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "383262a1c69ef561",
             "type": "leaf",
             "state": {
@@ -64,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Sunmaek/Major Locations/Harugawa.md",
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Sunmaek/Major Locations/Harugawa.md",
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Sunmaek/Major Locations/Harugawa.md"
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md"
               }
             }
           },
@@ -208,8 +221,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "383262a1c69ef561",
+  "active": "cd604a690741a484",
   "lastOpenFiles": [
+    "Locations/Sunmaek/Major Locations/Satsukaze.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Sunmaek/Major Locations/Harugawa.md",
     "Locations/Chimo-Nahagi/Chimo.md",
@@ -247,7 +261,6 @@
     "Resources/items/Weapons/Omen.png",
     "Resources/items/Weapons/War Mace of Desolation.png",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
-    "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
     "Resources/rw0a3gxm39qa1.mp4",
     "Characters/PC/Aime",
     "Narrative/Timelines",
