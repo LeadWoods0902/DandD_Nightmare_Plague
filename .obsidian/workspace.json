@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Yamanohana.md",
+                "file": "Narrative/Timelines/Brannon's Timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Yamanohana.md",
+                "file": "Narrative/Timelines/Brannon's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Yamanohana.md",
+                "file": "Narrative/Timelines/Brannon's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Yamanohana.md"
+                "file": "Narrative/Timelines/Brannon's Timeline.md"
               }
             }
           },
@@ -197,6 +197,7 @@
   },
   "active": "cd604a690741a484",
   "lastOpenFiles": [
+    "Locations/Chimo-Nahagi/Yamanohana.md",
     "Locations/Chimo-Nahagi/Satsukiya.md",
     "Locations/Chimo-Nahagi/Tsurukaze.md",
     "Locations/Chimo-Nahagi/Nahagi.md",
@@ -232,7 +233,6 @@
     "Items/potion of healing.md",
     "Items/Effiria.md",
     "Items/Burn Salve.md",
-    "Mazikeen_Karambits.png.md",
     "Resources/rw0a3gxm39qa1.mp4",
     "Characters/PC/Aime",
     "Narrative/Timelines",
