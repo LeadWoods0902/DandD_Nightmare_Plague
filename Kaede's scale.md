@@ -1,1 +1,1 @@
-An object with magical properties
+![[Pasted image 20230718162745.png]]An object with magical properties
