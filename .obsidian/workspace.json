@@ -49,9 +49,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "383262a1c69ef561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Sunmaek/Major Locations/Harugawa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "file": "Locations/Sunmaek/Major Locations/Harugawa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "file": "Locations/Sunmaek/Major Locations/Harugawa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md"
+                "file": "Locations/Sunmaek/Major Locations/Harugawa.md"
               }
             }
           },
@@ -195,8 +208,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd604a690741a484",
+  "active": "383262a1c69ef561",
   "lastOpenFiles": [
+    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+    "Locations/Sunmaek/Major Locations/Harugawa.md",
     "Locations/Chimo-Nahagi/Chimo.md",
     "Locations/Chimo-Nahagi/Major Locations/Hakushin.md",
     "Locations/Chimo-Nahagi/Major Locations/Kirioka.md",
@@ -205,7 +220,6 @@
     "Kaede's scale.md",
     "Resources/Pasted image 20230718162745.png",
     "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
-    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Chimo-Nahagi/The Forest of Mori.md",
     "Narrative/Timelines/Timeline summary.md",
     "Locations/Chimo-Nahagi/Nahagi.md",
@@ -234,7 +248,6 @@
     "Resources/items/Weapons/War Mace of Desolation.png",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
-    "Additional Lore/Nature/Nëor.md",
     "Resources/rw0a3gxm39qa1.mp4",
     "Characters/PC/Aime",
     "Narrative/Timelines",

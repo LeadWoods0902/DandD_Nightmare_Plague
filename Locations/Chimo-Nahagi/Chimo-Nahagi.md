@@ -14,3 +14,5 @@ A large island consisting of the two countries [[Chimo]] and [[Nahagi]]. Divided
 - [[Kirioka]]
 - [[Hayatsuyu]]
 - [[Nagaregawa]]
+
+- [[Harugawa]]
