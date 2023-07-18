@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "file": "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "file": "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "file": "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md"
+                "file": "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md"
               }
             }
           },
@@ -198,9 +198,9 @@
   },
   "active": "cd604a690741a484",
   "lastOpenFiles": [
+    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Chimo-Nahagi/The Forest of Mori.md",
     "Narrative/Timelines/Timeline summary.md",
-    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Chimo-Nahagi/Nahagi.md",
     "Locations/Chimo-Nahagi/Chimo.md",
     "Locations/Sunmaek/Sunmaek.md",
