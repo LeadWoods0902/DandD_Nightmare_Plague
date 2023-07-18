@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Chimo-Nahagi/The Forest of Mori.md",
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Chimo-Nahagi/The Forest of Mori.md",
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Chimo-Nahagi/The Forest of Mori.md",
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Chimo-Nahagi/The Forest of Mori.md"
+                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md"
               }
             }
           },
@@ -195,18 +196,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "cd604a690741a484",
   "lastOpenFiles": [
+    "Locations/Chimo-Nahagi/The Forest of Mori.md",
+    "Narrative/Timelines/Timeline summary.md",
+    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+    "Locations/Chimo-Nahagi/Nahagi.md",
+    "Locations/Chimo-Nahagi/Chimo.md",
+    "Locations/Sunmaek/Sunmaek.md",
+    "Locations/Sunmaek/Major Locations/Itha.md",
+    "Locations/Sunmaek/Major Locations",
     "Locations/Chimo-Nahagi/Major Locations",
     "Narrative/Timelines/Brannon's Timeline.md",
-    "Locations/Chimo-Nahagi/The Forest of Mori.md",
-    "Locations/Chimo-Nahagi/Yamanohana.md",
-    "Locations/Chimo-Nahagi/Satsukiya.md",
-    "Locations/Chimo-Nahagi/Tsurukaze.md",
-    "Locations/Chimo-Nahagi/Nahagi.md",
-    "Locations/Chimo-Nahagi/Nagaregawa.md",
-    "Locations/Chimo-Nahagi/Kirioka.md",
-    "Locations/Chimo-Nahagi/Hayatsuyu.md",
+    "Locations/Chimo-Nahagi/Major Locations/Yamanohana.md",
+    "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
+    "Locations/Chimo-Nahagi/Major Locations/Tsurukaze.md",
+    "Locations/Chimo-Nahagi/Major Locations/Nagaregawa.md",
+    "Locations/Chimo-Nahagi/Major Locations/Kirioka.md",
+    "Locations/Chimo-Nahagi/Major Locations/Hayatsuyu.md",
     "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ikuri.md",
@@ -217,7 +224,6 @@
     "Resources/Full Art/Greater Dragons/Musoko.png",
     "Resources/Full Art/Greater Dragons/Kaede.png",
     "Resources/Full Art/Greater Dragons/Ikuri.png",
-    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kenzen.md",
     "Items/weapons/The Geode Splitter (Kevin).md",
     "Resources/items/Weapons/GeodeSplitter_Kevin.png",
@@ -225,14 +231,11 @@
     "Resources/items/Weapons/War Mace of Desolation.png",
     "Resources/items/Weapons/Mazikeen_Karambit.png",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
-    "Narrative/Timelines/Timeline summary.md",
     "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
     "Additional Lore/Nature/Nëor.md",
     "Locations/Seni Isles/Brokvar/-Brokvar-.md",
     "Locations/Seni Isles/Brokvar/Brokvar.md",
     "Items/weapons/Mazikeen's Karambits.md",
-    "Homebrew Rules/Critical Hits.md",
-    "Items/Syrthni.md",
     "Resources/rw0a3gxm39qa1.mp4",
     "Characters/PC/Aime",
     "Narrative/Timelines",
@@ -241,8 +244,6 @@
     "Narrative/1 - The Worst days of their lives/7. Upon Which The Party Is Founded",
     "Narrative/1 - The Worst days of their lives/5. The Auction",
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds",
-    "Narrative/1 - The Worst days of their lives/3. Rise From The Ashes",
-    "Resources/Full Art/Djinn",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas"
