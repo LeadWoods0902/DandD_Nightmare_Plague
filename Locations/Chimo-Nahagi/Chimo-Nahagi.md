@@ -9,7 +9,7 @@ A large island consisting of the two countries [[Chimo]] and [[Nahagi]]. Divided
 - [[Harugawa]]
 - [[Satsukaze]]
 
-#### Major Towns
+#### Notable Towns
 - [[Yamanohana]]
 - [[Tsurukaze]]
 - [[Satsukiya]]
