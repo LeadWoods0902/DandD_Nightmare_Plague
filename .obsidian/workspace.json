@@ -41,9 +41,12 @@
             "id": "cd604a690741a484",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Full Art/Greater Dragons/Ike-Kotei.png"
+                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -122,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Full Art/Greater Dragons/Ike-Kotei.png",
+                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Full Art/Greater Dragons/Ike-Kotei.png",
+                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Full Art/Greater Dragons/Ike-Kotei.png"
+                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md"
               }
             }
           },
@@ -194,12 +197,13 @@
   },
   "active": "cd604a690741a484",
   "lastOpenFiles": [
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
+    "Resources/Full Art/Greater Dragons/Ike-Kotei.png",
     "Resources/Full Art/Greater Dragons/Zenryoku.png",
     "Resources/Full Art/Greater Dragons/Soromo.png",
     "Resources/Full Art/Greater Dragons/Musoko.png",
     "Resources/Full Art/Greater Dragons/Kaede.png",
     "Resources/Full Art/Greater Dragons/Ikuri.png",
-    "Resources/Full Art/Greater Dragons/Ike-Kotei.png",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kenzen.md",
     "Items/weapons/The Geode Splitter (Kevin).md",
@@ -207,7 +211,6 @@
     "Resources/items/Weapons/Omen.png",
     "Resources/items/Weapons/War Mace of Desolation.png",
     "Resources/items/Weapons/Mazikeen_Karambit.png",
-    "Resources/items/Weapons/arcRifle.png",
     "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Narrative/Timelines/Timeline summary.md",
     "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
