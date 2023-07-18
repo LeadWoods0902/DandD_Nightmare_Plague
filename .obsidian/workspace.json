@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Timelines/Brannon's Timeline.md",
+                "file": "Locations/Chimo-Nahagi/The Forest of Mori.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Brannon's Timeline.md",
+                "file": "Locations/Chimo-Nahagi/The Forest of Mori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Brannon's Timeline.md",
+                "file": "Locations/Chimo-Nahagi/The Forest of Mori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Brannon's Timeline.md"
+                "file": "Locations/Chimo-Nahagi/The Forest of Mori.md"
               }
             }
           },
@@ -195,8 +195,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd604a690741a484",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
+    "Locations/Chimo-Nahagi/Major Locations",
+    "Narrative/Timelines/Brannon's Timeline.md",
+    "Locations/Chimo-Nahagi/The Forest of Mori.md",
     "Locations/Chimo-Nahagi/Yamanohana.md",
     "Locations/Chimo-Nahagi/Satsukiya.md",
     "Locations/Chimo-Nahagi/Tsurukaze.md",
@@ -230,9 +233,6 @@
     "Items/weapons/Mazikeen's Karambits.md",
     "Homebrew Rules/Critical Hits.md",
     "Items/Syrthni.md",
-    "Items/potion of healing.md",
-    "Items/Effiria.md",
-    "Items/Burn Salve.md",
     "Resources/rw0a3gxm39qa1.mp4",
     "Characters/PC/Aime",
     "Narrative/Timelines",
