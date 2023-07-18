@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md"
+                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md"
               }
             }
           },
@@ -197,6 +197,7 @@
   },
   "active": "cd604a690741a484",
   "lastOpenFiles": [
+    "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
     "Resources/Full Art/Greater Dragons/Ike-Kotei.png",
     "Resources/Full Art/Greater Dragons/Zenryoku.png",
@@ -234,7 +235,6 @@
     "Items/weapons/SwordStaff.md",
     "Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview.md",
     "Characters/PC/Aime",
-    "5. The Auction.md",
     "Narrative/Timelines",
     "Resources/Full Art/PCs",
     "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
