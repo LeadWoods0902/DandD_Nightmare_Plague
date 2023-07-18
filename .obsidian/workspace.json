@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+                "file": "Locations/Chimo-Nahagi/Yamanohana.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+                "file": "Locations/Chimo-Nahagi/Yamanohana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
+                "file": "Locations/Chimo-Nahagi/Yamanohana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md"
+                "file": "Locations/Chimo-Nahagi/Yamanohana.md"
               }
             }
           },
@@ -197,10 +197,16 @@
   },
   "active": "cd604a690741a484",
   "lastOpenFiles": [
+    "Locations/Chimo-Nahagi/Satsukiya.md",
+    "Locations/Chimo-Nahagi/Tsurukaze.md",
+    "Locations/Chimo-Nahagi/Nahagi.md",
+    "Locations/Chimo-Nahagi/Nagaregawa.md",
+    "Locations/Chimo-Nahagi/Kirioka.md",
+    "Locations/Chimo-Nahagi/Hayatsuyu.md",
+    "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ikuri.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Iyashi.md",
-    "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
     "Resources/Full Art/Greater Dragons/Ike-Kotei.png",
     "Resources/Full Art/Greater Dragons/Zenryoku.png",
     "Resources/Full Art/Greater Dragons/Soromo.png",
@@ -227,13 +233,7 @@
     "Items/Effiria.md",
     "Items/Burn Salve.md",
     "Mazikeen_Karambits.png.md",
-    "Narrative/Timelines/Aime's Timeline.md",
     "Resources/rw0a3gxm39qa1.mp4",
-    "Characters/PC/Aime/Mazikeen.md",
-    "Narrative/Narrative Overview.md",
-    "Items/weapons/Omen.md",
-    "Items/weapons/Arc Rifle.md",
-    "Items/weapons/Branch of the Brokvar Tree.md",
     "Characters/PC/Aime",
     "Narrative/Timelines",
     "Resources/Full Art/PCs",
