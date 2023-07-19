@@ -51,9 +51,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "e18c53fd6c5acabf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/Timelines/Quinn's Timeline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas",
+                "file": "Narrative/Timelines/Quinn's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas",
+                "file": "Narrative/Timelines/Quinn's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Family Trees/Shatterborne.canvas"
+                "file": "Narrative/Timelines/Quinn's Timeline.md"
               }
             }
           },
@@ -197,8 +210,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe56ad2f1944431e",
+  "active": "e18c53fd6c5acabf",
   "lastOpenFiles": [
+    "Narrative/Timelines/Timeline summary.md",
+    "Characters/Family Trees/Shatterborne.canvas",
     "Narrative/Timelines/Quinn's Timeline.md",
     "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
     "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
@@ -220,7 +235,6 @@
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ikuri.md",
     "Resources/Full Art/Greater Dragons/Zenryoku.png",
     "Resources/Full Art/Greater Dragons/Ike-Kotei.png",
-    "Narrative/Timelines/Timeline summary.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
     "Resources/Tokens/VirmarCivillian5_Token.png.png",
     "Resources/Tokens/VirmarCivillian4_Token.png",
@@ -244,8 +258,6 @@
     "Locations/Chimo-Nahagi/Major Locations/Hakushin.md",
     "Locations/Chimo-Nahagi/Major Locations/Kirioka.md",
     "Locations/Chimo-Nahagi/Major Locations/Hayatsuyu.md",
-    "Locations/Chimo-Nahagi/Major Locations/Harukaze.md",
-    "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas"
   ]
