@@ -41,12 +41,14 @@
             "id": "fe56ad2f1944431e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Characters/Family Trees/Shatterborne.canvas",
+                "viewState": {
+                  "x": 698.4734841428274,
+                  "y": 321.40075559281183,
+                  "zoom": -1.3708644663984337
+                }
               }
             }
           }
@@ -125,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md",
+                "file": "Characters/Family Trees/Shatterborne.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md",
+                "file": "Characters/Family Trees/Shatterborne.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md"
+                "file": "Characters/Family Trees/Shatterborne.canvas"
               }
             }
           },
@@ -197,6 +199,7 @@
   },
   "active": "fe56ad2f1944431e",
   "lastOpenFiles": [
+    "Narrative/Timelines/Quinn's Timeline.md",
     "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
     "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
     "Locations/Seni Isles/Brokvar/Potton-Ton.md",
@@ -242,7 +245,6 @@
     "Locations/Chimo-Nahagi/Major Locations/Kirioka.md",
     "Locations/Chimo-Nahagi/Major Locations/Hayatsuyu.md",
     "Locations/Chimo-Nahagi/Major Locations/Harukaze.md",
-    "Kaede's scale.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas"
