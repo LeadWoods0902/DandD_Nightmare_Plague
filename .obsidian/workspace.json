@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Chimo-Nahagi.md"
+                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md"
               }
             }
           },
@@ -221,10 +221,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd604a690741a484",
+  "active": "4385bc2b650062e3",
   "lastOpenFiles": [
-    "Locations/Sunmaek/Major Locations/Satsukaze.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Bōshi.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
+    "Locations/Sunmaek/Major Locations/Satsukaze.md",
     "Locations/Sunmaek/Major Locations/Harugawa.md",
     "Locations/Chimo-Nahagi/Chimo.md",
     "Locations/Chimo-Nahagi/Major Locations/Hakushin.md",
@@ -260,7 +261,6 @@
     "Resources/items/Weapons/GeodeSplitter_Kevin.png",
     "Resources/items/Weapons/Omen.png",
     "Resources/items/Weapons/War Mace of Desolation.png",
-    "Characters/PC/Brannon/Bismuth Shatterborne.md",
     "Resources/rw0a3gxm39qa1.mp4",
     "Characters/PC/Aime",
     "Narrative/Timelines",
