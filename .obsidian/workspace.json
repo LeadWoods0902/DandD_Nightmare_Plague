@@ -41,9 +41,12 @@
             "id": "fe56ad2f1944431e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Full Art/Greater Dragons/Ikuri.png"
+                "file": "Locations/Seni Isles/Brokvar/Potton-Ton.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -106,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 326.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -122,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Full Art/Greater Dragons/Ikuri.png",
+                "file": "Locations/Seni Isles/Brokvar/Potton-Ton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Full Art/Greater Dragons/Ikuri.png",
+                "file": "Locations/Seni Isles/Brokvar/Potton-Ton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Full Art/Greater Dragons/Ikuri.png"
+                "file": "Locations/Seni Isles/Brokvar/Potton-Ton.md"
               }
             }
           },
@@ -194,10 +197,21 @@
   },
   "active": "fe56ad2f1944431e",
   "lastOpenFiles": [
+    "Locations/Seni Isles/Brokvar/Virmarr.md",
+    "Locations/Seni Isles/Brokvar/Potton-Ton.md",
+    "Locations/Seni Isles/Brokvar/The Weald.md",
+    "Locations/Seni Isles/Brokvar/The Curall.md",
+    "Locations/Seni Isles/Brokvar/The Copper Cask.md",
+    "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
+    "Locations/Seni Isles/Brokvar/Riverview Estate.md",
+    "Locations/Seni Isles/Brokvar/Brokvar Barrier.md",
+    "Locations/Seni Isles/Brokvar/Brokvar.md",
+    "Locations/Seni Isles/Brokvar/Addun Brokvar.md",
+    "Locations/Seni Isles/Brokvar/Barrier Lake.md",
+    "Resources/Full Art/Greater Dragons/Ikuri.png",
     "Resources/Full Art/Greater Dragons/Soromo.png",
     "Resources/Full Art/Greater Dragons/Musoko.png",
     "Resources/Full Art/Greater Dragons/Kaede.png",
-    "Resources/Full Art/Greater Dragons/Ikuri.png",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ikuri.md",
     "Resources/Full Art/Greater Dragons/Zenryoku.png",
     "Resources/Full Art/Greater Dragons/Ike-Kotei.png",
@@ -229,16 +243,6 @@
     "Kaede's scale.md",
     "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
     "Locations/Chimo-Nahagi/The Forest of Mori.md",
-    "Locations/Chimo-Nahagi/Nahagi.md",
-    "Locations/Sunmaek/Sunmaek.md",
-    "Locations/Sunmaek/Major Locations/Itha.md",
-    "Narrative/Timelines/Brannon's Timeline.md",
-    "Locations/Chimo-Nahagi/Major Locations/Yamanohana.md",
-    "Locations/Chimo-Nahagi/Major Locations/Tsurukaze.md",
-    "Locations/Chimo-Nahagi/Major Locations/Nagaregawa.md",
-    "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Iyashi.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kenzen.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas"
