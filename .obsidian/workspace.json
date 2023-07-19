@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
+                "file": "Narrative/Timelines/Quinn's Timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
+                "file": "Narrative/Timelines/Quinn's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
+                "file": "Narrative/Timelines/Quinn's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Seni Isles/Rheilliwch/Heinabergsar.md"
+                "file": "Narrative/Timelines/Quinn's Timeline.md"
               }
             }
           },
@@ -197,6 +197,7 @@
   },
   "active": "fe56ad2f1944431e",
   "lastOpenFiles": [
+    "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
     "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
     "Locations/Seni Isles/Brokvar/Potton-Ton.md",
     "Locations/Seni Isles/Brokvar/Virmarr.md",
@@ -242,7 +243,6 @@
     "Locations/Chimo-Nahagi/Major Locations/Hayatsuyu.md",
     "Locations/Chimo-Nahagi/Major Locations/Harukaze.md",
     "Kaede's scale.md",
-    "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas"
