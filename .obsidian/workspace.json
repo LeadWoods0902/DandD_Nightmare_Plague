@@ -38,41 +38,12 @@
             }
           },
           {
-            "id": "cd604a690741a484",
+            "id": "fe56ad2f1944431e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a300e4c2f87c8d14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Sunmaek/Major Locations/Satsukaze.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "383262a1c69ef561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Sunmaek/Major Locations/Harugawa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Resources/Full Art/Greater Dragons/Ikuri.png"
               }
             }
           }
@@ -135,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 200
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -151,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
+                "file": "Resources/Full Art/Greater Dragons/Ikuri.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
+                "file": "Resources/Full Art/Greater Dragons/Ikuri.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md"
+                "file": "Resources/Full Art/Greater Dragons/Ikuri.png"
               }
             }
           },
@@ -221,19 +192,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "fe56ad2f1944431e",
   "lastOpenFiles": [
+    "Resources/Full Art/Greater Dragons/Soromo.png",
+    "Resources/Full Art/Greater Dragons/Musoko.png",
+    "Resources/Full Art/Greater Dragons/Kaede.png",
+    "Resources/Full Art/Greater Dragons/Ikuri.png",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ikuri.md",
+    "Resources/Full Art/Greater Dragons/Zenryoku.png",
+    "Resources/Full Art/Greater Dragons/Ike-Kotei.png",
+    "Narrative/Timelines/Timeline summary.md",
+    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
     "Resources/Tokens/VirmarCivillian5_Token.png.png",
     "Resources/Tokens/VirmarCivillian4_Token.png",
     "Resources/Tokens/VirmarCivillian3_Token.png",
     "Resources/Tokens/VirmarCivillian2_Token.png.png",
-    "Resources/Tokens/VirmarCivillian1_Token.png",
-    "Resources/Tokens/Tom_Token.png",
-    "Resources/Tokens/token_2.png",
-    "Resources/Tokens/Talus_Token.png",
-    "Resources/Tokens/Sturgis_Token.png",
-    "Resources/Tokens/Spotcol_Legion_Token.png",
-    "Resources/Tokens/SmokeWarrior_Token.png",
     "Resources/Tokens",
     "Resources/Possibilities",
     "Resources/items/Weapons/Spell Focuses",
@@ -256,7 +229,6 @@
     "Kaede's scale.md",
     "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
     "Locations/Chimo-Nahagi/The Forest of Mori.md",
-    "Narrative/Timelines/Timeline summary.md",
     "Locations/Chimo-Nahagi/Nahagi.md",
     "Locations/Sunmaek/Sunmaek.md",
     "Locations/Sunmaek/Major Locations/Itha.md",
@@ -265,8 +237,6 @@
     "Locations/Chimo-Nahagi/Major Locations/Tsurukaze.md",
     "Locations/Chimo-Nahagi/Major Locations/Nagaregawa.md",
     "Characters/Deities/Chimo-Nahagi/The Greater Dragons.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ikuri.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Iyashi.md",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Kenzen.md",
     "Characters/Family Trees/Shatterborne.canvas",
