@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/weapons/The Geode Splitter (Kevin).md",
+                "file": "Additional Lore/Currency/Ryvnia.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/weapons/The Geode Splitter (Kevin).md",
+                "file": "Additional Lore/Currency/Ryvnia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/weapons/The Geode Splitter (Kevin).md",
+                "file": "Additional Lore/Currency/Ryvnia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/weapons/The Geode Splitter (Kevin).md"
+                "file": "Additional Lore/Currency/Ryvnia.md"
               }
             }
           },
@@ -212,6 +212,12 @@
   },
   "active": "e18c53fd6c5acabf",
   "lastOpenFiles": [
+    "Additional Lore/Currency/Lempira.md",
+    "Additional Lore/Currency/Imperial Kosh.md",
+    "Additional Lore/Currency/Baht.md",
+    "Additional Lore/Currency/Gazeta.md",
+    "Additional Lore/Currency/Ryvnia.md",
+    "Items/weapons/The Geode Splitter (Kevin).md",
     "Narrative/Timelines/Quinn's Timeline.md",
     "Resources/Possibilities/bespalova.png",
     "Resources/Creatures/WilderBeast_Full.png",
@@ -253,11 +259,6 @@
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Bōshi.md",
     "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
     "Locations/Sunmaek/Major Locations/Satsukaze.md",
-    "Locations/Sunmaek/Major Locations/Harugawa.md",
-    "Locations/Chimo-Nahagi/Chimo.md",
-    "Locations/Chimo-Nahagi/Major Locations/Hakushin.md",
-    "Locations/Chimo-Nahagi/Major Locations/Kirioka.md",
-    "Locations/Chimo-Nahagi/Major Locations/Hayatsuyu.md",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas"
   ]
