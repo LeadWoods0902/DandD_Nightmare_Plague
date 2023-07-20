@@ -41,12 +41,9 @@
             "id": "e3585bc6ea43656b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Resources/Full Art/female_runeWarrior.png"
               }
             }
           }
@@ -125,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Resources/Full Art/female_runeWarrior.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md",
+                "file": "Resources/Full Art/female_runeWarrior.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Aime's Timeline.md"
+                "file": "Resources/Full Art/female_runeWarrior.png"
               }
             }
           },
@@ -197,6 +194,14 @@
   },
   "active": "e3585bc6ea43656b",
   "lastOpenFiles": [
+    "Resources/Full Art/ElfFarmer.png",
+    "Resources/Full Art/Elaine.png",
+    "Resources/Full Art/Druid.png",
+    "Resources/Full Art/DisfiguredKnight.png",
+    "Resources/Full Art/BrassAutomataLord.png",
+    "Resources/Full Art/BrassAutomata.png",
+    "Resources/Full Art/Barkeep.png",
+    "Narrative/Timelines/Aime's Timeline.md",
     "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
     "Resources/Full Art/Unkown Lady.png",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
@@ -213,7 +218,6 @@
     "Homebrew Rules/Psychic Damage.md",
     "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
     "Resources/Battlemaps/Theg_Doruhl.png",
-    "Narrative/Timelines/Aime's Timeline.md",
     "Characters/NPC/Seni/LLawyr Yn Mawr/Young Duchess Roderika.md",
     "Characters/PC/Aime/Mazikeen.md",
     "Additional Lore/Currency/Lempira.md",
@@ -225,14 +229,8 @@
     "Narrative/Timelines/Quinn's Timeline.md",
     "Resources/Possibilities/bespalova.png",
     "Resources/Creatures/WilderBeast_Full.png",
-    "Resources/WilderBeast_Full.png",
     "Characters/Family Trees/Shatterborne.canvas",
     "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
-    "Resources/Full Art/Greater Dragons/Ikuri.png",
-    "Resources/Full Art/Greater Dragons/Soromo.png",
-    "Resources/Full Art/Greater Dragons/Musoko.png",
-    "Resources/Full Art/Greater Dragons/Kaede.png",
-    "Resources/Full Art/Greater Dragons/Zenryoku.png",
     "Resources/Tokens",
     "Resources/Possibilities",
     "Resources/items/Weapons/Spell Focuses",
