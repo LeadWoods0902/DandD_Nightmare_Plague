@@ -41,9 +41,12 @@
             "id": "e3585bc6ea43656b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Full Art/female_runeWarrior.png"
+                "file": "Narrative/Timelines/Tom's Secret Timeline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -122,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Full Art/female_runeWarrior.png",
+                "file": "Narrative/Timelines/Tom's Secret Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Full Art/female_runeWarrior.png",
+                "file": "Narrative/Timelines/Tom's Secret Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Full Art/female_runeWarrior.png"
+                "file": "Narrative/Timelines/Tom's Secret Timeline.md"
               }
             }
           },
@@ -194,6 +197,8 @@
   },
   "active": "e3585bc6ea43656b",
   "lastOpenFiles": [
+    "Characters/PC/Tom/Seram Dos.md",
+    "Resources/Full Art/female_runeWarrior.png",
     "Resources/Full Art/ElfFarmer.png",
     "Resources/Full Art/Elaine.png",
     "Resources/Full Art/Druid.png",
@@ -227,8 +232,6 @@
     "Additional Lore/Currency/Baht.md",
     "Items/weapons/The Geode Splitter (Kevin).md",
     "Narrative/Timelines/Quinn's Timeline.md",
-    "Resources/Possibilities/bespalova.png",
-    "Resources/Creatures/WilderBeast_Full.png",
     "Characters/Family Trees/Shatterborne.canvas",
     "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
     "Resources/Tokens",
