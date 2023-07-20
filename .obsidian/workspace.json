@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
+                "file": "Groups/Ymerodrol Empire.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
+                "file": "Groups/Ymerodrol Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
+                "file": "Groups/Ymerodrol Empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md"
+                "file": "Groups/Ymerodrol Empire.md"
               }
             }
           },
@@ -212,6 +212,7 @@
   },
   "active": "e18c53fd6c5acabf",
   "lastOpenFiles": [
+    "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
     "Homebrew Rules/Necrotic Damage.md",
     "Homebrew Rules/Dash & Sprint.md",
     "Homebrew Rules/Critical Hits.md",
@@ -242,7 +243,6 @@
     "Locations/Seni Isles/Brokvar/Potton-Ton.md",
     "Locations/Seni Isles/Brokvar/Virmarr.md",
     "Locations/Seni Isles/Brokvar/The Weald.md",
-    "Locations/Seni Isles/Brokvar/The Curall.md",
     "Resources/Full Art/Greater Dragons/Ikuri.png",
     "Resources/Full Art/Greater Dragons/Soromo.png",
     "Resources/Full Art/Greater Dragons/Musoko.png",
