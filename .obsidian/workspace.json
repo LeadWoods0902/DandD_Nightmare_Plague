@@ -212,6 +212,8 @@
   },
   "active": "e18c53fd6c5acabf",
   "lastOpenFiles": [
+    "Resources/Creatures/WilderBeast_Full.png",
+    "Resources/WilderBeast_Full.png",
     "Narrative/Timelines/Timeline summary.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Narrative/Timelines/Quinn's Timeline.md",
@@ -239,7 +241,6 @@
     "Resources/Tokens/VirmarCivillian5_Token.png.png",
     "Resources/Tokens/VirmarCivillian4_Token.png",
     "Resources/Tokens/VirmarCivillian3_Token.png",
-    "Resources/Tokens/VirmarCivillian2_Token.png.png",
     "Resources/Tokens",
     "Resources/Possibilities",
     "Resources/items/Weapons/Spell Focuses",
