@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Timelines/Tom's Secret Timeline.md",
+                "file": "Characters/PC/Aime/Mazikeen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Tom's Secret Timeline.md",
+                "file": "Characters/PC/Aime/Mazikeen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Tom's Secret Timeline.md",
+                "file": "Characters/PC/Aime/Mazikeen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Tom's Secret Timeline.md"
+                "file": "Characters/PC/Aime/Mazikeen.md"
               }
             }
           },
@@ -197,6 +197,7 @@
   },
   "active": "e3585bc6ea43656b",
   "lastOpenFiles": [
+    "Narrative/Timelines/Tom's Secret Timeline.md",
     "Characters/PC/Tom/Seram Dos.md",
     "Resources/Full Art/female_runeWarrior.png",
     "Resources/Full Art/ElfFarmer.png",
@@ -233,7 +234,6 @@
     "Items/weapons/The Geode Splitter (Kevin).md",
     "Narrative/Timelines/Quinn's Timeline.md",
     "Characters/Family Trees/Shatterborne.canvas",
-    "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
     "Resources/Tokens",
     "Resources/Possibilities",
     "Resources/items/Weapons/Spell Focuses",
