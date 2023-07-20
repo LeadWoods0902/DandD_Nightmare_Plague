@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
+                "file": "Homebrew Rules/Critical Death Save.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
+                "file": "Homebrew Rules/Critical Death Save.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
+                "file": "Homebrew Rules/Critical Death Save.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md"
+                "file": "Homebrew Rules/Critical Death Save.md"
               }
             }
           },
@@ -212,6 +212,15 @@
   },
   "active": "e18c53fd6c5acabf",
   "lastOpenFiles": [
+    "Homebrew Rules/To Hit Rules.md",
+    "Homebrew Rules/Status Effects & Battle Conditions.md",
+    "Homebrew Rules/Psychic Damage.md",
+    "Homebrew Rules/Necrotic Damage.md",
+    "Homebrew Rules/Dash & Sprint.md",
+    "Homebrew Rules/Critical Hits.md",
+    "Homebrew Rules/Critical Health Levels.md",
+    "Homebrew Rules/Critical Death Save.md",
+    "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
     "Resources/Battlemaps/Theg_Doruhl.png",
     "Narrative/Timelines/Aime's Timeline.md",
     "Characters/NPC/Seni/LLawyr Yn Mawr/Young Duchess Roderika.md",
@@ -234,21 +243,12 @@
     "Locations/Seni Isles/Brokvar/Virmarr.md",
     "Locations/Seni Isles/Brokvar/The Weald.md",
     "Locations/Seni Isles/Brokvar/The Curall.md",
-    "Locations/Seni Isles/Brokvar/The Copper Cask.md",
-    "Locations/Seni Isles/Brokvar/The Brokvar-Coeden.md",
-    "Locations/Seni Isles/Brokvar/Riverview Estate.md",
-    "Locations/Seni Isles/Brokvar/Brokvar Barrier.md",
-    "Locations/Seni Isles/Brokvar/Brokvar.md",
-    "Locations/Seni Isles/Brokvar/Addun Brokvar.md",
-    "Locations/Seni Isles/Brokvar/Barrier Lake.md",
     "Resources/Full Art/Greater Dragons/Ikuri.png",
     "Resources/Full Art/Greater Dragons/Soromo.png",
     "Resources/Full Art/Greater Dragons/Musoko.png",
     "Resources/Full Art/Greater Dragons/Kaede.png",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ikuri.md",
     "Resources/Full Art/Greater Dragons/Zenryoku.png",
     "Resources/Full Art/Greater Dragons/Ike-Kotei.png",
-    "Resources/Tokens/VirmarCivillian5_Token.png.png",
     "Resources/Tokens",
     "Resources/Possibilities",
     "Resources/items/Weapons/Spell Focuses",
