@@ -36,4 +36,4 @@ In a non-determined order:
 Duska, Alfread & Mazikeen find themselves at the slave auction in the centre of town - Bismuth & Jasper are on the stand
 
 
-## [[Narrative/1 - The Worst days of their lives/7. Upon Which The Party Is Founded/overview|Upon Which The Party Is Founded]]
+## [[Narrative/1 - The Worst days of their lives/6. Upon Which The Party Is Founded/overview|Upon Which The Party Is Founded]]
