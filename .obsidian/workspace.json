@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Additional Lore/Currency/Ryvnia.md",
+                "file": "Additional Lore/Currency/Lempira.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Additional Lore/Currency/Ryvnia.md",
+                "file": "Additional Lore/Currency/Lempira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Additional Lore/Currency/Ryvnia.md",
+                "file": "Additional Lore/Currency/Lempira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Additional Lore/Currency/Ryvnia.md"
+                "file": "Additional Lore/Currency/Lempira.md"
               }
             }
           },
@@ -212,11 +212,11 @@
   },
   "active": "e18c53fd6c5acabf",
   "lastOpenFiles": [
+    "Additional Lore/Currency/Ryvnia.md",
     "Additional Lore/Currency/Lempira.md",
+    "Additional Lore/Currency/Gazeta.md",
     "Additional Lore/Currency/Imperial Kosh.md",
     "Additional Lore/Currency/Baht.md",
-    "Additional Lore/Currency/Gazeta.md",
-    "Additional Lore/Currency/Ryvnia.md",
     "Items/weapons/The Geode Splitter (Kevin).md",
     "Narrative/Timelines/Quinn's Timeline.md",
     "Resources/Possibilities/bespalova.png",
