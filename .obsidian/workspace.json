@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md",
+                "file": "Items/weapons/The Geode Splitter (Kevin).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md",
+                "file": "Items/weapons/The Geode Splitter (Kevin).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md",
+                "file": "Items/weapons/The Geode Splitter (Kevin).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Timelines/Quinn's Timeline.md"
+                "file": "Items/weapons/The Geode Splitter (Kevin).md"
               }
             }
           },
@@ -212,12 +212,12 @@
   },
   "active": "e18c53fd6c5acabf",
   "lastOpenFiles": [
+    "Narrative/Timelines/Quinn's Timeline.md",
     "Resources/Possibilities/bespalova.png",
     "Resources/Creatures/WilderBeast_Full.png",
     "Resources/WilderBeast_Full.png",
     "Narrative/Timelines/Timeline summary.md",
     "Characters/Family Trees/Shatterborne.canvas",
-    "Narrative/Timelines/Quinn's Timeline.md",
     "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
     "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
     "Locations/Seni Isles/Brokvar/Potton-Ton.md",
@@ -240,7 +240,6 @@
     "Resources/Full Art/Greater Dragons/Ike-Kotei.png",
     "Characters/Deities/Chimo-Nahagi/Greater Dragons/Ike-kōtei.md",
     "Resources/Tokens/VirmarCivillian5_Token.png.png",
-    "Resources/Tokens/VirmarCivillian4_Token.png",
     "Resources/Tokens",
     "Resources/Possibilities",
     "Resources/items/Weapons/Spell Focuses",
