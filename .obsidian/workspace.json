@@ -36,8 +36,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e3585bc6ea43656b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Narrative Overview.md",
+                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Narrative Overview.md",
+                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Narrative Overview.md"
+                "file": "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md"
               }
             }
           },
@@ -181,8 +195,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b9337552203ee87",
+  "active": "e3585bc6ea43656b",
   "lastOpenFiles": [
+    "Narrative/Narrative Overview.md",
     "Narrative/Timelines/Timeline summary.md",
     "Groups/Ymerodrol Empire.md",
     "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
@@ -213,7 +228,6 @@
     "Locations/Seni Isles/Rheilliwch/Heinabergsar.md",
     "Locations/Seni Isles/Rheilliwch/Arnarholt.md",
     "Locations/Seni Isles/Brokvar/Potton-Ton.md",
-    "Locations/Seni Isles/Brokvar/Virmarr.md",
     "Resources/Full Art/Greater Dragons/Ikuri.png",
     "Resources/Full Art/Greater Dragons/Soromo.png",
     "Resources/Full Art/Greater Dragons/Musoko.png",
