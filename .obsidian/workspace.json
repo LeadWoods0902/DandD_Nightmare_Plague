@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Additional Lore/Currency/Lempira.md",
+                "file": "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Additional Lore/Currency/Lempira.md",
+                "file": "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Additional Lore/Currency/Lempira.md",
+                "file": "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Additional Lore/Currency/Lempira.md"
+                "file": "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md"
               }
             }
           },
@@ -212,8 +212,11 @@
   },
   "active": "e18c53fd6c5acabf",
   "lastOpenFiles": [
-    "Additional Lore/Currency/Ryvnia.md",
+    "Narrative/Timelines/Aime's Timeline.md",
+    "Characters/NPC/Seni/LLawyr Yn Mawr/Young Duchess Roderika.md",
+    "Characters/PC/Aime/Mazikeen.md",
     "Additional Lore/Currency/Lempira.md",
+    "Additional Lore/Currency/Ryvnia.md",
     "Additional Lore/Currency/Gazeta.md",
     "Additional Lore/Currency/Imperial Kosh.md",
     "Additional Lore/Currency/Baht.md",
@@ -256,9 +259,6 @@
     "Resources/Game Resources/Combat Art/Lightning Spell Assets/Assets - 70 DPI (Roll20)",
     "Resources/Game Resources/Combat Art/Lightning Spell Assets",
     "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)",
-    "Characters/Deities/Chimo-Nahagi/Greater Dragons/Bōshi.md",
-    "Locations/Chimo-Nahagi/Chimo-Nahagi.md",
-    "Locations/Sunmaek/Major Locations/Satsukaze.md",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas"
   ]
