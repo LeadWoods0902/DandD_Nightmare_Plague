@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
+                "file": "Narrative/Timelines/Aime's Timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
+                "file": "Narrative/Timelines/Aime's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md",
+                "file": "Narrative/Timelines/Aime's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Aime/Mazikeen.md"
+                "file": "Narrative/Timelines/Aime's Timeline.md"
               }
             }
           },
@@ -197,6 +197,7 @@
   },
   "active": "e3585bc6ea43656b",
   "lastOpenFiles": [
+    "Characters/PC/Aime/Mazikeen.md",
     "Narrative/Timelines/Tom's Secret Timeline.md",
     "Characters/PC/Tom/Seram Dos.md",
     "Resources/Full Art/female_runeWarrior.png",
@@ -225,7 +226,6 @@
     "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
     "Resources/Battlemaps/Theg_Doruhl.png",
     "Characters/NPC/Seni/LLawyr Yn Mawr/Young Duchess Roderika.md",
-    "Characters/PC/Aime/Mazikeen.md",
     "Additional Lore/Currency/Lempira.md",
     "Additional Lore/Currency/Ryvnia.md",
     "Additional Lore/Currency/Gazeta.md",
