@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew Rules/Critical Death Save.md",
+                "file": "Homebrew Rules/Critical Hits.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew Rules/Critical Death Save.md",
+                "file": "Homebrew Rules/Critical Hits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew Rules/Critical Death Save.md",
+                "file": "Homebrew Rules/Critical Hits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew Rules/Critical Death Save.md"
+                "file": "Homebrew Rules/Critical Hits.md"
               }
             }
           },
@@ -212,14 +212,14 @@
   },
   "active": "e18c53fd6c5acabf",
   "lastOpenFiles": [
+    "Homebrew Rules/Critical Death Save.md",
+    "Homebrew Rules/Critical Health Levels.md",
     "Homebrew Rules/To Hit Rules.md",
     "Homebrew Rules/Status Effects & Battle Conditions.md",
     "Homebrew Rules/Psychic Damage.md",
     "Homebrew Rules/Necrotic Damage.md",
     "Homebrew Rules/Dash & Sprint.md",
     "Homebrew Rules/Critical Hits.md",
-    "Homebrew Rules/Critical Health Levels.md",
-    "Homebrew Rules/Critical Death Save.md",
     "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
     "Resources/Battlemaps/Theg_Doruhl.png",
     "Narrative/Timelines/Aime's Timeline.md",
