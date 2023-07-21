@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Ymerodrol Empire.md",
+                "file": "Narrative/Timelines/Aime's Timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/Narrative Overview.md",
+                "file": "Narrative/Timelines/Aime's Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/Narrative Overview.md",
+                "file": "Narrative/Timelines/Aime's Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/Narrative Overview.md"
+                "file": "Narrative/Timelines/Aime's Timeline.md"
               }
             }
           },
@@ -195,8 +195,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4385bc2b650062e3",
+  "active": "e3585bc6ea43656b",
   "lastOpenFiles": [
+    "Narrative/Narrative Overview.md",
     "Resources/Grey-Smoke-PNG-Background-Image.png",
     "Narrative/Timelines/Aime's Timeline.md",
     "Characters/PC/Aime/Mazikeen.md",
@@ -213,7 +214,6 @@
     "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
     "Resources/Full Art/Unkown Lady.png",
     "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
-    "Narrative/Narrative Overview.md",
     "Narrative/Timelines/Timeline summary.md",
     "Groups/Ymerodrol Empire.md",
     "Homebrew Rules/Necrotic Damage.md",
@@ -225,7 +225,6 @@
     "Homebrew Rules/Status Effects & Battle Conditions.md",
     "Homebrew Rules/Psychic Damage.md",
     "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
-    "Resources/Battlemaps/Theg_Doruhl.png",
     "Characters/NPC/Seni/LLawyr Yn Mawr/Young Duchess Roderika.md",
     "Additional Lore/Currency/Lempira.md",
     "Additional Lore/Currency/Ryvnia.md",
