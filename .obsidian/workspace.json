@@ -4,54 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "486019aa5de9734e",
+        "id": "9d85472138a37672",
         "type": "tabs",
         "children": [
           {
-            "id": "3b9337552203ee87",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/Narrative Overview.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4c13d35f961ff7d3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/Timelines/Timeline summary.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e3585bc6ea43656b",
+            "id": "3f4a3df5c49058e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
+                "file": "Kaede's scale.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 279.5
   },
   "right": {
     "id": "d86284bd8a071899",
@@ -125,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
+                "file": "Kaede's scale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
+                "file": "Kaede's scale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md"
+                "file": "Kaede's scale.md"
               }
             }
           },
@@ -195,55 +164,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3585bc6ea43656b",
+  "active": "3f4a3df5c49058e7",
   "lastOpenFiles": [
+    "Hinele's Mother.md",
+    "Ven-Kylgh's Wife.md",
+    "TODO.md",
+    "The Travelling Merchants.md",
+    "The other slaves.md",
+    "The Bastion.md",
+    "Kaede's scale.md",
+    "Narrative/Narrative Overview.md",
+    "Narrative/Timelines/Timeline summary.md",
+    "Narrative/Timelines/Aime's Timeline.md",
+    "Narrative/Timelines/Tom's Secret Timeline.md",
+    "Narrative/Timelines/Marta's Timeline.md",
+    "Characters/PC/Brannon/Bismuth Shatterborne.md",
+    "Resources/items/Weapons/GeodeSplitter_Kevin.png",
+    "Resources/Tokens/Sturgis_Token.png",
+    "Resources/Tokens/Primals_Token.png",
+    "Resources/Tokens/Nomli_Token.png",
+    "Resources/Tokens/Niahl_Token.png",
+    "Resources/Tokens/Mazikeen_token.png",
+    "Resources/Tokens/Jasper_Token.png",
+    "Resources/Tokens/Duska_Token.png",
+    "Resources/Tokens/Bismuth_Token.png",
+    "Resources/Possibilities/bespalova.png",
+    "Resources/Full Art/PCs/IMG_3179.xcf",
+    "Narrative/1 - The Worst days of their lives/7. The Long Road To Brokvar/overview.md",
+    "Narrative/1 - The Worst days of their lives/7. The Long Road To Brokvar",
+    "Narrative/1 - The Worst days of their lives/6. Upon Which The Party Is Founded/overview.md",
+    "Narrative/1 - The Worst days of their lives/6. Upon Which The Party Is Founded",
+    "Locations/Sunmaek/Major Locations/Wadur.md",
+    "Locations/Sunmaek/Major Locations/Satsukaze.md",
+    "Locations/Sunmaek/Major Locations/Qotus.md",
+    "Locations/Sunmaek/Major Locations/Odohra.md",
+    "Locations/Sunmaek/Major Locations/Itha.md",
+    "Locations/Sunmaek/Major Locations/Harugawa.md",
+    "Locations/Sunmaek/Major Locations/Duqedo.md",
+    "Locations/Sunmaek/Major Locations",
+    "Locations/Seni Isles/Brokvar/Potton-Ton.md",
+    "Locations/Chimo-Nahagi/The Forest of Mori.md",
     "Locations/Chimo-Nahagi/Major Locations/Yamanohana.md",
     "Locations/Chimo-Nahagi/Major Locations/Tsurukaze.md",
-    "Locations/Chimo-Nahagi/Major Locations/Nagaregawa.md",
-    "Locations/Chimo-Nahagi/Major Locations/Kirioka.md",
-    "Locations/Chimo-Nahagi/Major Locations/Hayatsuyu.md",
-    "Locations/Chimo-Nahagi/Major Locations/Harukaze.md",
-    "Locations/Chimo-Nahagi/Major Locations/Hakushin.md",
-    "Groups/Ymerodrol Empire.md",
-    "Narrative/Timelines/Aime's Timeline.md",
-    "Narrative/Narrative Overview.md",
-    "Resources/Grey-Smoke-PNG-Background-Image.png",
-    "Characters/PC/Aime/Mazikeen.md",
-    "Narrative/Timelines/Tom's Secret Timeline.md",
-    "Characters/PC/Tom/Seram Dos.md",
-    "Resources/Full Art/female_runeWarrior.png",
-    "Resources/Full Art/ElfFarmer.png",
-    "Resources/Full Art/Elaine.png",
-    "Resources/Full Art/Druid.png",
-    "Resources/Full Art/DisfiguredKnight.png",
-    "Resources/Full Art/BrassAutomataLord.png",
-    "Resources/Full Art/BrassAutomata.png",
-    "Resources/Full Art/Barkeep.png",
-    "Narrative/1 - The Worst days of their lives/1. The Twinned Ships/overview.md",
-    "Resources/Full Art/Unkown Lady.png",
-    "Narrative/1 - The Worst days of their lives/2. The Librarian's Accord/overview.md",
-    "Narrative/Timelines/Timeline summary.md",
-    "Homebrew Rules/Necrotic Damage.md",
-    "Homebrew Rules/Dash & Sprint.md",
-    "Homebrew Rules/Critical Hits.md",
-    "Homebrew Rules/Critical Death Save.md",
-    "Homebrew Rules/Critical Health Levels.md",
-    "Homebrew Rules/To Hit Rules.md",
-    "Homebrew Rules/Status Effects & Battle Conditions.md",
-    "Homebrew Rules/Psychic Damage.md",
-    "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
-    "Characters/NPC/Seni/LLawyr Yn Mawr/Young Duchess Roderika.md",
+    "Locations/Chimo-Nahagi/Major Locations",
+    "Narrative/Timelines",
+    "Resources/Full Art/PCs",
+    "Narrative/1 - The Worst days of their lives/8. The Long Road To Brokvar",
+    "Narrative/1 - The Worst days of their lives/7. Upon Which The Party Is Founded",
+    "Narrative/1 - The Worst days of their lives/5. The Auction",
     "Characters/Family Trees/Shatterborne.canvas",
-    "Resources/Tokens",
-    "Resources/Possibilities",
-    "Resources/items/Weapons/Spell Focuses",
-    "Resources/items/Weapons",
-    "Resources/items",
-    "Resources/Game Resources/terrain",
-    "Resources/Game Resources/runes",
-    "Resources/Game Resources/Combat Art/Lightning Spell Assets/Assets - 70 DPI (Roll20)",
-    "Resources/Game Resources/Combat Art/Lightning Spell Assets",
-    "Resources/Game Resources/Combat Art/Fire Spell Assets/Assets - 70 DPI (Roll20)",
     "Characters/Family Trees/Lundgren.canvas",
     "Characters/Family Trees/Sunmaek Nobility.canvas"
   ]
