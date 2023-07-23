@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
+                "file": "Characters/NPC/Seni/Brokvar/Elaine.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
+                "file": "Characters/NPC/Seni/Brokvar/Elaine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
+                "file": "Characters/NPC/Seni/Brokvar/Elaine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md"
+                "file": "Characters/NPC/Seni/Brokvar/Elaine.md"
               }
             }
           },
@@ -197,6 +197,7 @@
   },
   "active": "e3585bc6ea43656b",
   "lastOpenFiles": [
+    "Locations/Chimo-Nahagi/Major Locations/Satsukiya.md",
     "Locations/Chimo-Nahagi/Major Locations/Yamanohana.md",
     "Locations/Chimo-Nahagi/Major Locations/Tsurukaze.md",
     "Locations/Chimo-Nahagi/Major Locations/Nagaregawa.md",
@@ -232,7 +233,6 @@
     "Homebrew Rules/Status Effects & Battle Conditions.md",
     "Homebrew Rules/Psychic Damage.md",
     "Locations/Seni Isles/Llawyr un Mawr/Theg Doruhl.md",
-    "Characters/NPC/Seni/LLawyr Yn Mawr/Young Duchess Roderika.md",
     "Characters/Family Trees/Shatterborne.canvas",
     "Resources/Tokens",
     "Resources/Possibilities",
