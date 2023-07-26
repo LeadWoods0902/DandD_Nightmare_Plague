@@ -20,20 +20,4 @@ Mazikeen is drawn to the sound of civilisation, somewhere south of where she cur
 ## [[Narrative/1 - The Worst days of their lives/4. The Forging of the Minds/overview|The Forging Of The Minds]]
 In a non-determined order:
 
-### Rolbam
-
-
-### Seram
-
-
-### Malkath
-
-
-### Stronvan
-
-
-## [[Narrative/1 - The Worst days of their lives/5. The Auction/overview|The Auction]]
-Duska, Alfread & Mazikeen find themselves at the slave auction in the centre of town - Bismuth & Jasper are on the stand
-
-
-## [[Narrative/1 - The Worst days of their lives/6. Upon Which The Party Is Founded/overview|Upon Which The Party Is Founded]]
+### 
