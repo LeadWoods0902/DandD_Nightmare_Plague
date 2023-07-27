@@ -1,13 +1,13 @@
 {
 	"nodes":[
 		{"type":"file","file":"Characters/Djinn/Auroris, the Shimmering Sentinel.md","id":"ac9593abf2a05998","x":820,"y":-3615,"width":400,"height":400,"color":"4"},
-		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Elaria Tsukiyama.md","id":"2ed6a0539c3b07d2","x":-80,"y":-3615,"width":400,"height":400,"color":"6"},
-		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Aurelix.md","id":"17c8f65cde67af25","x":370,"y":-3020,"width":400,"height":400,"color":"6"},
-		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Thalina  Yorugeshou.md","id":"6f2c71fadae3808a","x":-530,"y":-3020,"width":400,"height":400,"color":"6"},
+		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Elaria Tsukiyama.md","id":"2ed6a0539c3b07d2","x":-80,"y":-3615,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Aurelix.md","id":"17c8f65cde67af25","x":370,"y":-3020,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Thalina  Yorugeshou.md","id":"6f2c71fadae3808a","x":-530,"y":-3020,"width":400,"height":400,"color":"1"},
 		{"type":"file","file":"Characters/Djinn/Sansom, the mountain shatterer.md","id":"92ee5a361976d4b7","x":1270,"y":-3020,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Udayra.md","id":"557f69350f6be992","x":2170,"y":-3020,"width":400,"height":400,"color":"1"},
-		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Rilldina (Dina).md","id":"5dd0c81e09ed7078","x":-80,"y":-2425,"width":400,"height":400,"color":"6"},
-		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Dolomite (Dola).md","id":"df723613f304f725","x":370,"y":-2425,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Rilldina (Dina).md","id":"5dd0c81e09ed7078","x":-80,"y":-2425,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Dolomite (Dola).md","id":"df723613f304f725","x":370,"y":-2425,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Magnar Shatterborne.md","id":"f8f744629e81125e","x":1720,"y":-2425,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Ynessa.md","id":"c7278a2849fae391","x":2620,"y":-2425,"width":400,"height":400,"color":"1"},
 		{"type":"file","file":"Characters/PC/Brannon/Bismuth.md","id":"287e5803bd372af8","x":820,"y":-1830,"width":400,"height":400,"color":"4"},
@@ -22,8 +22,8 @@
 		{"type":"text","text":"","id":"b68e8f097599d23b","x":95,"y":-2845,"width":50,"height":50},
 		{"type":"text","text":"","id":"d00e3a61c3d03d86","x":545,"y":-3440,"width":50,"height":50},
 		{"type":"text","text":"**RED: DEAD\nGREEN: ALIVE\nPURPLE: UNKNOWN**","id":"4504facb689ed821","x":1304,"y":-3615,"width":416,"height":131},
-		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Ynessa Shatterborne.md","id":"96359cacac7364f6","x":2170,"y":-1235,"width":400,"height":400},
-		{"type":"text","text":"","id":"2de67cef85957136","x":2533,"y":-1665,"width":50,"height":60}
+		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Ynessa Shatterborne.md","id":"96359cacac7364f6","x":2170,"y":-1235,"width":400,"height":400,"color":"4"},
+		{"type":"text","text":"","id":"2de67cef85957136","x":2345,"y":-1360,"width":50,"height":60}
 	],
 	"edges":[
 		{"id":"132f123e897da0b4","fromNode":"6f2c71fadae3808a","fromSide":"right","toNode":"b68e8f097599d23b","toSide":"left"},
@@ -45,6 +45,8 @@
 		{"id":"0b05c3a7a87b7813","fromNode":"ac9593abf2a05998","fromSide":"left","toNode":"d00e3a61c3d03d86","toSide":"right"},
 		{"id":"312e8fd82ed1d059","fromNode":"2ed6a0539c3b07d2","fromSide":"right","toNode":"d00e3a61c3d03d86","toSide":"left"},
 		{"id":"e0a3fcd9d34fdf07","fromNode":"17c8f65cde67af25","fromSide":"left","toNode":"b68e8f097599d23b","toSide":"right"},
-		{"id":"c97c0e04b67ead82","fromNode":"d00e3a61c3d03d86","fromSide":"bottom","toNode":"17c8f65cde67af25","toSide":"top"}
+		{"id":"c97c0e04b67ead82","fromNode":"d00e3a61c3d03d86","fromSide":"bottom","toNode":"17c8f65cde67af25","toSide":"top"},
+		{"id":"06bb607867b72c89","fromNode":"6eb00eca3515df92","fromSide":"bottom","toNode":"2de67cef85957136","toSide":"top"},
+		{"id":"db5b36dc16be8975","fromNode":"2de67cef85957136","fromSide":"bottom","toNode":"96359cacac7364f6","toSide":"top"}
 	]
 }
