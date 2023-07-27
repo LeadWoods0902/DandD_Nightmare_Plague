@@ -1,9 +1,9 @@
 ## Target
-![[Hop Head]]
+[[Hop Head]]
 
 ## Location(s)
-- [[Brokvar]]
-- [[Riverview Estate]] Hop Farm
+- Brokvar
+- Riverview Estate Hop Farm
 - [[The Weald]] (Optional)
 - 
 
@@ -13,7 +13,7 @@
 #### Additional
 - Sack of Premium Citra Hops
 #### Bonus / Secret
-- [[Hop Head (Companion)]]
+- Hop Head (Companion)
 	- Requirement: Complete the contract without killing the Hop Head
 - 150 Baht
 	- Requirement: Complete the contract in less than three days
