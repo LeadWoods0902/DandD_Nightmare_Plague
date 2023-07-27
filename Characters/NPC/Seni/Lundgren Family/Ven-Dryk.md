@@ -1,4 +1,4 @@
-![[VenDryk_Full.png]]
+![[VenDryk.png]]
 
 King Consort of [[Napella Lundgren]] and Father of [[Amorella Lundgren]].
 

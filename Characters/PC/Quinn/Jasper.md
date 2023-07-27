@@ -22,8 +22,8 @@ Siblings:
 - [[Bismuth]]
 - [[Beryllis]]
 - [[Nicodemus]]
-- [[Vesper Shatterborne]]
-- [[Pyrrhus Shatterborne]]
+- [[Vesper]]
+- [[Pyrrhus]]
 
 Parents:
 - [[Magnar Shatterborne]]

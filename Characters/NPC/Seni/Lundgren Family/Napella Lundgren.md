@@ -1,4 +1,4 @@
-![[Napella Portrait.png]]
+![[Napella.png]]
 
 Ancient Queen of Brokvar. 
 
