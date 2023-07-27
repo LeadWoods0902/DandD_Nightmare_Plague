@@ -12,7 +12,7 @@ However, when Lupella was just a teenager, disaster struck. Their small village 
 
 *Do not make the same mistakes that I did. Be bold, be brave, and never let anyone tell you that you are not worthy of greatness. You are destined for greatness, my dear. Do not let anything stand in your way. I love you."*
 
-Ripped from her mother, Lupella was taken captive by the pirates and forced into servitude as [[The Captain of the Canvas Beater]]'s sword bearer. Despite an initial reluctance for bloodshed, Lupella proved to be a fierce and skilled warrior. Quickly rising through the ranks of the pirates, earning the respect and loyalty of her fellow crewmates.
+Ripped from her mother, Lupella was taken captive by the pirates and forced into servitude as a sword bearer. Despite an initial reluctance for bloodshed, Lupella proved to be a fierce and skilled warrior. Quickly rising through the ranks of the pirates, earning the respect and loyalty of her fellow crewmates.
 
 **something something find a true love for piracy, vow to sit the throne before she dies but take control of her life and do something she both enjoys and is good at something something**
 
