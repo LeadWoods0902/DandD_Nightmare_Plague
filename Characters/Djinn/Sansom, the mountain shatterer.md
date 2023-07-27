@@ -1,6 +1,6 @@
 ![[Sansom.png]]
 
-Djinn lineage of [[- Brannon -/Characters/NPC/Chimo-Nahagi/Shatterborne Family/Magnar Shatterborne|Magnar Shatterborne]]; and consequently: [[- Brannon -/Characters/PC/Quinn/Jasper|Jasper]] and [[- Brannon -/Characters/PC/Brannon/Bismuth|Bismuth]].
+Djinn lineage of [[Magnar Shatterborne]]; and consequently: [[Bismuth]], [[Jasper]] [[Beryllis]], [[Nicodemus]], [[Pyrrhus Shatterborne]] and [[Vesper Shatterborne]]
 
 Sansom lives in a cavern deep beneath [[- Brannon -/Locations/Chimo-Nahagi/Major Locations/Yamanohana|Yamanohana]] and spends most of his time carving grand structures into his halls.
 

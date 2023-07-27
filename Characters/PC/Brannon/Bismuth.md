@@ -21,8 +21,8 @@ Bismuth Shatterborne
 
 Siblings: 
 - [[Jasper]]
-- [[Beryllis Shatterborne]]
-- [[Nicodemus Shatterborne]]
+- [[Beryllis]]
+- [[Nicodemus]]
 - [[Vesper Shatterborne]]
 - [[Pyrrhus Shatterborne]]
 

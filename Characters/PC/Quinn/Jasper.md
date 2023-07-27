@@ -20,8 +20,8 @@ Jasper Shatterborne
 
 Siblings: 
 - [[Bismuth]]
-- [[Beryllis Shatterborne]]
-- [[Nicodemus Shatterborne]]
+- [[Beryllis]]
+- [[Nicodemus]]
 - [[Vesper Shatterborne]]
 - [[Pyrrhus Shatterborne]]
 

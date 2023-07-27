@@ -1,4 +1,4 @@
-Incestuous daughter of [[Vesper Shatterborne]] and [[Nicodemus Shatterborne]].
+Incestuous daughter of [[Vesper Shatterborne]] and [[Nicodemus]].
 
 Named for their Grandmother [[Ynessa]]
 
