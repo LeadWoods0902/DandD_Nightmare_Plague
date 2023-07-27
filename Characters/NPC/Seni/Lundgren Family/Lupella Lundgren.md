@@ -1,4 +1,4 @@
-![[Luppella_Full.png]]
+![[
 
 Reaver Queen of the north seas and granddaughter to the fire queen: [[Napella Lundgren]]. The rightful heir to the Brokvar throne: Lupella carries the [[Engraved Emerald]] and is the daughter of [[Amorella Lundgren]] and [[Ayven Torrieth]].
 
