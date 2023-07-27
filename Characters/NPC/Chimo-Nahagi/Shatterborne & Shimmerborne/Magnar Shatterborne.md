@@ -21,15 +21,16 @@ Fathered two children with [[Dolomite (Dola) Shimmerborne]]:
 - [[Jasper]]
 
 and four with [[Ynessa]]:
-- 
-
+- [[Beryllis]]
+- [[Nicodemus]]
+- [[Pyrrhus]]
+- [[Vesper]]
 
 ##### Race
 Genasi
 
 ##### Class
-Unknown
-
+Fighter
 
 ##### Alignment
 Neutral "Evil"/ Asshole
