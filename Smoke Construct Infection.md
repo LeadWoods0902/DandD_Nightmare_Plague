@@ -1,1 +1,1 @@
-A
+An infection caused by coming into contact with [[Smoke Construct|Smoke Constructs]]
