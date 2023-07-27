@@ -33,28 +33,28 @@ Genasi
 Samurai Fighter
 
 ##### Alignment
-Immoral Neutral
+Social Impure
 
 ##### Personality Traits
-Unknown
+*Unknown*
 
 ##### Long Term Goals
-Unknown
+*Unknown*
 
 
 ##### Secondary Goals
-Unknown
+*Unknown*
 
 
 ##### Motivations
-Unknown
+*Unknown*
 
 
 ##### Flaws
-Unknown
+*Unknown*
 
 
 ##### Affiliations
-Unknown
+*Unknown*
 
 ### Notes
