@@ -1,1 +1,1 @@
-Used exclusively by [[-Brokvar-]]
+The currency of [[Brokvar (Country)|Brokvar]]
