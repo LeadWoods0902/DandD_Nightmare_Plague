@@ -1,5 +1,5 @@
-![[Dina_Token.png]]
-[[Dina.png|Full Art]]
+
+[[Dola.png|Full Art]]
 
 ---
 ### Character Info
