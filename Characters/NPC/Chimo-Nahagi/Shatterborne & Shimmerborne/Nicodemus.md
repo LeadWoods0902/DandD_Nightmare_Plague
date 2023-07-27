@@ -8,7 +8,7 @@
 Nicodemus Shatterborne
 
 ##### Current Age
-*TBC*
+43
 
 ##### Place of Origin
 [[Yamanohana]]
@@ -17,16 +17,16 @@ Nicodemus Shatterborne
 [[Shatterborne.canvas|Shatterborne]]
 
 Fathered one daughter:
-
+[[Ynessa Shatterborne]]
 
 ##### Race
 Genasi
 
 ##### Class
-Samurai Fighter
+Monk
 
 ##### Alignment
-Social Impure
+*TBC*
 
 ##### Personality Traits
 *TBC*
