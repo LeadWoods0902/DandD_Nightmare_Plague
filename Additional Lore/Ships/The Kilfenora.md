@@ -1,3 +1,1 @@
-A ship helmed by [[Nomli Gurglegum]]
-
-Black Sails, studded with the hard stones of the continent
+A ship helmed by [[Nomli Gurglegum]] and crewed by [[The crew of the Kilfenora]]
