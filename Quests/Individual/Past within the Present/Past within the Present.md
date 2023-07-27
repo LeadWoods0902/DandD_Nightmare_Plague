@@ -1,5 +1,0 @@
-[[Alfread's Quest]]
-[[Malkath's Quest]]
-[[Rolbam's Quest]]
-[[Seram's Quest]]
-[[Stronvan's Quest]]
