@@ -30,7 +30,7 @@ and four with [[Ynessa]]:
 Genasi
 
 ##### Class
-Fighter
+Samurai Fighter
 
 ##### Alignment
 Neutral "Evil"/ Asshole
