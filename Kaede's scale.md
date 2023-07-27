@@ -1,3 +1,5 @@
-![[Pasted image 20230718162745.png]]
+![[Kaede's_Scale_Token.png]]
+[[Kaede's Scale.png|Full Art]]
 
+---
 An object with magical properties that [[Jasper|Jasper]] keeps on their person at all times - often hung around their neck or on their belt.
