@@ -1,0 +1,1 @@
+Eldest daughter of [[Magnar Shatterborne]] and [[Ynessa]]

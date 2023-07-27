@@ -1,1 +1,1 @@
-Father of [[Dolomite (Dola) Shimmerborne||Dolomite]] and [[Ro=
+Father of [[Dolomite (Dola) Shimmerborne||Dolomite]] and [[Rilldina (Dina) Shimmerborne|Rildina]]
