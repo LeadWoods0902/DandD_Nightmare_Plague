@@ -5,36 +5,8 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "path:Narrative/Overviews",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:Characters/Bosses",
-      "color": {
-        "a": 1,
-        "rgb": 6883079
-      }
-    },
-    {
-      "query": "path:Characters/PC",
-      "color": {
-        "a": 1,
-        "rgb": 5555
-      }
-    },
-    {
-      "query": "path:Characters/Djinn",
-      "color": {
-        "a": 1,
-        "rgb": 10956591
-      }
-    },
     {
       "query": "path:Characters",
       "color": {
@@ -97,11 +69,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 2.0140625,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.354166666666667,
   "repelStrength": 14.8958333333333,
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 0.1188785785788933,
-  "close": true
+  "close": false
 }
