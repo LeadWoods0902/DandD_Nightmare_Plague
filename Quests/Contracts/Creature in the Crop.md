@@ -4,8 +4,7 @@
 ## Location(s)
 - Brokvar
 - Riverview Estate Hop Farm
-- [[The Weald]] (Optional)
-- 
+- The Weald
 
 ## Reward(s)
 #### Contracted
