@@ -33,7 +33,7 @@ Genasi
 Samurai Fighter
 
 ##### Alignment
-Neutral "Evil"/ Asshole
+Immoral Neutral
 
 ##### Personality Traits
 Unknown
