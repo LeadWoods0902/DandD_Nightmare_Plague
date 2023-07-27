@@ -13,7 +13,7 @@ Aurelix Shimmerborne
 [[Shatterborne.canvas|Shatterborne]]
 
 Fathered two children with [[Auroris, the Shimmering Sentinel]]
-- [[Dolomite (Dola) Shimmerborne||Dolomite]]
+- [[Dolomite (Dola)||Dolomite]]
 - [[Rilldina (Dina)|Rildina]]
 
 ##### Race

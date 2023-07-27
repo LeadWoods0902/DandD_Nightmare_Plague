@@ -27,7 +27,7 @@ Siblings:
 
 Parents:
 - [[Magnar Shatterborne]]
-- [[Dolomite (Dola) Shimmerborne]]
+- [[Dolomite (Dola)]]
 
 Other: 
 - Niece [[Ynessa Shatterborne]]

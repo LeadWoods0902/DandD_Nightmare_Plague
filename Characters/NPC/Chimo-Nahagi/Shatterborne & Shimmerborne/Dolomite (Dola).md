@@ -1,39 +1,33 @@
-![[Magnar_Token.png]]
-[[Magnar.png|Full Art]]
+![[Dina_Token.png]]
+[[Dina.png|Full Art]]
 
 ---
 ### Character Info
 
 ##### Name 
-Magnar Shatterborne
+Dolomite (Dola) Shimmerborne
 
 ##### Current Age
-216
+*TBC*
 
 ##### Place of Origin
-[[Chimo]]
+*TBC*
 
 ##### Family
 [[Shatterborne.canvas|Shatterborne]]
 
-Fathered two children with [[Dolomite (Dola)]]:
+Mothered two children with [[Magnar Shatterborne]]:
 - [[Bismuth]]
 - [[Jasper]]
-
-and four with [[Ynessa]]:
-- [[Beryllis]]
-- [[Nicodemus]]
-- [[Pyrrhus]]
-- [[Vesper]]
 
 ##### Race
 Genasi
 
 ##### Class
-Samurai Fighter
+*TBC*
 
 ##### Alignment
-Social Impure
+*TBC*
 
 ##### Personality Traits
 *TBC*

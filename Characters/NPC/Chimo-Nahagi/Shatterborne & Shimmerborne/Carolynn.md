@@ -1,1 +1,1 @@
-[[Dolomite (Dola) Shimmerborne]]'s mother
+[[Dolomite (Dola)]]'s mother
