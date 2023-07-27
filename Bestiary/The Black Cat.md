@@ -1,1 +1,0 @@
-Companion for [[Jasper Shatterborne]]
