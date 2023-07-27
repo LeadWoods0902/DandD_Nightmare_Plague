@@ -1,4 +1,4 @@
-Incestuous daughter of [[Vesper]] and [[Nicodemus]].
+Daughter of [[Nicodemus]].
 
 Named for their Grandmother [[Ynessa]]
 
