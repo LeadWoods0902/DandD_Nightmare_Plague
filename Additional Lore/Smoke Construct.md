@@ -1,3 +1,6 @@
+Smoke like construct created by a warlock of [[the 
+
 notably can take the form of:
-- tentacles
-- [[Smoke Warriors]]
+- Tentacles
+- [[Smoke Warriors|Humanoids]]
+- 
