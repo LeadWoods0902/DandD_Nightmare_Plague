@@ -1,7 +1,11 @@
+
+[[Dina.png|Full Art]]
+
+---
 ### Character Info
 
 ##### Name 
-Aurelix Shimmerborne
+Rilldina (Dina) Shimmerborne
 
 ##### Current Age
 *TBC*
@@ -11,10 +15,6 @@ Aurelix Shimmerborne
 
 ##### Family
 [[Shatterborne.canvas|Shatterborne]]
-
-Fathered two children with [[Auroris, the Shimmering Sentinel]]
-- [[Dolomite (Dola) Shimmerborne||Dolomite]]
-- [[Rilldina (Dina)|Rildina]]
 
 ##### Race
 Genasi
@@ -44,4 +44,3 @@ Genasi
 *TBC*
 
 ### Notes
-
