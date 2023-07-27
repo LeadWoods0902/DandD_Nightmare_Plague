@@ -1,6 +1,6 @@
 Father of:
-- [[Jasper Shatterborne]]
-- [[Bismuth Shatterborne]]
+- [[Jasper]]
+- [[Bismuth]]
 - [[Beryllis Shatterborne]]
 - [[Nicodemus Shatterborne]]
 - [[Vesper Shatterborne]]

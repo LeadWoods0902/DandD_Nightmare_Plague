@@ -1,7 +1,7 @@
 ![[Auroris.png]]
 Auroris is a Crystal Djinn
 
-Djinn lineage of[[Dolomite (Dola) Shimmerborne]]; and consequently:[[Bismuth Shatterborne]] and [[Jasper Shatterborne]]
+Djinn lineage of[[Dolomite (Dola) Shimmerborne]]; and consequently: [[Bismuth]] and [[Jasper]]
 
 Auroris is a solitary Djinn and as such you have never met her; however, your being of her lineage is highly likely due to the composition of your form: a synergy between earthen and crystalline structures.
 

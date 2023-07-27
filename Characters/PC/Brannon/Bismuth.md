@@ -20,7 +20,7 @@ Bismuth Shatterborne
 ##### Family
 
 Siblings: 
-- [[Jasper Shatterborne]]
+- [[Jasper]]
 - [[Beryllis Shatterborne]]
 - [[Nicodemus Shatterborne]]
 - [[Vesper Shatterborne]]

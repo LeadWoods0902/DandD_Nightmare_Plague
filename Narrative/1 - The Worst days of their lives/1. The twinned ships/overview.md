@@ -1,6 +1,6 @@
 ## Characters
-- [[Jasper Shatterborne]]
-- [[Bismuth Shatterborne]]
+- [[Jasper]]
+- [[Bismuth]]
 - [[Nomli Gurglegum]]
 - [[Herouk Barrelbasher]]
 - [[The crew of the Kilfenora]]

@@ -1,1 +1,1 @@
-[[Bismuth Shatterborne]]
+[[Bismuth]]

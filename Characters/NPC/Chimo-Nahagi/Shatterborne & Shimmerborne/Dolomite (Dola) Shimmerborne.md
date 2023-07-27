@@ -1,3 +1,3 @@
 Mother of:
-[[Bismuth Shatterborne]]
-[[Jasper Shatterborne]]
+[[Bismuth]]
+[[Jasper]]
