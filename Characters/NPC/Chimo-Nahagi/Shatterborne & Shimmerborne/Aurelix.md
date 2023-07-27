@@ -1,18 +1,18 @@
 ### Character Info
 
 ##### Name 
-Magnar Shatterborne
+Aurelix Shimmerborne
 
 ##### Current Age
-216
+
 
 ##### Place of Origin
-[[Chimo]]
+
 
 ##### Family
 [[Shatterborne.canvas|Shatterborne]]
 
-Fathered two children with [[Auror
+Fathered two children with [[Auroris, the Shimmering Sentinel]]
 - [[Dolomite (Dola) Shimmerborne||Dolomite]]
 - [[Rilldina (Dina) Shimmerborne|Rildina]]
 

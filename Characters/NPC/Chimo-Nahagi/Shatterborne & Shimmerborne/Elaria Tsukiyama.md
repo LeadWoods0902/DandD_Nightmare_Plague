@@ -1,1 +1,1 @@
-Mother of [[Aurelix Shimmerborne]]
+Mother of [[Aurelix]]
