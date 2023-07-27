@@ -4,10 +4,10 @@
 Aurelix Shimmerborne
 
 ##### Current Age
-
+*TBC*
 
 ##### Place of Origin
-
+*TBC*
 
 ##### Family
 [[Shatterborne.canvas|Shatterborne]]
@@ -20,32 +20,28 @@ Fathered two children with [[Auroris, the Shimmering Sentinel]]
 Genasi
 
 ##### Class
-Samurai Fighter
+*TBC*
 
 ##### Alignment
-Social Impure
+*TBC*
 
 ##### Personality Traits
-*Unknown*
+*TBC*
 
 ##### Long Term Goals
-*Unknown*
-
+*TBC*
 
 ##### Secondary Goals
-*Unknown*
-
+*TBC*
 
 ##### Motivations
-*Unknown*
-
+*TBC*
 
 ##### Flaws
-*Unknown*
-
+*TBC*
 
 ##### Affiliations
-*Unknown*
+*TBC*
 
 ### Notes
 

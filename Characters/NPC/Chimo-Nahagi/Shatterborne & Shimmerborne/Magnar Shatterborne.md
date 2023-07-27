@@ -36,25 +36,21 @@ Samurai Fighter
 Social Impure
 
 ##### Personality Traits
-*Unknown*
+*TBC*
 
 ##### Long Term Goals
-*Unknown*
-
+*TBC*
 
 ##### Secondary Goals
-*Unknown*
-
+*TBC*
 
 ##### Motivations
-*Unknown*
-
+*TBC*
 
 ##### Flaws
-*Unknown*
-
+*TBC*
 
 ##### Affiliations
-*Unknown*
+*TBC*
 
 ### Notes
