@@ -16,9 +16,6 @@ Nicodemus Shatterborne
 ##### Family
 [[Shatterborne.canvas|Shatterborne]]
 
-Fathered one daughter:
-[[Ynessa Shatterborne]]
-
 ##### Race
 Genasi
 
