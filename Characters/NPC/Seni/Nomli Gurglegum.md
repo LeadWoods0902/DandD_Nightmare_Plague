@@ -14,7 +14,7 @@ Unknown
 [[Llawyr un Mawr]]
 
 ##### Family
-Partner of [[Herouk]]
+Partner of [[Herouk BarrelBasher]]
 
 ##### Race
 Dwarf
@@ -44,4 +44,4 @@ Unknown
 - [[The crew of the Kilfenora]]
 
 ### Notes
-Captain of [[The Kilfenora]]. Nomli was a privateer by trade and worked alongside his partner [[Herouk]].
+Captain of [[The Kilfenora]]. Nomli was a privateer by trade and worked alongside his partner [[Herouk BarrelBasher]].

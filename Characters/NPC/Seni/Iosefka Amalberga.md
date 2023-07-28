@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Iosefka 
+Iosefka Amalberga
 
 ##### Current Age
 Unknown
