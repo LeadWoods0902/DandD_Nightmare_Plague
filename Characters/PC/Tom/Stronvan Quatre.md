@@ -1,3 +1,51 @@
+![[Bismuth_Token.png]]
+[[.png|Full Art]]
+
+---
+### Character Info
+
+##### Name 
+Stronvan Quatre
+
+##### Current Age
+
+
+##### Place of Origin
+
+
+##### Family
+
+
+##### Race
+
+
+##### Class
+
+
+##### Alignment
+
+
+##### Personality Traits
+
+
+##### Long Term Goals
+
+
+##### Secondary Goals
+
+
+##### Motivations
+
+
+##### Flaws
+
+
+##### Affiliations
+
+
+---
+### Notes
+
 A paladin that works in the servitude of the [[Ymerodrol Empire]], this man was solely responsible for the sacking and burning of Farrow Rise in an attempt to claim more land for the empire. 
 
 
