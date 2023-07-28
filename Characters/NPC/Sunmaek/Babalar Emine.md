@@ -20,10 +20,10 @@ Wife of [[Chancellor Sturgis]] and mother of [[Hinelle]]
 Yuan-Ti
 
 ##### Class
-Unknown
+Light Cleric
 
 ##### Alignment
-Unknown
+Lawful Impure
 
 ##### Personality Traits
 Unknown

@@ -20,10 +20,10 @@ Unknown
 Yuan-Ti
 
 ##### Class
-Cleric
+Light Cleric
 
 ##### Alignment
-Unknown
+Lawful Impure
 
 ##### Personality Traits
 Unknown
