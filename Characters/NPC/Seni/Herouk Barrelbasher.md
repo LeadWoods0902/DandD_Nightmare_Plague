@@ -1,1 +1,0 @@
-Second Lieutenant to and boyfriend of [[Nomli Gurglegum]]. Herouk comes from a rich background, his family being the owner of long established winery and vineyard "[[The Ozeaux]]"

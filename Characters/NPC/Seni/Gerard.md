@@ -1,11 +1,11 @@
-![[Elaine_Token.png]]
-[[Elaine.png|Full Art]]
+![[Gerad_Token.png]]
+[[Gerard.png|Full Art]]
 
 ---
 ### Character Info
 
 ##### Name 
-Elaine
+Gerard
 
 ##### Current Age
 Unknown
@@ -20,7 +20,7 @@ Unknown
 Human seemingly
 
 ##### Class
-Sorcerer seemingly
+Unknown
 
 ##### Alignment
 Unknown
@@ -44,7 +44,4 @@ Unknown
 Unknown
 
 ### Notes
-Elaine claims to work with a woman called [[- Brannon -/Characters/NPC/Seni/Mistress|Mistress]]
-
-Elaine purchased [[Bismuth]] and [[Jasper]] for 2000 [[Baht]] but paid in jewels - in the same transaction, she handed the auctioneer a paper document.
-
+Works a farm outside of [[Virmarr]]
