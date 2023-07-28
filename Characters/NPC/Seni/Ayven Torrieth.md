@@ -1,4 +1,4 @@
-[[Pasted image 20230728121727.png|Full Art]]
+[[Ayven_Torieth.png|Full Art]]
 
 ---
 ### Character Info
