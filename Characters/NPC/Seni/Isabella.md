@@ -1,5 +1,5 @@
 ![[Isabella_Token.png]]
-[[Shared/Resources/Full Art/Crew of the Kilfenora/Isabella.png|Full Art]]
+[[Isabella.png|Full Art]]
 
 ---
 ### Character Info
@@ -44,4 +44,4 @@ Unknown
 - [[The crew of the Kilfenora]]
 
 ### Notes
-Stole away from [[the kilfey taking one of its two safety boats.
+Stole away from [[The Kilfenora]] by taking one of its two safety boats.
