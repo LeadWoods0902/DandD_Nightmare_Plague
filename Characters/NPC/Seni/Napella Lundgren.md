@@ -1,12 +1,52 @@
 ![[Napella_Token.png]]
 [[Napella.png|Full Art]]
-
 ---
+### Character Info
+
+##### Name 
+Unknown 
+
+##### Current Age
+Unknown
+
+##### Place of Origin
+Unknown
+
+##### Family
+Unknown
+
+##### Race
+Unknown
+
+##### Class
+Unknown
+
+##### Alignment
+Unknown
+
+##### Personality Traits
+Unknown
+
+##### Long Term Goals
+Unknown
+
+##### Secondary Goals
+Unknown
+
+##### Motivations
+Unknown
+
+##### Flaws
+Unknown
+
+##### Affiliations
+Unknown
+
+### Notes
+
 Ancient Queen of Brokvar. 
 
 Entombed within the roots of the Nëor Tree.
-
----
 
 Napella was a warrior queen of legend, renowned for her bravery and skill in battle. She was the leader of a fierce and powerful army, feared by her enemies and revered by her subjects.
 

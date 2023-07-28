@@ -1,4 +1,49 @@
-![[VenDryk.png]]
+![[VenDryk_Token.png]]
+[[VenDryk.png]]
+
+---
+### Character Info
+
+##### Name 
+Unknown 
+
+##### Current Age
+Unknown
+
+##### Place of Origin
+Unknown
+
+##### Family
+Unknown
+
+##### Race
+Unknown
+
+##### Class
+Unknown
+
+##### Alignment
+Unknown
+
+##### Personality Traits
+Unknown
+
+##### Long Term Goals
+Unknown
+
+##### Secondary Goals
+Unknown
+
+##### Motivations
+Unknown
+
+##### Flaws
+Unknown
+
+##### Affiliations
+Unknown
+
+### Notes
 
 King Consort of [[Napella Lundgren]] and Father of [[Amorella Lundgren]].
 
