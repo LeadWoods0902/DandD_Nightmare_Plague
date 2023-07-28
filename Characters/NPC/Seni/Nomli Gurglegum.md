@@ -1,14 +1,47 @@
-| Hill Dwarf | Samurai Fighter | Chaotic Neutral | Level 5 |
-| :-------: | :---: | :---: | :---: |
-| **HP** | *53* | **AC** | *16* | 
-| **Stat** | **Score** | **Mod** | **Save** | 
-| **STR** | *15* | *2* | *6* | 
-| **INT** | *10* | *0* | *0* | 
-| **DEX** | *10* | *0* | *0* | 
-| **WIS** | *14* | *2* | *6* | 
-| **CON** | *17* | *3* | *7* | 
-| **CHA** | *13* | *1* | *1* | 
+![[Nomli_Token.png]]
+[[Nomli.png|Full Art]]
 
+---
+### Character Info
 
-Captain of "[[The Kilfenora]]" and privateer by trade.
+##### Name 
+Nomli Gurglegum
 
+##### Current Age
+Unknown
+
+##### Place of Origin
+[[Llawyr un Mawr]]
+
+##### Family
+Partner of [[Herouk]]
+
+##### Race
+Dwarf
+
+##### Class
+Unknown
+
+##### Alignment
+Unknown
+
+##### Personality Traits
+Unknown
+
+##### Long Term Goals
+Unknown
+
+##### Secondary Goals
+Unknown
+
+##### Motivations
+Unknown
+
+##### Flaws
+Unknown
+
+##### Affiliations
+- [[The crew of the Kilfenora]]
+
+### Notes
+Captain of [[The Kilfenora]]. Nomli was a privateer by trade and worked alongside his partner [[Herouk]].
