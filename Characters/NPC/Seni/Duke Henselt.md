@@ -1,6 +1,6 @@
 ![[]]
 
-[[]]
+[[Henselt.jpg|Full Art]]
 
 ---
 ### Character Info
