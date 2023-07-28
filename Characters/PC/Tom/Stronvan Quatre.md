@@ -1,5 +1,5 @@
-![[Bismuth_Token.png]]
-[[.png|Full Art]]
+![[Tom_Token.png]]
+[[Tom.png]]
 
 ---
 ### Character Info
@@ -23,7 +23,7 @@ Stronvan Quatre
 
 
 ##### Alignment
-
+Chaotic Impure
 
 ##### Personality Traits
 
