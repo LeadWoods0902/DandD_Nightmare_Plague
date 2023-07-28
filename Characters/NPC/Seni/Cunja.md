@@ -1,11 +1,11 @@
-![[Brovarra_Token.png]]
-[[Brovarra.png|Full Art]]
+![[Cunja_Token.png]]
+[[Cunja.png|Full Art]]
 
 ---
 ### Character Info
 
 ##### Name 
-Brovarra
+Cunja
 
 ##### Current Age
 Unknown
@@ -44,4 +44,4 @@ Unknown
 Unknown
 
 ### Notes
-The barkeep and owner of [[The Copper Cask]]
+
