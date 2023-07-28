@@ -1,6 +1,6 @@
 ![[AmorellaLundgren.png]]
 
-[[]]
+[[AmorellaLundgren|Full Art]]
 
 ---
 ### Character Info
