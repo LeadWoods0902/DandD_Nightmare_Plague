@@ -17,7 +17,7 @@ Unknown
 Wife of [[Chancellor Sturgis]] and mother of [[Hinelle]]
 
 ##### Race
-Human
+Yuan-Ti
 
 ##### Class
 Unknown

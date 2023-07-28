@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Aldric 
+Yusuf 
 
 ##### Current Age
 Unknown
@@ -17,10 +17,10 @@ Unknown
 Unknown
 
 ##### Race
-Human
+Yuan-Ti
 
 ##### Class
-Unknown
+Cleric
 
 ##### Alignment
 Unknown
