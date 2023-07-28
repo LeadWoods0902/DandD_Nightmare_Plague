@@ -1,5 +1,5 @@
 ![[Lirel_Token.png]]
-[[Lirel.png]]
+[[Lirel.png|Full Art]]
 
 ---
 ### Character Info
