@@ -1,20 +1,19 @@
-![[Breek_Token.png]]
-[[Breek.png|Full Art]]
+token here
 
 ---
 ### Character Info
 
 ##### Name 
-Breek
+Ayven Torieth
 
 ##### Current Age
 Unknown
 
 ##### Place of Origin
-Unknown
+Menamawr
 
 ##### Family
-Unknown
+Father of [[Lupella Lundgren]] and shortly-lived husband to [[Amorella Lundgren]]
 
 ##### Race
 Unknown
@@ -44,7 +43,5 @@ Unknown
 Unknown
 
 ### Notes
-
-Father of [[Lupella Lundgren]] and shortly-lived husband to [[Amorella Lundgren]]
 
 Ayven was a dock hand living in the small fishing hamlet of Menamawr 
