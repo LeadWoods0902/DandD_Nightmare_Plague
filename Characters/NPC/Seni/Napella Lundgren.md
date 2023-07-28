@@ -1,5 +1,7 @@
-![[Napella.png]]
+![[Napella_Token.png]]
+[[Napella.png|Full Art]]
 
+---
 Ancient Queen of Brokvar. 
 
 Entombed within the roots of the Nëor Tree.
@@ -8,7 +10,7 @@ Entombed within the roots of the Nëor Tree.
 
 Napella was a warrior queen of legend, renowned for her bravery and skill in battle. She was the leader of a fierce and powerful army, feared by her enemies and revered by her subjects.
 
-Etched with the scars of countless battles, her face was framed by a flowing crop of burnished copper hair. Protecting her slender and tall body, she wore a suit of armour that shone like the sun, adorned with the insignia of her kingdom: a pair of bears stood on their hind legs under an ashen tree.d
+Etched with the scars of countless battles, her face was framed by a flowing crop of burnished copper hair. Protecting her slender and tall body, she wore a suit of armour that shone like the sun, adorned with the insignia of her kingdom: a pair of bears stood on their hind legs under an ashen tree.
 
 *Her crown bore the [[Engraved Emerald]], a stone she was never seen without.*
 
