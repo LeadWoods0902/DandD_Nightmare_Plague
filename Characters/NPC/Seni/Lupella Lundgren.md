@@ -1,5 +1,49 @@
 ![[Lupella_Token.png]]
 [[Lupella.png|Full Art]]
+
+---
+### Character Info
+
+##### Name 
+Lupella Lundgren 
+
+##### Current Age
+Unknown
+
+##### Place of Origin
+Unknown
+
+##### Family
+Daughter of [[Amorella Lundgren]] and [[Ayven Torrieth]]
+
+##### Race
+Unknown
+
+##### Class
+Unknown
+
+##### Alignment
+Unknown
+
+##### Personality Traits
+Unknown
+
+##### Long Term Goals
+Unknown
+
+##### Secondary Goals
+Unknown
+
+##### Motivations
+Unknown
+
+##### Flaws
+Unknown
+
+##### Affiliations
+Unknown
+
+### Notes
 Reaver Queen of the north seas and granddaughter to the fire queen: [[Napella Lundgren]]. The rightful heir to the Brokvar throne: Lupella carries the [[Engraved Emerald]] and is the daughter of [[Amorella Lundgren]] and [[Ayven Torrieth]].
 
 Amorella grew up in hiding, never fully understanding the circumstances of her mother's past or the significance of the emerald that she had been entrusted with. She lived a simple life, working as a seamstress and raising her daughter Lupella on her own.
