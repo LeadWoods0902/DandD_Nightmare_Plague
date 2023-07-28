@@ -44,7 +44,7 @@ Unknown
 Unknown
 
 ### Notes
-Elaine claims to work with a woman called [[- Brannon -/Characters/NPC/Seni/Mistress|Mistress]]
+Elaine claims to work with a woman called [[Mistress]]
 
 Elaine purchased [[Bismuth]] and [[Jasper]] for 2000 [[Baht]] but paid in jewels - in the same transaction, she handed the auctioneer a paper document.
 
