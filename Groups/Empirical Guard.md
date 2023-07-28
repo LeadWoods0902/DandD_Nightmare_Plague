@@ -1,1 +1,1 @@
-![[4634fc37c7b92ffc26cfcd74a1612f4f 1.jpg]]
+![[EmpiricalGuard.jpg]]
