@@ -44,4 +44,5 @@ Unknown
 Unknown
 
 ### Notes
- and adviser to the [[Church of the Sun]]
+
+member of [[The Chancellorship]] and adviser to the [[Church of the Sun]]

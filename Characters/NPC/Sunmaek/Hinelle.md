@@ -1,10 +1,51 @@
-**Race**:  Yuan-Ti
-**Age**: 47
-**Gender**: Female
-
+![[Hinele_Token.png]]
+[[Hinelle.png|Full Art]]
 
 ---
-### The Divine Diplomat
+### Character Info
+
+##### Name 
+Sturgis 
+
+##### Current Age
+47
+
+##### Place of Origin
+Unknown
+
+##### Family
+Daughter of [[Chancellor Sturgis]] and [[Babalar Emine]]
+
+##### Race
+Yuan-Ti
+
+##### Class
+Light Cleric
+
+##### Alignment
+Lawful Impure
+
+##### Personality Traits
+Unknown
+
+##### Long Term Goals
+Unknown
+
+##### Secondary Goals
+Unknown
+
+##### Motivations
+Unknown
+
+##### Flaws
+Unknown
+
+##### Affiliations
+Unknown
+
+### Notes
+
+member of [[The Chancellorship]] and adviser to the [[Church of the Sun]]
 
 Born into a noble family, you were brought up under the gaze of the twin sun. Literally, because from Sunmaek you can see two suns in the sky and figuratively because you grew up within the "church of the sun" (name tbc) and were cared for deeply by its two leaders **the sun's twin pontiffs**.
 
