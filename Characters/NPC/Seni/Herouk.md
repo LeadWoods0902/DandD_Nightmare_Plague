@@ -1,5 +1,5 @@
 ![[Herouk_Token.png]]
-[[Shared/Resources/Full Art/Herouk.png|Full Art]]
+[[Herouk.png|Full Art]]
 
 ---
 ### Character Info

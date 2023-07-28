@@ -1,0 +1,47 @@
+![[Isabella_Token.png]]
+[[Shared/Resources/Full Art/Crew of the Kilfenora/Isabella.png|Full Art]]
+
+---
+### Character Info
+
+##### Name 
+Isabella
+
+##### Current Age
+Unknown
+
+##### Place of Origin
+[[Llawyr un Mawr]]
+
+##### Family
+Unknown
+
+##### Race
+Dwarf
+
+##### Class
+Unknown
+
+##### Alignment
+Unknown
+
+##### Personality Traits
+Unknown
+
+##### Long Term Goals
+Unknown
+
+##### Secondary Goals
+Unknown
+
+##### Motivations
+Unknown
+
+##### Flaws
+Unknown
+
+##### Affiliations
+- [[The crew of the Kilfenora]]
+
+### Notes
+Stole away from [[the kilfey taking one of its two safety boats.
