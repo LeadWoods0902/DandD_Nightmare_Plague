@@ -1,1 +1,1 @@
-The [[Eastern Confederacy]] retaliate against [[Napella Lundgren]] after her devastating assault on the Rheilliwch royal summer manor.
+The [[Eastern Confederacy]] retaliate against [[Napella Lundgren]] after her devastating assault on the [[Rheilliwch Royal Manor]]. Napella and her family are slaughtered and [[Brokvar (Country)|Brokvar]] falls under the control of the Eastern Confederacy.
