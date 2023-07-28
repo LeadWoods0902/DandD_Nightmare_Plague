@@ -5,13 +5,13 @@
 ### Character Info
 
 ##### Name 
-Sturgis 
+Ven-Kylgh Ashahalla 
 
 ##### Current Age
-47
+*TBC*
 
 ##### Place of Origin
-Unknown
+*TBC*
 
 ##### Family
 Father of [[Ven-Dryk Ashahalla]]
@@ -23,7 +23,7 @@ Yuan-Ti
 *TBC*
 
 ##### Alignment
-Social Good
+Lawful Impure
 
 ##### Personality Traits
 *TBC*
