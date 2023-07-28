@@ -1,1 +1,1 @@
-Big air tank explodes, destroying the city - most of the citizens die. Believed to be an act of Neoris - 
+Big air tank explodes, destroying the city - most of the citizens die. Believed to be an act of Neoris
