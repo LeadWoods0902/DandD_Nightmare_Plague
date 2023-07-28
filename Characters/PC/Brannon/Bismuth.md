@@ -1,5 +1,6 @@
 ![[Bismuth_Token.png]]
-[[Bimsuth.p
+[[Bismuth.png|Full Art]]
+
 ---
 ### Character Info
 
