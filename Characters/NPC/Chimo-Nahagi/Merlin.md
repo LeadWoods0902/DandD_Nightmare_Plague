@@ -1,11 +1,11 @@
-![[Ingo_Token.png]]
-[[Ingo.png|Full Art]]
+![[Merlin_Token.png]]
+[[Merlin.png|Full Art]]
 
 ---
 ### Character Info
 
 ##### Name 
-Ingo
+Merlin
 
 ##### Current Age
 Unknown
@@ -44,6 +44,5 @@ Unknown
 Unknown
 
 ### Notes
-Ingo was one of the more charismatic crew members aboard [[The Kilfenora]]. In charge of the artillery, Ingo was the ships first line of defence against off-board trouble; and its gambling extraordinaire. 
+Merlin was found dead in his cabin, his throat discoloured black like the muscle inside of [[Magnus]]'s arm after it's contact with the [[Smoke Construct]] in humanoid form.
 
-Ingo was found dead in his cabin, his throat discoloured black like [[Merlin]]'s
