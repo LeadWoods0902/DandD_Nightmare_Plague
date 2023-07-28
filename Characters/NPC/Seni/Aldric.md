@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Unknown
+Aldric 
 
 ##### Current Age
 Unknown
