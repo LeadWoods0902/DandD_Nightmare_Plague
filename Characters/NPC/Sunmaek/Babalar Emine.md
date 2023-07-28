@@ -1,1 +1,1 @@
-![[58ce6afb873ab156745aa0f42e420137.jpg]]
+[[TwinBabalars.jpg|Full Art]]
