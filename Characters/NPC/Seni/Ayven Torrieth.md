@@ -10,7 +10,7 @@ Ayven Torieth
 Unknown
 
 ##### Place of Origin
-Menamawr
+[[Menamawr]]
 
 ##### Family
 Father of [[Lupella Lundgren]] and shortly-lived husband to [[Amorella Lundgren]]
