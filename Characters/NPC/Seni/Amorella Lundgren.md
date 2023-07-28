@@ -15,10 +15,10 @@ Unknown
 [[Brokvar]]
 
 ##### Family
-Unknown
+Daughter of [[Napella Lundgren]] and [[Ven-Dryk]]
 
 ##### Race
-Unknown
+Human - Yuan-Ti hybrid
 
 ##### Class
 Unknown
