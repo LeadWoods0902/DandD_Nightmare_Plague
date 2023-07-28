@@ -1,6 +1,6 @@
 Imperial force born of the ashes of the [[Eastern Confederacy]].
 
-Totalitarian Dictatorship lead by the elf [[Fenian Naezana]]
+Totalitarian Dictatorship lead by the elf [[Fenian]]
 Religious hunts are in place to smudge out any remnants of the old way heretics
 
 

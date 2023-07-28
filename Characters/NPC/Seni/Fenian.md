@@ -20,7 +20,7 @@ Unknown
 Human seemingly
 
 ##### Class
-Sorcerer seemingly
+Unknown
 
 ##### Alignment
 Unknown
