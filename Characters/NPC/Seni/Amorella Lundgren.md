@@ -15,7 +15,7 @@ Unknown
 [[Brokvar]]
 
 ##### Family
-Daughter of [[Napella Lundgren]] and [[Ven-Dryk]]
+Daughter of [[Napella Lundgren]] and [[Ven-Dryk Ashahalla]]
 
 ##### Race
 Human - Yuan-Ti hybrid
@@ -48,7 +48,7 @@ Unknown
 
 Amorella grew up in hiding, never fully understanding the circumstances of her mother's past or the significance of the emerald that she had been entrusted with. She lived a simple life, working as a seamstress in a small fishing hamlet: eventually raising her daughter, Lupella, with her husband [[Ayven Torrieth]]. 
 
-Amorella grew up with little knowledge of her mother, [[Napella Lundgren]], bar that she was the queen of Brokvar - a not far off city of grandeur that would forever remain out of reach. As her daughter Lupella grew older, she found herself being begged ever more often for tales of her parents, the late Napella and [[Ven-Dryk]]. With intense reluctance, Amorella promised to take Lupella to the capital on her 21st name day to see the city of her family's construction. On the condition that she understood that seeking out the life she was entitled to by birth right would only lead to a quick death. 
+Amorella grew up with little knowledge of her mother, [[Napella Lundgren]], bar that she was the queen of Brokvar - a not far off city of grandeur that would forever remain out of reach. As her daughter Lupella grew older, she found herself being begged ever more often for tales of her parents, the late Napella and [[Ven-Dryk Ashahalla]]. With intense reluctance, Amorella promised to take Lupella to the capital on her 21st name day to see the city of her family's construction. On the condition that she understood that seeking out the life she was entitled to by birth right would only lead to a quick death. 
 
 However, when Lupella was just a teenager, disaster struck. Their small village was raided by pirates, and both Amorella and Ayven were killed trying to protect their daughter. Amorella's final words stuck with Lupella for life: 
 
