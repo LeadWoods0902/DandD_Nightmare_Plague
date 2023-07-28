@@ -1,1 +1,1 @@
-Was once the summer palace of [[-Rheilliwch-]]'s nobility, the land is now under disputed control between Rheilliwch and [[-Cyfandirol-]]
+Was once the summer palace of [[-Rheilliwch-]]'s nobility, the land is now under disputed control between Rheilliwch and [[Cyfandirol]]
