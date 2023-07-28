@@ -1,3 +1,47 @@
+![[Fenian_Token.png]]
+[[FenianNaezana.png|Full Art]]
 
-[[FenianNaezana.jpg|Full Art]]
-Emperor of the [[Ymerodrol Empire]], Fenian was born a noble in the court of the old Rheilliwch Capital, [[Arnarholt]]
+---
+### Character Info
+
+##### Name 
+Fenian Naezana
+
+##### Current Age
+Unknown
+
+##### Place of Origin
+[[Arnarholt]]
+
+##### Family
+Unknown
+
+##### Race
+Human seemingly
+
+##### Class
+Sorcerer seemingly
+
+##### Alignment
+Unknown
+
+##### Personality Traits
+Unknown
+
+##### Long Term Goals
+Unknown
+
+##### Secondary Goals
+Unknown
+
+##### Motivations
+Unknown
+
+##### Flaws
+Unknown
+
+##### Affiliations
+Unknown
+
+### Notes
+Emperess of the [[Ymerodrol Empire]], Fenian was born a noble in the court of the old Rheilliwch Capital, [[Arnarholt]]
