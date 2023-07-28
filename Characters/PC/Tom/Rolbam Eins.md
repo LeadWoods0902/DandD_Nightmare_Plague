@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Lawful Moral
+Rolbam Eins
 
 ##### Current Age
 
@@ -23,7 +23,7 @@ Lawful Moral
 
 
 ##### Alignment
-Chaotic Impure
+Rebel Good
 
 ##### Personality Traits
 

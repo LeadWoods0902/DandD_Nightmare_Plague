@@ -23,7 +23,7 @@ Seram Dos
 
 
 ##### Alignment
-Chaotic Impure
+Lawful Moral
 
 ##### Personality Traits
 
