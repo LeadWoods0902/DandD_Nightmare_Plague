@@ -1,10 +1,11 @@
+![[Lucius_Token.png]]
 [[LuciusCrestwood.png|Full Art]]
 
 ---
 ### Character Info
 
 ##### Name 
-Cunja
+Lucius Cre
 
 ##### Current Age
 Unknown
