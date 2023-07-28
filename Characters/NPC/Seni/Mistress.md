@@ -1,9 +1,11 @@
-![[miss
+![[Missy_Token.png]]
+[[Misstress Chen.png|Full Art]]
+
 ---
 ### Character Info
 
 ##### Name 
-Unknown
+Chen
 
 ##### Current Age
 Unknown
@@ -42,4 +44,3 @@ Unknown
 Unknown
 
 ### Notes
-She is said to have the power to remove the [[Dimemitrium Cuffs]] placed around yours and [[- Brannon -/Characters/PC/Quinn/Jasper|Jasper]]'s wrists and legs. 
