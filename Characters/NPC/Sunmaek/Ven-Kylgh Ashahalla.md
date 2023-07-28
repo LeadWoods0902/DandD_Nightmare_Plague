@@ -14,7 +14,7 @@ Sturgis
 Unknown
 
 ##### Family
-Father of [[
+Father of [[Ven-Dryk Ashahalla]]
 
 ##### Race
 Yuan-Ti
