@@ -23,7 +23,7 @@ Yuan-Ti
 *TBC*
 
 ##### Alignment
-*TBC*
+Social Good
 
 ##### Personality Traits
 *TBC*
