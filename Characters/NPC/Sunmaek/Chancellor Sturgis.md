@@ -23,7 +23,7 @@ Yuan-Ti
 Light Cleric
 
 ##### Alignment
-*TBC*
+Neutral Moral
 
 ##### Personality Traits
 *TBC*
