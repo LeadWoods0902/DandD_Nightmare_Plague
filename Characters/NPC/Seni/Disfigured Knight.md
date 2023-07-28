@@ -1,3 +1,50 @@
+![[DisfiguredKnight_Token.png]]
+[[DisfiguredKnight.png|Full Art]]
+
+---
+### Character Info
+
+##### Name 
+Unknown
+
+##### Current Age
+Unknown
+
+##### Place of Origin
+Unknown
+
+##### Family
+Unknown
+
+##### Race
+Human
+
+##### Class
+Unknown
+
+##### Alignment
+Unknown
+
+##### Personality Traits
+Unknown
+
+##### Long Term Goals
+Unknown
+
+##### Secondary Goals
+Unknown
+
+##### Motivations
+Unknown
+
+##### Flaws
+Unknown
+
+##### Affiliations
+Unknown
+
+### Notes
+
 This iron-clad knight is a formidable figure, clad in heavy, obscuring armour that covers every inch of his body. His helm is thick and crudely constructed, with long flowing hair at its rear. The knight's armour is iron painted in a chipping murky black, with splashes of red ochre on the breastplate, as if a bloody hand had been smeared down it.
 
 The knight wields a massive two-handed morning star, its entire length studded with metal spikes that make it difficult to grasp for those without armour. The knight is built like a boar, with a thick and sturdy frame, and he breathes heavily as if exerting great effort even when at rest.
