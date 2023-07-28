@@ -8,13 +8,13 @@
 Yusuf 
 
 ##### Current Age
-Unknown
+*TBC*
 
 ##### Place of Origin
-Unknown
+*TBC*
 
 ##### Family
-Unknown
+*TBC*
 
 ##### Race
 Yuan-Ti
@@ -26,21 +26,21 @@ Light Cleric
 Lawful Impure
 
 ##### Personality Traits
-Unknown
+*TBC*
 
 ##### Long Term Goals
-Unknown
+*TBC*
 
 ##### Secondary Goals
-Unknown
+*TBC*
 
 ##### Motivations
-Unknown
+*TBC*
 
 ##### Flaws
-Unknown
+*TBC*
 
 ##### Affiliations
-Unknown
+*TBC*
 
 ### Notes

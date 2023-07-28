@@ -8,10 +8,10 @@
 Sturgis 
 
 ##### Current Age
-Unknown
+*TBC*
 
 ##### Place of Origin
-Unknown
+*TBC*
 
 ##### Family
 Husband of [[Babalar Emine]] and Father of [[Hinelle]]
@@ -23,26 +23,26 @@ Yuan-Ti
 Light Cleric
 
 ##### Alignment
-Lawful Impure
+*TBC*
 
 ##### Personality Traits
-Unknown
+*TBC*
 
 ##### Long Term Goals
-Unknown
+*TBC*
 
 ##### Secondary Goals
-Unknown
+*TBC*
 
 ##### Motivations
-Unknown
+*TBC*
 
 ##### Flaws
-Unknown
+*TBC*
 
 ##### Affiliations
-Unknown
+*TBC*
 
 ### Notes
 
-member of [[The Chancellorship]] and adviser to the [[Church of the Sun]]
+Member of [[The Chancellorship]] and adviser to the [[Church of the Sun]]
