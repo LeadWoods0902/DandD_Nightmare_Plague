@@ -1,10 +1,12 @@
-![[HeleotiteFireSage_Token.png]]
+![[Helioclasm_token.png]]
+[[Helioclasm.png|Full Art]]
+
+---
 When the fight begins, [insert name] climbs atop a pyre and lights himself on fire.
 
 Embracing the fire of the sun.
 
 Characters lose initiative, prompt to explore the room - searching for something
-
 
 make them roll perception checks - regardless of outcome see nothing
 

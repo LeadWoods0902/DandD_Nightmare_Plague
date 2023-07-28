@@ -1,1 +1,0 @@
-The Hop Head that was plagueing the farm outside Brokvar. This creature was no truing menacing anybody and as such the party opted to find a non-lethal solution. As a sign of grattude, the Hop Head joined the party and alligned with a member of the party.
