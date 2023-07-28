@@ -1,1 +1,1 @@
-![[WilderBeast_Full.png]]
+![[Resources/Creatures/WilderBeast.png]]
