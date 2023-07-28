@@ -23,7 +23,7 @@ Malkath Tribus
 
 
 ##### Alignment
-Chaotic Impure
+Rebel Impure
 
 ##### Personality Traits
 

@@ -23,7 +23,7 @@ Stronvan Quatre
 
 
 ##### Alignment
-Chaotic Impure
+Lawful Evil
 
 ##### Personality Traits
 
