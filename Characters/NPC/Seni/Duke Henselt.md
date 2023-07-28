@@ -1,4 +1,4 @@
-![[]]
+![[Henselt_Token.png]]
 
 [[Henselt.jpg|Full Art]]
 
