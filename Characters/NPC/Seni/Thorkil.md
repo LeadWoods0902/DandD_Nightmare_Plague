@@ -1,23 +1,23 @@
-![[Breek_Token.png]]
-[[Breek.png|Full Art]]
+![[Thorkill_Token.png]]
+[[Thorkil.png|Full Art]]
 
 ---
 ### Character Info
 
 ##### Name 
-Breek
+Magnus 
 
 ##### Current Age
 Unknown
 
 ##### Place of Origin
-Unknown
+[[Llawyr un Mawr]]
 
 ##### Family
 Unknown
 
 ##### Race
-Unknown
+Dwarf
 
 ##### Class
 Unknown
@@ -41,10 +41,7 @@ Unknown
 Unknown
 
 ##### Affiliations
-Unknown
+[[The crew of the Kilfenora]]
 
 ### Notes
-
-Father of [[Lupella Lundgren]] and shortly-lived husband to [[Amorella Lundgren]]
-
-Ayven was a dock hand living in the small fishing hamlet of Menamawr 
+Jumped overboard [[The Kilfenora]] in flight of the events that had just occurred and to try and swim towards [[Isabella]] in their safety boat.
