@@ -1,1 +1,1 @@
-Three way civil war between the isles of [[-Esgid-]], [[-Marwolaeth-]] and [[Rheilliwch (country)|Rheilliwch]]. During the final years of the war, there was talk of Esgid and Marwolaeth signing a treaty to unite in conflict against Rheilliwch, this all came to a close when 
+Three way civil war between the isles of [[Esgid]], [[Marwolaeth]] and [[Rheilliwch]]. During the final years of the war, there was talk of Esgid and Marwolaeth signing a treaty to unite in conflict against Rheilliwch, this all came to a close when 

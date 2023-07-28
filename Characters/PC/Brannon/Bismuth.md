@@ -1,10 +1,5 @@
 ![[Bismuth_Token.png]]
-
----
-### World Lore (things you know in brief)
-[[The Greater Dragons]]
-
-
+[[Bimsuth.p
 ---
 ### Character Info
 
