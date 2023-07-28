@@ -1,4 +1,4 @@
-token here
+[[Pasted image 20230728121727.png|Full Art]]
 
 ---
 ### Character Info
