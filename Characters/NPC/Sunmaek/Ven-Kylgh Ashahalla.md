@@ -1,5 +1,4 @@
-![[Hinele_Token.png]]
-[[Hinelle.png|Full Art]]
+[[VenKylgh.jpg|Full Art]]
 
 ---
 ### Character Info
