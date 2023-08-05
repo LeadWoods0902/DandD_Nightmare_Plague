@@ -1,4 +1,5 @@
 
+[[GusGrinkelstein.jpg|Full Art]]
 
 ---
 ### Character Info
