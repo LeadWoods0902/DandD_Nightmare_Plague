@@ -1,4 +1,4 @@
-fdbkhsg
+
 
 ---
 ### Character Info
@@ -43,3 +43,10 @@ Unknown
 Unknown
 
 ### Notes
+
+Drunk? I was drunk once.
+They handed me a glass,
+a sparkling glass.
+a sparkling glass of wine
+the wine made me drunk,
+drunk? I was drunk once.
