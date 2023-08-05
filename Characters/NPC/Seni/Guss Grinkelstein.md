@@ -1,11 +1,11 @@
-
-[[GusGrinkelstein.jpg|Full Art]]
+![[Gus_Token.png]]
+[[GusGrinkelstein.png|Full Art]]
 
 ---
 ### Character Info
 
 ##### Name 
- Gus Grinckelstein
+Guss Grinkelstein
 
 ##### Current Age
 Unknown
