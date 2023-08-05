@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Breek
+Breek Kol
 
 ##### Current Age
 Unknown

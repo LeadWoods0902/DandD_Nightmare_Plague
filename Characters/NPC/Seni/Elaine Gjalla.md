@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Elaine
+Elaine Gjalla
 
 ##### Current Age
 Unknown
