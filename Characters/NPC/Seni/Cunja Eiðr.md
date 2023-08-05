@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Cunja
+Cunja Eiðr
 
 ##### Current Age
 Unknown
