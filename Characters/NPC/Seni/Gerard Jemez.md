@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Gerard
+Gerard Jemez
 
 ##### Current Age
 Unknown
