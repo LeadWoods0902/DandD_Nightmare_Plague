@@ -11,10 +11,10 @@ Ven-Dryk Ashahalla
 Unknown
 
 ##### Place of Origin
-Unknown
+[[Sunmaek]]
 
 ##### Family
-Unknown
+Son of [[Ven
 
 ##### Race
 Unknown
