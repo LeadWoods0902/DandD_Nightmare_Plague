@@ -6,7 +6,7 @@
 ### Character Info
 
 ##### Name 
-Unknown 
+Emre Aydin 
 
 ##### Current Age
 Unknown
@@ -46,3 +46,4 @@ Unknown
 
 ### Notes
 
+The Buyuk of [[Sunmaek]]
