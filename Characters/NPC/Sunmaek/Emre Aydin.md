@@ -1,6 +1,6 @@
 ![[]]
 
-[[]]
+[[EmreAydin.png|Full Art]]
 
 ---
 ### Character Info
