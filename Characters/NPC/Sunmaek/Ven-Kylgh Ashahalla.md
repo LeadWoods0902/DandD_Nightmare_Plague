@@ -1,5 +1,5 @@
 ![[VenKylgh_Token.png]]
-[[VenKylgh.jpg|Full Art]]
+[[VenKylgh.png|Full Art]]
 
 ---
 ### Character Info
