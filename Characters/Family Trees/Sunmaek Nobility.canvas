@@ -2,6 +2,7 @@
 	"nodes":[
 		{"type":"group","id":"dff2e3a8770bc2d1","x":-446,"y":-1004,"width":3086,"height":3444,"label":"Ashahalla"},
 		{"type":"group","id":"a065a1c9c43bd3a8","x":-2520,"y":-1600,"width":1400,"height":1311,"label":"Sturgis"},
+		{"id":"e9071f9459f501b4","x":2162,"y":461,"width":400,"height":400,"type":"file","file":"Characters/NPC/Seni/Ayven Torrieth.md"},
 		{"type":"file","file":"Characters/NPC/Sunmaek/Ven-Kylgh Ashahalla.md","id":"489bef7acb7cdfeb","x":-395,"y":-885,"width":400,"height":400,"color":"1"},
 		{"type":"file","file":"Characters/NPC/Sunmaek/Babalar Emine.md","id":"6ec6d8a0f2743950","x":-2470,"y":-1481,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Characters/NPC/Sunmaek/Chancellor Sturgis.md","id":"300ce8c267fc1a2b","x":-1570,"y":-1481,"width":400,"height":400,"color":"4"},
@@ -12,12 +13,14 @@
 		{"type":"text","text":"Ven-Chyk","id":"4894b3ef9c633253","x":-398,"y":-290,"width":400,"height":400},
 		{"type":"text","text":"Ven-Slyk","id":"1814d36e7ab22ea0","x":55,"y":-290,"width":400,"height":400},
 		{"type":"file","file":"Characters/NPC/Seni/Ven-Dryk Ashahalla.md","id":"e7e26ef5def17e26","x":507,"y":-290,"width":400,"height":400,"color":"4"},
-		{"type":"text","text":"","id":"cf9e863eb2c118c2","x":-755,"y":-349,"width":53,"height":579},
-		{"type":"file","file":"Characters/NPC/Seni/Innë-Dryk Lungdren.md","id":"c0ce98cc222761eb","x":507,"y":230,"width":400,"height":400,"color":"1"},
-		{"type":"file","file":"Characters/NPC/Seni/Odonna-Dryk Lundgren.md","id":"e7d5f8a97db27f2d","x":957,"y":230,"width":400,"height":400,"color":"1"},
-		{"type":"file","file":"Characters/NPC/Seni/Amorella Lundgren.md","id":"d41f95714841f6e3","x":1409,"y":230,"width":400,"height":400,"color":"1"},
 		{"type":"file","file":"Characters/NPC/Seni/Napella Lundgren.md","id":"a6a494d33755280a","x":1409,"y":-290,"width":400,"height":400,"color":"1"},
-		{"type":"text","text":"","id":"0ea813bee5512937","x":582,"y":110,"width":250,"height":195}
+		{"type":"file","file":"Characters/NPC/Seni/Odonna-Dryk Lundgren.md","id":"e7d5f8a97db27f2d","x":957,"y":305,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"Characters/NPC/Seni/Innë-Dryk Lungdren.md","id":"c0ce98cc222761eb","x":507,"y":305,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"Characters/NPC/Seni/Amorella Lundgren.md","id":"d41f95714841f6e3","x":1409,"y":305,"width":400,"height":400,"color":"1"},
+		{"type":"text","text":"","id":"0ea813bee5512937","x":-880,"y":505,"width":250,"height":195},
+		{"type":"text","text":"","id":"47c974b08d194b81","x":1132,"y":-115,"width":50,"height":50},
+		{"id":"113a592524a09d9b","x":1862,"y":920,"width":400,"height":400,"color":"4","type":"file","file":"Characters/NPC/Seni/Lupella Lundgren.md"},
+		{"type":"text","text":"","id":"cf9e863eb2c118c2","x":2262,"y":541,"width":53,"height":579}
 	],
 	"edges":[
 		{"id":"57295433e8a618b8","fromNode":"6ec6d8a0f2743950","fromSide":"right","toNode":"622f42c4a2964d54","toSide":"left"},
@@ -27,6 +30,11 @@
 		{"id":"3ca7fcd836310c31","fromNode":"694e3fe64f00e3b1","fromSide":"left","toNode":"02cc1970db5a8691","toSide":"right"},
 		{"id":"5acf54fa7582abb8","fromNode":"02cc1970db5a8691","fromSide":"bottom","toNode":"1814d36e7ab22ea0","toSide":"top"},
 		{"id":"a6d47b1f40408902","fromNode":"02cc1970db5a8691","fromSide":"bottom","toNode":"4894b3ef9c633253","toSide":"top"},
-		{"id":"bfd05c2a200568a8","fromNode":"02cc1970db5a8691","fromSide":"bottom","toNode":"e7e26ef5def17e26","toSide":"top"}
+		{"id":"bfd05c2a200568a8","fromNode":"02cc1970db5a8691","fromSide":"bottom","toNode":"e7e26ef5def17e26","toSide":"top"},
+		{"id":"d9407d9f5473e664","fromNode":"e7e26ef5def17e26","fromSide":"right","toNode":"47c974b08d194b81","toSide":"left"},
+		{"id":"fedd80e191f70df0","fromNode":"a6a494d33755280a","fromSide":"left","toNode":"47c974b08d194b81","toSide":"right"},
+		{"id":"6175bd609154e6a5","fromNode":"47c974b08d194b81","fromSide":"bottom","toNode":"c0ce98cc222761eb","toSide":"top"},
+		{"id":"7d7f562cd62bc8d8","fromNode":"47c974b08d194b81","fromSide":"bottom","toNode":"e7d5f8a97db27f2d","toSide":"top"},
+		{"id":"a49b4da6fd61b83c","fromNode":"47c974b08d194b81","fromSide":"bottom","toNode":"d41f95714841f6e3","toSide":"top"}
 	]
 }
