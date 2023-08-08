@@ -22,16 +22,17 @@ Brother to:
 
 Fathered three children with [[Napella Lundgren]]:
 - [[Amorella Lundgren]]
-- [[odon
+- [[Odonna-Dryk Lundgren]]
+- [[Innë-Dryk Lungdren]]
 
 ##### Race
-Unknown
+Yuan-Ti
 
 ##### Class
 Unknown
 
 ##### Alignment
-Unknown
+Lawful Moral
 
 ##### Personality Traits
 Unknown
