@@ -12,15 +12,15 @@ Jarae
 Unknown
 
 ##### Place of Origin
-[[Brok
+[[Brokvar (Country)|Brokvar]]
 ##### Family
 Unknown
 
 ##### Race
-Dwarf
+Satyr
 
 ##### Class
-Unknown
+Spore Druid
 
 ##### Alignment
 Unknown
@@ -41,10 +41,8 @@ Unknown
 Unknown
 
 ##### Affiliations
-- [[The crew of the Kilfenora]]
+Unknown
 
 ### Notes
-Stole away from [[The Kilfenora]] by taking one of its two safety boats.
-
 
 Jarae maintains a flock of micro animals, magically altered through an alchemical formulae to shrink. (currently unstable)
