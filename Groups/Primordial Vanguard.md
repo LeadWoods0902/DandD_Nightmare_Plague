@@ -1,2 +1,2 @@
-A group of warlocks that fled [[C
+A group of warlocks that serve [[Musoko]]
 
