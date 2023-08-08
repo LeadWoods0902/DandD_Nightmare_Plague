@@ -1,1 +1,1 @@
-A form
+A formulae derived by [[Jarae]] and tested on a flock of animals she keeps in jars in her store
