@@ -6,7 +6,7 @@
 ### Character Info
 
 ##### Name 
-Unknown 
+Odonna-Dryk Lundgren 
 
 ##### Current Age
 Unknown
@@ -15,7 +15,9 @@ Unknown
 Unknown
 
 ##### Family
-Unknown
+Daughter of [[Ven-Dryk Ashahalla]] and [[Napella Lundgren]]
+
+Sister of [[Amorella Lundgren]] and [[Innë-Dryk Lungdren]]
 
 ##### Race
 Unknown
@@ -46,4 +48,4 @@ Unknown
 
 ### Notes
 
-Brother to [[Amorella Lundgren]], died during the events of the [[The Butchering of Brokvar]]
+Died during [[The Butchering of Brokvar]]
