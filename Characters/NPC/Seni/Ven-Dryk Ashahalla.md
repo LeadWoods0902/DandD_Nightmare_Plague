@@ -14,7 +14,15 @@ Unknown
 [[Sunmaek]]
 
 ##### Family
-Son of [[Ven
+Son of [[Ven-Kylgh Ashahalla]] and [[Ven-Kylgh's Wife]]
+
+Brother to:
+- [[Ven-Slyk]]
+- [[Ven-Chyk]]
+
+Fathered three children with [[Napella Lundgren]]:
+- [[Amorella Lundgren]]
+- [[odon
 
 ##### Race
 Unknown
