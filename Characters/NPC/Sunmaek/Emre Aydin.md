@@ -24,7 +24,7 @@ Yuan-Ti
 Unknown
 
 ##### Alignment
-Social Impure - presents as 
+Lawful Impure - presents as Social Moral
 
 ##### Personality Traits
 Unknown

@@ -1,5 +1,5 @@
 ![[Emine_Token.png]]
-[[TwinBabalars.jpg|Full Art]]
+[[TwinBabalars.png|Full Art]]
 
 ---
 ### Character Info
