@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Emine 
+Emine Sturgis
 
 ##### Current Age
 *TBC*

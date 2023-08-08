@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Sturgis 
+Hinelle Sturgis 
 
 ##### Current Age
 47

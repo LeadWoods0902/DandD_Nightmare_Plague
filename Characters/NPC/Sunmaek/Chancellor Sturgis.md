@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Sturgis 
+Osman Sturgis 
 
 ##### Current Age
 *TBC*
