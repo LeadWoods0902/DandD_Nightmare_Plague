@@ -4,4 +4,4 @@ Notable members:
 - [[Babalar Emine]]
 - [[Chancellor Sturgis]]
 - [[Babalar Yusuf]]
-- 
+- [[Ven-Kylgh Ashahalla]] (deceased)
