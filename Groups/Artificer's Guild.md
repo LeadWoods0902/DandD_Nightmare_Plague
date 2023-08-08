@@ -2,4 +2,4 @@ A guild based out of [[Brokvar]] that focuses on the artificing of magically imb
 
 The guild worked in tandem with the [[Builder's guild]] to construct [[Addun Brokvar]]
 
-Notable discoveries include the ability to harnes
+Notable discoveries include the ability to harness the power of the [[Echo Snapper]]

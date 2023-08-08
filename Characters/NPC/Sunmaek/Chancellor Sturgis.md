@@ -45,4 +45,4 @@ Neutral Moral
 
 ### Notes
 
-Member of [[The Chancellorship]] and adviser to the [[Church of the Sun]]
+Member of [[The Chancellorship]] and adviser to the [[Yilani Cemaati]]

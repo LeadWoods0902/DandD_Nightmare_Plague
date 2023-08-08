@@ -1,1 +1,1 @@
-Twinned serpent gods: [[Dogu Yilani]] and [[Bati Yilani]]
+Twinned serpent gods: [[Dogu Yilani]] and [[Characters/Deities/Sunmaek/Bati Yilani]]
