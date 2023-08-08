@@ -1,4 +1,4 @@
-![[]]
+![[Emre_Token.png]]
 
 [[EmreAydin.png|Full Art]]
 
@@ -18,13 +18,13 @@ Unknown
 Unknown
 
 ##### Race
-Unknown
+Yuan-Ti
 
 ##### Class
 Unknown
 
 ##### Alignment
-Unknown
+Social Impure - presents as 
 
 ##### Personality Traits
 Unknown
