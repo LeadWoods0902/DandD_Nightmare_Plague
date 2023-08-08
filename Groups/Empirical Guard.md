@@ -5,3 +5,4 @@
 
 ### Notes
 
+Highest ranking soldiers in Empress [[Fenian Naezana]]'s personal guard
