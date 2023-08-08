@@ -1,1 +1,1 @@
-A small medical store ran by the herbalist and alchemist [[Jarae the fair]]. 
+A small medical store ran by the herbalist and alchemist [[Jarae]]. 
