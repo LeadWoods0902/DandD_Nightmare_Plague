@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Lupella Lundgren 
+Lupella Torieth ne  
 
 ##### Current Age
 Unknown
