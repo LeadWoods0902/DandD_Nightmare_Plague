@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"c928581dac343b9e","x":1493,"y":-3621,"width":400,"height":400,"type":"group","label":"Shatterborne & Shimmerborne"},
 		{"type":"file","file":"Characters/Djinn/Auroris, the Shimmering Sentinel.md","id":"ac9593abf2a05998","x":820,"y":-3615,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Elaria Tsukiyama.md","id":"2ed6a0539c3b07d2","x":-80,"y":-3615,"width":400,"height":400,"color":"1"},
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Aurelix.md","id":"17c8f65cde67af25","x":370,"y":-3020,"width":400,"height":400,"color":"4"},
@@ -21,7 +22,6 @@
 		{"type":"text","text":"","id":"931fb71881d2c9c8","x":2345,"y":-2255,"width":50,"height":60},
 		{"type":"text","text":"","id":"b68e8f097599d23b","x":95,"y":-2845,"width":50,"height":50},
 		{"type":"text","text":"","id":"d00e3a61c3d03d86","x":545,"y":-3440,"width":50,"height":50},
-		{"type":"text","text":"**RED: DEAD\nGREEN: ALIVE\nPURPLE: UNKNOWN**","id":"4504facb689ed821","x":1304,"y":-3615,"width":416,"height":131},
 		{"type":"file","file":"Characters/NPC/Chimo-Nahagi/Shatterborne & Shimmerborne/Ynessa Shatterborne.md","id":"96359cacac7364f6","x":2170,"y":-1235,"width":400,"height":400,"color":"4"},
 		{"type":"text","text":"","id":"2de67cef85957136","x":2345,"y":-1360,"width":50,"height":60}
 	],
