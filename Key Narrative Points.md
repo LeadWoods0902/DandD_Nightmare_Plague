@@ -6,4 +6,7 @@
 - Discover it's origin
 
 ## Travel to Sunmaek
-- Seek out the Two Snakes ([[Olum Yilani]] & [[Dogu Yilani]])
+- Seek out the Two Snakes ([[Dogu Yilani]] & [[Bati Yilani]])
+- Uncover the truth that the snakes are in fact dragons and that Mortos is Musoko
+
+## Travel to 
