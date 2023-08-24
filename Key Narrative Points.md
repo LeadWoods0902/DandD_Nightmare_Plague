@@ -2,18 +2,18 @@
 
 ## Introduce Party to Brokvar
 
-## Meet [[Lupella Torieth]]
+## Meet Lupella Torieth
 - Fake Jasper's death
 - 
-## Fight the [[Effigy of the Twin Suns]]
+## Fight the Effigy of the Twin Suns
 - Uncover a reason to try and find the twin sun snakes
 
-## Travel to [[Sunmaek]]
+## Travel to Sunmaek
 - Duska feels connection to twin-snake magic fading
-- Seek out the Two Snakes ([[Dogu Yilani]] & [[Bati Yilani]]) - whichever they go to first is dead
+- Seek out the Two Snakes (Dogu Yilani & Bati Yilani) - whichever they go to first is dead
 - Uncover the truth that the snakes are in fact dragons and that Mortos is Musoko
 
-## Travel to [[chi
-- Try and contact [[Soromo]] and [[Zenryoku]]
-- Interact with the [[Erehdehl]]
-- Reveal [[Malkath Tribus]]'s true backstory
+## Travel to Chimo-Nahagi
+- Try and contact Soromo and Zenryoku
+- Interact with the Erehdehl
+- Reveal Malkath Tribus's true backstory
