@@ -6,4 +6,4 @@
 - Discover it's origin
 
 ## Travel to Sunmaek
-- Seek out the Two Snakes - whichever they pick is already dead when they arrive
+- Seek out the Two Snakes ([[Olum Yilani]] & [[Dogu Yilani]])
