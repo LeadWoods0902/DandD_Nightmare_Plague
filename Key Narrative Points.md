@@ -2,6 +2,9 @@
 
 ## Introduce Party to Brokvar
 
+## Meet [[Lupella Torieth]]
+- Fake Jasper's death
+- 
 ## Fight the [[Effigy of the Twin Suns]]
 - Uncover a reason to try and find the twin sun snakes
 
