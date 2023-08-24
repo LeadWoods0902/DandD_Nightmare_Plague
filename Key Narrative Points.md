@@ -2,4 +2,7 @@
 
 ## Introduce Party to Brokvar
 
-## Figh
+## Fight the [[Effigy of the Twin Suns]]
+- Discover it's origin
+
+## Travel to 
