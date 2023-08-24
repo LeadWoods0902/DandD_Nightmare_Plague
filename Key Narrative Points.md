@@ -16,4 +16,4 @@
 ## Travel to Chimo-Nahagi
 - Try and contact Soromo and Zenryoku
 - Interact with the Erehdehl
-- Reveal Malkath Tribus's true backstory
+- Reveal Malkath Tribus' true backstory
