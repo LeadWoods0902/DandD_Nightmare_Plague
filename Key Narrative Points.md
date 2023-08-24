@@ -14,4 +14,5 @@
 - Uncover the truth that the snakes are in fact dragons and that Mortos is Musoko
 
 ## Travel to Chimo-Nahagi
-- Try and contact [[Soromo]]
+- Try and contact [[Soromo]] and [[Zenryoku]]
+- Interact with the [[Erehdehl]]
