@@ -1,4 +1,6 @@
 ## Intro Session
+- [ ] fight the Talus
+- [ ] 
 
 ## Introduce Party to Brokvar
 
