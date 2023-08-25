@@ -1,10 +1,9 @@
 ## Brokvar
 - [ ] Fight the Talus
-- [ ] Meet Mistress 
+- [ ] Meet Chen
 - [ ] Meet Lupella Torieth
 - [ ] Fake Jasper's death
-
-## Fight the Effigy of the Twin Suns
+- [ ] Fight the Effigy of the Twin Suns
 - [ ] Uncover a reason to try and find the twin sun snakes
 
 ## Travel to Sunmaek
