@@ -39,10 +39,13 @@
 
 ## Book 2:  Decay
 - [ ] Duska feels connection to twin-snake magic fading
+- [ ] Party travel to Sunmaek
 - [ ] Seek out the Sun Snakes (Dogu Yilani & Bati Yilani) - whichever they go to first is dead
 - [ ] Uncover the truth that the snakes are in fact banished Greater Dragons of Chimo-Nahagi and that Mortos is Musoko
 
 ## Book 3:  Rejuvenation
+- [ ] Party travel to Chimo-Nahagi
 - [ ] Try and contact Soromo and Zenryoku
 - [ ] Interact with the Erehdehl
+- [ ] Interact with Bismuth & Jasper's family
 - [ ] Reveal Malkath Tribus' true backstory
