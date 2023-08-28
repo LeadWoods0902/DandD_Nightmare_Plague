@@ -15,7 +15,7 @@
 - Brokvar falls under confederate control and Rheilliwch's capital is revitalised using Brokvar's resources.
 - The confederacy invades Esgid and rebirths itself as the Ymerodrol Empire - now controlling three countries
 - Several year's pass
-- Emperor Ymerodrol's daughter Fenian Naezana assumes the title empress after the death of her fa
+- Emperor Ymerodrol's daughter Fenian Naezana assumes the title empress after the death of her father 
 - Empress Fenian takes an interest in Ven-Dryk and orders him brought to the capital - he is rescued by a guerrilla force operating out of the Artificer's City Addun
 - 
 
