@@ -10,7 +10,9 @@
 - During the war's second year, LuM receives aid from Rwch breaking the terms of the peace treaty between Rwch & Bvr
 - The current ruler Nella, in a bid to end the war enacts a similar display of power as her descendant, obliterating the capital of Rwch
 - In retaliation, LuM with the aid of a crippled Rwch begin a full scale war on Bvr
-- Napella and her family are all killed
+- Napella and her family are all killed bar VD and a daughter born days before the invasion in secrecy
+- Bvr falls under Rwch control and it's capital is revitalised using Bvr's resources.
+- 
 
 ## Book 1: Infection
 - [ ] Fight the Talus
