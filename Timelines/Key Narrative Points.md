@@ -9,7 +9,7 @@
 ## Book 2: 
 - [ ] Duska feels connection to twin-snake magic fading
 - [ ] Seek out the Sun Snakes (Dogu Yilani & Bati Yilani) - whichever they go to first is dead
-- [ ] Uncover the truth that the snakes are in fact dragons and that Mortos is Musoko
+- [ ] Uncover the truth that the snakes are in fact banished Greater Dragons of and that Mortos is Musoko
 
 ## Book 3: 
 - [ ] Try and contact Soromo and Zenryoku
