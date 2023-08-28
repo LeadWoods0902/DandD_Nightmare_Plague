@@ -15,7 +15,8 @@
 - The confederacy invades Esgid and rebirths itself as the Ymerodrol Empire - now controlling three countries
 
 #### Chimo-Nahagi
-- 
+- Musoko, Higashi and Nishi are caught hording
+- Musoko, Higashi and Nishi are banished
 #### Sunmaek
 - The Banished Greater Dragons: Musoko (Olum), Higashi (Dogu) and Nishi (Bati) arrive in Sunmaek
 - They establish themselves as powerful beings, drawing devotees and establishing two civilisations
