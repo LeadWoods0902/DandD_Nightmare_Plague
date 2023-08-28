@@ -11,8 +11,10 @@
 - The current ruler Nella, in a bid to end the war enacts a similar display of power as her descendant, obliterating the capital of Rwch
 - In retaliation, Rwch & LuM form a confederacy and begin a full scale war on Bvr
 - Napella and her family are all killed bar VD and a daughter born days before the invasion in secrecy
+- VD is taken as a political prisoner of the confederacy 
 - Bvr falls under confederate control and Rwch's capital is revitalised using Bvr's resources.
 - The confederacy invades Esgid and rebirths itself as the Ymerodrol Empire - now controlling three countries
+- Empress Fenian
 
 #### Chimo-Nahagi
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
