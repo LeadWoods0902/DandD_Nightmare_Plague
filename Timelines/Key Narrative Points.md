@@ -14,7 +14,10 @@
 - Ven-Dryk is taken as a political prisoner of the confederacy 
 - Brokvar falls under confederate control and Rheilliwch's capital is revitalised using Brokvar's resources.
 - The confederacy invades Esgid and rebirths itself as the Ymerodrol Empire - now controlling three countries
+- Several year's pass
+- Emperor Ymerodrol's daughter Fenian Naezana assumes the title empress after the death of her fa
 - Empress Fenian takes an interest in Ven-Dryk and orders him brought to the capital - he is rescued by a guerrilla force operating out of the Artificer's City Addun
+- 
 
 #### Chimo-Nahagi
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
@@ -28,7 +31,7 @@
 - Olum's devotees are wiped out by the other two's and all trace of Olum's existence is hidden
 - Several thousand years pass
 - The Librarian Duska Halloni discovers a tome that mentions a third serpentine god: Olum and attempts to commune with them
-- Duska succeeds and meets with Mortos (Olum in disuguise) - Mortos confers that great power can be granted if Duska assumes a position of power.
+- Duska succeeds and meets with Mortos (Olum in disguise) - Mortos confers that great power can be granted if Duska assumes a position of power.
 - Duska seals the contract by sacrificing the Master Librarian and assuming his title
 - Duska's secret is discovered by the ambitious Sturgis who agrees to aid her in return for absolution from Olum for his misguided following of the deceptive Yilani Cemaati
 ## Book 1: Infection
