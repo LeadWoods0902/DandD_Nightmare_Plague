@@ -4,11 +4,11 @@
 - [ ] Meet Lupella Torieth
 - [ ] Fake Jasper's death
 - [ ] Fight the Effigy of the Twin Suns
-- [ ] Uncover a reason to try and find the twin sun snakes
+- [ ] Discover that 
 
 ## Book 2: 
 - [ ] Duska feels connection to twin-snake magic fading
-- [ ] Seek out the Two Snakes (Dogu Yilani & Bati Yilani) - whichever they go to first is dead
+- [ ] Seek out the Sun Snakes (Dogu Yilani & Bati Yilani) - whichever they go to first is dead
 - [ ] Uncover the truth that the snakes are in fact dragons and that Mortos is Musoko
 
 ## Book 3: 
