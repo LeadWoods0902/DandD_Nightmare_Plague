@@ -1,8 +1,10 @@
 ## Pre-campaign
-- A powerful being (Neoris) dies, from his body the Coeden begins to grow
+#### Seni
+- A powerful being (Nëoris) dies, from his body the Coeden begins to grow
 - The city of Brokvar is built up around this tree as it is discovered its sap has healing properties
 - The city trades ownership over several 1000 years but one of Napella's descendants secures a lasting peace through a demonstration of power
-- Several hundred years pass and the thro
+- Several hundred years pass and the throne passes to Napella
+- A civil war breaks out between Llawyr 
 
 ## Book 1: Infection
 - [ ] Fight the Talus
