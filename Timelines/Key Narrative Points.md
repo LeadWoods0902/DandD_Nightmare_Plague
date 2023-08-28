@@ -24,7 +24,8 @@
 - Several thousand years pass
 - The Librarian Duska Halloni discovers a tome that mentions a third serpentine god: Olum and attempts to commune with them
 - Duska succeeds and meets with Mortos (Olum in disuguise) - Mortos confers that great power can be granted if Duska assumes a position of power.
-- Duska seals 
+- Duska seals the contract by sacrificing the Master Librarian and assuming his title
+- Duska's secret is discovered by the ambitious 
 ## Book 1: Infection
 - [x] The Party is formed
 - [ ] Fight the Talus
