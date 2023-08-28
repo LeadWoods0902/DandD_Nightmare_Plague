@@ -12,8 +12,8 @@
 - In retaliation, Rwch & LuM form a confederacy and begin a full scale war on Bvr
 - Napella and her family are all killed bar VD and a daughter born days before the invasion in secrecy
 - Bvr falls under confederate control and Rwch's capital is revitalised using Bvr's resources.
+- The confederacy invades Esgid  and rebirths itself as the Ymerodrol Empire.
 - 
-
 ## Book 1: Infection
 - [ ] Fight the Talus
 - [ ] Meet Chen
