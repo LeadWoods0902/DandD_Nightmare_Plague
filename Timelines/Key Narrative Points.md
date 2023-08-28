@@ -4,7 +4,7 @@
 - [ ] Meet Lupella Torieth
 - [ ] Fake Jasper's death
 - [ ] Fight the Effigy of the Twin Suns
-- [ ] Discover that 
+- [ ] Discover that the Yilani Cemaati were also trying to burn the Coeden
 
 ## Book 2: 
 - [ ] Duska feels connection to twin-snake magic fading
