@@ -1,6 +1,6 @@
-![[]]
+![[Calidian _Token.png]]
 
-[[]]
+[[Calidian.png|Full Art]]
 
 ---
 ### Character Info
@@ -18,7 +18,7 @@ Unknown
 Unknown
 
 ##### Race
-Unknown
+Elf
 
 ##### Class
 Unknown
