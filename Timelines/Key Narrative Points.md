@@ -5,7 +5,8 @@
 - Brokvar and Rheilliwch war over the city for years but one of Napella's ancestors secures a lasting peace through a demonstration of power - Rheilliwch signs a peace treaty
 - Several hundred years pass and the throne passes to Napella
 - A war breaks out between Llawyr un Mawr and Esgid
-- During the war's second year, Llawyr un Mawr receives aid from Rheilliwch
+- Brokvar supports Esgid due to interest in forming a bond between the two ruling families
+- During the war's second year, Llawyr un Mawr receives aid from Rheilliwch breaking the terms of the peace treaty
 - 
 
 ## Book 1: Infection
