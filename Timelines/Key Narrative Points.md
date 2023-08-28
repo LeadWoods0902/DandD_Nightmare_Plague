@@ -37,12 +37,12 @@
 - [ ] Fight the Effigy of the Twin Suns
 - [ ] 
 
-## Book 2: 
+## Book 2:  Decay
 - [ ] Duska feels connection to twin-snake magic fading
 - [ ] Seek out the Sun Snakes (Dogu Yilani & Bati Yilani) - whichever they go to first is dead
 - [ ] Uncover the truth that the snakes are in fact banished Greater Dragons of Chimo-Nahagi and that Mortos is Musoko
 
-## Book 3: 
+## Book 3:  Rejuvenation
 - [ ] Try and contact Soromo and Zenryoku
 - [ ] Interact with the Erehdehl
 - [ ] Reveal Malkath Tribus' true backstory
