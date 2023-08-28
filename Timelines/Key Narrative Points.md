@@ -14,7 +14,10 @@
 - Bvr falls under confederate control and Rwch's capital is revitalised using Bvr's resources.
 - The confederacy invades Esgid and rebirths itself as the Ymerodrol Empire - now controlling three countries
 
-#### Chimo
+#### Chimo-Nahagi
+- 
+#### Sunmaek
+- The Banished Greater Dragons: Musoko, 
 ## Book 1: Infection
 - [x] The Party is formed
 - [ ] Fight the Talus
