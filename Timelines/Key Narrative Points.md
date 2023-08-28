@@ -1,4 +1,6 @@
-##
+## Pre-campaign
+- A powerful being (Neoris) dies, from his body the Coeden begins to grow
+- The city of Brokvar is built up around this tree 
 
 ## Book 1: Infection
 - [ ] Fight the Talus
