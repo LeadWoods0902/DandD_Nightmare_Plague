@@ -23,7 +23,8 @@
 - Olum's devotees are wiped out by the other two's and all trace of Olum's existence is hidden
 - Several thousand years pass
 - The Librarian Duska Halloni discovers a tome that mentions a third serpentine god: Olum and attempts to commune with them
-- Duska succeeds and meets with Mortos (Olum in disuguise) - Mortos 
+- Duska succeeds and meets with Mortos (Olum in disuguise) - Mortos confers that great power can be granted if Duska assumes a position of power.
+- Duska seals 
 ## Book 1: Infection
 - [x] The Party is formed
 - [ ] Fight the Talus
