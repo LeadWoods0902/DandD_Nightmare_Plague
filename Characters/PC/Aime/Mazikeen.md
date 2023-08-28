@@ -1,4 +1,5 @@
-![[Mazikeen.png]]
+![[Mazikeen_token.png]]
+[[Mazikeen.png]]
 ### Character Info
 
 ##### Name 
