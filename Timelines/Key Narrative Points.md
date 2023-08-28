@@ -17,7 +17,7 @@
 #### Chimo-Nahagi
 - 
 #### Sunmaek
-- The Banished Greater Dragons: Musoko, 
+- The Banished Greater Dragons: Musoko, Higashi and Nishi
 ## Book 1: Infection
 - [x] The Party is formed
 - [ ] Fight the Talus
