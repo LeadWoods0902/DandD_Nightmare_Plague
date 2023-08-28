@@ -17,7 +17,8 @@
 #### Chimo-Nahagi
 - 
 #### Sunmaek
-- The Banished Greater Dragons: Musoko (Olum), Higashi (Dogu) and Nishi (Bati) establish themselves as powerful beings, drawing devotees and es
+- The Banished Greater Dragons: Musoko (Olum), Higashi (Dogu) and Nishi (Bati) arrive  themselves as powerful beings, drawing devotees and establishing culture and civilisation
+- A war breaks out between the devotees of Olum and the devotees of Dogu & Bati
 ## Book 1: Infection
 - [x] The Party is formed
 - [ ] Fight the Talus
