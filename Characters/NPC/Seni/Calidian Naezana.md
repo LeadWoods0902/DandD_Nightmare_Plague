@@ -6,10 +6,10 @@
 ### Character Info
 
 ##### Name 
-Unknown 
+Calidian Naezana 
 
 ##### Current Age
-Unknown
+Deceased
 
 ##### Place of Origin
 Unknown
