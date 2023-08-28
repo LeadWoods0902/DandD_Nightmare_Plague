@@ -1,6 +1,7 @@
 ## Pre-campaign
 - A powerful being (Neoris) dies, from his body the Coeden begins to grow
-- The city of Brokvar is built up around this tree 
+- The city of Brokvar is built up around this tree as it is discovered its sap has healing properties
+- The city trades ownership over several 1000 years but one of Napella's descendant
 
 ## Book 1: Infection
 - [ ] Fight the Talus
