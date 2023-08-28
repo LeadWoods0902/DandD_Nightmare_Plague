@@ -15,7 +15,7 @@
 - The confederacy invades Esgid and rebirths itself as the Ymerodrol Empire - now controlling three countries
 
 #### Chimo-Nahagi
-- Musoko, 
+- Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
 - Higashi and Nishi are caught hording mortal lives - interfering with the natural order is an offence of dragon law
 - Musoko, Higashi and Nishi are banished
 #### Sunmaek
