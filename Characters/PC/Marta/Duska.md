@@ -11,7 +11,7 @@ Duska Halloni (became Von Mori after entering contract with Mortos)
 144 (Life expectancy for Yuan-Ti is around 200 but they don't age like humans, instead like a wide 
 
 ##### Place of Origin
-[[Qotus]]
+[[Duqedo]], Sunmaek
 
 ##### Race
 Yuan-Ti (vampiric via ritual)
