@@ -3,7 +3,7 @@
 
 ---
 ### Character Info
-
+ 
 ##### Name 
 Fenian Naezana
 ##### Current Age
@@ -20,21 +20,13 @@ Unknown
 Unknown
 ##### Personality Traits
 Unknown
-
 ##### Long Term Goals
 Unknown
-
 ##### Secondary Goals
 Unknown
-
 ##### Motivations
 Unknown
-
 ##### Flaws
 Unknown
-
 ##### Affiliations
 Unknown
-
-### Notes
-Emperess of the [[Ymerodrol Empire]], Fenian was born a noble in the court of the old Rheilliwch Capital, [[Arnarholt]]
