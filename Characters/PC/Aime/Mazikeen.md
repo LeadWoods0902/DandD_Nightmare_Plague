@@ -11,10 +11,11 @@ Mazikeen
 Young Adult, presumably over 50
 
 ##### Place of Origin
-Woodfall, Llawyr Un Mawr
+[[Woodfall]], Llawyr Un Mawr
 
 ##### Family
-Fa
+Father: [[Lucius Crestwood]]
+Uncle: [[Seram Dos]]
 
 ##### Race
 Elf

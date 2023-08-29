@@ -11,7 +11,7 @@ Bismuth Shatterborne
 25
 
 ##### Place of Origin
-[[Yamanohana]]
+[[Yamanohana]], Chimo
 
 ##### Family
 
