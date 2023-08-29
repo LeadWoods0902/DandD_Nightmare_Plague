@@ -11,10 +11,10 @@ Mazikeen
 Young Adult, presumably over 50
 
 ##### Place of Origin
-Unknown
+Woodfall, Llawyr Un Mawr
 
 ##### Family
-Unknown
+Fa
 
 ##### Race
 Elf
