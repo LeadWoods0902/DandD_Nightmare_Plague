@@ -3,4 +3,4 @@ Suspended between two stars, Elunthar holds the honorific title of being the cen
 Continental Land Masses:
 [[The Senithar Isles]]
 [[Chimo-Nahagi]]
-[[Sunmaria]]
+[[Surmaria]]

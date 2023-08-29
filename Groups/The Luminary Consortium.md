@@ -11,3 +11,6 @@ The librarians, guardians of the written word, meticulously curate vast collecti
 Archivists play a crucial role in the Luminary Consortium, meticulously documenting historical events, compiling records, and safeguarding ancient artifacts. Through their meticulous efforts, they weave a tapestry of the past, preserving the rich tapestry of Sunmaek's cultural heritage for future generations to explore and learn from.
 
 Guided by the wisdom of philosophers, the Luminary Consortium embarks upon profound contemplations, exploring the depths of existence, ethics, and the nature of knowledge itself. Their philosophical musings not only enrich Sunmaek's intellectual landscape but also shape the moral and ethical fabric of the nation.
+
+
+** hailing from [[Lumina]]
