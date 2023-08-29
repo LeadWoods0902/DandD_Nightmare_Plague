@@ -1,39 +1,20 @@
-![[Jasper_Token.png]]
-[[Jasper.png|Full Art]]
+![[Unknown_Token.png]]
+[[Unknown_Token.png|Placeholder]]
 
 ---
 ### Character Info
 
 ##### Name 
-Jasper Shatterborne
 
 ##### Current Age
-25
 
 ##### Place of Origin
-[[Yamanohana]], Chimo
 
 ##### Family
 
-Siblings: 
-- [[Bismuth Shatterborne]]
-- [[Beryllis]]
-- [[Nicodemus]]
-- [[Vesper]]
-- [[Pyrrhus]]
-
-Parents:
-- [[Magnar Shatterborne]]
-- [[Dolomite (Dola)]]
-
-Other: 
-- Niece [[Ynessa Shatterborne]]
-
 ##### Race
-Genasi Pure Blood
 
 ##### Class
-Land Druid
 
 ##### Alignment
 
