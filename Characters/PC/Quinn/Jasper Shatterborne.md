@@ -11,12 +11,12 @@ Jasper Shatterborne
 25
 
 ##### Place of Origin
-[[Yamanohana]]
+[[Yamanohana]], Chimo
 
 ##### Family
 
 Siblings: 
-- [[Bismuth]]
+- [[Bismuth Shatterborne]]
 - [[Beryllis]]
 - [[Nicodemus]]
 - [[Vesper]]
@@ -60,7 +60,7 @@ There is no room for caution in a life filled to the brim. I don't think before 
 
 ---
 ### Backstory
-Twin sibling to [[Bismuth]]
+Twin sibling to [[Bismuth Shatterborne]]
 
 Younger sibling to Bismuth by two minutes.
 

@@ -46,5 +46,5 @@ Unknown
 ### Notes
 Elaine claims to work with a woman called [[Mistress]]
 
-Elaine purchased [[Bismuth]] and [[Jasper]] for 2000 [[Baht]] but paid in jewels - in the same transaction, she handed the auctioneer a paper document.
+Elaine purchased [[Bismuth Shatterborne]] and [[Jasper Shatterborne]] for 2000 [[Baht]] but paid in jewels - in the same transaction, she handed the auctioneer a paper document.
 

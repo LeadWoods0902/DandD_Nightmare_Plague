@@ -17,8 +17,8 @@ Magnar Shatterborne
 [[Shatterborne.canvas|Shatterborne]]
 
 Fathered two children with [[Dolomite (Dola)]]:
-- [[Bismuth]]
-- [[Jasper]]
+- [[Bismuth Shatterborne]]
+- [[Jasper Shatterborne]]
 
 and four with [[Ynessa]]:
 - [[Beryllis]]

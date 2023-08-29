@@ -1,6 +1,6 @@
 ![[Sansom.png]]
 
-Djinn lineage of [[Magnar Shatterborne]]; and consequently: [[Bismuth]], [[Jasper]] [[Beryllis]], [[Nicodemus]], [[Pyrrhus]] and [[Vesper]] Shatterborne
+Djinn lineage of [[Magnar Shatterborne]]; and consequently: [[Bismuth Shatterborne]], [[Jasper Shatterborne]] [[Beryllis]], [[Nicodemus]], [[Pyrrhus]] and [[Vesper]] Shatterborne
 
 Sansom lives in a cavern deep beneath [[Yamanohana]] and spends most of his time carving grand structures into his halls.
 
