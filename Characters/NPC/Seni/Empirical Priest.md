@@ -6,25 +6,18 @@
 
 ##### Name 
 Fenian Naezana
-
 ##### Current Age
 Unknown
-
 ##### Place of Origin
 [[Arnarholt]]
-
 ##### Family
 Unknown
-
 ##### Race
 Human seemingly
-
 ##### Class
 Unknown
-
 ##### Alignment
 Unknown
-
 ##### Personality Traits
 Unknown
 
