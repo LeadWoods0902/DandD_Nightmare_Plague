@@ -38,17 +38,17 @@ Land Druid
 ##### Alignment
 Chaotic Good
 
-### Personality Traits
+##### Personality Traits
 
 
-### Long Term Goals
+##### Long Term Goals
 - Would like to find a way home or a new home
 - Take revenge on those that brought you to Seni
 
 ##### Secondary Goals
 
 
-### Motivations
+##### Motivations
 My family and friends are the most important things to me, even when we are far apart
 
 ##### Flaws
