@@ -35,7 +35,7 @@ TBC
 ##### Secondary Goals
 
 
-### Motivations
+##### Motivations
 My family and friends are the most important things to me, even when we are far apart
 
 ##### Flaws
@@ -47,35 +47,12 @@ There is no room for caution in a life filled to the brim. I don't think before 
 
 ---
 ### Backstory
-Twin sibling to [[Bismuth Shatterborne]]
-
-Younger sibling to Bismuth by two minutes.
-
-very trans-phobic family & homo-phobic -> left home
-
-[Jasper helped a village](That%20Time%20Jasper%20Helped%20a%20Village.md)
 A Sorcerer's Apprentice
 
-While his master was conducting a ritual to summon the spirits of long dead warriors, Alfread interrupted the ritual, creating a fissure that his master was sucked into - Alfread reached into the rift before it closed in an attempt to rescue his master but accidentally absorbed the souls of four ancestor relatives.
+While his master was conducting a ritual to summon the spirits of long dead warriors, Alfread interrupted the ritual, creating a fissure that his master was sucked into - Alfread reached into the rift before it closed in an attempt to rescue his master but accidentally absorbed the souls of four ancestor relatives:
+- [[Rolbam Eins]]
+- [[Seram Dos]]
 
-[[Rolbam Eins]]: 
+[[Malkath Tribus]]
 
-[[Seram Dos]]: 
-
-[[Malkath Tribus]]: 
-
-[[Stronvan Quatre]]: 
-
-
-### Lore Notes
-
-You have a confused memory of your past, events blur together but nothing is objectively incorrrect
-
-You know your name(s)
-
-You believe you have been transported through time, your character(s) are not aware of multi-inhabiting the same body (at least to begin with)  
-
-
-You know how to do basic stuff and still have a good survival instinct
-
-I will spoon feed you knowledge and add important knowledge to your character sheets
+[[Stronvan Quatre]]
