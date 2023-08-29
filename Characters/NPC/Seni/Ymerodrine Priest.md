@@ -5,28 +5,28 @@
 ### Character Info
  
 ##### Name 
-Fenian Naezana
+TBC
 ##### Current Age
-Unknown
+TBC
 ##### Place of Origin
-[[Arnarholt]]
+TBC
 ##### Family
-Unknown
+TBC
 ##### Race
-Human seemingly
+Human
 ##### Class
-Unknown
+TBC
 ##### Alignment
-Unknown
+TBC
 ##### Personality Traits
-Unknown
+TBC
 ##### Long Term Goals
-Unknown
+TBC
 ##### Secondary Goals
-Unknown
+TBC
 ##### Motivations
-Unknown
+TBC
 ##### Flaws
-Unknown
+TBC
 ##### Affiliations
-Unknown
+TBC
