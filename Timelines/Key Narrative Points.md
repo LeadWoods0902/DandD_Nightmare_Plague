@@ -27,7 +27,8 @@
 - Higashi and Nishi grow comfortable in the knowledge that Musoko is contained, establishing a civilisation within Sunmaek
 - ..
 - A commoner that went by the names of Mortos discovers Musoko trapped in a grand cavern beneath the city and pledges himself to freeing the grand creature.
-- Musoko 
+- Musoko splits a part of his soul into Mortos, establishing the form as a bridge between the under and above ground.
+- 
 #### Sunmaek
 - The Banished Greater Dragons: Musoko (Olum), Higashi (Dogu) and Nishi (Bati) arrive in Sunmaek
 - They establish themselves as powerful beings, drawing devotees and establishing two civilisations
