@@ -25,7 +25,9 @@
 - Higashi and Nishi are sent to Sunmaek to monitor Musoko
 - A fight breaks out between them and Musoko is defeated and trapped within the depths of the Grand Underground
 - Higashi and Nishi grow comfortable in the knowledge that Musoko is contained, establishing a civilisation within Sunmaek
-- 
+- ..
+- A commoner that went by the names of Mortos discovers Musoko trapped in a grand cavern beneath the city and pledges himself to freeing the grand creature.
+- Musoko 
 #### Sunmaek
 - The Banished Greater Dragons: Musoko (Olum), Higashi (Dogu) and Nishi (Bati) arrive in Sunmaek
 - They establish themselves as powerful beings, drawing devotees and establishing two civilisations
