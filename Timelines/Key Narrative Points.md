@@ -21,7 +21,7 @@
 
 #### Chimo-Nahagi
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
-- Musoko leaves Chimo and travels the world
+- Musoko is banished to Sunmaek.
 - Higashi and Nishi are caught hording mortal lives - interfering with the natural order is an offence of dragon law
 - Higashi and Nishi are banished
 - 
