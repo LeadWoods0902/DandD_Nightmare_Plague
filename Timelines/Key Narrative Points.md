@@ -54,4 +54,4 @@
 - [ ] Try and contact Soromo and Zenryoku
 - [ ] Interact with the Erehdehl
 - [ ] Interact with Bismuth & Jasper's family
-- [ ] Reveal Malkath Tribus' true backstory
+- [ ] Reveal Malkath Tribus' true backstory 
