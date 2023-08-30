@@ -22,9 +22,10 @@
 #### Chimo-Nahagi
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
 - Musoko is banished to Sunmaek.
-- Higashi and Nishi are caught hording mortal lives - interfering with the natural order is an offence of dragon law
-- Higashi and Nishi are banished
-- 
+- Higashi and Nishi are sent to Sunmaek to monitor Musoko
+- ..
+- A war breaks out between the followers of each dragon group
+- Higashi and Nishi capture Musoko
 #### Sunmaek
 - The Banished Greater Dragons: Musoko (Olum), Higashi (Dogu) and Nishi (Bati) arrive in Sunmaek
 - They establish themselves as powerful beings, drawing devotees and establishing two civilisations
