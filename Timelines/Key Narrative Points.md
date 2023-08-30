@@ -21,10 +21,10 @@
 
 #### Chimo-Nahagi
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
-- Musoko is banished to Sunmaek.
+- Musoko is banished to Sunmaek
 - Higashi and Nishi are sent to Sunmaek to monitor Musoko
-- ..
-- A war breaks out between the followers of each dragon group
+- Higashi and Nishi begin gathering followers
+- Muso
 - Higashi and Nishi capture Musoko
 #### Sunmaek
 - The Banished Greater Dragons: Musoko (Olum), Higashi (Dogu) and Nishi (Bati) arrive in Sunmaek
