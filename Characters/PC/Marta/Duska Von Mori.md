@@ -5,23 +5,17 @@
 ### Character Info
 
 ##### Name 
-Duska Von Mori 
-
+Duska Von Mori ne Halloni
 ##### Current Age
 144 (Life expectancy for Yuan-Ti is around 200 but they don't age like humans, instead like a wide 
-
 ##### Place of Origin
 [[Wadur]], Sunmaek
-
 ##### Race
 Yuan-Ti (vampiric via ritual)
-
 ##### Class
 Cleric of Death
-
 ##### Alignment
 True/Lawful Neutral (lawful to Mortos' doctrine)
-
 ##### Personality Traits
 - Curious
 - Reserved
@@ -29,29 +23,22 @@ True/Lawful Neutral (lawful to Mortos' doctrine)
 - Ruthless & Calculating
 - Ambitious
 - Cynical
-
 ##### Long Term Goals
 - Unlock the Secrets of True Immortality
 - Eliminate Immortals
 - Restore Balance to the cycle of life and death
-
 ##### Secondary Goals
-- Solidify Position of Power within Sunmaek high-leadership by manipulating the channcerlorship 
+- Solidify Position of Power within Sunmaek high-leadership by manipulating the chancellorship 
 - Spread Mortos' word by recruiting followers that are willing to embrace the inevitability of death
 - Unearth Forbidden Knowledge
-
 ##### Motivations
 After discovering that their country has been lying to them for generations, Duska decided to restore Balance by executing the will of Mortos and undo the state of increased population through a false belief that life can continue forever.
-
 ##### Flaws
 Unwilling to compromise as the ends always justify the means
-
 ##### Affiliations
 - The Veiled Heralds of Mortos
 - Sunmaek Chancellorship
 - The Luminary Consortium
-
-
 ### Backstory
 
 Once a humble servant of the [[Master Librarian]] of the [[Sunmaek Royal Library]], Duska Halloni was a quiet, mostly reserved character and was content with their position. Along with being happy with their role, Dusk was well liked among by both the other library staff and Sunmaek's royalty. If it wasn't for  one unfortunate night, Dusk may have naturally risen to a greater position; however on one stormy night, Dusk made an unexpected discovery within the great halls of the royal library. A dark leather bound book, well weathered and beaten, the sort one would often discard to the back of a shelf or leave unnoticed in a dark corner - which is exactly where Dusk discovered it. And like a moth to the flame, Dusk found themselves delving into the pages of the book, uncovering an ancient and **abhorrent** history. A history laced with all manner of abhorrent horror, including many references to one "many faced god of death, [[Olum Yilani]]".
