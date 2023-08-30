@@ -5,13 +5,13 @@
 ### Character Info
 
 ##### Name 
-Duska Halloni (became Von Mori after entering contract with Mortos)
+Duska Von Mori 
 
 ##### Current Age
 144 (Life expectancy for Yuan-Ti is around 200 but they don't age like humans, instead like a wide 
 
 ##### Place of Origin
-[[Duqedo]], Sunmaek
+[[Wadur]], Sunmaek
 
 ##### Race
 Yuan-Ti (vampiric via ritual)

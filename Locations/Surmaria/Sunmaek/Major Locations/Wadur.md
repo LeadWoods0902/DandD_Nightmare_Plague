@@ -1,1 +1,1 @@
-Duska is born here
+Birthplace of [[Duska Von Mori]]
