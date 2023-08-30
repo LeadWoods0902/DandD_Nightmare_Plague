@@ -24,7 +24,7 @@
 - Musoko is banished to Sunmaek
 - Higashi and Nishi are sent to Sunmaek to monitor Musoko
 - Higashi and Nishi begin gathering followers
-- Muso
+- Musoko is banished to the depths of [[The grand underground]]
 - Higashi and Nishi capture Musoko
 #### Sunmaek
 - The Banished Greater Dragons: Musoko (Olum), Higashi (Dogu) and Nishi (Bati) arrive in Sunmaek
