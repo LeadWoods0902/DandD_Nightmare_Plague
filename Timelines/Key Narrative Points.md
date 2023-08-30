@@ -23,8 +23,9 @@
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
 - Musoko is banished to Surmaria
 - Higashi and Nishi are sent to Sunmaek to monitor Musoko
-- Musoko is defeated in co to the depths of the Grand Underground
-- Higashi and Nishi grow comfortable in the knowledge that Musoko is contained, establishing a local dominion 
+- A fight breaks out between them and Musoko is defeated and trapped within the depths of the Grand Underground
+- Higashi and Nishi grow comfortable in the knowledge that Musoko is contained, establishing a civilisation within Sunmaek
+- 
 #### Sunmaek
 - The Banished Greater Dragons: Musoko (Olum), Higashi (Dogu) and Nishi (Bati) arrive in Sunmaek
 - They establish themselves as powerful beings, drawing devotees and establishing two civilisations
