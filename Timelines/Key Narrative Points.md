@@ -17,7 +17,6 @@
 - Several year's pass
 - Emperor Ymerodrol's daughter Fenian Naezana assumes the title empress after the death of her father 
 - Empress Fenian takes an interest in Ven-Dryk and orders him brought to the capital - he is rescued by a guerrilla force operating out of the Artificer's City Addun
-- 
 
 #### Chimo-Nahagi
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
@@ -28,7 +27,7 @@
 - ..
 - A commoner that went by the names of Mortos discovers Musoko trapped in a grand cavern beneath the city and pledges himself to freeing the grand creature.
 - Mortos vows to set in motion a plan to overthrow the twin serpents and writes a tome 
-- The tome is discovered and locked within the tomehold.
+- The tome is discovered and locked within the tomehold
 - Duska discovers the tome of Mortos
 #### Sunmaek
 - The Banished Greater Dragons: Musoko (Olum), Higashi (Dogu) and Nishi (Bati) arrive in Sunmaek
