@@ -27,9 +27,7 @@
 - Olum's existence begins (coinciding with the beginning of all time)
 - The Banished Greater Dragons: Higashi (Dogu) and Nishi (Bati) arrive in Sunmaek
 - They establish themselves as powerful beings, drawing devotees and establishing their religion an founding a large city
-- A war breaks out between the devotees of Olum and the devotees of Dogu & Bati
-- Olum's devotees are wiped out by the other two's and all trace of Olum's existence is hidden
-- Several thousand years pass
+- Olum's existence is considered a threat to Dogu & Bati's continued existence in Surmaria
 - The Librarian Duska Halloni discovers a tome that mentions a third serpentine god: Olum and attempts to commune with them
 - Duska succeeds and meets with Mortos (Olum in disguise) - Mortos confers that great power can be granted if Duska assumes a position of power.
 - Duska seals the contract by sacrificing the Master Librarian and assuming his title
