@@ -19,15 +19,9 @@
 - Empress Fenian takes an interest in Ven-Dryk and orders him brought to the capital - he is rescued by a guerrilla force operating out of the Artificer's City Addun
 
 #### Chimo-Nahagi
+- Olum's existence begins (coinciding with the beginning 
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
-- Musoko is banished to Surmaria
-- Higashi and Nishi are sent to Sunmaek to monitor Musoko
-- A fight breaks out between them and Musoko is defeated and trapped within the depths of the Grand Underground
-- Higashi and Nishi grow comfortable in the knowledge that Musoko is contained, establishing a civilisation within Sunmaek
-- ..
-- A commoner that went by the names of Mortos discovers Musoko trapped in a grand cavern beneath the city and pledges himself to freeing the grand creature.
-- Mortos vows to set in motion a plan to overthrow the twin serpents and writes a tome 
-- The tome is discovered and locked within the tomehold
+- Higashi and Nishi are banished to Surmaria, a believed to be uninhabited to land
 - Duska discovers the tome of Mortos
 #### Sunmaek
 - The Banished Greater Dragons: Musoko (Olum), Higashi (Dogu) and Nishi (Bati) arrive in Sunmaek
