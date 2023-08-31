@@ -28,6 +28,9 @@
 - The Banished Greater Dragons: Higashi (Dogu) and Nishi (Bati) arrive in Sunmaek
 - They establish themselves as powerful beings, drawing devotees and establishing their religion an founding a large city
 - Olum's existence is considered a threat to Dogu & Bati's continued existence in Surmaria
+- Olum is slain in combat by Dogu & Bati and his existence passes into legend
+- Olum ceases to be dead
+- Several thousand years pass
 - The Librarian Duska Halloni discovers a tome that mentions a third serpentine god: Olum and attempts to commune with them
 - Duska succeeds and meets with Mortos (Olum in disguise) - Mortos confers that great power can be granted if Duska assumes a position of power.
 - Duska seals the contract by sacrificing the Master Librarian and assuming his title
