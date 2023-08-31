@@ -33,7 +33,7 @@
 - Several thousand years pass
 - Olum ceases to be dead
 - Several hundred more years pass
-- Olum set
+- Olum sets in motion a plan to regain their corporeal form
 - The Librarian Duska Halloni discovers a tome that mentions a third serpentine god: Olum and attempts to commune with them
 - Duska succeeds and meets with Mortos (Olum in disguise) - Mortos confers that great power can be granted if Duska assumes a position of power.
 - Duska seals the contract by sacrificing the Master Librarian and assuming his title
