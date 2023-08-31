@@ -19,13 +19,14 @@
 - Empress Fenian takes an interest in Ven-Dryk and orders him brought to the capital - he is rescued by a guerrilla force operating out of the Artificer's City Addun
 
 #### Chimo-Nahagi
-- Olum's existence begins (coinciding with the beginning 
+- 
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
 - Higashi and Nishi are banished to Surmaria, a believed to be uninhabited to land
 - Duska discovers the tome of Mortos
 #### Sunmaek
-- The Banished Greater Dragons: Musoko (Olum), Higashi (Dogu) and Nishi (Bati) arrive in Sunmaek
-- They establish themselves as powerful beings, drawing devotees and establishing two civilisations
+- Olum's existence begins (coinciding with the beginning of all time)
+- The Banished Greater Dragons: Higashi (Dogu) and Nishi (Bati) arrive in Sunmaek
+- They establish themselves as powerful beings, drawing devotees and establishing their religion an founding a large city
 - A war breaks out between the devotees of Olum and the devotees of Dogu & Bati
 - Olum's devotees are wiped out by the other two's and all trace of Olum's existence is hidden
 - Several thousand years pass
