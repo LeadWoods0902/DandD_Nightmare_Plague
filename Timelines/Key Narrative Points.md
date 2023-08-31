@@ -17,7 +17,6 @@
 - Several year's pass
 - Emperor Ymerodrol's daughter Fenian Naezana assumes the title empress after the death of her father 
 - Empress Fenian takes an interest in Ven-Dryk and orders him brought to the capital - he is rescued by a guerrilla force operating out of the Artificer's City Addun
-
 #### Chimo-Nahagi
 - 
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
@@ -38,6 +37,8 @@
 - Duska succeeds and meets with Mortos (Olum in disguise) - Mortos confers that great power can be granted if Duska assumes a position of power.
 - Duska seals the contract by sacrificing the Master Librarian and assuming his title
 - Duska's secret is discovered by the ambitious Sturgis who agrees to aid her in return for absolution from Olum for his misguided following of the deceptive Yilani Cemaati
+
+---
 ## Book 1: Infection
 - [x] The Party is formed
 - [ ] Fight the Talus
