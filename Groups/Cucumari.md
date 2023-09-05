@@ -1,3 +1,5 @@
+![[Cucumari Prince.png]]
+
 ### Physical Characteristics
 
 ##### Appearance
