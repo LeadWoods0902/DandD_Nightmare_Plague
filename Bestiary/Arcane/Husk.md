@@ -1,1 +1,1 @@
-Creatures that soul was prevented
+A creature that's soul was stolen in some manner, 
