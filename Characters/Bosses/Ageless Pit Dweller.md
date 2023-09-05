@@ -1,6 +1,5 @@
 ![[]]
-
-[[|Full Art]]
+[[PitDweller.jpg|Full Art]]
 
 ---
 ### Fight Description
