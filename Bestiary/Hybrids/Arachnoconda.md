@@ -1,1 +1,1 @@
-![[5h3uq3492dr41 1.webp]]
+![[Arachnoconda.png]]
