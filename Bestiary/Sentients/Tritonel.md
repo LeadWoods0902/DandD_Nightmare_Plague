@@ -15,8 +15,14 @@ Tritonel have large, expressive eyes adapted for low-light conditions, helping t
 ---
 ### Abilities
 
-##### Amphibious Nature: Hippocampi have advantage on swimming checks and can hold their breath for extended periods, both underwater and on land.
-    Natural Swimmers: They gain proficiency in the Athletics skill, particularly for swimming and underwater maneuvers.
-    Mystical Connection: Some Hippocampi may possess a natural affinity for water-based magic, gaining a bonus to spellcasting related to water or weather manipulation.
+##### Amphibious Nature: 
+Tritonel have advantage on swimming checks and can hold their breath for extended periods, both underwater and on land.
+##### Natural Swimmers: 
+They gain proficiency in the Athletics skill, particularly for swimming and underwater manoeuvres.
+##### Mystical Connection: 
+Some Tritonel may possess a natural affinity for water-based magic, gaining a bonus to spellcasting related to water or weather manipulation.
+
 ---
+
+### Members and Examples
 [[Tritonel.png|Full Art]]
