@@ -22,5 +22,5 @@ They can use their tentacle appendages for various tasks, granting them proficie
 Cucumari have an innate echolocation ability that allows them to "see" in darkness or underwater with precision.
 
 ---
-### Notable Members
+### Members and Examples
 [[Prince Neridel]]
