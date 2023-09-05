@@ -1,9 +1,4 @@
-![[]]
-[[PitDweller.jpg|Full Art]]
+![[PitDweller_Token.png]]
+[[PitDweller.png|Full Art]]
 
 ---
-### Fight Description
-
-### Battle Setting
-
-Flimsy rings of wooden platform surrounding a bottomless pit
