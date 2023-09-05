@@ -16,6 +16,11 @@ Cucumari have no visible eyes but possess a keen sense of echolocation and vibra
 ---
 ### Abilities
 
-###quatic Affinity: Cucumari have advantage on swimming checks and can hold their breath for extended periods both underwater and on land.
-    Tentacle Manipulation: They can use their tentacle appendages for various tasks, granting them proficiency in skills like Sleight of Hand, Athletics (grappling), or even granting a bonus to unarmed strikes.
-    Echolocation: Cucumari have an innate echolocation ability that allows them to "see" in darkness or underwater with precision.
+##### Aquatic Affinity
+Cucumari have advantage on swimming checks and can hold their breath for extended periods both underwater and on land.
+
+##### Tentacle Manipulation
+They can use their tentacle appendages for various tasks, granting them proficiency in skills like Sleight of Hand, Athletics (grappling), or even granting a bonus to unarmed strikes.
+
+##### Echolocation
+Cucumari have an innate echolocation ability that allows them to "see" in darkness or underwater with precision.
