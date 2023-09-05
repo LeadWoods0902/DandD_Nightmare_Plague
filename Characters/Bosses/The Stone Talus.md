@@ -2,8 +2,8 @@
 [[StoneTalus.png|Full Art]]
 
 ---
-
+### First Encounter
 
 
 ---
-###
+### Rematch

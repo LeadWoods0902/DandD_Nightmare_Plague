@@ -1,5 +1,3 @@
-![[Cucumari Prince.png]]
-
 ### Physical Characteristics
 
 ##### Appearance
@@ -26,3 +24,7 @@ They can use their tentacle appendages for various tasks, granting them proficie
 
 ##### Echolocation
 Cucumari have an innate echolocation ability that allows them to "see" in darkness or underwater with precision.
+
+---
+### Notable Members
+[[Cucumari Prince]]
