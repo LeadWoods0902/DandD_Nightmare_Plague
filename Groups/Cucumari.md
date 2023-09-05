@@ -27,4 +27,4 @@ Cucumari have an innate echolocation ability that allows them to "see" in darkne
 
 ---
 ### Notable Members
-[[Cucumari Prince]]
+[[Prince Neridel]]
