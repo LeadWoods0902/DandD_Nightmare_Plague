@@ -1,4 +1,4 @@
-![[Helioclasm_token.png]]
+![[Helioclam_Boss_Token.png]]
 [[Helioclasm.png|Full Art]]
 
 ---
