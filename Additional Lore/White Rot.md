@@ -1,0 +1,1 @@
+A fungal disease that is drawn to [[The Coeden]], attempts to remove it from the city

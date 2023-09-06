@@ -1,1 +1,1 @@
-Antithesis to [[Nëoris]], Vitröta was brought to life an age ago by parents wanting to instil fear in their youths: said to be the bringer of the [[[
+Antithesis to [[Nëoris]], Vitröta was brought to life an age ago by parents wanting to instil fear in their youths: said to be the bringer of the [[White Rot]] that scars the land of Brokvar during winter.
