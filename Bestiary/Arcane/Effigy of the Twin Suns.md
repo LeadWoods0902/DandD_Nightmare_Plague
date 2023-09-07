@@ -2,7 +2,7 @@
 [[Helioclasm.png|Full Art]]
 
 ---
-When the fight begins, [insert name] climbs atop a pyre and lights himself on fire.
+When the fight begins, [[Babalar Yusuf]] climbs atop a pyre and lights himself on fire.
 
 Embracing the fire of the sun.
 
