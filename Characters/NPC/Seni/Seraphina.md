@@ -46,4 +46,4 @@ Unknown
 ### Notes
 Seraphina was one of only a few [[The crew of the Kilfenora|members of the crew]] to have knowledge of the cargo being transported from [[Chimo]] to [[Heinabergsar]] by [[Nomli Gurglegum]].
 
-Seraphina was present for the sale of [[Bismuth]] and [[Jasper]] to [[Elaine Gjalla]]
+Seraphina was present for the sale of [[Bismuth Shatterborne]] and [[Jasper Shatterborne]] to [[Elaine Gjalla]]

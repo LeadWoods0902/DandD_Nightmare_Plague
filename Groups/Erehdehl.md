@@ -1,1 +1,1 @@
-Group of religious zealots that aim to achieve world peace by any means. While not an evil group, this group puts macro-ethics to the side when considering the health of the world. 
+Group of religious zealots that aim to achieve a unified [[Chimo-Nahagi]] by any means. While weak in power they have a great number?

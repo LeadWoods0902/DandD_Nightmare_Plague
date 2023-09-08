@@ -6,45 +6,27 @@
 
 ##### Name 
 Elaine Gjalla
-
 ##### Current Age
-Unknown
-
+TBC
 ##### Place of Origin
-Unknown
-
+TBC
 ##### Family
-Unknown
-
+TBC
 ##### Race
-Human seemingly
-
+Human
 ##### Class
-Sorcerer seemingly
-
+Sorcerer
 ##### Alignment
-Unknown
-
+TBC
 ##### Personality Traits
-Unknown
-
+TBC
 ##### Long Term Goals
-Unknown
-
+TBC
 ##### Secondary Goals
-Unknown
-
+TBC
 ##### Motivations
-Unknown
-
+TBC
 ##### Flaws
-Unknown
-
+TBC
 ##### Affiliations
-Unknown
-
-### Notes
-Elaine claims to work with a woman called [[Mistress]]
-
-Elaine purchased [[Bismuth]] and [[Jasper]] for 2000 [[Baht]] but paid in jewels - in the same transaction, she handed the auctioneer a paper document.
-
+TBC

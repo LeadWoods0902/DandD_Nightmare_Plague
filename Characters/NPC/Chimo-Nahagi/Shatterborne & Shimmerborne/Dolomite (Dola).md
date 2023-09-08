@@ -17,8 +17,8 @@ Dolomite (Dola) Shimmerborne
 [[Shatterborne.canvas|Shatterborne]]
 
 Mothered two children with [[Magnar Shatterborne]]:
-- [[Bismuth]]
-- [[Jasper]]
+- [[Bismuth Shatterborne]]
+- [[Jasper Shatterborne]]
 
 ##### Race
 Genasi

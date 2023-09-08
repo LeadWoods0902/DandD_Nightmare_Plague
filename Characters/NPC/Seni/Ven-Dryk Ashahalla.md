@@ -14,7 +14,7 @@ Unknown
 [[Sunmaek]]
 
 ##### Family
-Son of [[Ven-Kylgh Ashahalla]] and [[Ven-Kylgh's Wife]]
+Son of [[Ven-Kylgh Ashahalla]] and [[Mel-Reyhan]]
 
 Brother to:
 - [[Ven-Slyk]]
