@@ -19,7 +19,7 @@
 - Empress Fenian takes an interest in Ven-Dryk and orders him brought to the capital - he is rescued by a guerrilla force operating out of the Artificer's City Addun
 #### Chimo-Nahagi
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
-- Higashi and Nishi are banished to Surmaria, a believed to be uninhabited to land
+- Higashi and Nishi are caught hoarding human lives and are punished by banishment to Surmaria, a believed to be uninhabited to land
 - Duska discovers the tome of Mortos
 #### Sunmaek
 - Olum's existence begins (coinciding with the beginning of all time)
