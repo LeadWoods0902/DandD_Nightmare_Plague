@@ -44,4 +44,4 @@ TBC
 TBC
 
 ### Notes
-Infected with white rot from a young age, Kolbjørn became the boogey-man 
+Infected with white rot from a young age, Kolbjørn became the boogey-man of Brokvar 
