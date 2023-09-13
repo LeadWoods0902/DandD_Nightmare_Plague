@@ -1,5 +1,5 @@
-![[Helioclam_Boss_Token.png]]
-[[Helioclasm.png|Full Art]]
+![[EffigyHelioclam_Boss_Token.png]]
+[[EffigyHelioclasm.png|Full Art]]
 
 ---
 When the fight begins, [[Babalar Yusuf]] climbs atop a pyre and lights himself on fire.
