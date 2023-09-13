@@ -1,2 +1,3 @@
-![[3b07628e503ac1dfecf4dddc78b085db.jpg]]
+![[Helioclasm_Token.png]]
+[[Helioclasm.png]]
 A beast born of the faith for the twin suns
