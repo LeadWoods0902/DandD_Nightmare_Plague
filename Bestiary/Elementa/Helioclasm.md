@@ -1,1 +1,1 @@
-A beast born of the faith for the twin suns
+![[Helioclam_Boss_Token.png]]A beast born of the faith for the twin suns
