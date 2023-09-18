@@ -38,3 +38,4 @@ When a creature successfully climbs onto the Gravolith, it can use a reaction to
 *1 charge per encounter*
 
 ##### Gravolise
+The Gravolith can subdivide itself into smaller copies of itself
