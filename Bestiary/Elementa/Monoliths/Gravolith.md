@@ -9,7 +9,9 @@
 ##### Rolling Boulder
 
 ##### Rock Throw
+The Gravolith hurls a large rock at a target within range, attempting to strike them with brute force. Make a ranged attack roll against the target's AC. On a hit, the target takes 1d8 + Strength modifier bludgeoning damage.
 
+In addition, the target must make a Strength saving throw against a DC equal to 8 + the Stone Talus' proficiency bonus + its Strength modifier. On a failed save, the target is pushed 10 feet away from the Stone Talus and knocked prone. On a successful save, the target is not pushed or knocked prone.
 ##### Earthquake Slam
 
 
@@ -26,7 +28,7 @@ As a bonus action, the Gravolith can activate Stony Stride. For the duration of 
 
 *3 charges per encounter*
 ##### Topple Toss
-When a creature successfully climbs onto the Gravolith, it can use a reaction to attempt to throw them off. The creature must make a Strength saving throw against a DC 14. On a failed save, the creature is forcefully thrown off and lands in an unoccupied space within 10 feet (or the nearest available space otherwise), taking bludgeoning damage equal to 1d6+4.
+When a creature successfully climbs onto the Gravolith, it can use a reaction to attempt to throw them off. The creature must make a Strength saving throw against a DC 8 + prof. On a failed save, the creature is forcefully thrown off and lands in an unoccupied space within 10 feet (or the nearest available space otherwise), taking bludgeoning damage equal to 1d6+4.
 
 *1 charge per encounter*
 
