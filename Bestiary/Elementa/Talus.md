@@ -1,1 +1,0 @@
-![[StoneTalus.png]]
