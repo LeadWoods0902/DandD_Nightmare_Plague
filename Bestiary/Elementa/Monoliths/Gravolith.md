@@ -42,3 +42,5 @@ The Gravolith can subdivide itself into smaller copies of itself equal to 2 + it
 
 *1 charge per encounter*
 
+##### Gravolesce
+The 
