@@ -2,3 +2,7 @@
 [[Igneolith.png|Full Art]]
 
 ---
+*Description here*
+### Combat Abilities
+
+### Features

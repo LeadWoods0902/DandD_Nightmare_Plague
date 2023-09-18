@@ -5,7 +5,7 @@
 ### Combat Abilities
 
 ##### Slam
-The Gravolith brings one of its boulder-like arms down on top of a single target. Make an attack roll against the target's AC. On a hit, the target takes 1d8 + Strength modifier bludgeoning d
+The Gravolith brings one of its boulder-like arms down on top of a single target. Make an attack roll against the target's AC. On a hit, the target takes 1d8 + Strength modifier bludgeoning damage.
 ##### Rolling Boulder
 The Gravolith curls into a ball and charges in a straight line, up to 30 feet. Each creature in its path must make a DC 14 Dexterity saving throw, taking 2d8 bludgeoning damage on a failed save, or half as much damage on a successful one.
 
@@ -19,7 +19,7 @@ The Gravolith brings down its massive stone body with tremendous force, causing 
 
 \* Total Damage equates to 2d6 times the number of creatures in range of the attack - damage is divided equally between creatures before saving throw adjustments
 
-### Latent Abilities
+### Features
 
 ##### Rock Body
 Immune to poison and psychic related damage and attacks as well as the effects: Charmed, Frightened, Poisoned
