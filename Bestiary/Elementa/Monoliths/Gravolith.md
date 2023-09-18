@@ -22,8 +22,11 @@ The Gravolith has weak points located on its head and back. If a creature succes
 ##### Stone Camouflage
 While motionless, the Gravolith resembles a large rock and has advantage on Dexterity (Stealth) checks made to hide.
 ##### Stony Stride
-As a bonus action, the Gravolith can activate Stony Stride. For the duration of the turn, movement speed is doubled. This effect lasts until the end of the next turn. (3 charges)
-##### Topple Toss
-When a creature successfully climbs onto the Gravolith, it can use a reaction to attempt to throw them off. The creature must make a Strength saving throw against a DC equal to 14. On a failed save, the creature is forcefully thrown off and lands in an unoccupied space within 10 feet of you, taking bludgeoning damage equal to your Strength modifier.
+As a bonus action, the Gravolith can activate Stony Stride. For the duration of the turn, movement speed is doubled. This effect lasts until the end of the next turn. 
 
-Once you use this ability, you must finish a short or long rest before you can use it again.
+*3 charges per encounter*
+##### Topple Toss
+When a creature successfully climbs onto the Gravolith, it can use a reaction to attempt to throw them off. The creature must make a Strength saving throw against a DC 14. On a failed save, the creature is forcefully thrown off and lands in an unoccupied space within 10 feet (or the nearest available space otherwise), taking bludgeoning damage equal to 1d6+4.
+
+*1 charge per encounter*
+
