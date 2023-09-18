@@ -5,9 +5,11 @@
 ### Combat Abilities
 
 ##### Slam
-The Gravolith brings one of its boulder-like arms down on top of a single target. Make an attack roll against the target's AC. On a hit, the target takes 1
+The Gravolith brings one of its boulder-like arms down on top of a single target. Make an attack roll against the target's AC. On a hit, the target takes 1d8 + Strength modifier bludgeoning d
 ##### Rolling Boulder
 The Gravolith curls into a ball and charges in a straight line, up to 30 feet. Each creature in its path must make a DC 14 Dexterity saving throw, taking 2d8 bludgeoning damage on a failed save, or half as much damage on a successful one.
+
+*Cannot be used for two turns after usage*
 ##### Rock Throw
 The Gravolith hurls a large rock at a target within range, attempting to strike them with brute force. Make a ranged attack roll against the target's AC. On a hit, the target takes 1d8 + Strength modifier bludgeoning damage.
 
