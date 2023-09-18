@@ -38,4 +38,7 @@ When a creature successfully climbs onto the Gravolith, it can use a reaction to
 *1 charge per encounter*
 
 ##### Gravolise
-The Gravolith can subdivide itself into smaller copies of itself equal to 2+ its proficiency bonus + its constitution modifier. When subdivided, all damage is 
+The Gravolith can subdivide itself into smaller copies of itself equal to 2 + its proficiency bonus + its constitution modifier. When subdivided, all damage is halved and the abilities: rock throw, earthquake slam and Topple Toss are no longer usable.
+
+*1 charge per encounter*
+
