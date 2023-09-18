@@ -2,6 +2,7 @@
 [[Gravolith.png|Full Art]]
 
 ---
+*Description here*
 ### Combat Abilities
 
 ##### Slam
