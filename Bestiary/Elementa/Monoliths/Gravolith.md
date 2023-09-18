@@ -37,3 +37,4 @@ When a creature successfully climbs onto the Gravolith, it can use a reaction to
 
 *1 charge per encounter*
 
+##### Gravolise
