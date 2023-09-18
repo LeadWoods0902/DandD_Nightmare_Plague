@@ -13,7 +13,7 @@ The Gravolith hurls a large rock at a target within range, attempting to strike 
 
 In addition, the target must make a Strength saving throw against a DC equal to 8 + the Gravolith's proficiency bonus + its Strength modifier. On a failed save, the target is pushed 10 feet away from the Gravolith and knocked prone. On a successful save, the target is not pushed or knocked prone.
 ##### Earthquake Slam
-
+The Gravolith brings down its massive stone body with tremendous force, causing the ground to tremble. The Gravolith can use this action on its turn to unleash a powerful slam attack. Each creature within a 10-foot radius of the Gravolith must make a Dexterity saving throw or take bludgeoning damage and be knocked prone. The DC for the saving throw is 8 + the Gravolith's proficiency bonus + its Strength modifier. On a successful save, a creature takes half damage and isn't knocked prone.
 
 ### Latent Abilities
 
