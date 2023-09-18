@@ -2,8 +2,12 @@
 [[Gravolith.png|Full Art]]
 
 ---
-### First Encounter
+### Combat Abilities
 
+##### Slam
 
----
-### Rematch
+##### Rolling Boulder
+
+##### Rock Throw
+
+##### Earthquake Slam
