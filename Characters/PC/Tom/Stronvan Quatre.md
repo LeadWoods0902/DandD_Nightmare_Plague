@@ -66,6 +66,8 @@ Special Abilities:
 - **Resolute Avenger**
 	- Whenever the Paladin's allies are reduced to 0 hit points or are killed in combat, the Paladin gains a cumulative +1 bonus to attack and damage rolls against the enemy responsible for their allies' demise. This bonus resets to +0 if the Paladin fails to successfully attack the enemy. This ability reflects the Paladin's unwavering determination to avenge fallen comrades and protect their allies.
 
+- **Brutal Finisher**
+	- When you kill a creature, any creature within 15ft will have halved 
 
 ---
 
