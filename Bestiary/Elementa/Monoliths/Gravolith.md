@@ -43,4 +43,6 @@ The Gravolith can subdivide itself into smaller copies of itself equal to 2 + it
 *1 charge per encounter*
 
 ##### Gravolesce
-The 
+The Gravolith can reform its larger self from its remaining subdivided parts. After doing so 
+
+*1 charge per encounter*
