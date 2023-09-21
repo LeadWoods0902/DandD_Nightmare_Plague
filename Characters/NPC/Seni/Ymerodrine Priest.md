@@ -1,4 +1,4 @@
-![[EmpiricalPriest_Token.png]]
+![[YmerodrinePriest_Token.png]]
 [[EmpiricalPriest.png|Full Art]]
 
 ---
