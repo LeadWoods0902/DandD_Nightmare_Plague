@@ -1,6 +1,6 @@
-![[Filb]]
+![[Filbert_Token.png]]
 
-[[]]
+[[Filbert.png|Full Art]]
 
 ---
 ### Character Info
