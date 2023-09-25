@@ -11,7 +11,9 @@
 - [ ] Get accosted at the gates of Brokvar
 - [ ] Elaine gives out tokens
 	- [ ] Allowed to explore city
+	- [ ] Recommend tidying up before meeting the Mistress
 	- [ ] Meet at Mistress's before sundown
 	- [ ] Leave like Batman
+- [ ] 
 - [ ] Table Test
 - [ ] Interview the party
