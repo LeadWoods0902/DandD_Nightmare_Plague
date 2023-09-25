@@ -1,11 +1,11 @@
-![[]]
-[[]]
+![[Harald_Token.png]]
+[[Harald.png|Full Art]]
 
 ---
 ### Character Info
 
 ##### Name 
-Unknown 
+Harald
 
 ##### Current Age
 Unknown
@@ -44,4 +44,3 @@ Unknown
 Unknown
 
 ### Notes
-
