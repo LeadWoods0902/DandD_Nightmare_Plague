@@ -2,4 +2,7 @@
 - [ ] Talk to Dwayne, haggle over the price of some weapons
 - [ ] Talk to Mathis, preachy religious bs
 	- [ ] Duska ask about local religions?
-- [ ] Talk to Harald buy food for the jo
+- [ ] Talk to Harald buy food for the journey
+- [ ] Leave Virmarr
+- [ ] Talk on the road
+- [ ] Make camp on the edge of 
