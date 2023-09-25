@@ -5,4 +5,8 @@
 - [ ] Talk to Harald buy food for the journey
 - [ ] Leave Virmarr
 - [ ] Talk on the road
-- [ ] Make camp on the edge of 
+- [ ] Make camp on the edge of the Weald
+- [ ] Battle and flea from the [[Gravolith]]
+- [ ] Talk for rest of journey or skip
+- [ ] Get accosted at the gates of Brokvar
+- [ ] 
