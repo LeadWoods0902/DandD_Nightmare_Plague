@@ -1,11 +1,11 @@
-- [ ] Elaine has business with Mayor, send the party off to do some resource gathering and talk to Mayor - meet outside the Mayor's office in an hour
-- [ ] Talk to Dwayne, haggle over the price of some weapons
-- [ ] Talk to Mathis, preachy religious bs
-	- [ ] Duska ask about local religions?
-- [ ] Talk to Harald buy food for the journey
-- [ ] Leave Virmarr
-- [ ] Talk on the road
-- [ ] Make camp on the edge of the Weald
+- [x] Elaine has business with Mayor, send the party off to do some resource gathering and talk to Mayor - meet outside the Mayor's office in an hour
+- [x] Talk to Dwayne, haggle over the price of some weapons
+- [x] Talk to Mathis, preachy religious bs
+	- [x] Duska ask about local religions?
+- [x] Talk to Harald buy food for the journey
+- [x] Leave Virmarr
+- [x] Talk on the road
+- [x] Make camp on the edge of the Weald
 - [ ] Battle and flea from the Gravolith
 - [ ] Talk for rest of journey or skip
 - [ ] Get accosted at the gates of Brokvar
