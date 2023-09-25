@@ -9,4 +9,6 @@
 - [ ] Battle and flea from the [[Gravolith]]
 - [ ] Talk for rest of journey or skip
 - [ ] Get accosted at the gates of Brokvar
-- [ ] 
+- [ ] Elaine gives out tokens
+	- [ ] Allowed to explore city
+	- [ ] Meet at Mistress'es
