@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Gerard Jemez
+Gerard (Potato Pete)
 
 ##### Current Age
 Unknown

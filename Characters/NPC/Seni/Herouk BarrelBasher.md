@@ -20,7 +20,7 @@ Partner of [[Nomli Gurglegum]]
 Dwarf
 
 ##### Class
-Unknown
+Bard
 
 ##### Alignment
 Unknown
