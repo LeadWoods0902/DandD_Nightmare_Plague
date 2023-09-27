@@ -5,16 +5,16 @@
 ### Character Info
 
 ##### Name 
-Henning 
+Henning Borstad 
 
 ##### Current Age
-Unknown
+47
 
 ##### Place of Origin
-Unknown
+Virmarr
 
 ##### Family
-Unknown
+Distant Broth
 
 ##### Race
 Unknown
