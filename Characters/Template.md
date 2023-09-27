@@ -1,43 +1,43 @@
 ### Character Info
 
 ##### Name 
-Unknown 
+*TBC* 
 
 ##### Current Age
-Unknown
+*TBC*
 
 ##### Place of Origin
-Unknown
+*TBC*
 
 ##### Family
-Unknown
+*TBC*
 
 ##### Race
-Unknown
+*TBC*
 
 ##### Class
-Unknown
+*TBC*
 
 ##### Alignment
-Unknown
+*TBC*
 
 ##### Personality Traits
-Unknown
+*TBC*
 
 ##### Long Term Goals
 Unknown
 
 ##### Secondary Goals
-Unknown
+*TBC*
 
 ##### Motivations
-Unknown
+*TBC*
 
 ##### Flaws
-Unknown
+*TBC*
 
 ##### Affiliations
-Unknown
+*TBC*
 
 ### Notes
 

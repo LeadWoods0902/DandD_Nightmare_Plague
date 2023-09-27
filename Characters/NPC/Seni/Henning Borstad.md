@@ -35,14 +35,14 @@ Social Impure
 *TBC*
 
 ##### Motivations
-Unknown
+*TBC*
 
 ##### Flaws
 Misogynistic
 Racist towards Yuan-Ti
 
 ##### Affiliations
-Unknown
+*TBC*
 
 ### Notes
 
