@@ -8,7 +8,7 @@
 Lucius Crestwood
 
 ##### Current Age
-Unknown
+*TBC*  (Deceased)
 
 ##### Place of Origin
 [[Llawyr un Mawr]]
