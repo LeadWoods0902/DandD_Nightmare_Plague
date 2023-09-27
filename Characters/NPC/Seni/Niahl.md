@@ -31,4 +31,4 @@ Unknown
 ##### Affiliations
 *TBC*
 ### Notes
-
+Commander of the Brokvar City Guard
