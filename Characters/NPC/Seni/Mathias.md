@@ -3,45 +3,31 @@
 
 ---
 ### Character Info
-
 ##### Name 
 Mathias 
-
 ##### Current Age
 46
-
 ##### Place of Origin
 Virmarr
-
 ##### Family
 *TBC*
-
 ##### Race
 Human
-
 ##### Class
 Cleric
-
 ##### Alignment
-Unknown
-
+*TBC*
 ##### Personality Traits
-Unknown
-
+*TBC*
 ##### Long Term Goals
-Unknown
-
+*TBC*
 ##### Secondary Goals
-Unknown
-
+*TBC*
 ##### Motivations
-Unknown
-
+*TBC*
 ##### Flaws
-Unknown
-
+*TBC*
 ##### Affiliations
-Unknown
-
+*TBC*
 ### Notes
 
