@@ -14,13 +14,13 @@ Henning Borstad
 Virmarr
 
 ##### Family
-Distant Broth
+Distant Brother
 
 ##### Race
-Unknown
+Human
 
 ##### Class
-Unknown
+No Specilisation
 
 ##### Alignment
 Unknown
