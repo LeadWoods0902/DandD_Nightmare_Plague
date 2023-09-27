@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Harald
+Harald Higgarson
 
 ##### Current Age
 Unknown
