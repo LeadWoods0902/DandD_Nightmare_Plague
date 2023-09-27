@@ -15,7 +15,7 @@ TBC
 ##### Race
 Human
 ##### Class
-Sorcerer
+Storm Sorcerer
 ##### Alignment
 TBC
 ##### Personality Traits
