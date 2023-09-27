@@ -20,7 +20,7 @@ Unknown
 Human
 
 ##### Class
-Unknown
+Battle Master Fighter
 
 ##### Alignment
 Unknown
