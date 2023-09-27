@@ -9,7 +9,7 @@
 Innë-Dryk Lundgren 
 
 ##### Current Age
-Unknown
+*TBC* Deceased
 
 ##### Place of Origin
 Unknown

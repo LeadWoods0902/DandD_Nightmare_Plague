@@ -1,10 +1,8 @@
 ![[Calidian _Token.png]]
-
 [[Calidian.png|Full Art]]
 
 ---
 ### Character Info
-
 ##### Name 
 Calidian Naezana 
 
@@ -12,7 +10,7 @@ Calidian Naezana
 *TBC*  Deceased
 
 ##### Place of Origin
-Unknown
+*TBC*
 
 ##### Family
 Father of [[Fenian Naezana]]
@@ -21,28 +19,28 @@ Father of [[Fenian Naezana]]
 Elf
 
 ##### Class
-Unknown
+*TBC*
 
 ##### Alignment
-Unknown
+*TBC*
 
 ##### Personality Traits
-Unknown
+*TBC*
 
 ##### Long Term Goals
-Unknown
+*TBC*
 
 ##### Secondary Goals
-Unknown
+*TBC*
 
 ##### Motivations
-Unknown
+*TBC*
 
 ##### Flaws
-Unknown
+*TBC*
 
 ##### Affiliations
-Unknown
+*TBC*
 
 ### Notes
 

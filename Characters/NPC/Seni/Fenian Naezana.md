@@ -14,7 +14,7 @@ Unknown
 [[Arnarholt]]
 
 ##### Family
-Unknown
+Daughter of [[Calidian Naezana]]
 
 ##### Race
 Human seemingly
