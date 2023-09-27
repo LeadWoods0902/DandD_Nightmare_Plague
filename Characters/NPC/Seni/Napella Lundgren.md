@@ -7,7 +7,7 @@
 Unknown 
 
 ##### Current Age
-Unknown
+*TBC* Deceased
 
 ##### Place of Origin
 Unknown
