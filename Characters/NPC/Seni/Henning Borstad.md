@@ -23,22 +23,23 @@ Human
 No specialisation
 
 ##### Alignment
-Unknown
+Social Impure
 
 ##### Personality Traits
-Unknown
+*TBC*
 
 ##### Long Term Goals
-Unknown
+*TBC*
 
 ##### Secondary Goals
-Unknown
+*TBC*
 
 ##### Motivations
 Unknown
 
 ##### Flaws
-Unknown
+Misogynistic
+Racist towards Yuan-Ti
 
 ##### Affiliations
 Unknown
