@@ -5,22 +5,22 @@
 ### Character Info
 
 ##### Name 
-Unknown 
+Mathias 
 
 ##### Current Age
-Unknown
+46
 
 ##### Place of Origin
-Unknown
+Virmarr
 
 ##### Family
-Unknown
+*TBC*
 
 ##### Race
-Unknown
+Human
 
 ##### Class
-Unknown
+Cleric
 
 ##### Alignment
 Unknown

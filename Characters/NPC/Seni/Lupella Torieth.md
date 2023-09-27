@@ -6,43 +6,31 @@
 
 ##### Name 
 Lupella Torieth (of Lundgren)
-
 ##### Current Age
 Unknown
-
 ##### Place of Origin
 Unknown
-
 ##### Family
 Daughter of [[Amorella Lundgren]] and [[Ayven Torrieth]]
-
 ##### Race
 Unknown
-
 ##### Class
-Unknown
-
+Juggernaut Barbarian
 ##### Alignment
 Unknown
-
 ##### Personality Traits
 Unknown
-
 ##### Long Term Goals
 Unknown
-
 ##### Secondary Goals
 Unknown
-
 ##### Motivations
 Unknown
-
 ##### Flaws
 Unknown
 
 ##### Affiliations
 Unknown
-
 ### Notes
 Reaver Queen of the north seas and granddaughter to the fire queen: [[Napella Lundgren]]. The rightful heir to the Brokvar throne: Lupella carries the [[Engraved Emerald]] and is the daughter of [[Amorella Lundgren]] and [[Ayven Torrieth]].
 
