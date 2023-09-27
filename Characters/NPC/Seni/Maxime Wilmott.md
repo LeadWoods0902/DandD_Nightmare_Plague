@@ -15,7 +15,7 @@ TBC
 ##### Race
 Human
 ##### Class
-TBC
+Cleric
 ##### Alignment
 TBC
 ##### Personality Traits
