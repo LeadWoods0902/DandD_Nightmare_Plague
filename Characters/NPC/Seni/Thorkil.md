@@ -46,4 +46,4 @@ Unknown
 ### Notes
 Jumped overboard [[The Kilfenora]] in flight of the events that had just occurred and to try and swim towards [[Isabella]] in their safety boat.
 
-Contracted The Nig
+Contaminated with "The Nightmare Plague" 
