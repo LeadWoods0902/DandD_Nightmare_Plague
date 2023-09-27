@@ -6,17 +6,17 @@
 ##### Name 
 Lirel 
 ##### Current Age
-Unknown
+21
 ##### Place of Origin
-Unknown
+Llawyr un Mawr
 ##### Family
-Unknown
+Son of minor nobility
 ##### Race
-Unknown
+Human
 ##### Class
 Unknown
 ##### Alignment
-Unknown
+good
 ##### Personality Traits
 Unknown
 ##### Long Term Goals
@@ -25,12 +25,9 @@ Unknown
 Unknown
 ##### Motivations
 Unknown
-
 ##### Flaws
 Unknown
-
 ##### Affiliations
 Unknown
-
 ### Notes
 
