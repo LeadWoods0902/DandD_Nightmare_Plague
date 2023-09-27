@@ -1,1 +1,1 @@
-A formulae derived by [[Jarae]] and tested on a flock of animals she keeps in jars in her store
+A formulae derived by [[Jarae of Luthbra]] and tested on a flock of animals she keeps in jars in her store

@@ -6,7 +6,7 @@
 ### Character Info
 
 ##### Name 
-FIlbert Jemez 
+Filbert Jemez 
 
 ##### Current Age
 Unknown
