@@ -16,7 +16,7 @@ Human
 ##### Class
 Unknown
 ##### Alignment
-good
+Social Good
 ##### Personality Traits
 Unknown
 ##### Long Term Goals
