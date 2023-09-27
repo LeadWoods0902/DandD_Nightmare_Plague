@@ -9,13 +9,13 @@
 Calidian Naezana 
 
 ##### Current Age
-Deceased
+*TBC*  Deceased
 
 ##### Place of Origin
 Unknown
 
 ##### Family
-Unknown
+Father of [[Fenian Naezana]]
 
 ##### Race
 Elf
