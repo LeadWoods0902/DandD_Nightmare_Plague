@@ -20,7 +20,7 @@ Distant Brother
 Human
 
 ##### Class
-No Specilisation
+No specialisation
 
 ##### Alignment
 Unknown
