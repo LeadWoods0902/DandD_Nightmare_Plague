@@ -5,30 +5,19 @@
 ### Combat Abilities
 
 ##### Slam
-###### Description
 The Gravolith brings one of its boulder-like arms down on top of a single target. Make an attack roll against the target's AC
-###### Damage
 On a hit, the target takes 1d8 + Strength modifier bludgeoning damage
 ##### Rolling Boulder
-###### Description
 The Gravolith curls into a ball and charges in a straight line, up to 30 feet. Each creature in its path must make a DC 14 Dexterity saving throw
-###### Damage
 On a failed save, taking 2d8 bludgeoning damage, or half as much damage on a successful one.
-###### Additional Info
 *Cannot be used for two turns after usage*
 ##### Rock Throw
-###### Description
 The Gravolith hurls a large rock at a target within range, attempting to strike them with brute force. Make a ranged attack roll against the target's AC
-###### Damage
 On a hit, the target takes 1d8 + Strength modifier bludgeoning damage
-###### Additional Info
 In addition, the target must make a Strength saving throw against a DC equal to 8 + the Gravolith's proficiency bonus + its Strength modifier. On a failed save, the target is pushed 10 feet away from the Gravolith and knocked prone. On a successful save, the target is not pushed or knocked prone.
 ##### Earthquake Slam
-###### Description
 The Gravolith brings down its massive stone body with tremendous force, causing the ground to tremble. Each creature within a 10-foot radius of the Gravolith must make a Dexterity saving throw or take bludgeoning damage* and be knocked prone.
-###### Damage
 The DC for the saving throw is 8 + the Gravolith's proficiency bonus + its Strength modifier. On a successful save, a creature takes half damage and isn't knocked prone. 
-###### Additional Info
 Total Damage equates to 2d6 times the number of creatures in range of the attack - damage is divided equally between creatures before saving throw adjustments
 
 ### Features
