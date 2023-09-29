@@ -7,15 +7,9 @@
 ##### Molten Slam
 The Igneolith brings one of its boulder-like arms down on top of a target within 10ft. Make an attack roll against the target's AC
 On a hit, the target takes 1d8 + Strength modifier bludgeoning damage
-All creatures within a 5ft radius take fire damage equal to 1d4 and gain o
-##### Rolling Boulder
-The Gravolith curls into a ball and charges in a straight line, up to 30 feet. Each creature in its path must make a DC 14 Dexterity saving throw
-On a failed save, taking 2d8 bludgeoning damage, or half as much damage on a successful one.
-*Cannot be used for two turns after usage*
-##### Rock Throw
-The Gravolith hurls a large rock at a target within range, attempting to strike them with brute force. Make a ranged attack roll against the target's AC
-On a hit, the target takes 1d8 + Strength modifier bludgeoning damage
-In addition, the target must make a Strength saving throw against a DC equal to 8 + the Gravolith's proficiency bonus + its Strength modifier. On a failed save, the target is pushed 10 feet away from the Gravolith and knocked prone. On a successful save, the target is not pushed or knocked prone.
+All creatures within a 5ft radius take fire damage equal to 1d4 and gain one stack of burning status
+##### Lava Fling
+The Magma Goliath can reach into its molten core and fling globs of lava at targets within a medium range. On impact, the lava can cause both fire damage and a burning effect.
 ##### Earthquake Slam
 The Gravolith brings down its massive stone body with tremendous force, causing the ground to tremble. Each creature within a 10-foot radius of the Gravolith must make a Dexterity saving throw or take bludgeoning damage* and be knocked prone.
 The DC for the saving throw is 8 + the Gravolith's proficiency bonus + its Strength modifier. On a successful save, a creature takes half damage and isn't knocked prone. 
