@@ -13,8 +13,9 @@
 - The Igneolith can reach into its molten core and fling globs of lava at targets within a 50ft radius
 - The target creature must make a dexterity saving throw
 - On a hit, the target takes 1d8 + 4 fire damage and gains two stacks of burning status
-##### Earthquake Slam
-- The Igneolith can release a surge of lava from the ground, creating a pool of molten rock in a 20-foot radius. The lava remains for several rounds, damaging creatures that come into contact with it.
+##### Magma Surge
+- The Igneolith can release a surge of lava from the ground, creating a pool of molten rock in a 30-foot radius.
+- When a creature comes into contact with the pool, it takes 
 
 ### Features
 
