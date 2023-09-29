@@ -14,15 +14,15 @@
 - The target creature must make a dexterity saving throw
 - On a hit, the target takes 1d8 + 4 fire damage and gains two stacks of burning status
 ##### Magma Surge
-- The Igneolith can release a surge of lava from the ground, creating a pool of molten rock in a 30-foot radius.
-- When a creature comes into contact with the pool, it takes 
+- The Igneolith can release a surge of lava from the ground, creating a pool of molten rock in a 30-foot radius
+- When a creature comes into contact with the pool, it takes 3d6 fire damage and gains 8 stacks of burning status
 
 ### Features
 
-##### Rock Body
-Immune to poison and psychic related damage and attacks as well as the effects: Charmed, Frightened, Poisoned
-##### Weak Point
-The Gravolith has weak points located on its head and back. If a creature successfully climbs onto the Gravolith's back with a successful Athletics or Acrobatics check, they can make a melee attack against one of the weak points, dealing double damage.
+##### Heat Aura
+The intense heat radiating from the Magma Goliath makes it hazardous to approach. Creatures within 10 feet of the Goliath at the start of their turn take fire damage
+##### Molten Form
+The Igneolith can temporarily transform its body into a molten state, gaining resistance to physical damage and allowing it to move through small openings or cracks.
 ##### Stone Camouflage
 While motionless, the Gravolith resembles a large rock and has advantage on Dexterity (Stealth) checks made to hide.
 ##### Stony Stride
