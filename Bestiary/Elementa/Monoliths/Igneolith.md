@@ -23,23 +23,5 @@
 The intense heat radiating from the Magma Goliath makes it hazardous to approach. Creatures within 10 feet of the Goliath at the start of their turn take fire damage
 ##### Molten Form
 The Igneolith can temporarily transform its body into a molten state, gaining resistance to physical damage and allowing it to move through small openings or cracks.
-##### Stone Camouflage
-While motionless, the Gravolith resembles a large rock and has advantage on Dexterity (Stealth) checks made to hide.
-##### Stony Stride
-As a bonus action, the Gravolith can activate Stony Stride. For the duration of the turn, movement speed is doubled. This effect lasts until the end of the next turn. 
 
 *3 charges per encounter*
-##### Topple Toss
-When a creature successfully climbs onto the Gravolith, it can use a reaction to attempt to throw them off. The creature must make a Strength saving throw against a against a DC equal to 8 + the Gravolith's proficiency bonus + its Strength modifier. On a failed save, the creature is forcefully thrown off and lands in an unoccupied space within 10 feet (or the nearest available space otherwise), taking bludgeoning damage equal to 1d6+4.
-
-*1 charge per encounter*
-
-##### Gravolise
-The Gravolith can subdivide itself into smaller copies of itself equal to 2 + its proficiency bonus + its constitution modifier. When subdivided, all damage is halved and the abilities: rock throw, earthquake slam and Topple Toss are no longer usable.
-
-*1 charge per encounter*
-
-##### Gravolesce
-The Gravolith can reform its larger self from its remaining subdivided parts. After doing so damage output is multiplied by the fraction of remaining subdivisions when reforming. 
-
-*1 charge per encounter*
