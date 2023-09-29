@@ -5,15 +5,14 @@
 ### Combat Abilities
 
 ##### Molten Slam
-The Igneolith brings one of its boulder-like arms down on top of a target within 10ft. 
-Make an attack roll against the target's AC
-On a hit, the target takes 1d8 + Strength modifier bludgeoning damage
-All creatures within a 5ft radius take fire damage equal to 1d4 and gain one stack of burning status
+- The Igneolith brings one of its boulder-like arms down on top of a target within 10ft. 
+- Make an attack roll against the target's AC
+- On a hit, the target takes 1d8 + Strength modifier bludgeoning damage
+- All creatures within a 5ft radius take fire damage equal to 1d4 and gain one stack of burning status
 ##### Lava Fling
-The Igneolith can reach into its molten core and fling globs of lava at targets within a 50ft radius. 
-The target creature must make a dexterity saving throw
-
-On impact, the lava can cause both fire damage and a burning effect.
+- The Igneolith can reach into its molten core and fling globs of lava at targets within a 50ft radius
+- The target creature must make a dexterity saving throw
+- On a hit, the target takes 1d8 + 4 fire damage and gains two stacks of burning status
 ##### Earthquake Slam
 The Gravolith brings down its massive stone body with tremendous force, causing the ground to tremble. 
 Each creature within a 10-foot radius of the Gravolith must make a Dexterity saving throw or take bludgeoning damage* and be knocked prone.
