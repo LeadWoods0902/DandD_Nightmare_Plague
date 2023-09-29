@@ -33,7 +33,7 @@ As a bonus action, the Gravolith can activate Stony Stride. For the duration of 
 
 *3 charges per encounter*
 ##### Topple Toss
-When a creature successfully climbs onto the Gravolith, it can use a reaction to attempt to throw them off. The creature must make a Strength saving throw against a against a DC equal to 8 + the Gravolith's proficiency bonus + its Strength modifier. On a failed save, the creature is forcefully thrown off and lands in an unoccupied space within 10 feet (or the nearest available space otherwise), taking bludgeoning damage equal to 1d6+4.
+When a creature successfully climbs onto the Gravolith, it can use a reaction to attempt to throw them off. The creature must make a Strength saving throw against a DC equal to 8 + the Gravolith's proficiency bonus + its Strength modifier. On a failed save, the creature is forcefully thrown off and lands in an unoccupied space within 10 feet (or the nearest available space otherwise), taking bludgeoning damage equal to 1d6+4.
 
 *1 charge per encounter*
 
