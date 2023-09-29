@@ -13,14 +13,15 @@ On a hit, the target takes 1d8 + Strength modifier bludgeoning damage
 ###### Description
 The Gravolith curls into a ball and charges in a straight line, up to 30 feet. Each creature in its path must make a DC 14 Dexterity saving throw
 ###### Damage
-, taking 2d8 bludgeoning damage on a failed save, or half as much damage on a successful one.
-
+On a failed save, taking 2d8 bludgeoning damage, or half as much damage on a successful one.
+###### Additional Info
 *Cannot be used for two turns after usage*
 ##### Rock Throw
 ###### Description
+The Gravolith hurls a large rock at a target within range, attempting to strike them with brute force. Make a ranged attack roll against the target's AC
 ###### Damage
-The Gravolith hurls a large rock at a target within range, attempting to strike them with brute force. Make a ranged attack roll against the target's AC. On a hit, the target takes 1d8 + Strength modifier bludgeoning damage.
-
+On a hit, the target takes 1d8 + Strength modifier bludgeoning damage
+###### Additional Info
 In addition, the target must make a Strength saving throw against a DC equal to 8 + the Gravolith's proficiency bonus + its Strength modifier. On a failed save, the target is pushed 10 feet away from the Gravolith and knocked prone. On a successful save, the target is not pushed or knocked prone.
 ##### Earthquake Slam
 ###### Description
