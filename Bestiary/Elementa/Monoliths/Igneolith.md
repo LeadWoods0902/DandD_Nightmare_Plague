@@ -14,10 +14,7 @@
 - The target creature must make a dexterity saving throw
 - On a hit, the target takes 1d8 + 4 fire damage and gains two stacks of burning status
 ##### Earthquake Slam
-The Gravolith brings down its massive stone body with tremendous force, causing the ground to tremble. 
-Each creature within a 10-foot radius of the Gravolith must make a Dexterity saving throw or take bludgeoning damage* and be knocked prone.
-The DC for the saving throw is 8 + the Gravolith's proficiency bonus + its Strength modifier. On a successful save, a creature takes half damage and isn't knocked prone. 
-Total Damage equates to 2d6 times the number of creatures in range of the attack - damage is divided equally between creatures before saving throw adjustments
+- The Igneolith can release a surge of lava from the ground, creating a pool of molten rock in a 20-foot radius. The lava remains for several rounds, damaging creatures that come into contact with it.
 
 ### Features
 
