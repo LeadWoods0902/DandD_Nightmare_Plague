@@ -1,4 +1,5 @@
 - [ ] Battle and flea from the Gravolith
+	- [ ] Bismuth loses Kevin
 - [ ] Talk for rest of journey or skip
 - [ ] Get accosted at the gates of Brokvar
 - [ ] Elaine gives out tokens
