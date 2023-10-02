@@ -1,1 +1,1 @@
-Used by [[-Rheilliwch-]], [[Esgid]] and [[Marwolaeth]] and accepted in [[Gwelodd Dant]]
+Used by [[Rheilliwch]], [[Esgid Mwy]] and [[Marwolaeth]] and accepted in [[Gwelodd Dant]]
