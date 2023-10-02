@@ -1,5 +1,5 @@
-![[EmpiricalGuard_Token.png]]
-[[EmpiricalGuard.png|Full Art]]
+![[YmerodrineGuard_Token.png]]
+[[YmerodrineGuard.png|Full Art]]
 
 ---
 
