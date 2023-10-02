@@ -2,5 +2,5 @@
 - [ ] Duska Intro
 - [ ] Mazikeen Intro
 - [ ] Seram & Stronvan Intro
-- [ ] Slave Market
+- [ ] Auction
 - [ ] 

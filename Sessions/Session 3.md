@@ -1,10 +1,13 @@
-- [ ] Elaine has business with Mayor, send the party off to do some resource gathering and talk to Mayor - meet outside the Mayor's office in an hour
-- [ ] Talk to Dwayne, haggle over the price of some weapons
-	- [ ] Tom bought a bellows
-	- [ ] 
-- [ ] Talk to Mathis, preachy religious bs
-	- [ ] Duska inquired about the religion
-- [ ] Talk to Harald buy food for the journey
-- [ ] Leave Virmarr
-- [ ] Talk on the road
-- [ ] Make camp on the edge of the Weald
+- [ ] Battle and flea from the Gravolith
+	- [ ] Bismuth loses Kevin
+- [ ] Talk for rest of journey or skip
+- [ ] Get accosted at the gates of Brokvar
+- [ ] Elaine gives out tokens
+	- [ ] Allowed to explore city
+	- [ ] Recommend tidying up before meeting the Mistress
+	- [ ] Meet at Mistress's before sundown
+	- [ ] Leave like Batman
+- [ ] Party explores the city
+- [ ] 
+- [ ] Table Test
+- [ ] Interview the party
