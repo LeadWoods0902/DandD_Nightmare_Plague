@@ -7,5 +7,7 @@
 	- [ ] Recommend tidying up before meeting the Mistress
 	- [ ] Meet at Mistress's before sundown
 	- [ ] Leave like Batman
+- [ ] Party explores the city
+- [ ] 
 - [ ] Table Test
 - [ ] Interview the party
