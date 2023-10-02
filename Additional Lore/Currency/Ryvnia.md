@@ -1,1 +1,1 @@
-Old currency of [[-Rheilliwch-]] 
+Old currency of [[Rheilliwch]]

@@ -1,4 +1,4 @@
-Smoke like construct created by a member of [[The Warlocks]]
+Smoke like construct created by a member of the [[Primordial Vanguard]]
 
 notably can take the form of:
 - Tentacles
