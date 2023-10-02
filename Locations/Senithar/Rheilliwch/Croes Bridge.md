@@ -1,1 +1,1 @@
-A bridge that crosses the [[Croes Passage]], joinining the northern half of the [[Heinabergsar]] with its southerly half.
+A bridge that crosses the [[Croes Passage]], joining the northern half of the [[Heinabergsar]] with its southerly half.
