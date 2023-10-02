@@ -1,1 +1,1 @@
-Used by [[-Gwelodd Dant-]]
+Used by [[Gwelodd Dant]]
