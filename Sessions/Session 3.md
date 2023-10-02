@@ -1,6 +1,6 @@
 - [ ] Battle and flea from the Gravolith
 	- [ ] Bismuth loses Kevin
-- [ ] Talk for rest of journey or skip
+- [ ] Talk for the rest of journey or skip
 - [ ] Get accosted at the gates of Brokvar
 - [ ] Elaine gives out tokens
 	- [ ] Allowed to explore city
@@ -8,6 +8,5 @@
 	- [ ] Meet at Mistress's before sundown
 	- [ ] Leave like Batman
 - [ ] Party explores the city
-- [ ] 
 - [ ] Table Test
 - [ ] Interview the party
