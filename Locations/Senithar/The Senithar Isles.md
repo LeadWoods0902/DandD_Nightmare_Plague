@@ -2,7 +2,6 @@ Archipelago continent
 
 Comprised of:
 - Brokvar
-- Cyfandirol
 - Esgid
 - Gogledd-Ynys
 - Gwelodd Dant
