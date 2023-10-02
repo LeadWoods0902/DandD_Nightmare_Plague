@@ -1,1 +1,1 @@
-An islet surrounded on all sides by the [[Croes Passage]]
+An islet surrounded on all sides by the [[Croes Passage]]. It is said that an elderly warlock inhabits the isle, keeping to himself after being banished from his conclave. ([[Malkath Tribus]] and the [[Primordial Vanguard]])
