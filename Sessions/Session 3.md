@@ -13,5 +13,5 @@
 	- [ ] Rolbam - Dish
 	- [ ] Bismuth - Fork
 	- [ ] Jasper - Dish
-	- [ ] 
+	- [ ] Duska - Dish
 - [ ] Interview the party
