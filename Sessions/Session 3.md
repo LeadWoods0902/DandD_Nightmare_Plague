@@ -20,5 +20,6 @@
 - The Tree
 - Library OE
 - Shopping spree
+	- Market
+	- Blacksmith
 - Taverns
-- 
