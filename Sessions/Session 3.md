@@ -15,3 +15,10 @@
 	- [ ] Jasper - Dish
 	- [ ] Duska - Dish
 - [ ] Interview the party
+
+- Church
+- The Tree
+- Library OE
+- Shopping spree
+- Taverns
+- 
