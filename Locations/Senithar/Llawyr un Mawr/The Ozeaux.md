@@ -1,1 +1,1 @@
-A winery and vineyard, just outside the capital [[Theg Doruhl]]
+A winery and vineyard deep within the [[Nirnon]]
