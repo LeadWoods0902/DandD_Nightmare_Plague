@@ -9,4 +9,9 @@
 	- [ ] Leave like Batman
 - [ ] Party explores the city
 - [ ] Table Test
+	- [ ] Mazikeen - Napkin
+	- [ ] Rolbam - Dish
+	- [ ] Bismuth - Fork
+	- [ ] Jasper - Dish
+	- [ ] 
 - [ ] Interview the party
