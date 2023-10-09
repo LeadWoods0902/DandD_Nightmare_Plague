@@ -2,5 +2,7 @@
 | --- | --- |
 | Javelin | 4 |
 | Blunt Shortsword | 1 |
-| bedroll | 1 |
-| waterskin | 1 |
+| Bedroll | 1 |
+| Waterskin | 1 |
+| Candle | 2 |
+| Baht | 40 |
