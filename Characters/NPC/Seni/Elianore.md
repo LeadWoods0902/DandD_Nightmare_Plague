@@ -13,8 +13,8 @@ Elianore
 *TBC*
 ##### Race
 *TBC*
-##### Class
-*TBC*
+##### Class/ Profession
+Blacksmith
 ##### Alignment
 *TBC*
 ##### Personality Traits

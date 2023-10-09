@@ -9,7 +9,7 @@
 *TBC*
 ##### Race
 *TBC*
-##### Class
+##### Class/ Profession
 *TBC*
 ##### Alignment
 *TBC*
