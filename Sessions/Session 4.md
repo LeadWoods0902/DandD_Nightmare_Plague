@@ -1,0 +1,2 @@
+- [ ] Characters wake up in randomised order
+- [ ] Tom 
