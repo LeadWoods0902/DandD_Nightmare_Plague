@@ -75,5 +75,5 @@
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 0.060480889792780046,
-  "close": false
+  "close": true
 }
