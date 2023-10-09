@@ -1,3 +1,4 @@
 - [ ] Characters wake up in randomised order
 	- [ ] Assess the situation they're in
-	- [ ] 
+	- [ ] Go over what they have
+- [ ] Mistress has already left for the day, left a note for each of the pa
