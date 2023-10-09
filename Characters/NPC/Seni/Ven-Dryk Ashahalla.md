@@ -1,4 +1,4 @@
-![[VenDryk_Token.png]]
+![[VenD_Token.png]]
 [[VenDryk.png]]
 
 ---
