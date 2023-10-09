@@ -1,2 +1,3 @@
 - [ ] Characters wake up in randomised order
-- [ ] Tom 
+	- [ ] Assess the situation they're in
+	- [ ] 
