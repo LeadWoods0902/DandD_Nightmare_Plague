@@ -1,5 +1,5 @@
-![[VenD_Token.png]]
-[[VenKylgh.png|Full Art]]
+
+[[VenDryk.png|Full Art]]
 
 ---
 ### Character Info
