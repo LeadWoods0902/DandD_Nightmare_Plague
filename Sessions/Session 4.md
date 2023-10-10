@@ -8,5 +8,6 @@
 	- [ ] Duska is welcome to stay in the property, Mistress requests that she remain in Brokvar for the duration of the Chancellor's visit
 - [ ] Interact with the house
 	- [ ] Breakfast in the dining room
-		- [ ] Talk with the 
+	- [ ] Talk to the workers in the house
 - [ ] Depart for the day into the town
+	- [ ] Explore the martk
