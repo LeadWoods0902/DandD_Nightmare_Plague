@@ -15,3 +15,4 @@
 		- [ ] Introduce Commander Niahl
 		- [ ] Visit Sara's Blacksmith Store (The Ironworks)
 		- [ ] Visit Jarae's Alchemy Store (Sylvan Solutions)
+- [ ] 
