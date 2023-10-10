@@ -10,4 +10,5 @@
 	- [ ] Breakfast in the dining room
 	- [ ] Talk to the workers in the house
 - [ ] Depart for the day into the town
-	- [ ] Explore the martk
+	- [ ] Explore Esquire Square in the Commerce Quarter
+		- [ ] 
