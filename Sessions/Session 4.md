@@ -1,4 +1,7 @@
 - [ ] Characters wake up in randomised order
 	- [ ] Assess the situation they're in
 	- [ ] Go over what they have
-- [ ] Mistress has already left for the day, left a note for each of the pa
+- [ ] Mistress has already left for the day, left a note for everyone
+	- [ ] Tom should go see Jarae
+	- [ ] Bimsuth & Jasper are allowed to stay as long as they like, Mistress requests that they remain till she returns so they can hear a proposition she has
+	- [ ] M
