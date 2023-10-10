@@ -1,9 +1,12 @@
 - [ ] Characters wake up in randomised order
 	- [ ] Assess the situation they're in
 	- [ ] Go over what they have
-- [ ] Mistress has already left for the day, left a note for everyone
+- [ ] Mistress has had to leave during the night, left a note for everyone
 	- [ ] Rolbam should visit Jarae with
 	- [ ] Bimsuth & Jasper are allowed to stay as long as they like, Mistress requests that they remain till she returns so they can hear a proposition she has
 	- [ ] Mazikeen should join Rolbam in visiting Jarae as she may be able to give a second opinion on her condition
 	- [ ] Duska is welcome to stay in the property, Mistress requests that she remain in Brokvar for the duration of the Chancellor's visit
-	- [ ] 
+- [ ] Interact with the house
+	- [ ] Breakfast in the dining room
+		- [ ] Talk with the 
+- [ ] Depart for the day into the town
