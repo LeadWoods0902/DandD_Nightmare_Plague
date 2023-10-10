@@ -4,4 +4,5 @@
 - [ ] Mistress has already left for the day, left a note for everyone
 	- [ ] Rolbam should visit Jarae with
 	- [ ] Bimsuth & Jasper are allowed to stay as long as they like, Mistress requests that they remain till she returns so they can hear a proposition she has
-	- [ ] Mazikeen should join Rolbam in visiting 
+	- [ ] Mazikeen should join Rolbam in visiting Jarae as she may be able to give a second opinion on her condition
+	- [ ] Duska 
