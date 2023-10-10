@@ -11,7 +11,7 @@
 	- [ ] Talk to the workers in the house
 - [ ] Depart for the day into the town
 	- [ ] Explore Esquire Square in the Commerce Quarter
-		- [ ] Stalls
+		- [ ] Walk amongst the stalls
 		- [ ] Introduce Commander Niahl
 		- [ ] Visit Sara's Blacksmith Store (The Ironworks)
 		- [ ] Visit Jarae's Alchemy Store (Sylvan Solutions)
