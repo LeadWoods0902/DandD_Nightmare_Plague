@@ -11,4 +11,6 @@
 	- [ ] Talk to the workers in the house
 - [ ] Depart for the day into the town
 	- [ ] Explore Esquire Square in the Commerce Quarter
+		- [ ] Stalls
+		- [ ] Introduce Commander Niahl
 		- [ ] 
