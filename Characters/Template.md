@@ -16,7 +16,7 @@
 ##### Personality Traits
 *TBC*
 ##### Long Term Goals
-Unknown
+*TBC*
 ##### Secondary Goals
 *TBC*
 ##### Motivations

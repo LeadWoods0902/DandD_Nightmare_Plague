@@ -5,5 +5,6 @@ Home to:
 	- Owned by Jarae
 	- Staffed by: [[Jarae of Luthbra]] & [[Warren Hengerlin]]
 - [[The House of Iron]]
-	- Owned By Elianore
-	- Staffed by: Elianore
+	- Owned By [[Elianore]]
+	- Staffed by: [[Elianore]]
+- [[

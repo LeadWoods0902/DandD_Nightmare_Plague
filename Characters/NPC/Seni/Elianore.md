@@ -30,4 +30,4 @@ Unknown
 ##### Affiliations
 *TBC*
 ### Notes
-
+Completely deaf in left ear, going deaf in the right too
