@@ -3,4 +3,5 @@
 - [ ] Mazikeen Intro
 - [ ] Seram & Stronvan Intro
 - [ ] Auction
-- [ ] 
+
+[[Session 2]]
