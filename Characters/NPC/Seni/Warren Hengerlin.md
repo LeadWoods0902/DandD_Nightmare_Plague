@@ -4,23 +4,23 @@
 ---
 ### Character Info
 ##### Name 
-Warren VengerLin
+Warren Hengerlin
 ##### Current Age
-*TBC*
+19
 ##### Place of Origin
-*TBC*
+Brokvar
 ##### Family
-*TBC*
+Adopted by Jarae
 ##### Race
-*TBC*
+Human
 ##### Class/ Profession
-*TBC*
+Alchemist Apprentice
 ##### Alignment
-*TBC*
+Social Good
 ##### Personality Traits
 *TBC*
 ##### Long Term Goals
-Unknown
+*TBC*
 ##### Secondary Goals
 *TBC*
 ##### Motivations
