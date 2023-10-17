@@ -46,4 +46,4 @@ Unknown
 ### Notes
 Ingo was one of the more charismatic crew members aboard [[The Kilfenora]]. In charge of the artillery, Ingo was the ships first line of defence against off-board trouble; and its gambling extraordinaire. 
 
-Ingo was found dead in his cabin, his throat discoloured black like [[Merlin]]'s
+Ingo was found dead in his cabin, his throat discoloured black like [[Mordin]]'s

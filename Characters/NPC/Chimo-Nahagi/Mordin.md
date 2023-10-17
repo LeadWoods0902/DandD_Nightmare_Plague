@@ -1,5 +1,5 @@
-![[Merlin_Token.png]]
-[[Merlin.png|Full Art]]
+![[Mordin_Token.png]]
+[[Mordin.png|Full Art]]
 
 ---
 ### Character Info

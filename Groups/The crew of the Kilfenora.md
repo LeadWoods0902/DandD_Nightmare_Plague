@@ -6,6 +6,6 @@ Crew:
 - [[Isabella]]
 - [[Jareth]]
 - [[Magnus]]
-- [[Merlin]]
+- [[Mordin]]
 - [[Seraphina]]
 - [[Thorkil]]
