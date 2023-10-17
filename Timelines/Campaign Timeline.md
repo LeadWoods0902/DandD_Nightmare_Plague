@@ -1,2 +1,2 @@
 ## Day 1
-The Kilfenora is returning from Chimo to Senithar and while passing through the waters west of Brokvar, it is set upon by a strange magic: time seems to stop
+The Kilfenora is returning from Chimo to Senithar and while passing through the waters west of Brokvar, it is set upon by a strange magic: time seems to stop and strange smoke-like constructs that bears 
