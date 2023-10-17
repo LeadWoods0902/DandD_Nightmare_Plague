@@ -3,10 +3,10 @@ The Kilfenora is returning from Chimo to Senithar and while passing through the 
 ## Day 2
 ## Day 3
 ## Day 4
-Mazikeen awakens, Duska arrives in Virmarr
+Mazikeen awakens, Duska arrives in Virmarr, Duska has a chat with a strange apparat
 ## Day 5
 Bismuth & Jasper are bought, Rolbam awakens in a farm house outside of Virmarr
 ## Day 6
-The party leave Virmarr
+Elaine visits the mayor, the party explore Virmarr, the party leave Virmarr
 ## Day 7
 The party fight the Talus
