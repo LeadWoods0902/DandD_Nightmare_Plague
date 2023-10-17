@@ -10,3 +10,5 @@ Bismuth & Jasper are bought, Rolbam awakens in a farm house outside of Virmarr
 Elaine visits the mayor, the party explore Virmarr, the party leave Virmarr
 ## Day 7
 The party fight the Talus
+## Day 8
+The party continues their journey to Brokvar
