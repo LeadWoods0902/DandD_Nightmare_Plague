@@ -12,3 +12,7 @@ Elaine visits the mayor, the party explore Virmarr, the party leave Virmarr
 The party fight the Talus
 ## Day 8
 The party continues their journey to Brokvar
+## Day 9 
+During the evening of this day, the party arrive in Brokvar, meet the mistress and are shown to their rooms
+## Day 10
+The party awaken in a strange new city and begin to explore it. After exploring the manor,m
