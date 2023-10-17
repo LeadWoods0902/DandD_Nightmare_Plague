@@ -1,5 +1,5 @@
 ## Day 1
-The Kilfenora is returning from Chimo to Senithar and while passing through the waters west of Brokvar, it is set upon by a strange magic: time seems to stop and strange smoke-like constructs that bear resemblance to masses of coiling tentacles. During a brief fight with the constructs, one of the crew members is wounded non-lethally; the captain manages to seemingly slay one of the constructs using his sword (which glows  
+The Kilfenora is returning from Chimo to Senithar and while passing through the waters west of Brokvar, it is set upon by a strange magic: time seems to stop and strange smoke-like constructs that bear resemblance to masses of coiling tentacles. During a brief fight with the constructs, one of the crew members is wounded non-lethally; the captain manages to seemingly slay one of the constructs using his sword (which took on the appearance of a red hot coal during the fight).   
 ## Day 2
 ## Day 3
 ## Day 4
