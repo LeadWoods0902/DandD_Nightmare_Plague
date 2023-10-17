@@ -3,7 +3,7 @@ The Kilfenora is returning from Chimo to Senithar and while passing through the 
 ## Day 2
 ## Day 3
 ## Day 4
-Mazikeen awakens, Duska arrives in Virmarr, Duska has a chat with a strange apparat
+Mazikeen awakens, Duska arrives in Virmarr, Duska has a chat with a strange apparition 
 ## Day 5
 Bismuth & Jasper are bought, Rolbam awakens in a farm house outside of Virmarr
 ## Day 6
