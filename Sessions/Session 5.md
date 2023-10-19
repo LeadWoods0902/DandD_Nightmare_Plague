@@ -1,5 +1,7 @@
-- [ ] Continue to explore the town or return to Mistress's place
+- [ ] Continue to explore the town
 	- [ ] Explore the Town
-		- [ ] Enter 
+		- [ ] Enter a Tavern?
+		- [ ] Check the notice board
+- [ ] Return to Mistress' place
 
 [[Session 6]]
