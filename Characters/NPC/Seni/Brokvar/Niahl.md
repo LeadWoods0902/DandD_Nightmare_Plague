@@ -35,4 +35,4 @@ Commander of the Brokvar City Guard
 
 Defected from the [[Ymerodrol Empire]] after becoming aware of the war crime perpetrated by [[Stronvan Quatre]] at the personal behest of the empress [[Fenian Naezana]]
 
-Arranged the execution of Stronvan in 
+Arranged the execution of Stronvan at [[Farrow Rise]]
