@@ -32,3 +32,7 @@ Unknown
 *TBC*
 ### Notes
 Commander of the Brokvar City Guard
+
+Defected from Empirical Army
+
+Arranged the execution of Stronvan
