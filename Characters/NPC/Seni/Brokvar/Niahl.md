@@ -33,6 +33,6 @@ Unknown
 ### Notes
 Commander of the Brokvar City Guard
 
-Defected from Empirical Army
+Defected from 
 
-Arranged the execution of Stronvan
+Arranged the execution of [[Stronvan Quatre]]
