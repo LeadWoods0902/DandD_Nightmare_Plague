@@ -12,6 +12,10 @@ Niahl
 *TBC*
 ##### Family
 *TBC*
+##### Stats
+STR (
+WIS (15, +2)
+
 ##### Race
 Human
 ##### Class
