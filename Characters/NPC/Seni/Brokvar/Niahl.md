@@ -13,7 +13,11 @@ Niahl
 ##### Family
 *TBC*
 ##### Stats
-STR (
+STR (19, +4)
+DEX (16, +3)
+CON (18, +4)
+INT (12, + 1)
+CHA (9, 
 WIS (15, +2)
 
 ##### Race
