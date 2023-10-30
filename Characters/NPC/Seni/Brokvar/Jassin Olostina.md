@@ -6,17 +6,17 @@
 ##### Name 
 Jassin Olostina
 ##### Current Age
-*TBC*
+19
 ##### Place of Origin
 *TBC*
 ##### Family
 Brother of [[Tinesi Olostina]]
 ##### Race
-*TBC*
+Elf
 ##### Class/ Profession
-*TBC*
+Farmer
 ##### Alignment
-*TBC*
+Neutral Good
 ##### Personality Traits
 *TBC*
 ##### Long Term Goals

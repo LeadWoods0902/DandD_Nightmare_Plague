@@ -4,19 +4,19 @@
 ---
 ### Character Info
 ##### Name 
-*TBC* 
+Tinesi Olostina
 ##### Current Age
-*TBC*
+23
 ##### Place of Origin
 *TBC*
 ##### Family
-*TBC*
+Sister of [[Jassin Olostina]]
 ##### Race
-*TBC*
+Elf
 ##### Class/ Profession
-*TBC*
+Farmer
 ##### Alignment
-*TBC*
+Neutral Good
 ##### Personality Traits
 *TBC*
 ##### Long Term Goals
