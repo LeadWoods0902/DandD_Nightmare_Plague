@@ -4,4 +4,4 @@
 - [ ] Seram & Stronvan Intro
 - [ ] Auction
 
-[[Session 2]]
+[[Session 2 - Fleeing Virmarr]]

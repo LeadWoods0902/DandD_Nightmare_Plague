@@ -16,4 +16,4 @@
 		- [ ] Visit Sara's Blacksmith Store (The Ironworks)
 		- [ ] Visit Jarae's Alchemy Store (Sylvan Solutions)
 
-[[Session 5]]
+[[Session 5 - Above and Below]]

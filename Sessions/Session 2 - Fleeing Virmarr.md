@@ -9,4 +9,4 @@
 - [ ] Talk on the road
 - [ ] Make camp on the edge of the Weald
 
-[[Session 3]]
+[[Session 3 - The Gravolith and the Mistress]]
