@@ -8,28 +8,11 @@ However, Effiria is also a powerful and potentially dangerous substance. It can 
 
 It is highly regulated in imperial controlled areas, and possession or use of the drug without proper authorisation can result in criminal charges.
 
-
-## Recipe
-
 #### Ingredients for one consumable:
 - $1$ Knob of Etheria root  ($\approx$ 1 inches length and $\frac{1}{2}$ inch Diameter)
 - $5$ Crimson Nettles
 - $1$ Gill of  Brewer's Base
 - 2 Pinches of Tux's Black Powder
-
-1:5:1:2
-
-#### Equipment
-- Brewer's Tools
-	- Round Brewer's Flask
-	- Bottled Flame or appropriate heat source
-	- Stirring rod
-	- Filter
-- Fine Knife
-- Mincing Tool
-- Bowl
-
-
 #### Method:
 1. Prepare the Etheria
 	1. Cut the Etheria root into manageable chunks 

@@ -1,8 +1,4 @@
 A potent stamina boosting tonic brewed by combining dried ginger [[Flocket]] cherries with 
-
-
-## Recipe
-
 #### Ingredients for one consumable:
 - $\frac{1}{2}$ Handful of Dried Ginger Flocket Cherries ($\approx$ 4 cherries)
 - $\frac{1}{2}$ Gill of Marrow Extract
@@ -10,16 +6,6 @@ A potent stamina boosting tonic brewed by combining dried ginger [[Flocket]] che
 - Pinch of White Ash
 
 1:1:2:1
-
-#### Equipment
-- Brewer's Tools
-	- Round Brewer's Flask
-	- Bottled Flame or appropriate heat source
-	- Stirring rod
-	- Filter
-- Fine Knife
-- Pestle
-
 
 #### Method:
 1. Prepare the Flocket
