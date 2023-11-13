@@ -13,6 +13,10 @@ Meeting in the
 
 3. **Interviewing the Farm-Hands**
    - The group engages in conversations with the farm-hands to gather information about the creature. They learn about its appearance, behavior, and patterns.
+	   - Body of a chicken
+	   - Tail of a snake
+	   - Breasts of a woman
+	   - Horns of a stag
 
 4. **Observations and Clues**
    - The group explores the affected areas, finding tracks, chewed plants, and signs of the creature's presence. These clues lead to a more detailed understanding of the pest.
