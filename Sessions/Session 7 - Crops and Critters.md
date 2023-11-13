@@ -29,10 +29,7 @@ Meeting in the
 	   - corn husks littered throughout the field, some eaten completely, most nibbled at and then discarded
 	   - potatoes seemingly completely avoided
 	   - burn marks in the grape field 
-	   - larger than average chicken foot prints around 
-
-5. **Research and Knowledge**
-   - The group takes their findings to a local expert (a retired hunter or wise village elder) who provides additional insights and identifies the creature as a "Thornback Gnasher," known for its spiky hide and burrowing tendencies.
+	   - larger than average chicken foot prints in certain areas
 
 **Act 3: Planning and Preparing**
 
