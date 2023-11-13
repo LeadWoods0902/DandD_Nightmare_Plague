@@ -1,5 +1,5 @@
 
-The party awaken the morning after narrowly escaping the city watch
+The party awaken the morning after narrowly escaping the city watch, Rolbam has been replaced with 
 
 **Act 1: Arrival at the Farm**
 
