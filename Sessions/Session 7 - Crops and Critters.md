@@ -1,5 +1,5 @@
 
-The party awaken the morning after narrowly escaping the city watch, Rolbam has been replaced with 
+The party awaken the morning after narrowly escaping the city watch, Rolbam has been replaced with Malkath and after attempting to blend in, ends up in a brawl over
 
 **Act 1: Arrival at the Farm**
 
