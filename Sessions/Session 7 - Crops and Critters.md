@@ -7,16 +7,18 @@ Meeting in the
    - The group stumbles upon a distressed farmer seeking help with a pest-creature that's been wreaking havoc on their crops and livestock.
 
 2. **Meet the Farm-Hands**
-   - The group meets the farm-hands, each with their own experiences and observations about the creature. They share tidbits of information, but it's clear that no one has a clear understanding of what they're dealing with.
+   - The group meets the farm-hands, each with their own experiences and observations about the creature. They share titbits of information, but it's clear that no one has a clear understanding of what they're dealing with.
 
 **Act 2: Gathering Information**
 
 3. **Interviewing the Farm-Hands**
-   - The group engages in conversations with the farm-hands to gather information about the creature. They learn about its appearance, behavior, and patterns.
-	   - Body of a chicken
-	   - Tail of a snake
-	   - Breasts of a woman
-	   - Horns of a stag
+   - The group engages in conversations with the farm-hands to gather information about the creature. They learn about its appearance, behaviour, and patterns.
+	   - Appearance
+		   - Body of a chicken
+		   - Tail of a snake
+		   - Breasts of a woman
+		   - Horns of a stag
+	   - Behaviour
 
 4. **Observations and Clues**
    - The group explores the affected areas, finding tracks, chewed plants, and signs of the creature's presence. These clues lead to a more detailed understanding of the pest.
