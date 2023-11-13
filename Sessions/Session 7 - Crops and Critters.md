@@ -29,12 +29,5 @@ Meeting in the
 
 6. **Confrontation**
 
-10. **Farmers' Gratitude**
-    - The grateful farmers thank the group for their help, expressing relief that their livelihoods are no longer in jeopardy.
-
-11. **Reflection and Reward**
-    - The group reflects on their successful mission and receives a token of appreciation from the farm as a gesture of gratitude.
-
-This subplot allows for character development, problem-solving, and teamwork, and it provides an opportunity for the group to interact with the local community. It also showcases the importance of gathering information and planning before taking on a challenge.
 
 [[Session 8]]
