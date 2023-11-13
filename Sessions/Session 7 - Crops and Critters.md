@@ -12,13 +12,15 @@ Meeting in the
 **Act 2: Gathering Information**
 
 3. **Interviewing the Farm-Hands**
-   - The group engages in conversations with the farm-hands to gather information about the creature. They learn about its appearance, behaviour, and patterns.
+   - The group engages in conversations with the farm-hands to gather information about the creature
 	   - Appearance
 		   - Body of a chicken
 		   - Tail of a snake
 		   - Breasts of a woman
 		   - Horns of a stag
-	   - Behaviour
+	   - Behaviours & Patterns
+		   - The creature seems to be more active during the night
+		   - The creature seems to favour corn but does seem to eat other crops too
 		   - 
 
 4. **Observations and Clues**
