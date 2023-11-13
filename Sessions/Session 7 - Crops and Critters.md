@@ -19,6 +19,7 @@ Meeting in the
 		   - Breasts of a woman
 		   - Horns of a stag
 	   - Behaviour
+		   - 
 
 4. **Observations and Clues**
    - The group explores the affected areas, finding tracks, chewed plants, and signs of the creature's presence. These clues lead to a more detailed understanding of the pest.
