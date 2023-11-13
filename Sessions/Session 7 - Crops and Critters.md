@@ -1,17 +1,7 @@
 
 Meeting in the 
 
-**Act 1: Arrival at the Farm**
-
-1. **Introduction to the Problem**
-   - The group stumbles upon a distressed farmer seeking help with a pest-creature that's been wreaking havoc on their crops and livestock.
-
-2. **Meet the Farm-Hands**
-   - The group meets the farm-hands, each with their own experiences and observations about the creature. They share titbits of information, but it's clear that no one has a clear understanding of what they're dealing with.
-
-**Act 2: Gathering Information**
-
-3. **Interviewing the Farm-Hands**
+1.  **Interviewing the Farm-Hands**
    - The group engages in conversations with the farm-hands to gather information about the creature
 	   - Appearance
 		   - Body of a chicken
@@ -24,30 +14,20 @@ Meeting in the
 		   - The creature has a raspy breath and gobbles like a chicken (there are chickens on the farm too)
 
 
-4. **Observations and Clues**
+2. **Observations and Clues**
    - The group explores the affected areas, finding tracks, chewed plants, and signs of the creature's presence.
 	   - corn husks littered throughout the field, some eaten completely, most nibbled at and then discarded
 	   - potatoes seemingly completely avoided
 	   - burn marks in the grape field 
 	   - larger than average chicken foot prints in certain areas
 
-**Act 3: Planning and Preparing**
+3. **Formulating a Plan**
 
-6. **Formulating a Plan**
-   - The group, armed with information about the Thornback Gnasher's weaknesses and habits, devises a strategy to lure and capture or neutralize the creature.
+4. **Gathering Supplies**
 
-7. **Gathering Supplies**
-   - The group acquires specific tools or concocts a bait to entice and trap the Thornback Gnasher.
+5. **Setting a trap?**
 
-**Act 4: The Showdown**
-
-8. **Setting the Trap**
-   - The group sets up the trap in an area where the Thornback Gnasher is likely to appear based on their gathered knowledge.
-
-9. **Confrontation**
-   - The Thornback Gnasher arrives, and a tense confrontation ensues. The group implements their plan, using their knowledge and tools to subdue or capture the creature.
-
-**Act 5: Resolution**
+6. **Confrontation**
 
 10. **Farmers' Gratitude**
     - The grateful farmers thank the group for their help, expressing relief that their livelihoods are no longer in jeopardy.
