@@ -27,7 +27,9 @@ Meeting in the
 4. **Observations and Clues**
    - The group explores the affected areas, finding tracks, chewed plants, and signs of the creature's presence.
 	   - corn husks littered throughout the field, some eaten completely, most nibbled at and then discarded
-	   - grapes seemingly
+	   - potatoes seemingly completely avoided
+	   - burn marks in the wheat field
+	   - 
 
 5. **Research and Knowledge**
    - The group takes their findings to a local expert (a retired hunter or wise village elder) who provides additional insights and identifies the creature as a "Thornback Gnasher," known for its spiky hide and burrowing tendencies.
