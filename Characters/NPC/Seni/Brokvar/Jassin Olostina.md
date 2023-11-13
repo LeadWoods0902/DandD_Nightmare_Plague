@@ -1,5 +1,5 @@
 ![[Jassin_Token.png]]
-[[Jassin_Olostina.png|Full Art]]
+[[Jassin.png|Full Art]]
 
 ---
 ### Character Info
