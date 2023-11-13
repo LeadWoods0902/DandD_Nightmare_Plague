@@ -1,6 +1,5 @@
-**Subplot: The Farm Pest Hunt**
 
-*Setting: The outskirts of a quaint farming village in a fantasy world.*
+The party awaken the morning after narrowly escaping the city watch
 
 **Act 1: Arrival at the Farm**
 
