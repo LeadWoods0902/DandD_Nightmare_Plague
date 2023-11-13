@@ -21,10 +21,13 @@ Meeting in the
 	   - Behaviours & Patterns
 		   - The creature seems to be more active during the night
 		   - The creature seems to favour corn but does seem to eat other crops too
-		   - The creature has a raspy breath and gobbles like a chicken (there are 
+		   - The creature has a raspy breath and gobbles like a chicken (there are chickens on the farm too)
+
 
 4. **Observations and Clues**
-   - The group explores the affected areas, finding tracks, chewed plants, and signs of the creature's presence. These clues lead to a more detailed understanding of the pest.
+   - The group explores the affected areas, finding tracks, chewed plants, and signs of the creature's presence.
+	   - corn husks littered throughout the field, some eaten completely, most nibbled at and then discarded
+	   - grapes seemingly
 
 5. **Research and Knowledge**
    - The group takes their findings to a local expert (a retired hunter or wise village elder) who provides additional insights and identifies the creature as a "Thornback Gnasher," known for its spiky hide and burrowing tendencies.
