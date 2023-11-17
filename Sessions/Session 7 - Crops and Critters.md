@@ -7,7 +7,7 @@ Session begins in Mistress' tea rom
 		   - [x] Body of a chicken
 		   - [ ] Tail of a snake
 		   - [ ] Breasts of a woman
-		   - [ ] Horns of a stag
+		   - [x] Horns of a stag
 	   - Behaviours & Patterns
 		   - The creature seems to be more active during the night
 		   - The creature seems to favour corn but does seem to eat other crops too
