@@ -6,7 +6,7 @@
 ##### Name 
 Tinesi Olostina
 ##### Current Age
-23
+27
 ##### Place of Origin
 *TBC*
 ##### Family
