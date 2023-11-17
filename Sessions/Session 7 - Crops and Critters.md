@@ -1,5 +1,5 @@
 
-Meeting in the 
+Session begins in Mistress' tea rom
 
 1.  **Interviewing the Farm-Hands**
    - The group engages in conversations with the farm-hands to gather information about the creature
