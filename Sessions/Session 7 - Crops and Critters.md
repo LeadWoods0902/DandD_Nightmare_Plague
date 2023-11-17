@@ -9,17 +9,16 @@ Session begins in Mistress' tea rom
 		   - [x] Breasts of a woman
 		   - [x] Horns of a stag
 	   - Behaviours & Patterns
-		   - The creature seems to be more active during the night
-		   - The creature seems to favour corn but does seem to eat other crops too
-		   - The creature has a raspy breath and gobbles like a chicken (there are chickens on the farm too)
-
+		   - [x] The creature seems to be more active during the night
+		   - [x] The creature seems to favour corn but does seem to eat other crops too
+		   - [x] The creature has a raspy breath and gobbles like a chicken (there are chickens on the farm too)
 
 2. **Observations and Clues**
    - The group explores the affected areas, finding tracks, chewed plants, and signs of the creature's presence.
-	   - corn husks littered throughout the field, some eaten completely, most nibbled at and then discarded
-	   - potatoes seemingly completely avoided
-	   - burn marks in the grape field 
-	   - larger than average chicken foot prints in certain areas
+	   - [x] corn husks littered throughout the field, some eaten completely, most nibbled at and then discarded
+	   - [x] potatoes seemingly completely avoided
+	   - [x] burn marks in the grape field 
+	   - [x] larger than average chicken foot prints in certain areas
 
 3. **Formulating a Plan**
 
