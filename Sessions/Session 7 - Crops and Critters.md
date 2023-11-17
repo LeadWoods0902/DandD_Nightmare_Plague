@@ -6,7 +6,7 @@ Session begins in Mistress' tea rom
 	   - Appearance
 		   - [x] Body of a chicken
 		   - [ ] Tail of a snake
-		   - [ ] Breasts of a woman
+		   - [x] Breasts of a woman
 		   - [x] Horns of a stag
 	   - Behaviours & Patterns
 		   - The creature seems to be more active during the night
