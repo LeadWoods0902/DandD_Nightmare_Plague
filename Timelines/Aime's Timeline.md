@@ -9,3 +9,4 @@
 | 1793 | 0 | Virmarr | Bounty hunters catch up with Mazikeen and her wife, killing them with a meteor spell | 
 | 1793 | 0 | Virmarr | Mazikeen's wife damns their soul to eternal torment in exchange for giving Mazikeen the chance to enforce justice |
 | 1793 | 0 | Virmarr | Campaign begins |
+
