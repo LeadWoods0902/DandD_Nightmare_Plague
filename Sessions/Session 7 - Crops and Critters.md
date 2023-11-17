@@ -5,7 +5,7 @@ Session begins in Mistress' tea rom
    - The group engages in conversations with the farm-hands to gather information about the creature
 	   - Appearance
 		   - [x] Body of a chicken
-		   - [ ] Tail of a snake
+		   - [x] Tail of a snake
 		   - [x] Breasts of a woman
 		   - [x] Horns of a stag
 	   - Behaviours & Patterns
