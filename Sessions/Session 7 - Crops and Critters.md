@@ -4,10 +4,10 @@ Session begins in Mistress' tea rom
 1.  **Interviewing the Farm-Hands**
    - The group engages in conversations with the farm-hands to gather information about the creature
 	   - Appearance
-		   - Body of a chicken
-		   - Tail of a snake
-		   - Breasts of a woman
-		   - Horns of a stag
+		   - [x] Body of a chicken
+		   - [ ] Tail of a snake
+		   - [ ] Breasts of a woman
+		   - [ ] Horns of a stag
 	   - Behaviours & Patterns
 		   - The creature seems to be more active during the night
 		   - The creature seems to favour corn but does seem to eat other crops too
