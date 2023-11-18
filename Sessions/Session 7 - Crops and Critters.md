@@ -15,13 +15,13 @@ Session begins in Mistress' tea rom
 
 2. **Observations and Clues**
    - The group explores the affected areas, finding tracks, chewed plants, and signs of the creature's presence.
-   - [x] corn eaten in great volumes
-   - [x] Marks in the corn field
-   - [x] Foot prints coming out of the forest
-   - [x] Pumpkin bitten into but thrown back up
-   - [x] potatoes seemingly completely avoided
-   - [x] burn marks in the grape field 
-   - [x] larger than average chicken foot prints in certain areas
+	   - [x] corn eaten in great volumes
+	   - [x] Marks in the corn field
+	   - [x] Foot prints coming out of the forest
+	   - [x] Pumpkin bitten into but thrown back up
+	   - [x] potatoes seemingly completely avoided
+	   - [x] burn marks in the grape field 
+	   - [x] larger than average chicken foot prints in certain areas
 
 3. **Formulating a Plan**
 
