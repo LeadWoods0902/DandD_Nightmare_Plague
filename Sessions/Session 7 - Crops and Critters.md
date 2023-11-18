@@ -28,7 +28,10 @@ Session begins in Mistress' tea rom
 4. **Gathering Supplies**
 
 5. **Setting a trap?**
-	1. Sack Trap?
+	-  Bait
+		- Corn
+		- Cabbage
+	- 
 
 7. **Confrontation**
 
