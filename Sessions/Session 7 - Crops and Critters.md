@@ -35,7 +35,8 @@ Session begins in Mistress' tea rom
 		- Rope
 		- Netting
 		- Chains
-		- 
+		- Catching Trap
+- Barrel of Water
 
 7. **Confrontation**
 
