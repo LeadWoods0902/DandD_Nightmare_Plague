@@ -33,6 +33,8 @@ Session begins in Mistress' tea rom
 		- Cabbage
 	- Trap
 		- Rope
+		- Netting
+		- Chains
 		- 
 
 7. **Confrontation**
