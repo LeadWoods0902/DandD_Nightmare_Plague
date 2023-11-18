@@ -31,7 +31,9 @@ Session begins in Mistress' tea rom
 	-  Bait
 		- Corn
 		- Cabbage
-	- 
+	- Trap
+		- Rope
+		- 
 
 7. **Confrontation**
 
