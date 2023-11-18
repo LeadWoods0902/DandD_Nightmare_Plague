@@ -28,8 +28,9 @@ Session begins in Mistress' tea rom
 4. **Gathering Supplies**
 
 5. **Setting a trap?**
+	1. Sack Trap?
 
-6. **Confrontation**
+7. **Confrontation**
 
 
 [[Session 8]]
