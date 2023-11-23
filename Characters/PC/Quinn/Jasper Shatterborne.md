@@ -25,7 +25,6 @@ Parents:
 
 Other: 
 - Niece [[Ynessa Shatterborne]]
-
 ##### Race
 Genasi Pure Blood
 ##### Class
