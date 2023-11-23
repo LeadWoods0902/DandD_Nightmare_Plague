@@ -44,4 +44,4 @@ Unknown
 Unknown
 
 ### Notes
-Empress of the [[Ymerodrol Empire]], Fenian was born a noble in the court of the old Rheilliwch Capital, [[Arnarholt]]
+Empress of the [[Ymerodrine Empire]], Fenian was born a noble in the court of the old Rheilliwch Capital, [[Arnarholt]]

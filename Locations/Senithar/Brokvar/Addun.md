@@ -1,2 +1,2 @@
-Offshoot civilisation that remained outside of [[Ymerodrol Empire|empirical]] control after the death of [[Napella Lundgren]].
+Offshoot civilisation that remained outside of [[Ymerodrine Empire|empirical]] control after the death of [[Napella Lundgren]].
 

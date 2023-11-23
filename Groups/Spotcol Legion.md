@@ -5,4 +5,4 @@
 
 ### Notes
 
-Elite soldiers of the [[Ymerodrol Empire]] that worked under [[Stronvan Quatre]]
+Elite soldiers of the [[Ymerodrine Empire]] that worked under [[Stronvan Quatre]]

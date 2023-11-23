@@ -20,6 +20,19 @@ These characters want to see the empire become the sole ruling force of Senithar
 - [[Calidian Naezana]]
 - [[Stronvan Quatre]] (prior to soul merging)
 
+## Citizens of "Woodfall"
+These characters are loyal to their family, typically refute the empire but don't stand with another group specifically
+- [[Lucius Crestwood]] - refuted the Ymerodrine Empire but worked for them under fear of sever punishment upon his family
+- [[Mazikeen Crestwood]] - prior to memory loss, Mazikeen was working against Brokvar due to Ven-Dryk slaying her father who was leading the occupation of Brokvar under imperial orders
+- [[Lilim Crestwood]]
+- [[Seram Dos]] - stood loyal to the crestwoods while serving the interests of Theg Doruhl and Duchess Roderika
+
+## Theg Doruhl
+Theg Doruhl serves the empire officially, typically most support the empire as it has brought increased economy and QOL to their lands
+- [[Duchess Roderika]] - not enchanted by the Empire but willing to trade and work with the Empire while Llawyr Yn Mawr retains self-governance 
+- [[Seram Dos]] - 
+
 ## Yilani Cemaati
 These characters are natives to Brokvar and believe that through Ven-Dryk's current control of the city, Emre-Aydin his relative (confirmation specifics) is next in line
 - [[Emre Aydin]]
+- [[Duska Von Mori]] potentially?
