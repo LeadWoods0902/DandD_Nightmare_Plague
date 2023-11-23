@@ -42,10 +42,3 @@ Session begins in Mistress' tea rom
 
 
 [[Session 8]]
-
-# 1
-## 2
-### 3
-#### 4
-##### 5
-###### 6
