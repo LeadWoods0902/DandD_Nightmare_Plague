@@ -26,7 +26,7 @@ Genasi Pure Blood
 ##### Class
 Land Druid
 ##### Alignment
-Chaotic Good
+Rebel Good (Hero) -
 ##### Personality Traits
 kind and wanting for peace between everyone
 ##### Long Term Goals
