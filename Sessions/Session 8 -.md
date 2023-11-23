@@ -25,4 +25,4 @@ Niahl allows the party to enter the property. Elaine is waiting for them in the 
 
 "I went to her office this morning to see if I could find any information on where she was going and I found... her in her office chair, slumped over the desk! The last I saw her, she was entering her office to collect a document she needed to take with her - it looks like she never even left the property"
 
-"I beseech ye, please help me 
+"I beseech ye, please help find bring wife's murderer to justice!"
