@@ -22,9 +22,6 @@ Siblings:
 Parents:
 - [[Magnar Shatterborne]]
 - [[Dolomite (Dola)]]
-
-Other: 
-- Niece [[Ynessa Shatterborne]]
 ##### Race
 Genasi Pure Blood
 ##### Class
@@ -32,13 +29,12 @@ Land Druid
 ##### Alignment
 Chaotic Good
 ##### Personality Traits
-Tends to absent mindedly fiddle with things
-kind and 
+kind and wanting for peace between everyone
 ##### Long Term Goals
+
+##### Secondary Goals
 - Would like to find a way home or a new home
 - Take revenge on those that brought you to Seni
-##### Secondary Goals
-
 ##### Motivations
 My family and friends are the most important things to me, even when we are far apart
 ##### Flaws
