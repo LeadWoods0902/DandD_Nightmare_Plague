@@ -41,4 +41,4 @@ Session begins in Mistress' tea rom
 7. **Confrontation**
 
 
-[[Session 8]]
+[[Session 8 -]]
