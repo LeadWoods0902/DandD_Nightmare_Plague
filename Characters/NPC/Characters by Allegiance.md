@@ -16,8 +16,9 @@ These characters want to see change in Brokvar, a renouncing of the old ways but
 
 ## Ymerodrine Empire
 These characters want to see the empire become the sole ruling force of Senithar,
-- [[Fenian Naezana]]
-- [[Calidian Naezana]]
+- [[Fenian Naezana]] - Empress of the Ymerodrine Empire
+- [[Calidian Naezana]] - Father of Fenian and previous Emperor
+- [[Niahl]] - prior to disillusionment 
 - [[Stronvan Quatre]] (prior to soul merging)
 
 ## Citizens of "Woodfall"
@@ -36,3 +37,16 @@ Theg Doruhl serves the empire officially, typically most support the empire as i
 These characters are natives to Brokvar and believe that through Ven-Dryk's current control of the city, Emre-Aydin his relative (confirmation specifics) is next in line
 - [[Emre Aydin]]
 - [[Duska Von Mori]] potentially?
+
+## Esgid
+[[Duke Henselt]]
+[[Rolbam Eins]]
+## The Conclave
+- [[Malkath Tribus]]
+
+
+## To be Assigned:
+- [[Bismuth Shatterborne]]
+- [[Jasper Shatterborne]]
+- [[Rolbam Eins]] - previously & presumably Esgid
+- [[Malkath Tribus]] - previously & presumably the conclave
