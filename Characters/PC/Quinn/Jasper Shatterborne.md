@@ -26,7 +26,7 @@ Genasi Pure Blood
 ##### Class
 Land Druid
 ##### Alignment
-Rebel Good (Hero) -
+Rebel Good (Hero) bordering towards Social Moral (Counsellor)
 ##### Personality Traits
 kind and wanting for peace between everyone
 ##### Long Term Goals
