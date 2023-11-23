@@ -1,5 +1,5 @@
 ![[Missy_Token.png]]
-[[Misstress Chen.png|Full Art]]
+[[Misstress.png|Full Art]]
 
 ---
 ### Character Info
