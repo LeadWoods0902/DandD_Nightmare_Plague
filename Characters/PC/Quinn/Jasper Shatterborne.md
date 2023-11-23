@@ -3,7 +3,6 @@
 
 ---
 ### Character Info
-
 ##### Name 
 Jasper Shatterborne
 ##### Current Age

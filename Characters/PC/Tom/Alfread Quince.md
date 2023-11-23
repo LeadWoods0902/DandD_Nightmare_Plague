@@ -3,22 +3,16 @@
 
 ---
 ### Character Info
-
 ##### Name 
 Alfread Quince
-
 ##### Current Age
 TBC
-
 ##### Place of Origin
 TBC
-
 ##### Family
-
 TBC
 ##### Race
 Human
-
 ##### Class
 TBC
 ##### Alignment
