@@ -32,7 +32,8 @@ Land Druid
 ##### Alignment
 Chaotic Good
 ##### Personality Traits
-
+Tends to absent mindedly fiddle with things
+kind and 
 ##### Long Term Goals
 - Would like to find a way home or a new home
 - Take revenge on those that brought you to Seni
