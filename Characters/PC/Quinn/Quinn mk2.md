@@ -19,7 +19,7 @@
 ##### Alignment
 
 ##### Personality Traits
-
+An Absolute Asshole
 ##### Long Term Goals
 
 ##### Secondary Goals
@@ -33,4 +33,5 @@
 
 ---
 ### Backstory
+
 
