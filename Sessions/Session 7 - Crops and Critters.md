@@ -7,7 +7,7 @@ Session begins in Mistress' tea rom
 	   - [x] Feet of a chicken
 	   - [x] Tail of a snake
 	   - [x] Breasts of a woman
-	   - [x] Horns of a stag (ruttun
+	   - [x] Horns of a stag (marks in the floor)
    - Behaviours & Patterns
 	   - [x] The creature seems to be more active during the night
 	   - [x] The creature seems to favour corn but does seem to eat other crops too
