@@ -8,4 +8,4 @@
 		- body manipulation ATLA
 - [ ] Thorstein
 - [ ] House of S**ASS**?
-- [ ] 
+- [ ] Reword Spirit Strike
