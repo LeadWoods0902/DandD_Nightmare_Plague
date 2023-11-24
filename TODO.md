@@ -9,4 +9,4 @@
 - [ ] Thorstein
 - [ ] House of S**ASS**?
 - [ ] Reword Spirit Strike
-- [ ] Add 
+- [ ] Add Fast Movement
