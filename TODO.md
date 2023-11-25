@@ -10,3 +10,4 @@
 - [ ] House of S**ASS**?
 - [ ] Reword Spirit Strike
 - [ ] Add Fast Movement
+- [ ] Blacksmiths
