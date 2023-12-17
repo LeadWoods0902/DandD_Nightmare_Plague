@@ -11,7 +11,7 @@ These characters stand for an independent Brokvar, free from the ruling of the E
 
 ## New Order Elitists
 These characters want to see change in Brokvar, a renouncing of the old ways but still remaining outside of the empire
-- [[Mistress]]
+- [[Cirella Lundgren]]
 	- [[Elaine Gjalla]] by unknowing proxy
 
 ## Ymerodrine Empire

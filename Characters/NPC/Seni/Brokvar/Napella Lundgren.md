@@ -13,8 +13,12 @@ Unknown
 Unknown
 
 ##### Family
-Unknown
-
+| Relation | Person |
+| --- | --- |
+| Mother | [[Napella Lundgren]]|
+| Father | TBC |
+| Sister | [[Amorella Lundgren]] |
+| Niece |  [[Lupella Torieth]] |
 ##### Race
 Unknown
 
