@@ -15,7 +15,7 @@ Daughter of [[Amorella Lundgren]] and [[Ayven Torrieth]]
 ##### Race
 Unknown
 ##### Class
-Storm Herald Barbarian
+[Storm Herald Barbarian](https://5etools-mirror-1.github.io/classes.html#barbarian_phb,state:sub-storm-herald-xge=b1)
 ##### Alignment
 Unknown
 ##### Personality Traits
