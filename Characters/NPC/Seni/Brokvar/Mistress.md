@@ -14,7 +14,11 @@ Unknown
 Unknown
 
 ##### Family
-Unknown
+| Relation | Person |
+| --- | --- |
+| Mother | Napella Lundgren |
+| Father | TBC |
+| Niece | 
 
 ##### Race
 Unknown
