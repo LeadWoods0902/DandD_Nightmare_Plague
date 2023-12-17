@@ -5,16 +5,17 @@
 		{"type":"text","text":"","id":"02cc1970db5a8691","x":-364,"y":-1306,"width":50,"height":50},
 		{"type":"file","file":"Characters/NPC/Sunmaek/Mel-Reyhan.md","id":"694e3fe64f00e3b1","x":-89,"y":-1480,"width":402,"height":400,"color":"1"},
 		{"type":"file","file":"Characters/NPC/Sunmaek/Ven-Chyk.md","id":"6a0743f6a30178f7","x":-992,"y":-886,"width":400,"height":400,"color":"1"},
-		{"type":"file","file":"Characters/NPC/Seni/Brokvar/Innë-Dryk Lungdren.md","id":"c0ce98cc222761eb","x":-87,"y":-291,"width":400,"height":400,"color":"1"},
-		{"type":"file","file":"Characters/NPC/Seni/Gogledd-Ynys/Lupella Torieth.md","id":"113a592524a09d9b","x":1268,"y":304,"width":400,"height":400,"color":"4"},
-		{"type":"text","text":"","id":"f65db8e6d4873507","x":1443,"y":-116,"width":50,"height":50},
 		{"type":"file","file":"Characters/NPC/Sunmaek/Ven-Slyk.md","id":"3628fb4e714ee5fe","x":-539,"y":-886,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Characters/NPC/Seni/Brokvar/Ven-Dryk Ashahalla.md","id":"e7e26ef5def17e26","x":-87,"y":-886,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Characters/NPC/Seni/Brokvar/Napella Lundgren.md","id":"a6a494d33755280a","x":815,"y":-886,"width":400,"height":400,"color":"1"},
-		{"type":"file","file":"Characters/NPC/Seni/Brokvar/Odonna-Dryk Lundgren.md","id":"e7d5f8a97db27f2d","x":363,"y":-291,"width":400,"height":400,"color":"1"},
 		{"type":"text","text":"","id":"47c974b08d194b81","x":538,"y":-711,"width":50,"height":50},
-		{"type":"file","file":"Characters/NPC/Seni/Brokvar/Amorella Lundgren.md","id":"d41f95714841f6e3","x":815,"y":-291,"width":400,"height":400,"color":"4"},
-		{"type":"file","file":"Characters/NPC/Seni/Rheilliwch/Ayven Torrieth.md","id":"e9071f9459f501b4","x":1721,"y":-291,"width":400,"height":400,"color":"4"}
+		{"type":"file","file":"Characters/NPC/Seni/Brokvar/Innë-Dryk Lungdren.md","id":"c0ce98cc222761eb","x":165,"y":-240,"width":400,"height":400,"color":"1"},
+		{"type":"text","text":"","id":"f65db8e6d4873507","x":1695,"y":-65,"width":50,"height":50},
+		{"type":"file","file":"Characters/NPC/Seni/Gogledd-Ynys/Lupella Torieth.md","id":"113a592524a09d9b","x":1520,"y":355,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Characters/NPC/Seni/Brokvar/Odonna-Dryk Lundgren.md","id":"e7d5f8a97db27f2d","x":615,"y":-240,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"Characters/NPC/Seni/Brokvar/Amorella Lundgren.md","id":"d41f95714841f6e3","x":1067,"y":-240,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Characters/NPC/Seni/Rheilliwch/Ayven Torrieth.md","id":"e9071f9459f501b4","x":1973,"y":-240,"width":400,"height":400,"color":"4"},
+		{"id":"b93c4abf29fb948c","x":-287,"y":-240,"width":400,"height":400,"color":"4","type":"file","file":"Characters/NPC/Seni/Brokvar/Cirella Lundgren.md"}
 	],
 	"edges":[
 		{"id":"ec363729123f7b55","fromNode":"489bef7acb7cdfeb","fromSide":"right","toNode":"02cc1970db5a8691","toSide":"left"},
