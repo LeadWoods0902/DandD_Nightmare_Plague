@@ -15,9 +15,10 @@ Unknown
 ##### Family
 | Relation | Person |
 | --- | --- |
-| Mother | [[Napella Lundgren]]|
-| Father | TBC |
-| Sister | [[Amorella Lundgren]] |
+| Husband | [[Ven-Dryk Ashahalla]] |
+| Lover | Unknown Huma |
+| Daughter | [[Amorella Lundgren]] |
+| Daughter | [[Cirella Lundgren]] |
 | Niece |  [[Lupella Torieth]] |
 ##### Race
 Unknown
