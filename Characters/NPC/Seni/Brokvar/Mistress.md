@@ -18,7 +18,7 @@ Unknown
 | --- | --- |
 | Mother | Napella Lundgren |
 | Father | TBC |
-| Niece | 
+| Niece |  Lupella 
 
 ##### Race
 Unknown
