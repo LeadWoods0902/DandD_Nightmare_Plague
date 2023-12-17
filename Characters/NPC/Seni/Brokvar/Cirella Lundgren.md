@@ -44,3 +44,4 @@ Unknown
 Unknown
 
 ### Notes
+Born to Napella Lund
