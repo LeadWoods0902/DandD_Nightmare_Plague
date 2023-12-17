@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Chen
+Chen Lundgren
 
 ##### Current Age
 Unknown
