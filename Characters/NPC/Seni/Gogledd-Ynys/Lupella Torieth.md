@@ -15,7 +15,7 @@ Daughter of [[Amorella Lundgren]] and [[Ayven Torrieth]]
 ##### Race
 Unknown
 ##### Class
-Juggernaut Barbarian
+Storm Herald Barbarian
 ##### Alignment
 Unknown
 ##### Personality Traits
