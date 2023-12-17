@@ -5,14 +5,11 @@
 ### Character Info
 
 ##### Name 
-Chen Lundgren
-
+Cirella 'Circe' Lundgren
 ##### Current Age
 Unknown
-
 ##### Place of Origin
 [[Brokvar]]
-
 ##### Family
 | Relation | Person |
 | --- | --- |
@@ -20,10 +17,8 @@ Unknown
 | Father | TBC |
 | Sister | [[Amorella Lundgren]] |
 | Niece |  [[Lupella Torieth]] |
-
 ##### Race
 Unknown
-
 ##### Class
 Unknown
 
