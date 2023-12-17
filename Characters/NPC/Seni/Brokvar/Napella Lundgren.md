@@ -16,7 +16,7 @@ Unknown
 | Relation | Person |
 | --- | --- |
 | Husband | [[Ven-Dryk Ashahalla]] |
-| Lover | Unknown Huma |
+| Lover | [[Cirella's Father]] |
 | Daughter | [[Amorella Lundgren]] |
 | Daughter | [[Cirella Lundgren]] |
 | Niece |  [[Lupella Torieth]] |
