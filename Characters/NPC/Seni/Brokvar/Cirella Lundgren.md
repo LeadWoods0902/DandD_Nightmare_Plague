@@ -44,4 +44,4 @@ Unknown
 Unknown
 
 ### Notes
-Born to Napella Lund
+A result of an affair between Napella Lundgren and an unknown human, Circe strives to claim her place on the throne but believes revealing herself to Ven-Deyk
