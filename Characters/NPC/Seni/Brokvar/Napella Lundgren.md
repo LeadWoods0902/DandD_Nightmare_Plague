@@ -17,14 +17,15 @@ Unknown
 | --- | --- |
 | Husband | [[Ven-Dryk Ashahalla]] |
 | Lover | [[Cirella's Father]] |
-| --- 
+| --- | --- |
 | Daughter | [[Amorella Lundgren]] |
 | Daughter | [[Cirella Lundgren]] |
 | Daughter | [[Innë-Dryk Lungdren]] |
 | Daughter | [[Odonna-Dryk Lundgren]] |
+| --- | --- |
 | Granddaughter |  [[Lupella Torieth]] |
 ##### Race
-Unknown
+Human
 
 ##### Class
 Unknown
