@@ -16,7 +16,7 @@ Unknown
 | Mother | [[Amorella Lundgren]] |
 | Father | [[Ayven Torrieth]] |
 | --- | --- |
-| Aunt | [[Cirella Lundgren]] | 
+| Half-Aunt | [[Cirella Lundgren]] | 
 ##### Race
 Unknown
 ##### Class
