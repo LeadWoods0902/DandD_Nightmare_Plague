@@ -44,4 +44,4 @@ Unknown
 Unknown
 
 ### Notes
-A result of an affair between Napella Lundgren and an unknown human, Circe strives to claim her place on the throne but believes revealing herself to Ven-Deyk
+A result of an affair between Napella Lundgren and an unknown human, Circe strives to claim her place on the throne but believes revealing herself to Ven-Dryk would cause problems ?
