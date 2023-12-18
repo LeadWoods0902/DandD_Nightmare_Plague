@@ -15,6 +15,12 @@ Unknown
 [[Brokvar]]
 
 ##### Family
+| Relation | Person |
+| --- | --- |
+| Mother | [[Napella Lundgren]] |
+| Father | [[Ven-Dryk Ashahalla]] |
+| --- | --- | 
+| Sister | |
 Daughter of [[Napella Lundgren]] and [[Ven-Dryk Ashahalla]]
 
 ##### Race
