@@ -28,7 +28,6 @@ Unknown
 
 ##### Race
 Human - Yuan-Ti hybrid
-
 ##### Class
 Unknown
 

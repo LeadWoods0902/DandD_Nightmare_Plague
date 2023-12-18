@@ -18,7 +18,7 @@ Unknown
 | --- | --- |
 | Half-Aunt | [[Cirella Lundgren]] | 
 ##### Race
-Unknown
+Human - Yuan-Ti Hybrid (Yuan-Ti non-dominant)
 ##### Class
 [Storm Herald Barbarian](https://5etools-mirror-1.github.io/classes.html#barbarian_phb,state:sub-storm-herald-xge=b1)
 ##### Alignment
