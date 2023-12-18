@@ -23,7 +23,7 @@ Unknown
 | Daughter | [[Innë-Dryk Lungdren]] |
 | Daughter | [[Odonna-Dryk Lundgren]] |
 | --- | --- |
-| Granddaughter |  [[Lupella Torieth]] |
+| Granddaughter | [[Lupella Torieth]] |
 ##### Race
 Human
 

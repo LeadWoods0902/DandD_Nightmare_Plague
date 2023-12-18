@@ -11,7 +11,16 @@ Unknown
 ##### Place of Origin
 Unknown
 ##### Family
-Daughter of [[Amorella Lundgren]] and [[Ayven Torrieth]]
+| Relation | Person |
+| --- | --- |
+| Mother | [[Amorella Lundgren]] |
+| Father | [[Ayven Torrieth]] |
+| --- | --- |
+| Half-Sister | [[Cirella Lundgren]] |
+| Sister | [[Innë-Dryk Lungdren]] |
+| Sister | [[Odonna-Dryk Lundgren]] |
+| --- | --- |
+| Daughter |  [[Lupella Torieth]] |
 ##### Race
 Unknown
 ##### Class
