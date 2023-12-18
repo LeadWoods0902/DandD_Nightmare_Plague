@@ -16,11 +16,7 @@ Unknown
 | Mother | [[Amorella Lundgren]] |
 | Father | [[Ayven Torrieth]] |
 | --- | --- |
-| Half-Sister | [[Cirella Lundgren]] |
-| Sister | [[Innë-Dryk Lungdren]] |
-| Sister | [[Odonna-Dryk Lundgren]] |
-| --- | --- |
-| Daughter |  [[Lupella Torieth]] |
+| Aunt | [[Cirella Lundgren]] | 
 ##### Race
 Unknown
 ##### Class
