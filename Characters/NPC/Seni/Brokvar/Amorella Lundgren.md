@@ -19,9 +19,12 @@ Unknown
 | --- | --- |
 | Mother | [[Napella Lundgren]] |
 | Father | [[Ven-Dryk Ashahalla]] |
-| --- | --- | 
-| Sister | |
-Daughter of [[Napella Lundgren]] and [[Ven-Dryk Ashahalla]]
+| --- | --- |
+| Half-Sister | [[Cirella Lundgren]] |
+| Sister | [[Innë-Dryk Lungdren]] |
+| Sister | [[Odonna-Dryk Lundgren]] |
+| --- | --- |
+| Daughter |  [[Lupella Torieth]] |
 
 ##### Race
 Human - Yuan-Ti hybrid
