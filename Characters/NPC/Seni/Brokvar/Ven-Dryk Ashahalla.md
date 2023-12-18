@@ -6,33 +6,22 @@
 
 ##### Name 
 Ven-Dryk Ashahalla
-
 ##### Current Age
 Unknown
-
 ##### Place of Origin
 [[Sunmaek]]
-
 ##### Family
 | Relation | Person |
 | --- | --- |
 | Mother | [[Mel-Reyhan]] |
 | Father | [[Ven-Kylgh Ashahalla]] |
 | --- | --- |
-| Brother 
+| Brother | [[Ven-Slyk]]| 
+| Brother | [[Ven-Chyk]]
 | --- | --- |
 | Daughter |  [[Amorella Lundgren]] |
 | Daughter | [[Odonna-Dryk Lundgren]] | 
 | Daughter | [[Innë-Dryk Lungdren]] |
-Brother to:
-- [[Ven-Slyk]]
-- [[Ven-Chyk]]
-
-Fathered three children with [[Napella Lundgren]]:
-- [[Amorella Lundgren]]
-- [[Odonna-Dryk Lundgren]]
-- [[Innë-Dryk Lungdren]]
-
 ##### Race
 Yuan-Ti
 
