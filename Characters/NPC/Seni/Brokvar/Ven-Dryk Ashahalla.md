@@ -14,8 +14,16 @@ Unknown
 [[Sunmaek]]
 
 ##### Family
-Son of [[Ven-Kylgh Ashahalla]] and [[Mel-Reyhan]]
-
+| Relation | Person |
+| --- | --- |
+| Mother | [[Mel-Reyhan]] |
+| Father | [[Ven-Kylgh Ashahalla]] |
+| --- | --- |
+| Brother 
+| --- | --- |
+| Daughter |  [[Amorella Lundgren]] |
+| Daughter | [[Odonna-Dryk Lundgren]] | 
+| Daughter | [[Innë-Dryk Lungdren]] |
 Brother to:
 - [[Ven-Slyk]]
 - [[Ven-Chyk]]
