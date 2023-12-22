@@ -1,5 +1,5 @@
-![[Missy_Token.png]]
-[[Misstress.png|Full Art]]
+![[Circe_Token.png]]
+[[Circe.png|Full Art]]
 
 ---
 ### Character Info
