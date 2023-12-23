@@ -62,10 +62,13 @@
 	- [ ] Interact with the Coeden & church
 ---
 - [ ] Agree to the Basilisk Contract
-	- [ ] Visit Jarae's to prep
+	- [ ] Visit Jarae's to prepare
+		- [ ] Fire proof potions - NOT for the basilisks (*TODO*)
 - [ ] Visit the Farm
 	- [ ] Explore the Farm
-	- [ ] Fight the Basilisk
+---
+- [ ] Fight the Basilisk
+	- [ ] Jasper contracts 
 	- [ ] Inherit a basilisk egg
 ---
 - [ ] Return to Brokvar
