@@ -80,7 +80,7 @@
 		- [ ] Bismuth's Axe update
 		- [ ] Rolbam's potion
 		- [ ] Villanelle's memory
-		- [ ] 
+		- [ ] Duska and the embassy
 	- [ ] Explain
 
 - [ ] Meet Lupella Torieth
