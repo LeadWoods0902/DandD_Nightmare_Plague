@@ -46,6 +46,7 @@
 	- [ ] Villanelle
 	- [ ] Bismuth & Jasper
 	- [ ] Rolbam
+---
 - [ ] Explore Virmarr
 	- [ ] Elaine at odds with the mayor
 - [ ] Journey to Brokvar
@@ -56,9 +57,11 @@
 	- [ ] Meet Circe
 - [ ] Explore the City
 	- [ ] Introduce Niahl
-	- [ ] Interact with the Coeden
+	- [ ] Interact with the Coeden & church
 - [ ] Visit the Farm
 	- [ ] Fight the Basilisk
+	- [ ] Inherit a basilisk egg
+- [ ] Return to Brokvar
 - [ ] Meet Lupella Torieth
 - [ ] Fake Jasper's death
 - [ ] Fight the Effigy of the Twin Suns
