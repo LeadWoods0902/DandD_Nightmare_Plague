@@ -84,6 +84,8 @@
 		- [ ] Jasper all chill?
 	- [ ] Explain their sudden leave
 		- [ ] Negotiating some work with a border Baron
+- [ ] Sleep
+	- [ ] Seram awakes
 
 ---
 - [ ] Storm the shores
