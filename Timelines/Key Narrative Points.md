@@ -85,6 +85,8 @@
 	- [ ] Explain their sudden leave
 		- [ ] Negotiating some work with a border Baron
 
+---
+- [ ] Storm the shores
 - [ ] Meet Lupella Torieth
 - [ ] Fake Jasper's death
 - [ ] Fight the Effigy of the Twin Suns
