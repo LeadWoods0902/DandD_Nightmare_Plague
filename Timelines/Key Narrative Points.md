@@ -39,12 +39,16 @@
 
 ---
 
+- [ ] S
+- [ ] Individual Introductions
 
-- [ ] The Party is formed
 - [ ] Fight the Talus
-- [ ] Meet Chen
+- [ ] Enter Brokvar
+	- [ ] Meet Circe
 - [ ] Explore the City
+	- [ ] Introduce Nialh
 - [ ] Visit the Farm
+	- [ ] Fight the Basilisk
 - [ ] Meet Lupella Torieth
 - [ ] Fake Jasper's death
 - [ ] Fight the Effigy of the Twin Suns
