@@ -82,7 +82,8 @@
 		- [ ] Villanelle's memory
 		- [ ] Duska and the embassy
 		- [ ] Jasper all chill?
-	- [ ] Explain their sudden
+	- [ ] Explain their sudden leave
+		- [ ] Negotiating some work with a border Baron
 
 - [ ] Meet Lupella Torieth
 - [ ] Fake Jasper's death
