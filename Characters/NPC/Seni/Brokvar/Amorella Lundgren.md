@@ -20,7 +20,7 @@ Unknown
 | Mother | [[Napella Lundgren]] |
 | Father | [[Ven-Dryk Ashahalla]] |
 | --- | --- |
-| Half-Sister | [[Cirella Lundgren]] |
+| Half-Sister | [[Circe Lundgren]] |
 | Sister | [[Innë-Dryk Lungdren]] |
 | Sister | [[Odonna-Dryk Lundgren]] |
 | --- | --- |

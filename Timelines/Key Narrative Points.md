@@ -38,22 +38,23 @@
 - Duska's secret is discovered by the ambitious Sturgis who agrees to aid her in return for absolution from Olum for his misguided following of the deceptive Yilani Cemaati
 
 ---
-## Book 1: Infection
-- [x] The Party is formed
+
+
+- [ ] The Party is formed
 - [ ] Fight the Talus
 - [ ] Meet Chen
+- [ ] Explore the City
+- [ ] Visit the Farm
 - [ ] Meet Lupella Torieth
 - [ ] Fake Jasper's death
 - [ ] Fight the Effigy of the Twin Suns
-- [ ] 
 
-## Book 2:  Decay
 - [ ] Duska feels connection to twin-snake magic fading
 - [ ] Party travel to Sunmaek
 - [ ] Seek out the Sun Snakes (Dogu Yilani & Bati Yilani) - whichever they go to first is dead
 - [ ] Uncover the truth that the snakes are in fact banished Greater Dragons of Chimo-Nahagi and that Mortos is Musoko
 
-## Book 3:  Rejuvenation
+
 - [ ] Party travel to Chimo-Nahagi
 - [ ] Try and contact Soromo and Zenryoku
 - [ ] Interact with the Erehdehl

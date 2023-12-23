@@ -16,7 +16,7 @@ Unknown
 | Mother | [[Amorella Lundgren]] |
 | Father | [[Ayven Torrieth]] |
 | --- | --- |
-| Half-Aunt | [[Cirella Lundgren]] | 
+| Half-Aunt | [[Circe Lundgren]] | 
 ##### Race
 Human - Yuan-Ti Hybrid (Yuan-Ti non-dominant)
 ##### Class

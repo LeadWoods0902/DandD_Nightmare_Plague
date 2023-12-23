@@ -19,7 +19,7 @@ Unknown
 | Lover | [[Cirella's Father]] |
 | --- | --- |
 | Daughter | [[Amorella Lundgren]] |
-| Daughter | [[Cirella Lundgren]] |
+| Daughter | [[Circe Lundgren]] |
 | Daughter | [[Innë-Dryk Lungdren]] |
 | Daughter | [[Odonna-Dryk Lundgren]] |
 | --- | --- |

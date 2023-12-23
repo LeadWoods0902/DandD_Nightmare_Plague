@@ -15,7 +15,7 @@
 		{"type":"file","file":"Characters/NPC/Seni/Gogledd-Ynys/Lupella Torieth.md","id":"113a592524a09d9b","x":1493,"y":355,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Characters/NPC/Seni/Brokvar/Amorella Lundgren.md","id":"d41f95714841f6e3","x":1040,"y":-240,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Characters/NPC/Seni/Rheilliwch/Ayven Torrieth.md","id":"e9071f9459f501b4","x":1946,"y":-240,"width":400,"height":400,"color":"4"},
-		{"id":"b93c4abf29fb948c","x":-314,"y":-240,"width":400,"height":400,"color":"4","type":"file","file":"Characters/NPC/Seni/Brokvar/Cirella Lundgren.md"}
+		{"id":"b93c4abf29fb948c","x":-314,"y":-240,"width":400,"height":400,"color":"4","type":"file","file":"Characters/NPC/Seni/Brokvar/Circe Lundgren.md"}
 	],
 	"edges":[
 		{"id":"ec363729123f7b55","fromNode":"489bef7acb7cdfeb","fromSide":"right","toNode":"02cc1970db5a8691","toSide":"left"},
