@@ -45,12 +45,17 @@
 	- [ ] Seram + Stronvan
 	- [ ] Villanelle
 	- [ ] Bismuth & Jasper
-	- [ ] Rolba
-- [ ] Fight the Talus
-- [ ] Enter Brokvar
+	- [ ] Rolbam
+- [ ] Explore Virmarr
+	- [ ] Elaine at odds with the mayor
+- [ ] Journey to Brokvar
+	- [ ] Fight the Talus
+	- [ ] Bimsuth loses his axe
+- [ ] Arrive at Brokvar
+	- [ ] Overview of City
 	- [ ] Meet Circe
 - [ ] Explore the City
-	- [ ] Introduce Nialh
+	- [ ] Introduce Niahl
 - [ ] Visit the Farm
 	- [ ] Fight the Basilisk
 - [ ] Meet Lupella Torieth
