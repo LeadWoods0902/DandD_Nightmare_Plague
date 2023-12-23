@@ -39,9 +39,13 @@
 
 ---
 
-- [ ] S
+- [ ] Prologue on the ship
 - [ ] Individual Introductions
-
+	- [ ] Duska
+	- [ ] Seram + Stronvan
+	- [ ] Villanelle
+	- [ ] Bismuth & Jasper
+	- [ ] Rolba
 - [ ] Fight the Talus
 - [ ] Enter Brokvar
 	- [ ] Meet Circe
