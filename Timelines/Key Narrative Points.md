@@ -56,6 +56,7 @@
 	- [ ] Meet Circe
 - [ ] Explore the City
 	- [ ] Introduce Niahl
+	- [ ] Interact with the Coeden
 - [ ] Visit the Farm
 	- [ ] Fight the Basilisk
 - [ ] Meet Lupella Torieth
