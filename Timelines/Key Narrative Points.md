@@ -52,15 +52,22 @@
 - [ ] Journey to Brokvar
 	- [ ] Fight the Talus
 	- [ ] Bimsuth loses his axe
+---
 - [ ] Arrive at Brokvar
 	- [ ] Overview of City
 	- [ ] Meet Circe
 - [ ] Explore the City
 	- [ ] Introduce Niahl
+	- [ ] Introduce Jasper
 	- [ ] Interact with the Coeden & church
+---
+- [ ] Agree to the Basilisk Contract
+	- [ ] Visit Jarae's to prep
 - [ ] Visit the Farm
+	- [ ] Explore the Farm
 	- [ ] Fight the Basilisk
 	- [ ] Inherit a basilisk egg
+---
 - [ ] Return to Brokvar
 - [ ] Meet Lupella Torieth
 - [ ] Fake Jasper's death
