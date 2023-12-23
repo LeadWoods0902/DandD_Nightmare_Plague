@@ -81,7 +81,8 @@
 		- [ ] Rolbam's potion
 		- [ ] Villanelle's memory
 		- [ ] Duska and the embassy
-	- [ ] Explain
+		- [ ] Jasper all chill?
+	- [ ] Explain their sudden
 
 - [ ] Meet Lupella Torieth
 - [ ] Fake Jasper's death
