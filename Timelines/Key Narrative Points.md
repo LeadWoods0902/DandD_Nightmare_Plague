@@ -74,9 +74,13 @@
 - [ ] Return to Brokvar
 - [ ] Return to Circe's
 	- [ ] Niahl's guards prevent access
-		- [ ] Niahl exits, recognises Stronvan (not stronvan)
+		- [ ] Niahl exits, recognises Stronvan (not Stronvan)
 	- [ ] Circe proper introduction
-	- [ ] Talk to the gang again
+	- [ ] Circe checks in on the party's progress
+		- [ ] Bismuth's Axe update
+		- [ ] Rolbam's potion
+		- [ ] Villanelle's memory
+		- [ ] 
 	- [ ] Explain
 
 - [ ] Meet Lupella Torieth
