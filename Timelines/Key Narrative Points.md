@@ -72,9 +72,12 @@
 	- [ ] Inherit a basilisk egg
 ---
 - [ ] Return to Brokvar
-- [ ] Reutn 
+- [ ] Return to Circe's
+	- [ ] Niahl's guards prevent access
+		- [ ] Niahl exits, recognises Stronvan (not stronvan)
 	- [ ] Circe proper introduction
 	- [ ] Talk to the gang again
+	- [ ] Explain
 
 - [ ] Meet Lupella Torieth
 - [ ] Fake Jasper's death
