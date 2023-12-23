@@ -68,10 +68,14 @@
 	- [ ] Explore the Farm
 ---
 - [ ] Fight the Basilisk
-	- [ ] Jasper contracts 
+	- [ ] Jasper gets covered in crystalline saliva
 	- [ ] Inherit a basilisk egg
 ---
 - [ ] Return to Brokvar
+- [ ] Reutn 
+	- [ ] Circe proper introduction
+	- [ ] Talk to the gang again
+
 - [ ] Meet Lupella Torieth
 - [ ] Fake Jasper's death
 - [ ] Fight the Effigy of the Twin Suns
