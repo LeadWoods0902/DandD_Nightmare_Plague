@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Cirella 'Circe' Lundgren
+Circe Lundgren
 ##### Current Age
 Unknown
 ##### Place of Origin

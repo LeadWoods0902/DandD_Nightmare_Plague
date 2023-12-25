@@ -38,22 +38,67 @@
 - Duska's secret is discovered by the ambitious Sturgis who agrees to aid her in return for absolution from Olum for his misguided following of the deceptive Yilani Cemaati
 
 ---
-## Book 1: Infection
-- [x] The Party is formed
-- [ ] Fight the Talus
-- [ ] Meet Chen
+
+- [ ] Prologue on the ship
+- [ ] Individual Introductions
+	- [ ] Duska
+	- [ ] Seram + Stronvan
+	- [ ] Villanelle
+	- [ ] Bismuth & Jasper
+	- [ ] Rolbam
+---
+- [ ] Explore Virmarr
+	- [ ] Elaine at odds with the mayor
+- [ ] Journey to Brokvar
+	- [ ] Fight the Talus
+	- [ ] Bimsuth loses his axe
+---
+- [ ] Arrive at Brokvar
+	- [ ] Overview of City
+	- [ ] Meet Circe
+- [ ] Explore the City
+	- [ ] Introduce Niahl
+	- [ ] Introduce Jasper
+	- [ ] Interact with the Coeden & church
+---
+- [ ] Agree to the Basilisk Contract
+	- [ ] Visit Jarae's to prepare
+		- [ ] Fire proof potions - NOT for the basilisks (*TODO*)
+- [ ] Visit the Farm
+	- [ ] Explore the Farm
+---
+- [ ] Fight the Basilisk
+	- [ ] Jasper gets covered in crystalline saliva
+	- [ ] Inherit a basilisk egg
+---
+- [ ] Return to Brokvar
+- [ ] Return to Circe's
+	- [ ] Niahl's guards prevent access
+		- [ ] Niahl exits, recognises Stronvan (not Stronvan)
+	- [ ] Circe proper introduction
+	- [ ] Circe checks in on the party's progress
+		- [ ] Bismuth's Axe update
+		- [ ] Rolbam's potion
+		- [ ] Villanelle's memory
+		- [ ] Duska and the embassy
+		- [ ] Jasper all chill?
+	- [ ] Explain their sudden leave
+		- [ ] Negotiating some work with a border Baron
+- [ ] Sleep
+	- [ ] Seram awakes
+
+---
+- [ ] Storm the shores
 - [ ] Meet Lupella Torieth
 - [ ] Fake Jasper's death
 - [ ] Fight the Effigy of the Twin Suns
-- [ ] 
 
-## Book 2:  Decay
 - [ ] Duska feels connection to twin-snake magic fading
 - [ ] Party travel to Sunmaek
 - [ ] Seek out the Sun Snakes (Dogu Yilani & Bati Yilani) - whichever they go to first is dead
 - [ ] Uncover the truth that the snakes are in fact banished Greater Dragons of Chimo-Nahagi and that Mortos is Musoko
 
-## Book 3:  Rejuvenation
+
 - [ ] Party travel to Chimo-Nahagi
 - [ ] Try and contact Soromo and Zenryoku
 - [ ] Interact with the Erehdehl
