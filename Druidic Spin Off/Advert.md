@@ -1,1 +1,1 @@
-Heyo, I had an idea for my
+Heyo, I had an idea for my campaign that I won't be using. Or at least not to the same extent - without spoiling too much it was going to revolve around druids. I've been thinking of turning it into a 
