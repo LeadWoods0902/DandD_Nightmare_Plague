@@ -1,4 +1,4 @@
-![[EffigyHelioclam_Boss_Token.png]]
+![[EffigyHelioclasm_Token.png]]
 [[EffigyHelioclasm.png|Full Art]]
 
 ---

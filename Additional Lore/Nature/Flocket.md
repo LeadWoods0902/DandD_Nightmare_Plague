@@ -1,7 +1,7 @@
 A bush species that produces fruit in a variety of colours. Most commonly bearing: Crimson, Violet and Ginger.
 
 ## Crimson
-Lending itself to healing remedies, these reddish berries are most commonly found on Flocket bushes situated in darkness. Many healers use these berries when brewing [[potion of healing]].
+Lending itself to healing remedies, these reddish berries are most commonly found on Flocket bushes situated in darkness. Many healers use these berries when brewing [[Potion of Healing]].
 
 #### Full list of uses
 

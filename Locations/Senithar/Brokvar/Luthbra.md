@@ -1,1 +1,1 @@
-Satyr Encampment East of the [[Western Range]]
+Satyr Encampment West of the [[Western Range]]

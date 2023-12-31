@@ -1,4 +1,4 @@
-![[Gravolith_Boss_Token.png]]
+![[Gravolith_Token.png]]
 [[Gravolith.png|Full Art]]
 
 ---
