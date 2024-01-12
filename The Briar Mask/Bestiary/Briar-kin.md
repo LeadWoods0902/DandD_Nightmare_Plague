@@ -1,3 +1,4 @@
-Creatures composed of twisted brambles, steeped in evil
+![[Briar-Dog_Token.png]]
 
-![[Briar-dog.png]]
+---
+Creatures composed of twisted brambles, steeped in evil
