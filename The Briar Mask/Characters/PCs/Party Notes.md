@@ -1,1 +1,1 @@
-One of them is [[Briar-kin]]
+One of them is [[Briar-Kin]]
