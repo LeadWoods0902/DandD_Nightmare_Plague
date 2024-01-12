@@ -1,4 +1,7 @@
-![[Briar-Dog_Token.png]]
+
+| Briar Dog |
+| --- | 
+| ![[Briar-Dog_Token.png]] |
 
 ---
 Creatures composed of twisted brambles, steeped in evil
