@@ -50,4 +50,5 @@ Defected from the Ymerodrine Empire after becoming aware of the war crimes perpe
 Executed Stronvan at Farrow Rise
 
 Aided in the reclamation of Brokvar
+Was present during the fight between Ven-Dryk & Lucius Crestwood
 Was awarded the title: Warden of Brokvar
