@@ -45,3 +45,4 @@ Unknown
 
 ### Notes
 
+Slain by Ven Dryk during the 

@@ -40,8 +40,9 @@ Unknown
 ### Notes
 Commander of the Brokvar City Guard
 
-Defected from the [[Ymerodrine Empire]] after becoming aware of the war crimes perpetrated by [[Stronvan Quatre]] at the personal behest of the empress [[Fenian Naezana]]
+Defected from the Ymerodrine Empire after becoming aware of the war crimes perpetrated by Stronvan Quatre at the personal behest of the empress Fenian Naezana
 
 Executed Stronvan at Farrow Rise
 
-Aided in the reclamation of Brokvar from 
+Aided in the reclamation of Brokvar
+Was awarded the title: 
