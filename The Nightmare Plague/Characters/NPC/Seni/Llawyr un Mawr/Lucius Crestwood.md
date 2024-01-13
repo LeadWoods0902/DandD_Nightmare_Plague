@@ -45,4 +45,4 @@ Unknown
 
 ### Notes
 
-Slain by Ven Dryk during the 
+Slain by Ven-Dryk during the reclamation of Brokvar
