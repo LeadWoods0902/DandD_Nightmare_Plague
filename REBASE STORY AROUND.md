@@ -14,12 +14,9 @@ Fill in here
 
 After the death of Calidian, the empire defaults to the young Fenian. Fenian does a bad job of controlling the empire and they lose control of Marwolaeth.
 
-Visited during the night, Fenian has a vision of them ruling the whole of Senithar with an iron fist. Musoko reveals himself in a partial living form, having been deprived of sustenance for oh so long. Musoko explains that given time and support, he can help Fenian regain control of Senithar and even the realms beyond. Little to Fenian's knowledge, Musoko is already eating at her soul. Due to their mental s
+Visited during the night, Fenian has a vision of them ruling the whole of Senithar with an iron fist. Musoko reveals himself in a partial living form, having been deprived of sustenance for oh so long. Musoko explains that given time and support, he can help Fenian regain control of Senithar and even the realms beyond. Little to Fenian's knowledge, Musoko is already eating at her soul. Due to their mental state, Fenian is easily influence and agrees to help restore Musoko to power. Fenian doesn't fully understand what Musoko is however. 
 
+Brokvar is currently under the control the empire and 
 
-Some time passes, he dies, Fenian takes command of the empire and isn't doing a great job, there's dissent amongst the ranks and they're losing control over some of the other countries. Brokvar is straining. Fenian is visited in dream by a dark power promising them power and strength with which they can fill there father's shoes
-
-chance meets with a dark power that they don't fully understand - promising them power beyond belief and the ability to fill their father's s
-hoes, Fenian joins with this force, leading to the present day. This evil force is Musoko, a weakened form of an ancient Dragon from Chimo-Nahagi. 
 
 Musoko was solely interested in gaining power from the Coeden, which he'd heard of but was too weak to travel there himself, so he had Fenian export the sap to the empirical capital where he is recovering.  
