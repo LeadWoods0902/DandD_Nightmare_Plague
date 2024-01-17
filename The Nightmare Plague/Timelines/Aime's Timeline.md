@@ -10,7 +10,7 @@
 | 1793 | 0 | Virmarr | Mazikeen's wife damns their soul to eternal torment in exchange for giving Mazikeen the chance to enforce justice |
 | 1793 | 0 | Virmarr | Campaign begins |
 
-- Mazikeen is born to Lucius and 
+- Mazikeen is born to Lucius Crestwood and Lady Crestwood
 - Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of the court after her father leaves for war
 - Mazikeen enters the tuition of her uncle, the spymaster of Theg Doruhl
 - Lucius is slain by Ven-Dryk during the reclamation of Brokvar
