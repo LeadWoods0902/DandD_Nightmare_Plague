@@ -63,7 +63,7 @@ Mazikeen shares her plot to kill Ven-Dryk with Lupella - affronted by this, Lupe
 
 ## 1791
 #### Mazikeen's Story
-Mazikeen escapes from the dungeons of Gogledd-Ynys
+Mazikeen escapes from the dungeons of Y Gaer Gadawedig
 
 ## 1792
 #### Fenian's Story
