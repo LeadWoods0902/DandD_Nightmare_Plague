@@ -1,0 +1,1 @@
+Fenian Naezana, a young empress meets a dark power that they don't fully understand - promising them power beyond belief and the ability to fill their father's shoes, Fenian 
