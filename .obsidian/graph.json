@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 1205107
       }
+    },
+    {
+      "query": "file:\"Characters/PC/Mazikeen\"",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
     }
   ],
   "collapse-display": true,
