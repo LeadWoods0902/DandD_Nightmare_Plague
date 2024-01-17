@@ -14,7 +14,7 @@ Fill in here
 
 After the death of Calidian, the empire defaults to the young Fenian. Fenian does a bad job of controlling the empire and they lose control of Marwolaeth.
 
-Visited during
+Visited during the night, Fenian has a vision of them ruling the whole of Senithar with an iron fist. Musoko reveals himself in a partial living form, having been deprived of sustenance for oh so long. Musoko explains that given time and support, he can help Fenian regain control of Senithar and 
 
 
 Some time passes, he dies, Fenian takes command of the empire and isn't doing a great job, there's dissent amongst the ranks and they're losing control over some of the other countries. Brokvar is straining. Fenian is visited in dream by a dark power promising them power and strength with which they can fill there father's shoes
