@@ -2,7 +2,9 @@ Calidian is on the war path and going slightly insane - goes to war with the res
 
 Napella attempts to end the war by launching an assault on the royal palace using a new weapon, Napalm.
 
-The capital is destroyed and Feniandeath of Napella.
+The capital is destroyed and Vivienne dies along with Fenian's older brother who was set to be the emperor after his Father.
+
+
 
 Some time passes, he dies, Fenian takes command of the empire and isn't doing a great job, there's dissent amongst the ranks and they're losing control over some of the other countries. Brokvar is straining. Fenian is visited in dream by a dark power promising them power and strength with which they can fill there father's shoes
 
