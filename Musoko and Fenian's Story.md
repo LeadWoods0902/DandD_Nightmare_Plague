@@ -95,7 +95,6 @@ Soromo's crystal is discovered by Primalas, who sensing a strong connection to i
 ###### Duska's Story
 
 
----
 ## The Campaign begins
 
 #### Fenian's Story
@@ -137,7 +136,6 @@ Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifele
 ###### Duska's Story
 
 
-
----
 ## The Party depart for the East
-
+## The Party Arrive in Heinabergsar
+## The Party Return 
