@@ -13,7 +13,6 @@
 0   | Mazikeen is born to Lucius and Lilith Crestwood
 7   | Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of the court after her father leaves for war 
 8   | Mazikeen enters the tuition of her uncle, the spymaster of Theg Doruhl
-23 | Lucius is slain by Ven-Dryk during the reclamation of Brokvar - Mazikeen vows vengeance on Ven-Dryk
+23 | Lucius is slain by Ven-Dryk during the reclamation of Brokvar - Mazikeen vows vengeance on the person that slew her father.
 26 | Mazikeen departs for Brokvar
-27 | Mazikeen meets Lupella while travelling the coast. Neither knows who the other is but the two enter a 
-The two enter an agreement whereby Lupella will aid Mazikeen in entering the city if she helps smuggle something back across the border to Llawyr yn Mawr.
+27 | Mazikeen meets Lupella while travelling the coast. Neither knows who the other is but the two enter an agreement whereby Lupella will aid Mazikeen in finding her  if she helps smuggle something back across the border to Llawyr yn Mawr.
