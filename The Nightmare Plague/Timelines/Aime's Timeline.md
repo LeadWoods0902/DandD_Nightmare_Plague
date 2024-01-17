@@ -15,4 +15,4 @@
 8   | Mazikeen enters the tuition of her uncle, the spymaster of Theg Doruhl
 23 | Lucius is slain by Ven-Dryk during the reclamation of Brokvar - Mazikeen vows vengeance on Ven-Dryk
 26 | Mazikeen departs for Brokvar
-27 | Mazikeen meets Lupella while travelling the coast. The two enter a 
+27 | Mazikeen meets Lupella while travelling the coast. The two enter an agreement whereby Lupella will help
