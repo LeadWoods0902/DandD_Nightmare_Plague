@@ -10,3 +10,6 @@
 | 1793 | 0 | Virmarr | Mazikeen's wife damns their soul to eternal torment in exchange for giving Mazikeen the chance to enforce justice |
 | 1793 | 0 | Virmarr | Campaign begins |
 
+Mazikeen is born
+Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of the court after her father leaves for war
+Duke Lucius Crestwood of WoodFall is slain by Ven-Dryk during the reclamation of Brokvar

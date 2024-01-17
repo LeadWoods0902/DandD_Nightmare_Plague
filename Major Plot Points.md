@@ -58,7 +58,6 @@ Circe is young, around 10
 
 ## 1789
 #### Mazikeen's Story
-Mazikeen attempts to get passage into the city 
 Mazikeen shares her plot to kill Ven-Dryk with Lupella - affronted by this, Lupella imprisons Mazikeen.
 
 ## 1791
