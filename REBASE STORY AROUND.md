@@ -25,3 +25,5 @@ maybe?
 
 *Musoko is not eating at Fenian's soul, but rather seeking a symbiotic relationship to share power and restore balance to Senithar?*
 
+*Fenian's mental state is not a significant factor in his decision; instead, he is driven by a genuine belief that Musoko's assistance is crucial for the empire's survival.*
+
