@@ -15,7 +15,9 @@ Several years of empirical rule plague Senithar
 ---
 #### A year before the campaign starts
 
-After the death of Calidian, the empire defaults to the young Fenian. Fenian does a bad job of controlling the empire and they lose control of Marwolaeth.
+After the death of Calidian, the empire defaults to the young Fenian. Fenian does a bad job of controlling the empire and they lose control of Marwolaeth in the latter end of the year.
+
+#### 
 
 Visited during the night, Fenian has a vision of them ruling the whole of Senithar with an iron fist. Musoko reveals himself in a partial living form, having been deprived of sustenance for oh so long. Musoko explains that given time and support, he can help Fenian regain control of Senithar and even the realms beyond. Little to Fenian's knowledge, Musoko is already eating at her soul. Due to their mental state, Fenian is easily influence and agrees to help restore Musoko to power. Fenian doesn't fully understand what Musoko is however. 
 
