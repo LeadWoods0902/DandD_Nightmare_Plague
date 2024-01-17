@@ -137,7 +137,7 @@ Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifele
 
 
 ## The Border Job
-
+The party do some work for Circe for a border baron
 ## The Pirate Job
 
 #### The Party's Story
