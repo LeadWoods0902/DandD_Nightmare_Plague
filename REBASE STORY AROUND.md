@@ -1,3 +1,5 @@
+#### Two decades before the campaign starts
+
 Calidian is on the war path and going slightly insane - goes to war with the rest of Senithar, leading to a civil war.
 
 Napella attempts to end the war by launching an assault on the royal palace using a new weapon, Napalm.
@@ -6,12 +8,11 @@ The capital is destroyed and Vivienne dies along with Fenian's older brother who
 
 Enraged, Calidian goes to Brokvar in person and launches a siege on the capital. See [[The Butchering of Brokvar]]
 
----
+...
 
 Several years of empirical rule plague Senithar
 
 ---
-
 #### A year before the campaign starts
 
 After the death of Calidian, the empire defaults to the young Fenian. Fenian does a bad job of controlling the empire and they lose control of Marwolaeth.
