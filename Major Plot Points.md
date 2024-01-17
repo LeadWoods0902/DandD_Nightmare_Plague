@@ -3,7 +3,7 @@
 #### Musoko's Story
 Musoko, being hunted by Soromo, cast his soul into a crystal and cast it to the wind - the crystal is lost to time
 
-## Two decades before the campaign starts
+## 1770ish - Two decades before the campaign starts
 
 #### Calidian's Story
 Calidian is on the war path and going slightly insane - goes to war with the rest of Senithar, leading to a civil war.
@@ -56,7 +56,7 @@ Circe is young, around 10
 ###### Duska's Story
 
 
-## A year before the campaign starts
+## 1792 - A year before the campaign starts
 
 #### Fenian's Story
 After the death of Calidian, the empire defaults to the young Fenian. Fenian does a bad job of controlling the empire and they lose control of Marwolaeth in the latter end of the year.
@@ -95,7 +95,8 @@ Soromo's crystal is discovered by Primalas, who sensing a strong connection to i
 ###### Duska's Story
 
 
-## 1793 - The Campaign begins
+## 1793 
+The Campaign begins
 
 #### Fenian's Story
 
@@ -136,9 +137,9 @@ Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifele
 ###### Duska's Story
 
 
-## The Border Job
+## 1793 - The Border Job
 The party do some work for Circe for a border baron
-## The Pirate Job
+## 1793 - The Pirate Job
 
 #### The Party's Story
 ###### Bismuth's Story
@@ -168,9 +169,8 @@ Jasper *dies*
 ###### Duska's Story
 
 
-## 1794 - 
-The Coronation
+## 1794 - The Coronation
 
-## The Foreign Job
+## 1794 - The Foreign Job
 
 
