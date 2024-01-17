@@ -28,6 +28,8 @@ Several years of empirical rule plague Senithar
 #### Circe's Story
 Circe is young, around 10
 
+
+
 ---
 ## A year before the campaign starts
 
@@ -51,6 +53,18 @@ Soromo's crystal is discovered by Primalas, who sensing a strong connection to i
 
 
 ###### Alfread's Story
+
+
+###### Rolbam's Story
+
+
+###### Seram's Story
+
+
+###### Malkath's Story
+
+
+###### Stronvan's Story
 
 
 ###### Duska's Story
