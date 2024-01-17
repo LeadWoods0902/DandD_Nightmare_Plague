@@ -13,7 +13,7 @@ Calidian Naezana
 *TBC*
 
 ##### Family
-Husband of [[
+Husband of [[Vivienne Naezana]]
 Father of [[Fenian Naezana]]
 
 ##### Race
