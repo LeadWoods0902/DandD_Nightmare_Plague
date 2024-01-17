@@ -7,4 +7,8 @@ Calidian: "It is time for you to choose: surrender or die. Oh yes, a question fo
 
 Calidian has his guard (Stronvan's Father) execute a maid
 
-"Life? Or
+"Life? Or Death?"
+
+Napella drops her sword to the floor, indicating her wish to spare the people of Brokvar from Calidian's wrath.
+
+Calidian burns Napella alive in her quarters
