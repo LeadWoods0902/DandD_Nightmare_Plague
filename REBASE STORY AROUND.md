@@ -1,1 +1,1 @@
-Fenian Naezana, a young empress meets a dark power that they don't fully understand - promising them power beyond belief and the ability to fill their father's shoes, Fenian 
+Fenian Naezana, a young empress meets a dark power that they don't fully understand - promising them power beyond belief and the ability to fill their father's shoes, Fenian joins with this force, leading to the present day. This evil force is Musoko, a weakened form of an ancient Dragon from Chimo -Nahagi - 
