@@ -1,9 +1,11 @@
 ## Ten thousand years before the campaign starts
 
+#### Musoko's Story
 Musoko, being hunted by Soromo, cast his soul into a crystal and cast it to the wind - the crystal is lost to time
 
 ## Two decades before the campaign starts
 
+#### Calidian's Story
 Calidian is on the war path and going slightly insane - goes to war with the rest of Senithar, leading to a civil war.
 
 Napella attempts to end the war by launching an assault on the royal palace using a new weapon, Napalm.
@@ -15,6 +17,11 @@ Enraged, Calidian goes to Brokvar in person and launches a siege on the capital.
 ...
 
 Several years of empirical rule plague Senithar
+
+
+#### Napella's Story
+
+####
 
 ---
 ## A year before the campaign starts
@@ -59,6 +66,19 @@ Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifele
 
 
 #### The Party's Story
+###### Bismuth's Story
+
+
+###### Jasper's Story
+
+
+###### Mazikeen's Story
+
+
+###### Alfread's Story
+
+
+###### Duska's Story
 
 
 ---
