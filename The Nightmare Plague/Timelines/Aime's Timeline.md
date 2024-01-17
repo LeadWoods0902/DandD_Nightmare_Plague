@@ -17,4 +17,4 @@
 26 | Mazikeen departs for Brokvar
 27 | Mazikeen meets Lupella while travelling the coast. Neither knows who the other is but the two enter an agreement whereby Lupella will aid Mazikeen in finding her father's killer if she helps smuggle something back across the border to Llawyr yn Mawr. "My mother was killed by the empire, I don't know who swung the blade and it's eaten away at me my whole life".
 28 | Mazikeen returns to Gogledd Ynys, and is imprisoned by Lupella who has discovered that it was her father who killed Mazikeen's father.
-31 | Mazikeen escapes from prison using the skills taught to her by Seram.
+33 | Mazikeen escapes from prison after spending 4+ years there (how though?) ... on the run, one of Lupella's Bounty Hunters 
