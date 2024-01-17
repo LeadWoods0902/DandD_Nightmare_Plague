@@ -21,7 +21,12 @@ Several years of empirical rule plague Senithar
 
 #### Napella's Story
 
-####
+
+#### Fenian's Story
+
+
+#### Circe's Story
+Circe is young, around 10
 
 ---
 ## A year before the campaign starts
