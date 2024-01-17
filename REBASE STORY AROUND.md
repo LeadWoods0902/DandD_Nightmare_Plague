@@ -25,9 +25,7 @@ Soromo's is discovered by Primalas, who sensing a strong connection to it takes 
 
 *During their travel, Musoko is drawn from hibernation and in a drowsy outburst they expend most of their remaining power and lay waste to the ship. Realising their fault, they establish a connection with Primalas, and urge them to flee.*
 
-Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifeless. They seek out someone of greater power and finds the ambitious Fenian, young empress of an expansive empire. Musoko shows Fenian has a vision of them ruling the whole of Senithar with an iron fist and establishes a symbitioc 
-
-Musoko is not eating at Fenian's soul, but rather seeking a symbiotic relationship to share power and restore balance to Senithar?
+Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifeless. They seek out someone of greater power and finds the ambitious Fenian, young empress of an expansive empire. Musoko shows Fenian has a vision of them ruling the whole of Senithar with an iron fist and establishes a symbiotic relationship, etching themselves onto Fenian's conscience. Musoko does not reveal themself but Fenian gains a 
 
 Fenian's mental state is not a significant factor in his decision; instead, he is driven by a genuine belief that Musoko's assistance is crucial for the empire's survival.
 
