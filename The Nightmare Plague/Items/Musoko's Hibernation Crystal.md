@@ -1,1 +1,1 @@
-Musoko put h
+[[Musoko]] hid inside this crystal after Soromo began hunting him
