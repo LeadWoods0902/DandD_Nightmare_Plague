@@ -23,7 +23,7 @@ After the death of Calidian, the empire defaults to the young Fenian. Fenian doe
 
 Soromo's is discovered by Primalas, who sensing a strong connection to it takes into their possession and carries it with them to Senithar.
 
-During their travel, Musoko is drawn from hibernation and in a drowsy outburst they expend their remaining power and lay waste to the ship. Realising their fault, they establish a connection with Primalas, and urge them to flee describing a power beyond comprehension 
+During their travel, Musoko is drawn from hibernation and in a drowsy outburst they expend most of their remaining power and lay waste to the ship. Realising their fault, they establish a connection with Primalas, and urge them to flee
 
 Visited during the night, Fenian has a vision of them ruling the whole of Senithar with an iron fist. Musoko reveals himself in a partial living form, having been deprived of sustenance for oh so long. Musoko explains that given time and support, he can help Fenian regain control of Senithar and even the realms beyond. Little to Fenian's knowledge, Musoko is already eating at her soul. Due to their mental state, Fenian is easily influence and agrees to help restore Musoko to power. Fenian doesn't fully understand what Musoko is however. 
 
