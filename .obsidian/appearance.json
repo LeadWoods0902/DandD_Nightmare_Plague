@@ -4,5 +4,8 @@
   "textFontFamily": "Cantarell",
   "interfaceFontFamily": "Source Code Variable",
   "baseFontSize": 17,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Centre-Allign"
+  ]
 }
