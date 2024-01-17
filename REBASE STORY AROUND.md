@@ -17,7 +17,7 @@ Several years of empirical rule plague Senithar
 
 After the death of Calidian, the empire defaults to the young Fenian. Fenian does a bad job of controlling the empire and they lose control of Marwolaeth in the latter end of the year.
 
-#### 
+Musoko, in hiding on Chimo
 
 Visited during the night, Fenian has a vision of them ruling the whole of Senithar with an iron fist. Musoko reveals himself in a partial living form, having been deprived of sustenance for oh so long. Musoko explains that given time and support, he can help Fenian regain control of Senithar and even the realms beyond. Little to Fenian's knowledge, Musoko is already eating at her soul. Due to their mental state, Fenian is easily influence and agrees to help restore Musoko to power. Fenian doesn't fully understand what Musoko is however. 
 
@@ -31,4 +31,8 @@ maybe?
 *Musoko is not eating at Fenian's soul, but rather seeking a symbiotic relationship to share power and restore balance to Senithar?*
 
 *Fenian's mental state is not a significant factor in his decision; instead, he is driven by a genuine belief that Musoko's assistance is crucial for the empire's survival.*
+
+
+
+Musoko came *with* Bismuth & Jasper, in a weakened form. 
 
