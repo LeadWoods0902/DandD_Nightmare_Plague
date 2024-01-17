@@ -28,9 +28,34 @@ Several years of empirical rule plague Senithar
 #### Circe's Story
 Circe is young, around 10
 
+#### The Party's Story
+###### Bismuth's Story
 
 
----
+###### Jasper's Story
+
+
+###### Mazikeen's Story
+
+
+###### Alfread's Story
+
+
+###### Rolbam's Story
+
+
+###### Seram's Story
+
+
+###### Malkath's Story
+
+
+###### Stronvan's Story
+
+
+###### Duska's Story
+
+
 ## A year before the campaign starts
 
 #### Fenian's Story
@@ -46,7 +71,7 @@ Soromo's crystal is discovered by Primalas, who sensing a strong connection to i
 ###### Bismuth's Story
 
 
-######  Jasper's Story
+###### Jasper's Story
 
 
 ###### Mazikeen's Story
@@ -97,7 +122,20 @@ Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifele
 ###### Alfread's Story
 
 
+###### Rolbam's Story
+
+
+###### Seram's Story
+
+
+###### Malkath's Story
+
+
+###### Stronvan's Story
+
+
 ###### Duska's Story
+
 
 
 ---
