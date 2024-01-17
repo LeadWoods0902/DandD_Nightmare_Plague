@@ -18,5 +18,8 @@ Visited during the night, Fenian has a vision of them ruling the whole of Senith
 
 Musoko explains that the sap of the Coeden of Brokvar will give him the sustenance he needs, however he is too weak to make the journey, having used the last of his power to generate the vision.
 
-
 Musoko was solely interested in gaining power from the Coeden, which he'd heard of but was too weak to travel there himself, so he had Fenian export the sap to the empirical capital where he is recovering.  
+
+
+maybe?
+
