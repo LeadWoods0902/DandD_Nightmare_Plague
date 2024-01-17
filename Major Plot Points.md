@@ -59,11 +59,13 @@ Circe is young, around 10
 
 ## 1789
 #### Mazikeen's Story
-Mazikeen shares her plot to kill Ven-Dryk with Lupella - affronted by this, Lupella imprisons Mazikeen
+Mazikeen shares her plot to kill Ven-Dryk with Lupella - affronted by this, Lupella imprisons Mazikeen.
 
 ## 1791
 #### Mazikeen's Story
-Mazikeen escapes from the dungeons of Y Gaer-Nhymestl and Lupella sends her wife Naêde after her
+Mazikeen escapes from the dungeons of Y Gaer-Nhymestl with the help of her wifeand Lupella sends her wife Naêde after her.
+
+While on the run, Mazikeen 
 
 ## 1792
 #### Fenian's Story
