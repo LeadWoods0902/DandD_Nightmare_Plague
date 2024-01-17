@@ -68,7 +68,7 @@ Naêde catches up with Mazikeen and Catrin
 
 ## 1792
 #### Fenian's Story
-After the death of Calidian, the empire defaults to the young Fenian. Fenian does a bad job of controlling the empire and they lose control of Marwolaeth in the latter end of the year.
+After the death of Calidian, the empire defaults to the young Fenian. Fenian does a bad job of controlling the empire and they lose control of Marwolaeth
 
 #### Musoko's Story
 Soromo's crystal is discovered by Primalas, who sensing a strong connection to it takes into their possession and carries it with them to Senithar.

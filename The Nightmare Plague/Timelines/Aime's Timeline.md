@@ -12,4 +12,5 @@
 
 Mazikeen is born
 Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of the court after her father leaves for war
+Mazikeen entrees the 
 Duke Lucius Crestwood of WoodFall is slain by Ven-Dryk during the reclamation of Brokvar
