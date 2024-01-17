@@ -63,9 +63,9 @@ Mazikeen shares her plot to kill Ven-Dryk with Lupella - affronted by this, Lupe
 
 ## 1791
 #### Mazikeen's Story
-Mazikeen escapes from the dungeons of Y Gaer-Nhymestl with the help of a friend that sympathised with her, and together they escape to Brokvar. Lupella sends her wife Naêde after them.
+Mazikeen escapes from the dungeons of Y Gaer-Nhymestl with the help of her wife, and together they escape to Brokvar. Lupella sends her wife Naêde after them.
 
-While on the run, Mazikeen and her wife are 
+While on the run, Mazikeen and her wife are caught by the Naêde
 
 ## 1792
 #### Fenian's Story
