@@ -52,4 +52,4 @@ Fond of the game Liar's dice, Primalas' sole regular excursion would be to play 
 
 Primalas paid for passage to Seni to research its culture and visit the [[Imperial library of Heinabergsar]]
 
-Primalas had a shard of opaque black crystal that seemed to 
+Primalas had a shard of black crystal that seemed to be filled with a breathing inky liquid. That permeated the solidity of the rock.
