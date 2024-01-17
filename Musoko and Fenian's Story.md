@@ -136,6 +136,35 @@ Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifele
 ###### Duska's Story
 
 
-## The Party depart for the East
-## The Party Arrive in Heinabergsar
-## The Party Return 
+## The Border Job
+## The Pirate Job
+
+#### The Party's Story
+###### Bismuth's Story
+
+
+###### Jasper's Story
+Jasper *dies*
+
+###### Mazikeen's Story
+
+
+###### Alfread's Story
+
+
+###### Rolbam's Story
+
+
+###### Seram's Story
+
+
+###### Malkath's Story
+
+
+###### Stronvan's Story
+
+
+###### Duska's Story
+
+
+## The 
