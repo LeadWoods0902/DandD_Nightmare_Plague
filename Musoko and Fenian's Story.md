@@ -137,6 +137,7 @@ Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifele
 
 
 ## The Border Job
+
 ## The Pirate Job
 
 #### The Party's Story
@@ -167,4 +168,8 @@ Jasper *dies*
 ###### Duska's Story
 
 
-## The 
+## The Coronation
+
+## The Foreign Job
+
+
