@@ -12,7 +12,7 @@ Napella attempts to end the war by launching an assault on the royal palace usin
 
 The capital is destroyed and Vivienne dies along with Fenian's older brother who was set to be the emperor after his Father.
 
-Enraged, Calidian goes to Brokvar in person and launches a siege on the capital. See [[The Butchering of Brokvar]]
+Enraged, Calidian goes to Brokvar in person and launches a siege on the capital. See The Butchering of Brokvar
 
 ...
 
@@ -63,7 +63,7 @@ Mazikeen shares her plot to kill Ven-Dryk with Lupella - affronted by this, Lupe
 
 ## 1791
 #### Mazikeen's Story
-Mazikeen escapes from the dungeons of Y Gaer Gadawedig
+Mazikeen escapes from the dungeons of Y Gaer-Nhymestl and Lupoe
 
 ## 1792
 #### Fenian's Story
