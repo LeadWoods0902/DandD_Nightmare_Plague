@@ -4,7 +4,10 @@ Napella attempts to end the war by launching an assault on the royal palace usin
 
 The capital is destroyed and Vivienne dies along with Fenian's older brother who was set to be the emperor after his Father.
 
-Enraged, Calidian goes to Brokvar in person and launches a siege on the capital. See 
+Enraged, Calidian goes to Brokvar in person and launches a siege on the capital. See https://youtu.be/FKmDtyFmLV8?si=gREVEDH_PKkzIGog&t=3205.
+
+Calidian: ""
+
 
 Some time passes, he dies, Fenian takes command of the empire and isn't doing a great job, there's dissent amongst the ranks and they're losing control over some of the other countries. Brokvar is straining. Fenian is visited in dream by a dark power promising them power and strength with which they can fill there father's shoes
 
