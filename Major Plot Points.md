@@ -3,7 +3,7 @@
 #### Musoko's Story
 Musoko, being hunted by Soromo, cast his soul into a crystal and cast it to the wind - the crystal is lost to time
 
-## 1770-1790 Two decades before the campaign starts
+## 1770-1790 
 
 #### Calidian's Story
 Calidian is on the war path and going slightly insane - goes to war with the rest of Senithar, leading to a civil war.
@@ -172,5 +172,7 @@ Jasper *dies*
 ### The Coronation
 
 ### The Foreign Job
+
+
 
 
