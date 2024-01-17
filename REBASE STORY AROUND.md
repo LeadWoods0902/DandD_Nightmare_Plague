@@ -25,9 +25,11 @@ Soromo's is discovered by Primalas, who sensing a strong connection to it takes 
 
 During their travel, Musoko is drawn from hibernation and in a drowsy outburst they expend most of their remaining power and lay waste to the ship. Realising their fault, they establish a connection with Primalas, and urge them to flee.
 
-Arriving in Heinabergsar, Musoko departs the crystal, leaving it empty and lifeless.
+Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifeless. They seek out someone of greater power and find the broken mind of Fenian.
 
-Visited during the night, Fenian has a vision of them ruling the whole of Senithar with an iron fist. Musoko reveals himself in a partial living form, having been deprived of sustenance for oh so long. Musoko explains that given time and support, he can help Fenian regain control of Senithar and even the realms beyond. Little to Fenian's knowledge, Musoko is already eating at her soul. Due to their mental state, Fenian is easily influence and agrees to help restore Musoko to power. Fenian doesn't fully understand what Musoko is however. 
+Visited during the night, Fenian has a vision of them ruling the whole of Senithar with an iron fist. Musoko influences 
+
+Musoko reveals himself in a partial living form, having been deprived of sustenance for oh so long. Musoko explains that given time and support, he can help Fenian regain control of Senithar and even the realms beyond. Little to Fenian's knowledge, Musoko is already eating at her soul. Due to their mental state, Fenian is easily influence and agrees to help restore Musoko to power. Fenian doesn't fully understand what Musoko is however. 
 
 Musoko explains that the sap of the Coeden of Brokvar will give him the sustenance he needs, however he is too weak to make the journey, having used the last of his power to generate the vision.
 
