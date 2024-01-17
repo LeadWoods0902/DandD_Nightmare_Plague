@@ -14,4 +14,4 @@
 - Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of the court after her father leaves for war
 - Mazikeen enters the tuition of her uncle, the spymaster of Theg Doruhl
 - Lucius is slain by Ven-Dryk during the reclamation of Brokvar
-- 
+- Mazikeen vows 
