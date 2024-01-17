@@ -5,7 +5,7 @@
 ### Character Info
 
 ##### Name 
-Naede Torieth
+Naêde Torieth
 ##### Current Age
 Unknown
 ##### Place of Origin
