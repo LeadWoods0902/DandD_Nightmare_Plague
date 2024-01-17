@@ -19,9 +19,19 @@ Several years of empirical rule plague Senithar
 ---
 ## A year before the campaign starts
 
+#### M
+
 After the death of Calidian, the empire defaults to the young Fenian. Fenian does a bad job of controlling the empire and they lose control of Marwolaeth in the latter end of the year.
 
 Soromo's crystal is discovered by Primalas, who sensing a strong connection to it takes into their possession and carries it with them to Senithar.
+
+#### Bismuth and Jasper's story
+
+#### Mazikeen's story
+
+#### Alfread's story
+
+#### Duska's story
 
 ---
 ## The Campaign begins
