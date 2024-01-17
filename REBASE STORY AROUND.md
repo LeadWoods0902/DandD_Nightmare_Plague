@@ -16,7 +16,7 @@ After the death of Calidian, the empire defaults to the young Fenian. Fenian doe
 
 Visited during the night, Fenian has a vision of them ruling the whole of Senithar with an iron fist. Musoko reveals himself in a partial living form, having been deprived of sustenance for oh so long. Musoko explains that given time and support, he can help Fenian regain control of Senithar and even the realms beyond. Little to Fenian's knowledge, Musoko is already eating at her soul. Due to their mental state, Fenian is easily influence and agrees to help restore Musoko to power. Fenian doesn't fully understand what Musoko is however. 
 
-Brokvar is currently under the control the empire and 
+Musoko explains that the sap of the Coeden of Brokvar will give him the sustenance he needs, however he is too weak to make the journey, having used the last of his power to generate the vi
 
 
 Musoko was solely interested in gaining power from the Coeden, which he'd heard of but was too weak to travel there himself, so he had Fenian export the sap to the empirical capital where he is recovering.  
