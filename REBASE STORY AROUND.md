@@ -6,8 +6,9 @@ The capital is destroyed and Vivienne dies along with Fenian's older brother who
 
 Enraged, Calidian goes to Brokvar in person and launches a siege on the capital. See https://youtu.be/FKmDtyFmLV8?si=gREVEDH_PKkzIGog&t=3205.
 
-Calidian: ""
+Calidian: "It is time for you to choose: surrender or die. Oh yes, a question for all the land and the people of Brokvar..."
 
+Calidian executes 
 
 Some time passes, he dies, Fenian takes command of the empire and isn't doing a great job, there's dissent amongst the ranks and they're losing control over some of the other countries. Brokvar is straining. Fenian is visited in dream by a dark power promising them power and strength with which they can fill there father's shoes
 
