@@ -95,7 +95,7 @@ Soromo's crystal is discovered by Primalas, who sensing a strong connection to i
 ###### Duska's Story
 
 
-## The Campaign begins
+## 1793 - The Campaign begins
 
 #### Fenian's Story
 
@@ -168,7 +168,8 @@ Jasper *dies*
 ###### Duska's Story
 
 
-## The Coronation
+## 1794 - 
+The Coronation
 
 ## The Foreign Job
 
