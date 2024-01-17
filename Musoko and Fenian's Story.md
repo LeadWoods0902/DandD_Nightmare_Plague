@@ -19,35 +19,41 @@ Several years of empirical rule plague Senithar
 ---
 ## A year before the campaign starts
 
-#### M
-
+#### Fenian's story
 After the death of Calidian, the empire defaults to the young Fenian. Fenian does a bad job of controlling the empire and they lose control of Marwolaeth in the latter end of the year.
 
+#### Musoko's story
 Soromo's crystal is discovered by Primalas, who sensing a strong connection to it takes into their possession and carries it with them to Senithar.
+
+
 
 #### Bismuth and Jasper's story
 
+
 #### Mazikeen's story
+
 
 #### Alfread's story
 
+
 #### Duska's story
+
 
 ---
 ## The Campaign begins
 
-#### Musoko's story
+#### Fenian's story
 
+
+#### Musoko's story
 During their travel, Musoko is drawn from hibernation and in a drowsy outburst they expend most of their remaining power and lay waste to the ship. Realising their fault, they establish a connection with Primalas, and urge them to flee.
 
 Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifeless. They seek out someone of greater power and finds the ambitious Fenian, young empress of an expansive empire. Musoko shows Fenian has a vision of them ruling the whole of Senithar with an iron fist and establishes a symbiotic relationship, etching themselves onto Fenian's conscience. Musoko does not reveal themself but Fenian gradually gains a new sense of confidence and power. 
-
 
 #### Circe's story
 
 
 #### The Party's story
-
 
 
 ---
