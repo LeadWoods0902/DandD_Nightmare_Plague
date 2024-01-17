@@ -8,9 +8,11 @@ Enraged, Calidian goes to Brokvar in person and launches a siege on the capital.
 
 ---
 
-Fill in here
+Several years of empirical rule plague Senithar
 
 ---
+
+#### A year before the campaign starts
 
 After the death of Calidian, the empire defaults to the young Fenian. Fenian does a bad job of controlling the empire and they lose control of Marwolaeth.
 
