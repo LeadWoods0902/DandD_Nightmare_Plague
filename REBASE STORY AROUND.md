@@ -23,3 +23,5 @@ Musoko was solely interested in gaining power from the Coeden, which he'd heard 
 
 maybe?
 
+*Musoko is not eating at Fenian's soul, but rather seeking a symbiotic relationship to share power and restore balance to Senithar?*
+
