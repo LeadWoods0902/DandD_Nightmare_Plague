@@ -57,10 +57,13 @@ Circe is young, around 10
 
 
 
-## 1791
-
+## 1789
 #### Mazikeen's Story
-Mazikeen shares her plot to kill Ven-Dryk with Lupella - a
+Mazikeen shares her plot to kill Ven-Dryk with Lupella - affronted by this, Lupella imprisons Mazikeen
+
+## 1791
+#### Mazikeen's Story
+Mazikeen 
 
 ## 1792
 #### Fenian's Story
