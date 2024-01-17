@@ -25,7 +25,7 @@
 - Olum's existence begins (coinciding with the beginning of all time)
 - Olum knows only one thing and that is that existence is cyclic and cannot be broken nor extended
 - The Banished Greater Dragons: Higashi (Dogu) and Nishi (Bati) arrive in Sunmaek
-- They establish themselves as powerful beings, drawing devotees and establishing their religion an founding a large city
+- They establish themselves as powerful beings, drawing devotees and establishing their religion and founding a large city
 - Olum's existence is considered a threat to Dogu & Bati's continued existence in Surmaria
 - Olum is slain in combat by Dogu & Bati and his existence passes into legend
 - Several thousand years pass
