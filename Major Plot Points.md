@@ -146,14 +146,14 @@ Mazikeen awakens, with no memory of how or why they are there. While running in 
   - Taken to a bed and watched over for the night.
 
 - **Meeting Elaine and Joining the Group:**
-  - Mazikeen wakes the next morning.
-  - Strange woman, Elaine, offers help.
+  - Mazikeen awake three morning's later.
+  - A strange woman, Elaine, offers help.
   - Mazikeen, with no other recovery plan for her memory, accepts.
   - Enters the Common Room to find Elaine is associated with Duska and has adopted a group of broken individuals.
   - Group is instructed to prepare to leave and gather necessities in town.
 
 - **Exploration and Tensions in Virmarr:**
-  - Witnesses Elaine being shouted out of the mayor's house during an excursion in Virmarr.
+  - Witnesses Elaine being shouted out of the mayor's house.
   - Party leaves the town and travels north for a day, camping on the edge of The Weald.
 
 - **Revelations and Plans:**
