@@ -115,9 +115,7 @@ Over the course of several meetings, Mazikeen establishes that the Trident is of
 #### Mazikeen's Story
 - Mazikeen and Alaric escape, with Mazikeen detouring to Lupella's chambers to take the trident. Lupella sends a bounty hunter after them.
 - A bounty hunter catches up with Mazikeen, leading to a confrontation.
-- During the fight, the bounty hunter casts a hex at Mazikeen, causing the trident to shatter as it absorbs the spell. The chaos induced by the interaction destroys Alaric's body
-Shards of the trident embed themselves in Mazikeen's body, pinning her soul and making her effectively immortal.
-Mazikeen's soul is unable to leave her body due to the embedded shards.
+- During the fight, the bounty hunter casts a hex at Mazikeen, causing the trident to shatter as it absorbs the spell. The chaos induced by the interaction destroys Alaric's body. Shards of the trident embed themselves in Mazikeen's body, pinning her soul and making her effectively immortal. Mazikeen's soul is unable to leave her body due to the embedded shards.
 The inability for her soul to enter the soul realm attracts the souls of recently deceased relatives towards her.
 The shards preventing her soul from leaving also prevent others from binding with her.
 The attracted souls attach to a nearby host with matching blood, a bastard of Lucius' born in Brokvar during the war.
