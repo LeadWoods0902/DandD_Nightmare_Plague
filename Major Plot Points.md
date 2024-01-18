@@ -113,7 +113,15 @@ Over the course of several meetings, Mazikeen establishes that the Trident is of
 
 
 #### Mazikeen's Story
-Mazikeen and Alaric make their escape, Mazikeen takes a detour via Lupella's chambers and takes the trident. Lupella sends a bounty hunter after them. On the run, one of Lupella's Bounty Hunters catches up with Mazikeen and the trio end up fighting. The bounty hunter casts a hex at Mazikeen, which is absorbed by the trident, shattering it. The spell effect is still substantial and Alaric's weaker body takes the brunt of the force. Shards of the trident embed themselves within Mazikeen's body - the shards pin her soul to her body, preventing it from leaving. Effectively, Mazikeen is immortal while the shards remain inside her - without them, her soul will leave. As a consequence of her soul being unable to pass into the soul realm, the souls of recently deceased relatives are magnetised towards her - however the shards that are keeping her soul from leaving also prevent others from binding. The souls, now in the mortal plane attach to a nearby host of matching blood - a bastard of Lucius' who he had while in Brokvar during the war.
+- Mazikeen and Alaric escape, with Mazikeen detouring to Lupella's chambers to take the trident. Lupella sends a bounty hunter after them.
+- A bounty hunter catches up with Mazikeen, leading to a confrontation.
+- During the fight, the bounty hunter casts a hex at Mazikeen, causing the trident to shatter as it absorbs the spell.
+The substantial spell effect harms Alaric's weaker body.
+Shards of the trident embed themselves in Mazikeen's body, pinning her soul and making her effectively immortal.
+Mazikeen's soul is unable to leave her body due to the embedded shards.
+The inability for her soul to enter the soul realm attracts the souls of recently deceased relatives towards her.
+The shards preventing her soul from leaving also prevent others from binding with her.
+The attracted souls attach to a nearby host with matching blood, a bastard of Lucius' born in Brokvar during the war.
 **Awakening:**
 - Mazikeen wakes up with no memory of her surroundings.
 - While attempting to escape, unleashes a powerful wave of energy combining the trident's power and a part of her soul.
