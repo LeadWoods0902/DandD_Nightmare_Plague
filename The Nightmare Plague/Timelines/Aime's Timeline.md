@@ -17,6 +17,5 @@
 26 | Mazikeen departs for Brokvar
 27 | Mazikeen meets Lupella while travelling the coast. Neither knows who the other is but the two enter an agreement whereby Lupella will aid Mazikeen in finding her father's killer if she helps smuggle something back across the border to Llawyr yn Mawr. "My mother was killed by the empire, I don't know who swung the blade and it's eaten away at me my whole life".
 28 | Mazikeen returns to Gogledd Ynys, and is imprisoned by Lupella who has discovered that it was her father who killed Mazikeen's father.
-31 | Mazikeen, forms an alliance with another inmate Alaric, the two vow to escape. 
-33 | Mazikeen is brought to Lupella, who questio
+31 | Mazikeen, forms an alliance with another inmate Alaric, the two vow to escape - Mazikeen is brought to Lupella, who questions her about her relationship with her father. Mazikeen sees the trident for the first time.
 On the run, one of Lupella's Bounty Hunters catches up with Mazikeen and the pair end up fighting... The bounty hunter is a warlock and they cast a killing spell upon Mazikeen, which is absorbed by the trident, shattering it - the spell half effects Mazikeen, damning her soul but leaving the mortal shell, fuelled not by life but the killing curse. 
