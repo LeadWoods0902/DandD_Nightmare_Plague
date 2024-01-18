@@ -108,7 +108,7 @@ Soromo's crystal is discovered by Primalas, who sensing a strong connection to i
 #### Mazikeen's Story
 Over the course of several meetings, Mazikeen establishes that the Trident is of great importance to Lupella's plans
 
-## 1793 
+## 1793 - The Campaign Begins 
 #### Fenian's Story
 
 
