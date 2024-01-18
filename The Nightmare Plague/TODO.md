@@ -12,4 +12,4 @@
 - [ ] Add Fast Movement
 - [ ] Blacksmiths
 
-Alaric's religion
+Woodfall's religion
