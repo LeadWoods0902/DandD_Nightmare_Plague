@@ -1,9 +1,9 @@
-## Ten thousand years before the campaign starts
+## Before the year 0
 
 #### Musoko's Story
 Musoko, being hunted by Soromo, cast his soul into a crystal and cast it to the wind - the crystal is lost to time
 
-
+#### Olum's Story
 
 ## 1770-1790 
 
