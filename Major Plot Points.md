@@ -105,35 +105,14 @@ Soromo's crystal is discovered by Primalas, who sensing a strong connection to i
 #### Circe's Story
 
 
-#### The Party's Story
-###### Bismuth's Story
-
-
-###### Jasper's Story
-
-
-###### Mazikeen's Story
+#### Mazikeen's Story
 Over the course of several meetings, Mazikeen establishes that the Trident is of great importance to Lupella's plans
 
-###### Alfread's Story
-
-
-###### Rolbam's Story
-
-
-###### Seram's Story
-
-
-###### Malkath's Story
-
-
-###### Stronvan's Story
-
-
-###### Duska's Story
-
-
 ## 1793 
+
+#### Mazikeen's Story
+
+
 ### The Campaign begins
 
 #### Fenian's Story
@@ -154,7 +133,7 @@ Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifele
 ###### Jasper's Story
 
 
-###### Mazikeen's Story
+
 
 
 ###### Alfread's Story
