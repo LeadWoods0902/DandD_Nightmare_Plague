@@ -4,37 +4,7 @@
 Musoko, being hunted by Soromo, cast his soul into a crystal and cast it to the wind - the crystal is lost to time
 
 
-## 1760
-#### Mazikeen's Story
-Mazikeen is born to Lucius and Lilith Crestwood
 
-## 1776
-#### Mazikeen's Story
-Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of the court after her father leaves for war 
-
-## 1778
-#### Mazikeen's Story
-Mazikeen enters the tuition of her uncle, the spymaster of Theg Doruhl
-
-## 1783
-#### Mazikeen's Story
-Lucius is slain by Ven-Dryk during the reclamation of Brokvar - Mazikeen vows vengeance on the unknown to her person that slew her father.
-
-## 1786
-#### Mazikeen's Story
-Mazikeen departs for Brokvar
-
-## 1787
-#### Mazikeen's Story
-Mazikeen meets Lupella while travelling the coast. Neither knows who the other is but the two enter an agreement whereby Lupella will aid Mazikeen in finding her father's killer if she helps smuggle something back across the border to Llawyr yn Mawr. 
-
-## 1788
-#### Mazikeen's Story
-Mazikeen returns to Gogledd Ynys, and is imprisoned by Lupella who has discovered that it was her father who killed Mazikeen's father.
-
-## 1791
-#### Mazikeen's Story
-Mazikeen, forms an alliance with another inmate Alaric, the two vow to escape - Mazikeen is brought to Lupella, who questions her about her relationship with her father. Mazikeen recognises a trident that she smuggled across the border. Lupella notices and comments that is has the most peculiar of construction.
 ## 1770-1790 
 
 #### Calidian's Story
@@ -88,15 +58,42 @@ Circe is young, around 10
 ###### Duska's Story
 
 
+
+## 1760
+#### Mazikeen's Story
+Mazikeen is born to Lucius and Lilith Crestwood
+
+## 1776
+#### Mazikeen's Story
+Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of the court after her father leaves for war 
+
+## 1778
+#### Mazikeen's Story
+Mazikeen enters the tuition of her uncle, the spymaster of Theg Doruhl
+
+## 1783
+#### Mazikeen's Story
+Lucius is slain by Ven-Dryk during the reclamation of Brokvar - Mazikeen vows vengeance on the unknown to her person that slew her father.
+
+## 1786
+#### Mazikeen's Story
+Mazikeen departs for Brokvar
+
+## 1787
+#### Mazikeen's Story
+Mazikeen meets Lupella while travelling the coast. Neither knows who the other is but the two enter an agreement whereby Lupella will aid Mazikeen in finding her father's killer if she helps smuggle something back across the border to Llawyr yn Mawr. 
+
+## 1788
+#### Mazikeen's Story
+Mazikeen returns to Gogledd Ynys, and is imprisoned by Lupella who has discovered that it was her father who killed Mazikeen's father.
+
 ## 1789
 #### Mazikeen's Story
 Mazikeen shares her plot to kill Ven-Dryk with Lupella - affronted by this, Lupella imprisons Mazikeen.
 
 ## 1791
 #### Mazikeen's Story
-Mazikeen escapes from the dungeons of Y Gaer-Nhymestl and escape sto Brokvar. Lupella sends the bounty hunter Naêde after them.
-
-Naêde catches up with Mazikeen
+Mazikeen, forms an alliance with another inmate Alaric, the two vow to escape - Mazikeen is brought to Lupella, who questions her about her relationship with her father. Mazikeen recognises a trident that she smuggled across the border. Lupella notices and comments that is has the most peculiar of construction.
 
 ## 1792
 #### Fenian's Story
@@ -116,7 +113,7 @@ Soromo's crystal is discovered by Primalas, who sensing a strong connection to i
 
 
 ###### Mazikeen's Story
-
+Over the course of several meetings, Mazikeen establishes that the Trident is of great importance to Lupella's plans
 
 ###### Alfread's Story
 
