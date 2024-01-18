@@ -81,7 +81,7 @@ Mazikeen departs for Brokvar
 
 ## 1787
 #### Mazikeen's Story
-Mazikeen meets Lupella while travelling the coast. Neither knows who the other is but the two enter an agreement whereby Lupella will aid Mazikeen in finding her father's killer if she helps smuggle something back across the border to Llawyr yn Mawr. 
+Mazikeen meets Lupella while travelling the coast. Unaware of each other's true identities, they forge an alliance with a mutual goal: vengeance and a shared desire for justice.
 
 ## 1788
 #### Mazikeen's Story
