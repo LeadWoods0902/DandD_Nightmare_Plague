@@ -113,24 +113,7 @@ Over the course of several meetings, Mazikeen establishes that the Trident is of
 
 
 #### Mazikeen's Story
-Mazikeen and Alaric make their escape, Mazikeen takes a detour via Lupella's chambers and takes the trident. Lupella sends a bounty hunter after them. On the run, one of Lupella's Bounty Hunters catches up with Mazikeen and the trio end up fighting. The bounty hunter casts a hex at Mazikeen, which is absorbed by the trident, shattering it. The spell effect is still substantial and Alaric's weaker body takes the brunt of the force. Shards of the trident embed themselves within Mazikeen's body - the shards pin her soul to her body, preventing it from leaving. Effectively, Mazikeen is immortal while the shards remain inside her - without them, her soul will leave. As a consequence of her soul being unable to pass into the soul realm, the souls of recently deceased relatives are magnetised towards her - however the shards that are keeping her soul from leaving also prevent others from binding. The souls, now in the mortal plane attach to a nearby host of matching blood - a bastard of Lucius' who he had while in Brokvar during the war
-
-#### Musoko's Story
-During their travel, Musoko is drawn from hibernation and in a drowsy outburst they expend most of their remaining power and lay waste to the ship. Realising their fault, they establish a connection with Primalas, and urge them to flee.
-
-Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifeless. They seek out someone of greater power and finds the ambitious Fenian, young empress of an expansive empire. Musoko shows Fenian has a vision of them ruling the whole of Senithar with an iron fist and establishes a symbiotic relationship, etching themselves onto Fenian's conscience. Musoko does not reveal themself but Fenian gradually gains a new sense of confidence and power. 
-
-#### Circe's Story
-
-
-#### The Party's Story
-##### Bismuth's Story
-
-
-##### Jasper's Story
-
-
-##### Mazikeen's Story
+Mazikeen and Alaric make their escape, Mazikeen takes a detour via Lupella's chambers and takes the trident. Lupella sends a bounty hunter after them. On the run, one of Lupella's Bounty Hunters catches up with Mazikeen and the trio end up fighting. The bounty hunter casts a hex at Mazikeen, which is absorbed by the trident, shattering it. The spell effect is still substantial and Alaric's weaker body takes the brunt of the force. Shards of the trident embed themselves within Mazikeen's body - the shards pin her soul to her body, preventing it from leaving. Effectively, Mazikeen is immortal while the shards remain inside her - without them, her soul will leave. As a consequence of her soul being unable to pass into the soul realm, the souls of recently deceased relatives are magnetised towards her - however the shards that are keeping her soul from leaving also prevent others from binding. The souls, now in the mortal plane attach to a nearby host of matching blood - a bastard of Lucius' who he had while in Brokvar during the war.
 **Awakening:**
 - Mazikeen wakes up with no memory of her surroundings.
 - While attempting to escape, unleashes a powerful wave of energy combining the trident's power and a part of her soul.
@@ -157,6 +140,24 @@ Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifele
 **Journey to Brokvar:**
 - Continues traveling north for three more days.
 - Reaches the city of Brokvar.
+
+#### Musoko's Story
+During their travel, Musoko is drawn from hibernation and in a drowsy outburst they expend most of their remaining power and lay waste to the ship. Realising their fault, they establish a connection with Primalas, and urge them to flee.
+
+Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifeless. They seek out someone of greater power and finds the ambitious Fenian, young empress of an expansive empire. Musoko shows Fenian has a vision of them ruling the whole of Senithar with an iron fist and establishes a symbiotic relationship, etching themselves onto Fenian's conscience. Musoko does not reveal themself but Fenian gradually gains a new sense of confidence and power. 
+
+#### Circe's Story
+
+
+#### The Party's Story
+##### Bismuth's Story
+
+
+##### Jasper's Story
+
+
+##### Mazikeen's Story
+
 
 ##### Alfread's Story
 
