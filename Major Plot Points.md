@@ -109,15 +109,13 @@ Soromo's crystal is discovered by Primalas, who sensing a strong connection to i
 Over the course of several meetings, Mazikeen establishes that the Trident is of great importance to Lupella's plans
 
 ## 1793 
-
-#### Mazikeen's Story
-
-
-### The Campaign begins
-
 #### Fenian's Story
 
 
+#### Mazikeen's Story
+Mazikeen and Alaric make their escape, Mazikeen takes a detour via Lupella's chambers and takes the trident. Lupella sends a bounty hunter after them. On the run, one of Lupella's Bounty Hunters catches up with Mazikeen and the trio end up fighting. The bounty hunter is a warlock and they cast a killing spell at Mazikeen, which is absorbed by the trident, shattering it - the spell half effects Mazikeen, damning her soul but leaving the mortal shell, fuelled not by life but the killing curse. Alaric dies in the ensuing chaos caused by the spell and trident interacting.
+
+### The Campaign begins
 #### Musoko's Story
 During their travel, Musoko is drawn from hibernation and in a drowsy outburst they expend most of their remaining power and lay waste to the ship. Realising their fault, they establish a connection with Primalas, and urge them to flee.
 
@@ -133,7 +131,8 @@ Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifele
 ###### Jasper's Story
 
 
-
+###### Mazikeen's Story
+Mazikeen awakens in a crater, with no memory of how or why they are there
 
 
 ###### Alfread's Story
