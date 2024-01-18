@@ -132,7 +132,7 @@ Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifele
 
 
 ###### Mazikeen's Story
-Mazikeen awakens in a crater, with no memory of how or why they are there. Mazikeen unleashes a wave of energy - a combin
+Mazikeen awakens, with no memory of how or why they are there. While running in an attempt to escape, Mazikeen unleashes a wave of energy - a combination of the power of the trident and a part of her soul. This causes her to fall into unconsciousness and collapse, rolling down a hill and into 
 
 ###### Alfread's Story
 
