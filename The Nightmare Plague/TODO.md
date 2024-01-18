@@ -11,3 +11,5 @@
 - [ ] Reword Spirit Strike
 - [ ] Add Fast Movement
 - [ ] Blacksmiths
+
+Alaric's religion
