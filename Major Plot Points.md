@@ -87,9 +87,6 @@ Mazikeen meets Lupella while travelling the coast. Neither knows who the other i
 #### Mazikeen's Story
 Mazikeen returns to Gogledd Ynys, and is imprisoned by Lupella who has discovered that it was her father who killed Mazikeen's father.
 
-## 1789
-#### Mazikeen's Story
-Mazikeen shares her plot to kill Ven-Dryk with Lupella - affronted by this, Lupella imprisons Mazikeen.
 
 ## 1791
 #### Mazikeen's Story
