@@ -1,12 +1,16 @@
 | year | relative year | location | event |
 | ---- | ---- | ---- | ---- |
-| 1760 | -33 |  | Mazikeen is born to Lucius and Lilith Crestwood |
-| 1776 |  |  |  |
-| 1778 |  |  |  |
-| 1783 |  |  |  |
-| 1786 |  |  |  |
-| 1788 |  |  |  |
-|  |  |  |  |
+| 1760 | 0 |  | Mazikeen is born to Lucius and Lilith Crestwood |
+| 1777 | 6 |  |  |
+| 1778 | 8 |  |  |
+| 1783 | 23 |  |  |
+| 1786 | 26 |  |  |
+| 1787 | 27 |  |  |
+| 1788 | 28 |  |  |
+| 1789 | 31 |  |  |
+| 1791 |  |  |  |
+| 1792 |  |  |  |
+| 1793 |  |  |  |
 
 
 0   | Mazikeen is born to Lucius and Lilith Crestwood
