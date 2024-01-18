@@ -3,6 +3,21 @@
 #### Musoko's Story
 Musoko, being hunted by Soromo, cast his soul into a crystal and cast it to the wind - the crystal is lost to time
 
+
+## 1760
+#### Mazikeen's Story
+Mazikeen is born to Lucius and Lilith Crestwood
+
+## 1776
+#### Mazikeen's Story
+Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of the court after her father leaves for war 
+
+## 1778
+#### Mazikeen's Story
+Mazikeen enters the tuition of her uncle, the spymaster of Theg Doruhl
+
+## 1783
+Lucius is slain by Ven-Dryk during the reclamation of Brokvar - Mazikeen vows vengeance on the unknown to her person that slew her father.
 ## 1770-1790 
 
 #### Calidian's Story
