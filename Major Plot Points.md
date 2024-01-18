@@ -17,7 +17,24 @@ Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of t
 Mazikeen enters the tuition of her uncle, the spymaster of Theg Doruhl
 
 ## 1783
+#### Mazikeen's Story
 Lucius is slain by Ven-Dryk during the reclamation of Brokvar - Mazikeen vows vengeance on the unknown to her person that slew her father.
+
+## 1786
+#### Mazikeen's Story
+Mazikeen departs for Brokvar
+
+## 1787
+#### Mazikeen's Story
+Mazikeen meets Lupella while travelling the coast. Neither knows who the other is but the two enter an agreement whereby Lupella will aid Mazikeen in finding her father's killer if she helps smuggle something back across the border to Llawyr yn Mawr. 
+
+## 1788
+#### Mazikeen's Story
+Mazikeen returns to Gogledd Ynys, and is imprisoned by Lupella who has discovered that it was her father who killed Mazikeen's father.
+
+## 1791
+#### Mazikeen's Story
+Mazikeen, forms an alliance with another inmate Alaric, the two vow to escape - Mazikeen is brought to Lupella, who questions her about her relationship with her father. Mazikeen recognises a trident that she smuggled across the border. Lupella notices and comments that is has the most peculiar of construction.
 ## 1770-1790 
 
 #### Calidian's Story
