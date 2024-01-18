@@ -93,6 +93,9 @@ Mazikeen returns to Gogledd Ynys, and is imprisoned by Lupella who has discovere
 Mazikeen, forms an alliance with another inmate Alaric, the two vow to escape - Mazikeen is brought to Lupella, who questions her about her relationship with her father. Mazikeen recognises a trident that she smuggled across the border. Lupella notices and comments that is has the most peculiar of construction.
 
 ## 1792
+#### Mazikeen's Story
+Over the course of several meetings, Mazikeen establishes that the Trident is of great importance to Lupella's plans
+
 #### Fenian's Story
 After the death of Calidian, the empire defaults to the young Fenian. Fenian does a bad job of controlling the empire and they lose control of Marwolaeth
 
