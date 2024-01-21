@@ -21,44 +21,6 @@ Enraged, Calidian goes to Brokvar in person and launches a siege on the capital.
 Several years of empirical rule plague Senithar
 
 
-#### Napella's Story
-
-
-#### Fenian's Story
-
-
-#### Circe's Story
-Circe is young, around 10
-
-#### The Party's Story
-###### Bismuth's Story
-
-
-###### Jasper's Story
-
-
-###### Mazikeen's Story
-
-
-###### Alfread's Story
-
-
-###### Rolbam's Story
-
-
-###### Seram's Story
-
-
-###### Malkath's Story
-
-
-###### Stronvan's Story
-
-
-###### Duska's Story
-
-
-
 ## 1649
 Duska Halloni is born
 ## 1673
@@ -78,6 +40,9 @@ Mazikeen is born to Lucius and Lilith Crestwood - the lord and lady of Woodfall
 ## 1768
 #### The Genasi Twin's Story
 Bismuth and Jasper are born
+
+## 1772
+
 ## 1777
 #### Mazikeen's Story
 Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of the court after her father leaves for war
