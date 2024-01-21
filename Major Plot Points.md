@@ -59,6 +59,10 @@ Circe is young, around 10
 
 
 
+## 1649
+Duska Halloni is born
+## 1753
+Duska Discovers Mortos' Tome and 
 ## 1760
 #### Mazikeen's Story
 Mazikeen is born to Lucius and Lilith Crestwood - the lord and lady of Woodfall
