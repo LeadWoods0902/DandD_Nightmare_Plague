@@ -37,11 +37,15 @@ Duska recovers Omen
 #### Mazikeen's Story
 Mazikeen is born to Lucius and Lilith Crestwood - the lord and lady of Woodfall
 
+
+## 1762
+
+#### Circe's Story
+
 ## 1768
 #### The Genasi Twin's Story
 Bismuth and Jasper are born
 
-## 1772
 
 ## 1777
 #### Mazikeen's Story
