@@ -17,6 +17,11 @@ A war breaks out between Llawyr un Mawr and Esgid
 #### Marquella's Story
 Marquella supports Esgid in the war
 
+## 1628
+
+#### Rolbam's Story
+Rolbam
+
 # 1640s
 ## 1649
 #### Duska's Story (0)
