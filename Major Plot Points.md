@@ -160,37 +160,9 @@ During their travel, Musoko is drawn from hibernation and in a drowsy outburst t
 Arriving in Heinabergsar, Musoko departs the crystal leaving it empty and lifeless. They seek out someone of greater power and finds the ambitious Fenian, young empress of an expansive empire. Musoko shows Fenian has a vision of them ruling the whole of Senithar with an iron fist and establishes a symbiotic relationship, etching themselves onto Fenian's conscience. Musoko does not reveal themself but Fenian gradually gains a new sense of confidence and power. 
 
 #### Malkath's Story
-Malkath succumbs to madness after resestab
+Malkath succumbs to madness after re-establishing a connection with Musoko
 
 #### Circe's Story
-
-
-#### The Party's Story
-##### Bismuth's Story
-
-
-##### Jasper's Story
-
-
-##### Mazikeen's Story
-
-
-##### Alfread's Story
-
-
-##### Rolbam's Story
-
-
-##### Seram's Story
-
-
-##### Malkath's Story
-
-
-##### Stronvan's Story
-
-
-##### Duska's Story
 
 
 ### The Border Job
@@ -198,32 +170,7 @@ The party do some work for Circe for a border baron
 ### The Pirate Job
 
 #### The Party's Story
-###### Bismuth's Story
-
-
-###### Jasper's Story
-Jasper *dies*
-
-###### Mazikeen's Story
-
-
-###### Alfread's Story
-
-
-###### Rolbam's Story
-
-
-###### Seram's Story
-
-
-###### Malkath's Story
-
-
-###### Stronvan's Story
-
-
-###### Duska's Story
-
+Jasper "dies"
 
 ## 1794
 ### The Coronation
