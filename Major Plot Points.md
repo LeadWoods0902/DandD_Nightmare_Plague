@@ -12,6 +12,10 @@ Nëoris dies and a tree begins to grow nearby
 #### Rolbam's Story
 A war breaks out between Llawyr un Mawr and Esgid
 
+## 1626
+
+#### Napella's mother
+
 # 1640s
 ## 1649
 #### Duska's Story (0)
