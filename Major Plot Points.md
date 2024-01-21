@@ -61,6 +61,9 @@ Circe is young, around 10
 
 ## 1649
 Duska Halloni is born
+## 1673
+#### Rolbam's Story
+Rolbam dies in a magical experiment gone awry, transforming him into a gravitational anomaly that imploded.
 ## 1753
 Duska Discovers Mortos' Tome and swears fealty to Mortos.
 
@@ -106,7 +109,7 @@ Bismuth encounters a Wilderbeast and is granted transformative powers by Kaede, 
 Mazikeen returns to Gogledd Ynys, and is imprisoned by Lupella who has discovered that it was her father who killed Mazikeen's father.
 
 #### Seram's Story
-Seram is tortured to death after being captured, Seram refuses to reveal crucial information about the rebellion.
+Seram is tortured to death after being captured, Seram refuses to reveal crucial information about the Roderika's Rebellion and her location.
 ## 1790
 
 #### The Genasi Twin's Story
