@@ -100,7 +100,9 @@ Mazikeen returns to Gogledd Ynys, and is imprisoned by Lupella who has discovere
 ## 1790
 
 #### The Genasi Twin's Story
-Jasper saves both Nieveler Genlen's crop and consequently, Harukaze from starvatio
+Jasper saves both Nieveler Genlen's crop and consequently, Harukaze from starvation. 
+
+Jasper and Bismuth are caught by slavers in their sleep
 ## 1791
 #### Mazikeen's Story
 Mazikeen, forms an alliance with another inmate Alaric, the two vow to escape - Mazikeen is brought to Lupella, who questions her about her relationship with her father. Mazikeen recognises a trident that she smuggled across the border. Lupella notices and comments that is has the most peculiar of construction.
@@ -124,6 +126,8 @@ Over the course of several meetings, Mazikeen establishes that the Trident is of
 ## 1793 - The Campaign Begins 
 #### Fenian's Story
 
+#### The Genasi Twin's Story
+Jasper forms a bond with a passenger on the ship, the lesser dragon Primalas
 
 #### Mazikeen's Story
 - Mazikeen and Alaric escape, with Mazikeen detouring to Lupella's chambers to take the trident. Lupella sends a bounty hunter after them.
