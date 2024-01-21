@@ -16,7 +16,7 @@
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Gogledd-Ynys/Lupella Torieth.md","id":"113a592524a09d9b","x":1493,"y":355,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Amorella Lundgren.md","id":"d41f95714841f6e3","x":1040,"y":-240,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Rheilliwch/Ayven Torrieth.md","id":"e9071f9459f501b4","x":1946,"y":-240,"width":400,"height":400,"color":"4"},
-		{"id":"f52ba4afc75a0826","x":815,"y":-1480,"width":400,"height":400,"type":"file","file":"Marquella.md"},
+		{"id":"f52ba4afc75a0826","x":815,"y":-1480,"width":400,"height":400,"type":"file","file":"Marquella Lundgren.md"},
 		{"type":"text","text":"","id":"e396cb980cee0398","x":1415,"y":-1305,"width":50,"height":50}
 	],
 	"edges":[
@@ -34,6 +34,7 @@
 		{"id":"bfa74534bf67fc2c","fromNode":"e9071f9459f501b4","fromSide":"left","toNode":"f65db8e6d4873507","toSide":"right"},
 		{"id":"d57bf8df931312e0","fromNode":"f65db8e6d4873507","fromSide":"bottom","toNode":"113a592524a09d9b","toSide":"top"},
 		{"id":"181b2324d9e59256","fromNode":"47c974b08d194b81","fromSide":"bottom","toNode":"b93c4abf29fb948c","toSide":"top"},
-		{"id":"80a0592198c08855","fromNode":"f52ba4afc75a0826","fromSide":"right","toNode":"e396cb980cee0398","toSide":"bottom"}
+		{"id":"80a0592198c08855","fromNode":"f52ba4afc75a0826","fromSide":"right","toNode":"e396cb980cee0398","toSide":"left"},
+		{"id":"38fd51e66085d38c","fromNode":"e396cb980cee0398","fromSide":"bottom","toNode":"a6a494d33755280a","toSide":"top"}
 	]
 }
