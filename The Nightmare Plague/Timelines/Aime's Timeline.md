@@ -1,8 +1,8 @@
 | Year | Age | Events |
 | ---- | ---- | ---- |
 | 1760 | 0 | Mazikeen is born to Lucius and Lilith Crestwood - the lord and lady of Woodfall |
-| 1777 | 6 | Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of the court after her father leaves for war |
-| 1778 | 8 | Mazikeen enters the tuition of her uncle, the spymaster of Theg Doruhl |
+| 1777 | 17 | Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of the court after her father leaves for war |
+| 1778 | 18 | Mazikeen enters the tuition of her uncle, the spymaster of Theg Doruhl |
 | 1783 | 23 | Lucius is slain by Ven-Dryk during the reclamation of Brokvar - Mazikeen vows vengeance on the unknown to her person that slew her father |
 | 1786 | 26 | Mazikeen departs for Brokvar |
 | 1787 | 27 | Mazikeen's journey takes an unexpected turn when she encounters Lupella during her coastal travels. Unaware of each other's true identities, they forge an alliance with a mutual goal: vengeance and a shared desire for justice. |
