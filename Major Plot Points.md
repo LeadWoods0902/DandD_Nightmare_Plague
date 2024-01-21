@@ -31,16 +31,19 @@ Several years of empirical rule plague Senithar
 
 
 ## 1649
+#### Duska's Story (0)
 Duska Halloni is born
 ## 1673
 #### Rolbam's Story
 Rolbam dies in a magical experiment gone awry, transforming him into a gravitational anomaly that imploded.
 ## 1753
+#### Duska's Story
 Duska Discovers Mortos' Tome and swears fealty to Mortos.
 
 Duska is granted the title of Master Librarian
 
 ## 1759
+#### Duska's Story
 Duska recovers Omen
 ## 1760
 #### Mazikeen's Story (0)
@@ -120,7 +123,7 @@ Stronvan is slain in combat by Niahl
 ## 1793 - The Campaign Begins 
 #### Fenian's Story
 
-#### The Genasi Twin's Story
+#### The Genasi Twin's Story (25)
 Jasper forms a bond with a passenger on the ship, the lesser dragon Primalas
 
 #### Mazikeen's Story
