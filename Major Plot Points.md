@@ -6,7 +6,10 @@ Musoko, being hunted by Soromo, cast his soul into a crystal and cast it to the 
 #### Olum's Story
 
 #### Nëoris' Story
+Nëoris dies and a tree begins to grow nearby
 
+## 1583
+A war breaks out between Llawyr un Mawr and Esgid
 
 
 ## insert in 1770-1790 

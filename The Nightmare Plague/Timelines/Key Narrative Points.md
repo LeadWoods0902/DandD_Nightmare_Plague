@@ -1,6 +1,6 @@
 ## Pre-campaign
 #### Seni
-- A powerful being (Nëoris) dies, from his body the Coeden begins to grow
+- *A powerful being (Nëoris) dies, from his body the Coeden begins to grow*
 - The city of Brokvar is built up around this tree as it is discovered its sap has healing properties
 - Brokvar and Rheilliwch war over the city for years but one of Napella's ancestors secures a lasting peace through a demonstration of power - Rheilliwch signs a peace treaty
 - Several hundred years pass and the throne passes to Napella
