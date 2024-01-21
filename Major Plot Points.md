@@ -62,7 +62,12 @@ Circe is young, around 10
 ## 1649
 Duska Halloni is born
 ## 1753
-Duska Discovers Mortos' Tome and 
+Duska Discovers Mortos' Tome and swears fealty to Mortos.
+
+Duska is granted the title of Master Librarian
+
+## 1759
+Duska recovers Omen
 ## 1760
 #### Mazikeen's Story
 Mazikeen is born to Lucius and Lilith Crestwood - the lord and lady of Woodfall
