@@ -5,7 +5,7 @@ Musoko, being hunted by Soromo, cast his soul into a crystal and cast it to the 
 
 #### Olum's Story
 
-## 1770-1790 
+## insert in 1770-1790 
 
 #### Calidian's Story
 Calidian is on the war path and going slightly insane - goes to war with the rest of Senithar, leading to a civil war.
@@ -63,6 +63,9 @@ Circe is young, around 10
 #### Mazikeen's Story
 Mazikeen is born to Lucius and Lilith Crestwood - the lord and lady of Woodfall
 
+## 1768
+#### Bismuth's Story
+Bismuth is born
 ## 1777
 #### Mazikeen's Story
 Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of the court after her father leaves for war
