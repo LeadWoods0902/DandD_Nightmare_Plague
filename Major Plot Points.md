@@ -133,7 +133,7 @@ Soromo's crystal is discovered by Primalas, who sensing a strong connection to i
 Over the course of several meetings, Mazikeen establishes that the Trident is of great importance to Lupella's plans
 
 #### Stronvan's Story
-Stronvan is killed in combat by 
+Stronvan is slain in combat by Niahl
 
 ## 1793 - The Campaign Begins 
 #### Fenian's Story
