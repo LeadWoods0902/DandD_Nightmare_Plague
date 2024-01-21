@@ -5,8 +5,8 @@
 | ? | ? | ? | Seram Dos is born |
 | ? | ? | ? | Malkath Tribus is born |
 | ? | ? | ? | Stronvan Quatre is born |
-| ? | ? | ? | Rolbam dies while experimenting with a new magic |
-| ? | ? | ? | Seram dies after being struck with a magical bolt |
+| ? | ? | ? | Rolbam dies: Magical experiment gone awry, transforming Rolbam into a gravitational anomaly that imploded. |
+| ? | ? | ? | Seram dies: Tortured to death after being captured, refusing to reveal crucial information about the rebellion. |
 | ? | ? | ? | Malkath is executed magically |
 | ? | ? | ? | Stronvan is assassinated with a magical spell |
 | 1793 | 0 | Virmarr | Campaign begins |
