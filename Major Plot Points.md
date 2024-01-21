@@ -36,6 +36,9 @@ Duska Halloni is born
 ## 1673
 #### Rolbam's Story
 Rolbam dies in a magical experiment gone awry, transforming him into a gravitational anomaly that imploded.
+## 1713
+#### Napella's Story (0)
+Napella is born
 ## 1753
 #### Duska's Story (104)
 Duska Discovers Mortos' Tome and swears fealty to Mortos.
@@ -60,10 +63,10 @@ Bismuth and Jasper are born
 
 ## 1771
 
-#### Ven-Dryk's Story (
+#### Ven-Dryk's Story (86)
 Ven-Dryk comes to Brokvar and an affair begins between him and Napella
 
-#### Napella's Story (48)
+#### Napella's Story (58)
 Napella enters an affair with the foreign consort Ven-Dryk
 
 ## 1777
