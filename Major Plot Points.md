@@ -30,15 +30,19 @@ Enraged, Calidian goes to Brokvar in person and launches a siege on the capital.
 Several years of empirical rule plague Senithar
 
 
+# 1640s
 ## 1649
 #### Duska's Story (0)
 Duska Halloni is born
+# 1670s
 ## 1673
 #### Rolbam's Story
 Rolbam dies in a magical experiment gone awry, transforming him into a gravitational anomaly that imploded.
+# 1710s
 ## 1713
 #### Napella's Story (0)
 Napella is born
+# 1750s
 ## 1753
 #### Duska's Story (104)
 Duska Discovers Mortos' Tome and swears fealty to Mortos.
@@ -48,6 +52,7 @@ Duska is granted the title of Master Librarian
 ## 1759
 #### Duska's Story  (110)
 Duska recovers Omen
+# 1760s
 ## 1760
 #### Mazikeen's Story (0)
 Mazikeen is born to Lucius and Lilith Crestwood - the lord and lady of Woodfall
@@ -61,6 +66,7 @@ Circe is a born to Napella out of wedlock - (Father Calidian)
 #### The Genasi Twin's Story (0)
 Bismuth and Jasper are born
 
+# 1770s
 ## 1771
 
 #### Ven-Dryk's Story (86)
@@ -77,6 +83,7 @@ Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of t
 #### Mazikeen's Story (18)
 Mazikeen enters the tuition of her uncle, the spymaster of Theg Doruhl
 
+# 1780s
 ## 1783
 #### Mazikeen's Story (23)
 Lucius is slain by Ven-Dryk during the reclamation of Brokvar - Mazikeen vows vengeance on the unknown to her person that slew her father
@@ -101,6 +108,7 @@ Mazikeen returns to Gogledd Ynys, and is imprisoned by Lupella who has discovere
 
 #### Seram's Story
 Seram is tortured to death after being captured, Seram refuses to reveal crucial information about the Roderika's Rebellion and her location.
+# 1790s
 ## 1790
 
 #### The Genasi Twin's Story (22)
