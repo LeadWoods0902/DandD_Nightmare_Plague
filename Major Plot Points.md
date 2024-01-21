@@ -52,12 +52,16 @@ Mazikeen is born to Lucius and Lilith Crestwood - the lord and lady of Woodfall
 
 ## 1762
 
-#### Circe's Story
+#### Circe's Story (0)
 Circe is a born to Napella out of wedlock - (Father Calidian)
 ## 1768
 #### The Genasi Twin's Story (0)
 Bismuth and Jasper are born
 
+## 1771
+
+#### Ven-Dryk's Story
+Ven-Dryk comes to Brokvar and an affair begins between him and Napella
 
 ## 1777
 #### Mazikeen's Story (17)
@@ -121,7 +125,7 @@ Over the course of several meetings, Mazikeen establishes that the Trident is of
 Stronvan is slain in combat by Niahl
 
 #### Duska's Story (143)
-Duska departs for brokvar
+Duska departs for Brokvar
 
 ## 1793 - The Campaign Begins 
 #### Fenian's Story
