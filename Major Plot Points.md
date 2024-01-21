@@ -41,7 +41,7 @@ Mazikeen is born to Lucius and Lilith Crestwood - the lord and lady of Woodfall
 ## 1762
 
 #### Circe's Story
-
+Circe is a born to Napella as the result of non-consenting circumstances between herself and the emperor Calidian - 
 ## 1768
 #### The Genasi Twin's Story
 Bismuth and Jasper are born
