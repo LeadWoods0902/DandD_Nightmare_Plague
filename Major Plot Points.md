@@ -57,15 +57,15 @@ Bismuth and Jasper are born
 
 
 ## 1777
-#### Mazikeen's Story
+#### Mazikeen's Story (17)
 Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of the court after her father leaves for war
 
 ## 1778
-#### Mazikeen's Story
+#### Mazikeen's Story (18)
 Mazikeen enters the tuition of her uncle, the spymaster of Theg Doruhl
 
 ## 1783
-#### Mazikeen's Story
+#### Mazikeen's Story (23)
 Lucius is slain by Ven-Dryk during the reclamation of Brokvar - Mazikeen vows vengeance on the unknown to her person that slew her father
 
 ## 1785
@@ -73,17 +73,17 @@ Lucius is slain by Ven-Dryk during the reclamation of Brokvar - Mazikeen vows ve
 #### The Genasi Twin's Story
 Bismuth and Jasper are exiled by their family
 ## 1786
-#### Mazikeen's Story
+#### Mazikeen's Story (26)
 Mazikeen departs for Brokvar
 
 ## 1787
-#### Mazikeen's Story
+#### Mazikeen's Story (27)
 Mazikeen meets Lupella while travelling the coast. Unaware of each other's true identities, they forge an alliance with a mutual goal: vengeance and a shared desire for justice.
 
 #### The Genasi Twin's Story
 Bismuth encounters a Wilderbeast and is granted transformative powers by Kaede, Jasper is gifted one of Kaede's scale
 ## 1788
-#### Mazikeen's Story
+#### Mazikeen's Story (28)
 Mazikeen returns to Gogledd Ynys, and is imprisoned by Lupella who has discovered that it was her father who killed Mazikeen's father.
 
 #### Seram's Story
@@ -95,11 +95,11 @@ Jasper saves both Nieveler Genlen's crop and consequently, Harukaze from starvat
 
 Jasper and Bismuth are caught by slavers in their sleep
 ## 1791
-#### Mazikeen's Story
+#### Mazikeen's Story (31)
 Mazikeen, forms an alliance with another inmate Alaric, the two vow to escape - Mazikeen is brought to Lupella, who questions her about her relationship with her father. Mazikeen recognises a trident that she smuggled across the border. Lupella notices and comments that is has the most peculiar of construction.
 
 ## 1792
-#### Mazikeen's Story
+#### Mazikeen's Story (32)
 Over the course of several meetings, Mazikeen establishes that the Trident is of great importance to Lupella's plans
 
 #### Fenian's Story
@@ -111,7 +111,7 @@ Soromo's crystal is discovered by Primalas, who sensing a strong connection to i
 #### Circe's Story
 
 
-#### Mazikeen's Story
+#### Mazikeen's Story (33)
 Over the course of several meetings, Mazikeen establishes that the Trident is of great importance to Lupella's plans
 
 #### Stronvan's Story
