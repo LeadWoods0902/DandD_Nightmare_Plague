@@ -63,6 +63,9 @@ Bismuth and Jasper are born
 #### Ven-Dryk's Story
 Ven-Dryk comes to Brokvar and an affair begins between him and Napella
 
+#### Napella's Story
+Napella enters an affair with the foreign consort Ven-Dryk
+
 ## 1777
 #### Mazikeen's Story (17)
 Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of the court after her father leaves for war
