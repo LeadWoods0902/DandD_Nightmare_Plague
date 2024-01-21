@@ -8,7 +8,9 @@ Musoko, being hunted by Soromo, cast his soul into a crystal and cast it to the 
 #### Nëoris' Story
 Nëoris dies and a tree begins to grow nearby
 
-## 1583
+## 1623
+
+#### Rolbam's Story
 A war breaks out between Llawyr un Mawr and Esgid
 
 
@@ -41,7 +43,7 @@ Duska is granted the title of Master Librarian
 ## 1759
 Duska recovers Omen
 ## 1760
-#### Mazikeen's Story
+#### Mazikeen's Story (0)
 Mazikeen is born to Lucius and Lilith Crestwood - the lord and lady of Woodfall
 
 
