@@ -1,34 +1,16 @@
-## Before the year 0
+# Outside of known time
 
 #### Musoko's Story
 Musoko, being hunted by Soromo, cast his soul into a crystal and cast it to the wind - the crystal is lost to time
-
 #### Olum's Story
 
 #### Nëoris' Story
 Nëoris dies and a tree begins to grow nearby
-
+# 1620s
 ## 1623
 
 #### Rolbam's Story
 A war breaks out between Llawyr un Mawr and Esgid
-
-
-## insert in 1770-1790 
-
-#### Calidian's Story
-Calidian is on the war path and going slightly insane - goes to war with the rest of Senithar, leading to a civil war.
-
-Napella attempts to end the war by launching an assault on the royal palace using a new weapon, Napalm.
-
-The capital is destroyed and Vivienne dies along with Fenian's older brother who was set to be the emperor after his Father.
-
-Enraged, Calidian goes to Brokvar in person and launches a siege on the capital. See The Butchering of Brokvar
-
-...
-
-Several years of empirical rule plague Senithar
-
 
 # 1640s
 ## 1649
@@ -67,6 +49,23 @@ Circe is a born to Napella out of wedlock - (Father Calidian)
 Bismuth and Jasper are born
 
 # 1770s
+
+## insert in 1770-1790 
+
+#### Calidian's Story
+Calidian is on the war path and going slightly insane - goes to war with the rest of Senithar, leading to a civil war.
+
+Napella attempts to end the war by launching an assault on the royal palace using a new weapon, Napalm.
+
+The capital is destroyed and Vivienne dies along with Fenian's older brother who was set to be the emperor after his Father.
+
+Enraged, Calidian goes to Brokvar in person and launches a siege on the capital. See The Butchering of Brokvar
+
+...
+
+Several years of empirical rule plague Senithar
+
+
 ## 1771
 
 #### Ven-Dryk's Story (86)
