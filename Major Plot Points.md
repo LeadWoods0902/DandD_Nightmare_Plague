@@ -52,7 +52,7 @@ Mazikeen is born to Lucius and Lilith Crestwood - the lord and lady of Woodfall
 #### Circe's Story
 Circe is a born to Napella out of wedlock - (Father Calidian)
 ## 1768
-#### The Genasi Twin's Story
+#### The Genasi Twin's Story (0)
 Bismuth and Jasper are born
 
 
@@ -70,7 +70,7 @@ Lucius is slain by Ven-Dryk during the reclamation of Brokvar - Mazikeen vows ve
 
 ## 1785
 
-#### The Genasi Twin's Story
+#### The Genasi Twin's Story (17)
 Bismuth and Jasper are exiled by their family
 ## 1786
 #### Mazikeen's Story (26)
@@ -80,7 +80,7 @@ Mazikeen departs for Brokvar
 #### Mazikeen's Story (27)
 Mazikeen meets Lupella while travelling the coast. Unaware of each other's true identities, they forge an alliance with a mutual goal: vengeance and a shared desire for justice.
 
-#### The Genasi Twin's Story
+#### The Genasi Twin's Story (19)
 Bismuth encounters a Wilderbeast and is granted transformative powers by Kaede, Jasper is gifted one of Kaede's scale
 ## 1788
 #### Mazikeen's Story (28)
@@ -90,7 +90,7 @@ Mazikeen returns to Gogledd Ynys, and is imprisoned by Lupella who has discovere
 Seram is tortured to death after being captured, Seram refuses to reveal crucial information about the Roderika's Rebellion and her location.
 ## 1790
 
-#### The Genasi Twin's Story
+#### The Genasi Twin's Story (22)
 Jasper saves both Nieveler Genlen's crop and consequently, Harukaze from starvation. 
 
 Jasper and Bismuth are caught by slavers in their sleep
