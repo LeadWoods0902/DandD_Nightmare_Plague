@@ -91,12 +91,16 @@ Mazikeen departs for Brokvar
 Mazikeen meets Lupella while travelling the coast. Unaware of each other's true identities, they forge an alliance with a mutual goal: vengeance and a shared desire for justice.
 
 #### The Genasi Twin's Story
-Bismuth encounters a Wilderbeast and is granted transformative powers by Kaede
+Bismuth encounters a Wilderbeast and is granted transformative powers by Kaede, Jasper is gifted one of Kaede's scale
 ## 1788
 #### Mazikeen's Story
 Mazikeen returns to Gogledd Ynys, and is imprisoned by Lupella who has discovered that it was her father who killed Mazikeen's father.
 
 
+## 1790
+
+#### The Genasi Twin's Story
+Jasper saves both Nieveler Genlen's crop and consequently, Harukaze from starvatio
 ## 1791
 #### Mazikeen's Story
 Mazikeen, forms an alliance with another inmate Alaric, the two vow to escape - Mazikeen is brought to Lupella, who questions her about her relationship with her father. Mazikeen recognises a trident that she smuggled across the border. Lupella notices and comments that is has the most peculiar of construction.
