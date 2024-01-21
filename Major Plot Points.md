@@ -105,7 +105,8 @@ Bismuth encounters a Wilderbeast and is granted transformative powers by Kaede, 
 #### Mazikeen's Story
 Mazikeen returns to Gogledd Ynys, and is imprisoned by Lupella who has discovered that it was her father who killed Mazikeen's father.
 
-
+#### Seram's Story
+Seram is tortured to death after being captured, Seram refuses to reveal crucial information about the rebellion.
 ## 1790
 
 #### The Genasi Twin's Story
