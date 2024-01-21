@@ -63,7 +63,7 @@ Bismuth and Jasper are born
 #### Ven-Dryk's Story
 Ven-Dryk comes to Brokvar and an affair begins between him and Napella
 
-#### Napella's Story
+#### Napella's Story (48)
 Napella enters an affair with the foreign consort Ven-Dryk
 
 ## 1777
