@@ -64,8 +64,8 @@ Circe is young, around 10
 Mazikeen is born to Lucius and Lilith Crestwood - the lord and lady of Woodfall
 
 ## 1768
-#### Bismuth's Story
-Bismuth is born
+#### The Genasi Twin's Story
+Bismuth and Jasper are born
 ## 1777
 #### Mazikeen's Story
 Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of the court after her father leaves for war
@@ -78,6 +78,10 @@ Mazikeen enters the tuition of her uncle, the spymaster of Theg Doruhl
 #### Mazikeen's Story
 Lucius is slain by Ven-Dryk during the reclamation of Brokvar - Mazikeen vows vengeance on the unknown to her person that slew her father
 
+## 1785
+
+#### The Genasi Twin's Story
+Bismuth and Jasper are exiled by their family
 ## 1786
 #### Mazikeen's Story
 Mazikeen departs for Brokvar
@@ -86,6 +90,8 @@ Mazikeen departs for Brokvar
 #### Mazikeen's Story
 Mazikeen meets Lupella while travelling the coast. Unaware of each other's true identities, they forge an alliance with a mutual goal: vengeance and a shared desire for justice.
 
+#### The Genasi Twin's Story
+Bismuth encounters a Wilderbeast and is granted transformative powers by Kaede
 ## 1788
 #### Mazikeen's Story
 Mazikeen returns to Gogledd Ynys, and is imprisoned by Lupella who has discovered that it was her father who killed Mazikeen's father.
