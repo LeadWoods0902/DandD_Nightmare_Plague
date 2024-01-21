@@ -4,8 +4,8 @@
 - *The city of Brokvar is built up around this tree as it is discovered its sap has healing properties*
 - Brokvar and Rheilliwch war over the city for years but one of Napella's ancestors secures a lasting peace through a demonstration of power - Rheilliwch signs a peace treaty
 - Several hundred years pass and the throne passes to Napella
-- a war breaks out between Llawyr un Mawr and Esgid
-- Brokvar supports Esgid due to interest in forming a bond between the two ruling families
+- *a war breaks out between Llawyr un Mawr and Esgid*
+- *Brokvar supports Esgid due to interest in forming a bond between the two ruling families*
 - Ven-Dryk comes to Brokvar and an affair begins between him and Napella
 - During the war's second year, Llawyr un Mawr receives aid from Rheilliwch breaking the terms of the peace treaty between Rheilliwch & Brokvar
 - The current ruler Nella, in a bid to end the war enacts a similar display of power as her descendant, obliterating the capital of Rheilliwch

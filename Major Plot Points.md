@@ -15,7 +15,7 @@ A war breaks out between Llawyr un Mawr and Esgid
 ## 1626
 
 #### Marquella's Story
-Marquella supports Es
+Marquella supports Esgid in the war
 
 # 1640s
 ## 1649
