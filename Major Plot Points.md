@@ -5,6 +5,10 @@ Musoko, being hunted by Soromo, cast his soul into a crystal and cast it to the 
 
 #### Olum's Story
 
+#### Nëoris' Story
+
+
+
 ## insert in 1770-1790 
 
 #### Calidian's Story
@@ -41,7 +45,7 @@ Mazikeen is born to Lucius and Lilith Crestwood - the lord and lady of Woodfall
 ## 1762
 
 #### Circe's Story
-Circe is a born to Napella as the result of non-consenting circumstances between herself and the emperor Calidian - 
+Circe is a born to Napella out of wedlock - (Father Calidian)
 ## 1768
 #### The Genasi Twin's Story
 Bismuth and Jasper are born
