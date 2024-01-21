@@ -60,7 +60,7 @@ Bismuth and Jasper are born
 
 ## 1771
 
-#### Ven-Dryk's Story
+#### Ven-Dryk's Story (
 Ven-Dryk comes to Brokvar and an affair begins between him and Napella
 
 #### Napella's Story (48)
@@ -131,7 +131,7 @@ Stronvan is slain in combat by Niahl
 Duska departs for Brokvar
 
 ## 1793 - The Campaign Begins 
-#### Fenian's Story
+#### Ven-Dryk's Story (108)
 
 #### The Genasi Twin's Story (25)
 Jasper forms a bond with a passenger on the ship, the lesser dragon Primalas
