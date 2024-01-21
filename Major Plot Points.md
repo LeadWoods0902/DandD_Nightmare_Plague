@@ -37,13 +37,13 @@ Duska Halloni is born
 #### Rolbam's Story
 Rolbam dies in a magical experiment gone awry, transforming him into a gravitational anomaly that imploded.
 ## 1753
-#### Duska's Story
+#### Duska's Story (104)
 Duska Discovers Mortos' Tome and swears fealty to Mortos.
 
 Duska is granted the title of Master Librarian
 
 ## 1759
-#### Duska's Story
+#### Duska's Story  (110)
 Duska recovers Omen
 ## 1760
 #### Mazikeen's Story (0)
@@ -119,6 +119,9 @@ Over the course of several meetings, Mazikeen establishes that the Trident is of
 
 #### Stronvan's Story
 Stronvan is slain in combat by Niahl
+
+#### Duska's Story (143)
+Duska departs for brokvar
 
 ## 1793 - The Campaign Begins 
 #### Fenian's Story
