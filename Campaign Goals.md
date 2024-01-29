@@ -22,7 +22,7 @@
 - Retrieve his axe
 
 ## Jasper
-- Reconnect the five domains: Earth, Sky, Celestial and Spirit
+- Reconnect the five domains: Earth, Sea, Sky, Life, Celestial, 
 	- Retrieve the 
 
 ## Mazikeen
