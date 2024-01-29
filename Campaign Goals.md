@@ -22,12 +22,13 @@
 - Retrieve his axe
 
 ## Jasper
-- 
+- Deal
 
 ## Mazikeen
-- Regain her memory
-- Uncover the truth around her current state of being
+- Regain her memory and uncover the truth around her current state of being
 - Revenge or Absolution regarding the death of her father
+- Uncover the significance of the trident
+	- Deal with the trident
 
 ## Duska
 - Find the source of the Coeden
