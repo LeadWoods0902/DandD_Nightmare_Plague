@@ -14,12 +14,12 @@
 - ...
 
 #### Events to be assigned
-- The party fight the Babalars b
+- The party fight the Babalars below/ atop the Coeden
+- The party fight the corrupted husk of 
 
 ---
 ## Bismuth
 - Retrieve Kevin
-- Slay Musoko
 
 ## Jasper
 - 
