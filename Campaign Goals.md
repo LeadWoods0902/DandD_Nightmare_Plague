@@ -15,7 +15,7 @@
 
 #### Events to be assigned
 - The party fight the Babalars below/ atop the Coeden
-- The party fight the corrupted husk of 
+- The party fight the corrupted husk of Fenian
 
 ---
 ## Bismuth
