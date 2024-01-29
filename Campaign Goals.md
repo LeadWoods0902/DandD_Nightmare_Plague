@@ -22,7 +22,7 @@
 - Retrieve his axe
 
 ## Jasper
-- Reconnect the three Kingdoms: Land, Sea and Sky
+- Reconnect the four domains: Land, Sea, Sky and Spirit
 
 ## Mazikeen
 - Regain her memory
