@@ -25,10 +25,12 @@
 - Deal
 
 ## Mazikeen
-- Regain her memory and uncover the truth around her current state of being
-- Revenge or Absolution regarding the death of her father
-- Uncover the significance of the trident
-	- Deal with the trident
+- Memory
+	- Revenge or Absolution regarding the death of her father
+- State of Being
+	- Find a way to stabilise before she expires
+- The trident
+	- optional: Find a way to fix it
 
 ## Duska
 - Find the source of the Coeden
