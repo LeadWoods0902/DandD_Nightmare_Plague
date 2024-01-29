@@ -22,7 +22,8 @@
 - Retrieve his axe
 
 ## Jasper
-- Meet Ashira
+- Prevent the planes from unravelling
+	- 
 
 ## Mazikeen
 - Memory
