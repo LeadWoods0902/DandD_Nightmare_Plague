@@ -22,8 +22,7 @@
 - Retrieve his axe
 
 ## Jasper
-- Reconnect the five domains: Earth, Sea, Sky, Life, Celestial, 
-	- Retrieve the 
+- Unite the five elements
 
 ## Mazikeen
 - Regain her memory
