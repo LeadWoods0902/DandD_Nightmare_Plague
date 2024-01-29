@@ -1,5 +1,9 @@
 ## Group
-#### 
+#### I
+#### Chapter 1
+- Ends with the "death" of Jasper
+#### Chapter 2
+- Begins
 
 ---
 ## Bismuth
