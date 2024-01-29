@@ -22,9 +22,7 @@
 - Retrieve his axe
 
 ## Jasper
-- Unite the elemental domains to prevent the mortal plane from unravelling
-	- Sansom, master of the earth - complete
-	- 
+- 
 
 ## Mazikeen
 - Regain her memory
