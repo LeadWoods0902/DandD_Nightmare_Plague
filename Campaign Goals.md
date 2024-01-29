@@ -22,6 +22,8 @@
 - Retrieve his axe
 
 ## Jasper
+- Meet Ashira
+	- Learn the truth about Genasi kind
 - Prevent the planes from unravelling
 	- 
 
