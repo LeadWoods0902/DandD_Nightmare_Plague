@@ -19,7 +19,7 @@
 
 ---
 ## Bismuth
-- Retrieve Kevin
+- Retrieve his axe
 
 ## Jasper
 - 
