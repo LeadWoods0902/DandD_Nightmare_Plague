@@ -8,7 +8,11 @@
 - The party end up on Gogledd-Ynys and are captured by Lupella's people
 - Ends with the "death" of Jasper
 #### Chapter 2
-- Begins several months later, the party ha
+- Begins several months later, the party have been imprisoned
+- ...
+- The party returning to a deserted Brokvar
+- ...
+- Ends with the party 
 
 ---
 ## Bismuth
