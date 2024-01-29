@@ -10,7 +10,8 @@
 
 ## Mazikeen
 - Regain her memory
-- Uncover the truth around her current sta
+- Uncover the truth around her current state of being
+- Revenge or Absolution regarding the death of her father
 
 ## Duska
 - Find the source of the Coeden
