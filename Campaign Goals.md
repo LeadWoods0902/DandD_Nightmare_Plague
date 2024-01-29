@@ -5,10 +5,10 @@
 #### Chapter 1
 - Begins with the party reacquainting with Circe
 - ...
-- The party end up on Go
+- The party end up on Gogledd-Ynys and are captured by Lupella's people
 - Ends with the "death" of Jasper
 #### Chapter 2
-- Begins
+- Begins several months later, the party ha
 
 ---
 ## Bismuth
