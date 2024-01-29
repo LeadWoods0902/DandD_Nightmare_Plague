@@ -22,7 +22,8 @@
 - Retrieve his axe
 
 ## Jasper
-- Reconnect the four domains: Land, Sea, Sky and Spirit
+- Reconnect the five domains: Land, Sea, Sky, Celestial and Spirit
+	- Retrieve the 
 
 ## Mazikeen
 - Regain her memory
