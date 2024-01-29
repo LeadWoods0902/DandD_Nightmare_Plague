@@ -12,7 +12,9 @@
 - ...
 - The party returning to a deserted Brokvar
 - ...
-- Ends with the party 
+
+#### Events to be assigned
+- The party fight the Babalars b
 
 ---
 ## Bismuth
