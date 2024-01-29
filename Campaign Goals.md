@@ -22,7 +22,7 @@
 - Retrieve his axe
 
 ## Jasper
-- Deal
+- Meet Ashira
 
 ## Mazikeen
 - Memory
@@ -30,7 +30,8 @@
 - State of Being
 	- Find a way to stabilise before she expires
 - The trident
-	- optional: Find a way to fix it
+	- Find a way to fix it
+	- Return or keep it
 
 ## Duska
 - Find the source of the Coeden
