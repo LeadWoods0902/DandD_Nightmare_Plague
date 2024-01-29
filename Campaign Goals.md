@@ -1,9 +1,10 @@
 ## Group
-
+#### 
 
 ---
 ## Bismuth
 - Retrieve Kevin
+- Slay Musoko
 
 ## Jasper
 - 
