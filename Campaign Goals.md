@@ -1,9 +1,11 @@
-## Group
+## Party
 #### Intro
 - Begins with the party meeting in Virmarr
 - Ends when the party return to Brokvar from the Farm
 #### Chapter 1
-- Begins with the party acc
+- Begins with the party reacquainting with Circe
+- ...
+- The party end up on Go
 - Ends with the "death" of Jasper
 #### Chapter 2
 - Begins
