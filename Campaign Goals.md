@@ -24,6 +24,7 @@
 ## Jasper
 - Meet Ashira
 	- Learn the truth about Genasi kind
+	- Receive the boon of the sea
 - Prevent the planes from unravelling
 	- 
 
