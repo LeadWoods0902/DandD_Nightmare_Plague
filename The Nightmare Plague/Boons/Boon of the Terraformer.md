@@ -1,4 +1,8 @@
-## Level 1 - (0 Essence/ Passive)
+## Level 1 - Earthen Affinity (Passive)
+The Genasi gains enhanced mobility in water, allowing them to swim at an increased speed. 
+Additionally, they can breathe underwater, giving them an advantage in aquatic environments
+
+The Genasi can manipulate water within a certain range, allowing them to part or move bodies of water and shape them into simple forms, up to a maximum volume of 10 Litres multiplied by their \[PROF\] bonus
 ## Level 2 - Deluge Mastery (min 4 Essence)
 
 The Genasi can unleash a torrential deluge, creating a devastating flood in the area.
