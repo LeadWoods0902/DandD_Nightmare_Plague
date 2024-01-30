@@ -1,11 +1,11 @@
 *E* refers to the number of Essence required or spent
-## Level 1 - Water Control (Passive)
+## Level 1 - Aquatic Affinity (Passive)
 The Genasi gains enhanced mobility in water, allowing them to swim at an increased speed. 
 Additionally, they can breathe underwater, giving them an advantage in aquatic environments
 
-The Genasi can manipulate water within a certain range, allowing them to part or move bodies of water and shape it into simple forms.
+The Genasi can manipulate water within a certain range, allowing them to part or move bodies of water and shape them into simple forms.
 
-## Level 2 - Aquatic Healing (min 1 E)
+## Level 2 - Aqua Mend (min 1 E)
 When submerged in water, the Genasi can draw upon the healing properties of water to regenerate health.
 
 As an action, the Genasi can recover their own health or the health of a target within 15ft, see the table below.
@@ -20,7 +20,7 @@ As an action, the Genasi can recover their own health or the health of a target 
 | 15 | 4d8 + (E * max(\[CON\], 1)) | 5 - 33 | 6 - 34 | 7 - 35 |
 | 20 | 4d10 + (E * max(\[CON\], 1)) | 5 - 41 | 6 - 42 | 7 - 43 |
 
-## Level 3 - Hydro Jet (min 2 Essence)
+## Level 3 - Aqua Jet (min 2 Essence)
 The Genasi can shoot a concentrated jet of water as a ranged attack.
 
 As an action, the Genasi can focus their essence to unleash a "Hydro Jet", propelling a forceful stream of water toward a target. The attack inflicts damage and exerts a formidable push, potentially toppling adversaries.
