@@ -24,7 +24,7 @@ As an action, the Genasi can expend 3 Genasi Essence to activate "Stone Forged."
 - **Resistance to Bludgeoning, Piercing, and Slashing Damage**
 - **Immovable Stance**: The Genasi gains advantage on Strength saving throws and checks to resist being moved or knocked prone
 
-## Level 5 - Earthen Fortitude (5 Essence)
+## Level 5 - Earthen Fortitude (4 Essence)
 The Genasi's connection to the ground grants them enhanced fortitude.
 
 As a reaction, the Genasi can resist a source of damage that would normally incapacitate the Genasi. They endure the damage without falling unconscious or being incapacitated.
