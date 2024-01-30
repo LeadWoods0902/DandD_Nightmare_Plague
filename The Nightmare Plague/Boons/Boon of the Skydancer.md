@@ -1,3 +1,5 @@
+## Level 1 (0 Essence/ Passive)
+
 ## *Level 9 - Vortex Torrent (min 3 Essence)*
 
 *The Genasi gains the ability to summon a powerful vortex, creating a dangerous whirlpool effect.*

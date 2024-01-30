@@ -1,3 +1,4 @@
+## Level 1 (0 Essence/ Passive)
 ## Level 13 - Deluge Mastery (min 4 Essence)
 
 The Genasi can unleash a torrential deluge, creating a devastating flood in the area.

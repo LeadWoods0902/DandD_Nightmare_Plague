@@ -25,10 +25,6 @@ Force Damage = Ed6+\[PROF\]
 Knockback = 5 + 5(E-2)
 
 
-## Level 4 - Cleansing Bathe ( 1 Essence)
-The Genasi can invoke the purifying properties of water to cleanse themselves or an ally. As an action, expend 1 Genasi Essence to remove one condition (such as blinded, deafened, poisoned, burning) from yourself or a creature within 15ft.
-
-
 ## Level 5 - Tidal Surge (min 2 Essence)
 The Genasi can summon the power of a tidal surge, unleashing a powerful wave to crash upon their enemies.
 
