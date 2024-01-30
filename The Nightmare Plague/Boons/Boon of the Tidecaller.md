@@ -38,13 +38,11 @@ Expend a minimum of 2 Genasi Essence to cast "Tidal Surge." This ability creates
 
 The Genasi learns to manipulate water defensively, creating a protective barrier.
 
-As an action, expend 1 Genasi Essence to cast "Aqua Veil." This ability surrounds the Genasi with a watery veil, granting them temporary hit points equal to their level plus their \[SPELL\] modifier. The veil provides resistance to ranged damage and immuniountil the temporary hit points are depleted or the duration ends.
+As an action, expend 1 Genasi Essence to cast "Aqua Veil." This ability surrounds the Genasi with a watery veil, granting them temporary hit points equal to their level plus their \[SPELL\] modifier. The veil provides resistance to ranged damage and immunity to fire damage until the temporary hit points are depleted.
 
-## Level 8 - Aquaform Mastery
-
+## Level 8 - Aquaform (1 Essence)
 The Genasi achieves a deeper understanding of their aquatic heritage, gaining further control over their form and the surrounding water.
 
-**Hydroform:**
 As a bonus action, the Genasi can transform their body into a fluid state, allowing them to move through tight spaces and making them resistant to physical damage until the start of their next turn.
 
 ## Level 9 - Vortex Torrent (min 3 Essence)
