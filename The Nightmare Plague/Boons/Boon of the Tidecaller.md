@@ -20,8 +20,10 @@ As an action, the Genasi can recover their own health or the health of a target 
 | 15 | 4d8 + (E * max(\[CON\], 1)) | 5 - 33 | 6 - 34 | 7 - 35 |
 | 20 | 4d10 + (E * max(\[CON\], 1)) | 5 - 41 | 6 - 42 | 7 - 43 |
 
-## Level 3 - Hydro Jet (min 2 E)
-The Genasi can shoot a concentrated jet of water as a ranged attack. This attack deals damage and pushes an enemy back. On a failed strength save, the enemy is knocked prone
+## Level 3 - Hydro Jet (min 2 Essence)
+The Genasi can shoot a concentrated jet of water as a ranged attack.
+
+As an action, the Genasi can focus their essence to unleash a Hydro Jet, propelling a forceful stream of water toward a target. The attack inflicts damage and exerts a formidable push, potentially toppling adversaries.
 
 General Formula:
 Force Damage = Ed6+\[PROF\]
