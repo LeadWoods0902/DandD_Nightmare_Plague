@@ -24,10 +24,8 @@ As an action, the Genasi can recover their own health or the health of a target 
 The Genasi can shoot a concentrated jet of water as a ranged attack.
 
 As an action, the Genasi can focus their essence to unleash a Hydro Jet, propelling a forceful stream of water toward a target. The attack inflicts damage and exerts a formidable push, potentially toppling adversaries.
-
-General Formula:
-Force Damage = Ed6+\[PROF\]
-Knockback = 5 + 5(E-2)
+- Force Damage: The Hydro Jet inflicts Ed6 force damage
+- Knockback: 
 
 
 ## Level 4 - Aqua Veil (2 E)
