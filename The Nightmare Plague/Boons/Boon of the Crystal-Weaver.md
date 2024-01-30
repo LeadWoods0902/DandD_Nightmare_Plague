@@ -20,4 +20,7 @@ The Genasi gains the ability to summon a crystalline cloak that protects them fr
 As an action, the Genasi can summon a "prismatic cloak" that protects them grants them protection:
 - **Resistance to Slashing, Piercing and Fire**
 - **Immunity to magical damage**
-## Level 5 - 
+## Level 5 - Glittering Storm (4 Essence)
+The Genasi attains mastery over crystalline forces, allowing them to unleash a torrent of razor-sharp crystals upon their adversaries.
+
+As an action, the Genasi can expend 4 Essence to invoke a "Glittering Storm." In a 30-foot circle centred the Genasi, razor-sharp crystals rain down, dealing damage to all creatures within the area. 
