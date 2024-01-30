@@ -4,7 +4,7 @@ Additionally, they can breathe underwater, giving them an advantage in aquatic e
 
 The Genasi can manipulate water within a certain range, allowing them to part or move bodies of water and shape them into simple forms, up to a maximum volume of 10 Litres multiplied by their \[PROF\] bonus
 
-## Level 2 - Aquatic Mend (min 1 Essence)
+## Level 2 - Tidal Restoration (min 1 Essence)
 When submerged in water, the Genasi can draw upon the healing properties of water to regenerate health.
 
 As an action, the Genasi can recover their own health or the health of a target within 15ft, see the table below.
@@ -39,7 +39,7 @@ As an action, expend 2 Essence to invoke an "Aqua Veil". This ability envelops t
 
 Additionally, when a target within 10 feet of the Genasi, the Genasi can, as a bonus action, expend up to 1 Essence to cast "Aquatic Healing" on that target. 
 
-## Level 5 - Aqua Lash (3 Essence)
+## Level 5 - Torrent Lash (3 Essence)
 Drawing upon their innate connection to water, the Genasi can summon a whip made of liquid currents, extending seamlessly from their arm.
 
 As an action, the Genasi can create an "Aqua Lash" with a reach of 15 feet. The water whip is a finesse melee weapon, and the Genasi can make a melee spell attack against a target within range. On a hit, the target takes 1d8 bludgeoning damage and must make a Strength saving throw (DC 8 + Genasi's proficiency bonus + Genasi's Constitution modifier).
