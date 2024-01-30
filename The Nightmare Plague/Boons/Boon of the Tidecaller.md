@@ -1,11 +1,10 @@
-*E* refers to the number of Essence required or spent
 ## Level 1 - Aquatic Affinity (Passive)
 The Genasi gains enhanced mobility in water, allowing them to swim at an increased speed. 
 Additionally, they can breathe underwater, giving them an advantage in aquatic environments
 
-The Genasi can manipulate water within a certain range, allowing them to part or move bodies of water and shape them into simple forms. Up to a maximum volume of 10L * \[PROF\]
+The Genasi can manipulate water within a certain range, allowing them to part or move bodies of water and shape them into simple forms, up to a maximum volume of 10 Litres multiplied by their \[PROF\] bonus
 
-## Level 2 - Aquatic Mend (min 1 E)
+## Level 2 - Aquatic Mend (min 1 Essence)
 When submerged in water, the Genasi can draw upon the healing properties of water to regenerate health.
 
 As an action, the Genasi can recover their own health or the health of a target within 15ft, see the table below.
@@ -34,7 +33,7 @@ As an action, the Genasi can focus their essence to unleash a "Hydro Jet", prope
 The Genasi learns to manipulate water defensively, creating a protective barrier.
 
 As an action, expend 2 Essence to invoke an "Aqua Veil". This ability envelops the Genasi in a shimmering watery barrier, providing additional protection in the following ways:
-- **Temporary Hit Points**: The Aqua Veil bestows temporary hit points equal to the Genasi's current character level plus their \[PROF\] modifier. 
+- **Temporary Hit Points**: The Aqua Veil bestows temporary hit points equal to the Genasi's current character level plus their \[PROF\] bonus. 
 - **Damage Resistance**: The veil offers resistance against ranged attacks, reducing the inflicted damage by 50%.
 - **Fire Immunity**: While the temporary hit points persist, the Genasi gains immunity to fire damage.
 
