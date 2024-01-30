@@ -38,7 +38,7 @@ Expend a minimum of 2 Genasi Essence to cast "Tidal Surge." This ability creates
 
 The Genasi learns to manipulate water defensively, creating a protective barrier.
 
-As an action, expend 1 Genasi Essence to cast "Aqua Veil." This ability surrounds the Genasi with a watery veil, granting them temporary hit points equal to their level plus their Constitution modifier. The veil provides resistance to non-magical damage until the temporary hit points are depleted or the duration ends.
+As an action, expend 1 Genasi Essence to cast "Aqua Veil." This ability surrounds the Genasi with a watery veil, granting them temporary hit points equal to their level plus their \[SPELL\] modifier. The veil provides resistance to ranged damage and immuniountil the temporary hit points are depleted or the duration ends.
 
 ## Level 8 - Aquaform Mastery
 
