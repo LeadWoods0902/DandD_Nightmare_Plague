@@ -30,10 +30,8 @@ The Genasi can invoke the purifying properties of water to cleanse themselves or
 
 
 ## Level 5 - Tidal Surge (min 2 Essence)
-
 The Genasi can summon the power of a tidal surge, unleashing a powerful wave to crash upon their enemies.
 
-**Tidal Wave:**
 Expend a minimum of 2 Genasi Essence to cast "Tidal Surge." This ability creates a 20-foot cone in front of the Genasi. Creatures within the cone must make a Strength saving throw or be pushed back and knocked prone. The damage dealt is 2d8 bludgeoning plus an additional 1d8 for each extra Genasi Essence expended.
 
 ## Level 7 - Aqua Veil (1 Essence)
