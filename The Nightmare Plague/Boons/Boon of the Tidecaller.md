@@ -33,9 +33,9 @@ As an action, the Genasi can focus their essence to unleash a Hydro Jet, propell
 ## Level 4 - Aqua Veil (2 Essence)
 The Genasi learns to manipulate water defensively, creating a protective barrier.
 
-As an action, expend 2E to cast "Aqua Veil." This ability surrounds the Genasi with a watery veil, granting them temporary hit points equal to their level plus their \[PROF\] modifier. The veil provides resistance to ranged damage and immunity to fire damage until the temporary hit points are depleted.
+As an action, expend 2 Essence to Aqua Veil." This ability surrounds the Genasi with a watery veil, granting them temporary hit points equal to their level plus their \[PROF\] modifier. The veil provides resistance to ranged damage and immunity to fire damage until the temporary hit points are depleted.
 
-When a target is within 10ft of the Genasi, the Genasi can spend a bonus action to cast Aquatic Healing on the target. 
+When a target is within 10ft of the Genasi, the Genasi can spend a bonus action and up to 1 Essence to cast Aquatic Healing on the target. 
 
 ## Level 5 - Aqua Lash (1 E)
 Drawing upon their innate connection to water, the Genasi can summon a whip made of liquid currents, extending seamlessly from their arm.
