@@ -11,7 +11,7 @@ The Genasi can manipulate electrical energy within a range of 30ft, enabling the
 ## Level 4 - Arcing Volt (min 2 Essence)
 The Genasi gains the ability to shoot out a fine electrical beam that arcs to nearby targets.
 
-Usage: As an action, the Genasi can target a creature within 60 feet with an "Arcing Volt," dealing (30+10(E−2)10)(1030+10(E−2)​)d8 electrical damage.
+As an action, the Genasi can target a creature within 60 feet with an "Arcing Volt," dealing ((30+10(E-2))10)d8 electrical damage.
 
     Arcing Chain: The attack chains to each target within 30+10(E−2)30+10(E−2) feet of the first. Each subsequent target must make a Dexterity saving throw to avoid conducting the arcing volt. The damage dealt to each target is (30+10(E−2)10−x)(1030+10(E−2)​−x)d8 electrical damage, where xx is the number of 10-foot intervals between the first and next target.
 
