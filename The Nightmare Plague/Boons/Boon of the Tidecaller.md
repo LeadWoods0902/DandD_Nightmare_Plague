@@ -45,7 +45,6 @@ As an action, expend 1 Genasi Essence to cast "Aqua Veil." This ability surround
 
 *As a bonus action, the Genasi can transform their body into a fluid state, allowing them to move through tight spaces and making them resistant to physical damage until the start of their next turn.*
 
-*
 
 
 
@@ -53,26 +52,10 @@ As an action, expend 1 Genasi Essence to cast "Aqua Veil." This ability surround
 
 
 
-## Level 13 - Deluge Mastery (min 4 Essence)
 
-The Genasi can unleash a torrential deluge, creating a devastating flood in the area.
 
-**Deluge Assault:**
-Expend a minimum of 4 Genasi Essence to cast "Deluge Mastery." This ability creates a massive flood in a 30-foot cone. Creatures within the cone must make a Strength saving throw or be carried 30 feet away, taking significant cold damage based on the number of Genasi Essence expended.
 
-## Level 14 - Submerged Fortitude (2 Essence)
 
-The Genasi's connection to water grants them enhanced fortitude.
-
-**Aquatic Endurance:**
-Expend 2 Genasi Essence as a reaction to resist a source of damage that would normally incapacitate or incapacitate the Genasi. They endure the damage without falling unconscious or being incapacitated.
-
-## Level 15 - Aquaform Ascendance
-
-The Genasi reaches the pinnacle of Aquaform Mastery, achieving a near symbiotic relationship with water.
-
-**Hydrogenesis:**
-As an action, expend 3 Genasi Essence to enter a state of "Hydrogenesis." In this form, the Genasi gains increased movement speed, resistance to all damage, and the ability to move through other creatures and objects. The transformation lasts for 1 minute.
 
 ## Level 16 - Tidal Wave Mastery (min 3 Essence)
 
