@@ -1,9 +1,9 @@
 *E* refers to the number of Essence required or spent
-## Level 1 (0 E/ Passive)
+## Level 1 - Water Control (Passive)
 The Genasi gains enhanced mobility in water, allowing them to swim at an increased speed. 
 Additionally, they can breathe underwater, giving them an advantage in aquatic environments
 
-The Genasi can manipulate water within a certain range, allowing them to part bodies of water, create barriers, or shape water into simple forms.
+The Genasi can manipulate water within a certain range, allowing them to part or move bodies of water and shape it into simple forms.
 
 ## Level 2 - Aquatic Healing (min 1 E)
 When submerged in water, the Genasi can draw upon the healing properties of water to regenerate health.
@@ -23,7 +23,7 @@ As an action, the Genasi can recover their own health or the health of a target 
 ## Level 3 - Hydro Jet (min 2 Essence)
 The Genasi can shoot a concentrated jet of water as a ranged attack.
 
-As an action, the Genasi can focus their essence to unleash a Hydro Jet, propelling a forceful stream of water toward a target. The attack inflicts damage and exerts a formidable push, potentially toppling adversaries.
+As an action, the Genasi can focus their essence to unleash a "Hydro Jet", propelling a forceful stream of water toward a target. The attack inflicts damage and exerts a formidable push, potentially toppling adversaries.
 - **Force Damage**: The Hydro Jet inflicts Ed6 force damage
 - **Knockback**: Additionally, the force of the Hydro Jet initiates a knockback effect. The target must make a Strength saving throw (DC 8 + Genasi's proficiency bonus + Genasi's Constitution modifier).
 	- On a failed saving throw, the target is pushed back up to 15ft. If they collide with a solid object, they take an additional Ed4 force damage
@@ -33,7 +33,7 @@ As an action, the Genasi can focus their essence to unleash a Hydro Jet, propell
 ## Level 4 - Aqua Veil (2 Essence)
 The Genasi learns to manipulate water defensively, creating a protective barrier.
 
-As an action, expend 2 Essence to invoke an Aqua Veil. This ability envelops the Genasi in a shimmering watery barrier, providing additional protection in the following ways:
+As an action, expend 2 Essence to invoke an "Aqua Veil". This ability envelops the Genasi in a shimmering watery barrier, providing additional protection in the following ways:
 - **Temporary Hit Points**: The Aqua Veil bestows temporary hit points equal to the Genasi's current character level plus their \[PROF\] modifier. 
 - **Damage Resistance**: The veil offers resistance against ranged attacks, reducing the inflicted damage by 50%.
 - **Fire Immunity**: While the temporary hit points persist, the Genasi gains immunity to fire damage.
