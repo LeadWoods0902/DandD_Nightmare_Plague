@@ -3,14 +3,14 @@ The Genasi gains enhanced mobility on terrain made of earth or stone, granting a
 Additionally, they can move across difficult terrain made of earth or stone without incurring disadvantage
 
 The Genasi can manipulate earth within a certain range, allowing them to mold the earth around them to their will so long as there is a physical connection between them and the earth being controlled, up to a maximum volume of 5 cubic feet multiplied by their \[PROF\] bonus
-## Level 2 - Terra Morph (1 Essence)
+## Level 2 - Ground Morph (1 Essence)
 The genasi gains the ability to contort and transform the ground around them into rough, uneven terrain.
 
 As an action, the genasi can create difficult terrain:
 - **within a 15-foot radius circle centred on yourself**
 - Alternatively, **within a column measuring 15 by 45-foot**
 
-## Level 3 - Bedrock 
+## Level 3 - Terra Quake 
 The Genasi can unleash a shockwave into the ground, creating a devastating ripple in the ground in front of them.
 
 **Deluge Assault:**
