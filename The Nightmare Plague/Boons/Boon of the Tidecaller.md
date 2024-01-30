@@ -29,7 +29,7 @@ As an action, the Genasi can focus their essence to unleash a "Hydro Jet", prope
 	- On a successful saving throw, the target withstands the force, avoiding being knocked back
 
 
-## Level 4 - Aqua Veil (2 Essence)
+## Level 4 - Cascade Cloak (2 Essence)
 The Genasi learns to manipulate water defensively, creating a protective barrier.
 
 As an action, expend 2 Essence to invoke an "Aqua Veil". This ability envelops the Genasi in a shimmering watery barrier, providing additional protection in the following ways:
