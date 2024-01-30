@@ -21,3 +21,5 @@ The Genasi can shoot a concentrated jet of water as a ranged attack. This can be
 General Formula:
 Damage = Ed6+\[PROF\]
 Knockback = 5 + 5(E-2)
+
+
