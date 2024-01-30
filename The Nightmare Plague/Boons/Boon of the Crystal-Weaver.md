@@ -10,3 +10,4 @@ The genasi gains the ability to bolster their defence with minerals from their i
 
 As an action, the Genasi can expend an amount of essence up to their \[PROF\] bonus to increase their AC by the amount of essence expended.
 
+## Level 3 - Crystalline Recuperation (
