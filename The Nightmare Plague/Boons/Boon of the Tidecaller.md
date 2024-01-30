@@ -1,3 +1,4 @@
+*E* represents the number of Essence spent
 ## Level 1 - Tidal Affinity (Passive)
 The Genasi gains enhanced mobility in water, allowing them to swim at an increased speed. 
 Additionally, they can hold their breath indefinitely underwater and have advantage on saving throws to prevent drowning
