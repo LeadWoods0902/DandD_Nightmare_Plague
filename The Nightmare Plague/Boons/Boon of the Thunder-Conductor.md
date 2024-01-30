@@ -4,10 +4,10 @@ The Genasi gains enhanced mobility while moving in adverse weather conditions (h
 Additionally, the Genasi's affinity with lightning grants them advantage on saving throws to resist lightning and thunder damage
 
 The Genasi can manipulate electrical energy within a range of 30ft, enabling them to redirect and disperse energy.
-## Level 2 - ()
+## Level 2 - Thunder Bolt (1 Essence)
 
-## Level 3 - ()
+## Level 3 - Thunder Wave (min 1 Essence)
 
-## Level 4 - ()
+## Level 4 - Chain Lightning (min 2 Essence)
 
 ## Level 5 - ()
