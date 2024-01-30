@@ -23,4 +23,5 @@ As an action, the Genasi can summon a "prismatic cloak" that protects them grant
 ## Level 5 - Glittering Storm (4 Essence)
 The Genasi attains mastery over crystalline forces, allowing them to unleash a torrent of razor-sharp crystals upon their adversaries.
 
-As an action, the Genasi can expend 4 Essence to invoke a "Glittering Storm." In a 30-foot circle centred the Genasi, razor-sharp crystals rain down, dealing damage to all creatures within the area. 
+As an action, the Genasi can expend 4 Essence to invoke a "Glittering Storm." In a 15-foot circle centred on the Genasi, razor-sharp crystals swirl around - dealing damage to all creatures caught in the storm. A creature caught in the storm must make a dexterity saving throw.
+- **Failed Throw**: The 
