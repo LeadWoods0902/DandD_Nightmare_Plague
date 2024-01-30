@@ -4,4 +4,7 @@ Additionally, the Genasi's affinity with crystals grants them advantage on savin
 
 The Genasi can manipulate crystals within a range of 30ft, enabling them to reshape, move, or create simple structures with crystalline structures. This manipulation requires a physical connection between the Genasi and the crystal being controlled, with the ability extending to a maximum volume of 5 cubic feet.
 
-## Level 2 - Crystalline Defence
+## Level 2 - Crystalline Defence (min 1 Essence)
+The genasi gains the ability to bolster their defence with minerals from their immediate environment.
+
+As an action, the Genasi can expend 
