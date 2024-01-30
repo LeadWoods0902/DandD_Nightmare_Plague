@@ -2,7 +2,7 @@
 The Genasi gains enhanced mobility on terrain made of earth or stone, granting an additional 10ft of movement
 Additionally, they can move across difficult terrain made of earth or stone without incurring disadvantage
 
-The Genasi can manipulate earth within a certain range, allowing them to mold the earth around them to their will so long as there is a physical connection between them and the earth being controlled, up to a maximum volume of 5 cubic feet multiplied by their \[PROF\] bonus
+The Genasi can manipulate earth within a certain range, allowing them to mold the earth around them to their will so long as there is a physical connection between them and the earth being controlled, up to a maximum volume of 5 cubic feet
 ## Level 2 - Ground Distortion (1 Essence)
 The Genasi gains the ability to contort and transform the ground around them into rough, uneven terrain.
 
@@ -20,5 +20,5 @@ As an action, the Genasi can expend at least 2 Genasi Essence to summon a "Terra
 
 The Genasi's connection to the ground grants them enhanced fortitude.
 
-**Aquatic Endurance:**
+As a reaction, the Genasi can create a barrier between themself and a target th
 Expend 2 Genasi Essence as a reaction to resist a source of damage that would normally incapacitate or incapacitate the Genasi. They endure the damage without falling unconscious or being incapacitated.
