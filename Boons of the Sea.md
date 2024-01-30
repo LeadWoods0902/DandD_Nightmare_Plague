@@ -11,7 +11,7 @@ When submerged in water, the Genasi can draw upon the healing properties of wate
 | 2 | 2d4 |
 | 5 | 2d6 |
 | 7 | 3d6 |
-| 10 |  |
-| 15 |  |
-| 20 | 8d6 |
+| 10 | 3d8 |
+| 15 | 4d8 |
+| 20 | 4d10 |
 
