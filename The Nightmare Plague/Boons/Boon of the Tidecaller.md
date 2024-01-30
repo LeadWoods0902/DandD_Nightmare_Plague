@@ -40,38 +40,18 @@ The Genasi learns to manipulate water defensively, creating a protective barrier
 
 As an action, expend 1 Genasi Essence to cast "Aqua Veil." This ability surrounds the Genasi with a watery veil, granting them temporary hit points equal to their level plus their \[SPELL\] modifier. The veil provides resistance to ranged damage and immunity to fire damage until the temporary hit points are depleted.
 
-## Level 8 - Aquaform (1 Essence)
-The Genasi achieves a deeper understanding of their aquatic heritage, gaining further control over their form and the surrounding water.
+## *Level 8 - Aquaform (1 Essence)*
+*The Genasi achieves a deeper understanding of their aquatic heritage, gaining further control over their form and the surrounding water.*
 
-As a bonus action, the Genasi can transform their body into a fluid state, allowing them to move through tight spaces and making them resistant to physical damage until the start of their next turn.
+*As a bonus action, the Genasi can transform their body into a fluid state, allowing them to move through tight spaces and making them resistant to physical damage until the start of their next turn.*
 
-## Level 9 - Vortex Torrent (min 3 Essence)
+*
 
-The Genasi gains the ability to summon a powerful vortex, creating a dangerous whirlpool effect.
 
-**Vortex Summoning:**
-Expend a minimum of 3 Genasi Essence to cast "Vortex Torrent." This ability creates a 15-foot radius vortex at a point within range. Creatures within the vortex must make a Strength saving throw or be pulled 10 feet towards the center, taking damage based on the number of Genasi Essence expended.
 
-## Level 10 - Aqua Elemental Infusion (2 Essence)
 
-The Genasi can infuse their body with the essence of a water elemental, gaining additional powers.
 
-**Elemental Empowerment:**
-Expend 2 Genasi Essence to activate "Aqua Elemental Infusion." This ability enhances the Genasi's attacks with water energy, causing their melee attacks to deal additional cold damage for a duration of 1 minute.
 
-## Level 11 - Tidal Mastery
-
-The Genasi attains a heightened level of mastery over water, further expanding their capabilities.
-
-**Aqua Nova:**
-As an action, expend 1 Genasi Essence to cast "Aqua Nova." This ability releases a burst of pressurized water in a 30-foot cone. Creatures within the cone take cold damage, and those hit by the center of the cone are knocked prone.
-
-## Level 12 - Aquatic Harmony
-
-The Genasi achieves a perfect harmony with water, gaining unparalleled control over their surroundings.
-
-**Fluid Sanctuary:**
-Once per long rest, as an action, the Genasi can create a protective sanctuary of water in a 20-foot radius centered on themselves. Allies within the sanctuary gain advantage on saving throws against hostile effects. The sanctuary lasts for 1 minute.
 
 ## Level 13 - Deluge Mastery (min 4 Essence)
 
