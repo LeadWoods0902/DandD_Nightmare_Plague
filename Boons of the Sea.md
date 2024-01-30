@@ -21,7 +21,7 @@ When submerged in water, the Genasi can draw upon the healing properties of wate
 The Genasi can shoot a concentrated jet of water as a ranged attack. This can be used to deal damage to enemies or to push them away, creating some crowd control.
 
 General Formula:
-Damage = Ed6+\[PROF\]
+Force Damage = Ed6+\[PROF\]
 Knockback = 5 + 5(E-2)
 
 
