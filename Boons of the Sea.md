@@ -26,4 +26,4 @@ Knockback = 5 + 5(E-2)
 
 
 ## Level 4 - Cleansing Bathe ( 1 Essence)
-Invoke the purifying properties of water to cleanse yourself or an ally. As an action, expend 1 Genasi Essence to remove one condition (such as grappled, restrained, or blinded) from yourself or a creature you touch.
+Invoke the purifying properties of water to cleanse yourself or an ally. As an action, expend 1 Genasi Essence to remove one condition (such as blinded, deafened, poisoned, burning) from yourself or a creature you touch.
