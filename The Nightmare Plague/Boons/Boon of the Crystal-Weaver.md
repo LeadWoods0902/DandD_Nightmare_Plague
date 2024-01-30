@@ -24,4 +24,5 @@ As an action, the Genasi can summon a "prismatic cloak" that protects them grant
 The Genasi attains mastery over crystalline forces, allowing them to unleash a torrent of razor-sharp crystals upon their adversaries.
 
 As an action, the Genasi can expend 4 Essence to invoke a "Glittering Storm." In a 15-foot circle centred on the Genasi, razor-sharp crystals swirl around - dealing damage to all creatures caught in the storm. A creature caught in the storm must make a dexterity saving throw.
-- **Failed Throw**: The 
+- **Failed Throw**: The creature takes 4d8 piercing damage and is riddled with crystal shards which deal 2d4 damage every turn until removed
+- **Saved Throw**: The creature stakes 2d8 piercing damage
