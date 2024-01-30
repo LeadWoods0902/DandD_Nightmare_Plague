@@ -5,7 +5,7 @@ The Genasi achieves a perfect harmony with nature, gaining unparalleled control 
 
 Once per long rest, as an action, the Genasi can create a protective sanctuary in a 20-foot radius centred on themselves. Allies within the sanctuary gain advantage on saving throws against hostile effects. The sanctuary lasts for 1 minute.
 ## Level 3 - Natural Defences (2 Essence)
-## Level 4 - ___ Cleanse (3 Essence)
+## Level 4 - Verdant Purge (3 Essence)
 The Genasi can invoke the purifying properties of nature to cleanse themselves or an ally. 
 
 As an action, the Genasi can remove one condition from yourself or a creature within 15ft.
