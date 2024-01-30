@@ -3,9 +3,9 @@
 The Genasi gains enhanced mobility in water, allowing them to swim at an increased speed. 
 Additionally, they can breathe underwater, giving them an advantage in aquatic environments
 
-The Genasi can manipulate water within a certain range, allowing them to part or move bodies of water and shape them into simple forms.
+The Genasi can manipulate water within a certain range, allowing them to part or move bodies of water and shape them into simple forms. Up to a maximum volume of 10L * \[PROF\]
 
-## Level 2 - Aqua Mend (min 1 E)
+## Level 2 - Aquatic Mend (min 1 E)
 When submerged in water, the Genasi can draw upon the healing properties of water to regenerate health.
 
 As an action, the Genasi can recover their own health or the health of a target within 15ft, see the table below.
