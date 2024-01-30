@@ -25,10 +25,12 @@ The Genasi can shoot a concentrated jet of water as a ranged attack.
 
 As an action, the Genasi can focus their essence to unleash a Hydro Jet, propelling a forceful stream of water toward a target. The attack inflicts damage and exerts a formidable push, potentially toppling adversaries.
 - Force Damage: The Hydro Jet inflicts Ed6 force damage
-- Knockback: 
+- Knockback: Additionally, the force of the Hydro Jet initiates a knockback effect. The target must make a Strength saving throw (DC 8 + Genasi's proficiency bonus + Genasi's Constitution modifier).
+	- On a failed saving throw, the target is pushed back up to 15ft. If they collide with a solid object, they take an additional Ed4 force damage
+	- On a successful saving throw, the target withstands the force, avoiding being knocked back
 
 
-## Level 4 - Aqua Veil (2 E)
+## Level 4 - Aqua Veil (2 Essence)
 The Genasi learns to manipulate water defensively, creating a protective barrier.
 
 As an action, expend 2E to cast "Aqua Veil." This ability surrounds the Genasi with a watery veil, granting them temporary hit points equal to their level plus their \[PROF\] modifier. The veil provides resistance to ranged damage and immunity to fire damage until the temporary hit points are depleted.
