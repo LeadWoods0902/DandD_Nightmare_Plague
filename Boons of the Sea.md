@@ -2,7 +2,7 @@
 The Genasi gains enhanced mobility in water, allowing them to swim at an increased speed. 
 Additionally, they can breathe underwater, giving them an advantage in aquatic environments
 
-## Level 2 - Aquatic Healing (1 Essence)
+## Level 2 - Aquatic Healing (min 1 Essence)
 When submerged in water, the Genasi can draw upon the healing properties of water to regenerate their own health.
 
 | Character Level | Health Regenerated | 1 Essence | 2 Essence | 3 Essence |
@@ -15,4 +15,8 @@ When submerged in water, the Genasi can draw upon the healing properties of wate
 | 15 | 4d8 + (Essence Expended * max(\[CON\], 1)) | 5 - 33 | 6 - 34 | 7 - 35 |
 | 20 | 4d10 + (Essence Expended * max(\[CON\], 1)) | 5 - 41 | 6 - 42 | 7 - 43 |
 
-## Level 3 - 
+## Level 3 - Hydro Jet (min 2 Essence)
+The Genasi can shoot a concentrated jet of water as a ranged attack. This can be used to deal damage to enemies or to push them away, creating some crowd control.
+
+General Formula:
+Damage = Ed6+
