@@ -19,7 +19,7 @@ As an action, the Genasi can recover their own health or the health of a target 
 | 15 | 4d8 + (E * max(\[CON\], 1)) | 5 - 33 | 6 - 34 | 7 - 35 |
 | 20 | 4d10 + (E * max(\[CON\], 1)) | 5 - 41 | 6 - 42 | 7 - 43 |
 
-## Level 3 - Aqua Jet (min 2 Essence)
+## Level 3 - Hydro Jet (min 2 Essence)
 The Genasi can shoot a concentrated jet of water as a ranged attack.
 
 As an action, the Genasi can focus their essence to unleash a "Hydro Jet", propelling a forceful stream of water toward a target. The attack inflicts damage and exerts a formidable push, potentially toppling adversaries.
@@ -39,10 +39,10 @@ As an action, expend 2 Essence to invoke an "Aqua Veil". This ability envelops t
 
 Additionally, when a target within 10 feet of the Genasi, the Genasi can, as a bonus action, expend up to 1 Essence to cast "Aquatic Healing" on that target. 
 
-## Level 5 - Aqua Lash (1 E)
+## Level 5 - Aqua Lash (3 Essence)
 Drawing upon their innate connection to water, the Genasi can summon a whip made of liquid currents, extending seamlessly from their arm.
 
-As an action, the Genasi can create an Aqua Lash with a reach of 15 feet. The water whip is a finesse melee weapon, and the Genasi can make a melee spell attack against a target within range. On a hit, the target takes 1d8 bludgeoning damage and must make a Strength saving throw (DC 8 + Genasi's proficiency bonus + Genasi's Constitution modifier).
+As an action, the Genasi can create an "Aqua Lash" with a reach of 15 feet. The water whip is a finesse melee weapon, and the Genasi can make a melee spell attack against a target within range. On a hit, the target takes 1d8 bludgeoning damage and must make a Strength saving throw (DC 8 + Genasi's proficiency bonus + Genasi's Constitution modifier).
 - If the target fails the saving throw, they are restrained by the water whip until the start of the Genasi's next turn
 
 On the Genasi's next turn, as a bonus action, they can attempt to pull the restrained target towards them. The target must make another Strength saving throw (DC as before).
