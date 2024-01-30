@@ -10,11 +10,11 @@ As an action, the genasi can create difficult terrain:
 - **within a 15-foot radius circle centred on yourself**
 - Alternatively, **within a column measuring 15 by 45-foot**
 
-## Level 3
+## Level 3 - Bedrock 
 The Genasi can unleash a shockwave into the ground, creating a devastating ripple in the ground in front of them.
 
 **Deluge Assault:**
-Expend a minimum of 4 Genasi Essence to cast "Deluge Mastery." This ability creates a massive flood in a 30-foot cone. Creatures within the cone must make a Strength saving throw or be carried 30 feet away, taking significant cold damage based on the number of Genasi Essence expended.
+Expend a minimum of 3 Genasi Essence to cast "Deluge Mastery." This ability creates a massive flood in a 30-foot cone. Creatures within the cone must make a Strength saving throw or be carried 30 feet away, taking significant cold damage based on the number of Genasi Essence expended.
 
 
 ## Level 5 - Submerged Fortitude (2 Essence)
