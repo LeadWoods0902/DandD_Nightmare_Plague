@@ -31,7 +31,13 @@ The Genasi learns to manipulate water defensively, creating a protective barrier
 
 As an action, expend 2E to cast "Aqua Veil." This ability surrounds the Genasi with a watery veil, granting them temporary hit points equal to their level plus their \[PROF\] modifier. The veil provides resistance to ranged damage and immunity to fire damage until the temporary hit points are depleted.
 
-## *Level 5 - Aquaform (1 Essence)*
-*The Genasi achieves a deeper understanding of their aquatic heritage, gaining further control over their form and the surrounding water.*
+## Level 5 - Aqua Lash (1 Essence)
+Drawing upon their innate connection to water, the Genasi can summon a whip made of liquid currents, extending seamlessly from their arm.
 
-*As a bonus action, the Genasi can transform their body into a fluid state, allowing them to move through tight spaces and making them resistant to physical damage until the start of their next turn.*
+As an action, the Genasi can create an Aqua Lash with a reach of 15 feet. The water whip is a finesse melee weapon, and the Genasi can make a melee spell attack against a target within range. On a hit, the target takes 1d8 bludgeoning damage and must make a Strength saving throw (DC 8 + Genasi's proficiency bonus + Genasi's Constitution modifier).
+
+If the target fails the saving throw, they are restrained by the water whip until the start of the Genasi's next turn, taking an additional 1d8 bludgeoning damage at the beginning of each of their turns while restrained.
+
+On the Genasi's next turn, as a bonus action, they can attempt to pull the restrained target towards them. The target must make another Strength saving throw (DC as before).
+- If the target fails, they are pulled towards the Genasi in a straight line and knocked prone, taking an additional 1d8 bludgeoning damage upon landing.
+- If the target succeeds, they are released from the restraint but take 1d8 bludgeoning damage.
