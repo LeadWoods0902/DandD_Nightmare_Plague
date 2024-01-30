@@ -18,7 +18,7 @@ When submerged in water, the Genasi can draw upon the healing properties of wate
 | 20 | 4d10 + (Essence Expended * max(\[CON\], 1)) | 5 - 41 | 6 - 42 | 7 - 43 |
 
 ## Level 3 - Hydro Jet (min 2 Essence)
-The Genasi can shoot a concentrated jet of water as a ranged attack. This can be used to deal damage to enemies or to push them away, creating some crowd control.
+The Genasi can shoot a concentrated jet of water as a ranged attack. This attack deals damage and pui
 
 General Formula:
 Force Damage = Ed6+\[PROF\]
