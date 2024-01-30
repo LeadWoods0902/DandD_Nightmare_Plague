@@ -20,9 +20,8 @@ As an action, the Genasi can expend at least 2 Genasi Essence to summon a "Terra
 The Genasi's mastery over earth deepens, providing them with a defensive ability forged from the very stones beneath their feet.
 
 As an action, the Genasi can expend 3 Genasi Essence to activate "Stone Forged." In this state, the Genasi temporarily enhances their resilience by merging with the surrounding earth and stone. This ability grants them the following benefits:
-- Resistance to Bludgeoning, Piercing, and Slashing Damage: The Genasi's body temporarily adopts the sturdiness of stone, reducing the impact of physical attacks.
-
-    Immovable Stance: The Genasi gains advantage on Strength saving throws and checks to resist being moved or knocked prone, embodying the steadfast nature of the earth.
+- **Resistance to Bludgeoning**, Piercing, and Slashing Damage: The Genasi's body temporarily adopts the sturdiness of stone, reducing the impact of physical attacks.
+- **Immovable Stance**: The Genasi gains advantage on Strength saving throws and checks to resist being moved or knocked prone, embodying the steadfast nature of the earth.
 
 ## Level 5 - Earthen Fortitude (5 Essence)
 The Genasi's connection to the ground grants them enhanced fortitude.
