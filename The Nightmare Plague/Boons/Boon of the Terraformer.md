@@ -6,10 +6,9 @@ The Genasi can manipulate earth within a certain range, allowing them to mold th
 ## Level 2 - Deluge Mastery (1 Essence)
 The genasi gains the ability to contort and transform the ground around them into rough, uneven terrain.
 
-As an action, the genasi can create difficult terrain
-1. **Within a 15-foot radius circle centred on yourself**
-
-2. **Within a column measuring 15 by 45-foot**
+As an action, the genasi can create difficult terrain:
+- **within a 15-foot radius circle centred on yourself**
+- Alternatively, **within a column measuring 15 by 45-foot**
 
 ## Level 3
 
