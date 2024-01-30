@@ -14,7 +14,7 @@ As an action, the Genasi can create difficult terrain:
 ## Level 3 - Terra Quake (min 2 Essence)
 The Genasi can unleash a shockwave into the ground, creating a devastating ripple in the ground in front of them.
 
-As an action, the Genasi can expend at least 2 Genasi Essence to summon a "Terra Quake." This ability creates a massive shockwave  in a 30-foot cone. Grounded creatures within the cone must make a Strength saving throw or be carried 30 feet away, taking 2d6 Bludgeoning + Ed4 force damage based
+As an action, the Genasi can expend at least 2 Genasi Essence to summon a "Terra Quake." This ability creates a massive shockwave in a 30-foot cone or a 15ft circle centred on the Genasi. Grounded creatures within the cone must make a Strength saving throw or be carried 30 feet away, taking 2d6 Bludgeoning + Ed4 force damage based
 
 ## Level 4 - Stone Forged (3 Essence)
 The Genasi's mastery over earth deepens, providing them with a defensive ability forged from the very stones beneath their feet.
