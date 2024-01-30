@@ -7,4 +7,5 @@ The Genasi can manipulate crystals within a range of 30ft, enabling them to resh
 ## Level 2 - Crystalline Defence (min 1 Essence)
 The genasi gains the ability to bolster their defence with minerals from their immediate environment.
 
-As an action, the Genasi can expend an amount of essence up to their \[PROF\] bonus to increase their AC by the amount of essence expended
+As an action, the Genasi can expend an amount of essence up to their \[PROF\] bonus to increase their AC by the amount of essence expended.
+
