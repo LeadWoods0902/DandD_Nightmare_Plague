@@ -3,7 +3,7 @@
 The Genasi gains enhanced mobility on grassy terrain , granting an additional 10ft of movement
 Additionally, they can move across difficult terrain consisting of dense vegetation without incurring disadvantage
 
-The Genasi can manipulate earth within a range of 30ft, allowing them to mold the earth around them to their will so long as there is a physical connection between them and the earth being controlled, up to a maximum volume of 5 cubic feet
+The Genasi can manipulate plants around them but cannot change their structure nor cause them damage
 ## Level 2 - Natural Harmony (1 Essence)
 The Genasi achieves a perfect harmony with nature, gaining unparalleled control over their surroundings.
 
@@ -32,3 +32,5 @@ As an action, the Genasi can remove one condition from yourself or a creature wi
 | Stunned | ✓ |
 | Unconscious | X |
 | Exhaustion | ✓ (1 level) |
+
+## Level 5 - (min 3 Essence
