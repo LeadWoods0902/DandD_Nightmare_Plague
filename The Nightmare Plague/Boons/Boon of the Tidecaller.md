@@ -6,7 +6,7 @@ Additionally, they can breathe underwater, giving them an advantage in aquatic e
 The Genasi can manipulate water within a certain range, allowing them to part bodies of water, create barriers, or shape water into simple forms.
 
 ## Level 2 - Aquatic Healing (min 1 E)
-When submerged in water, the Genasi can draw upon the healing properties of water to regenerate their own or a target within 15ft.
+When submerged in water, the Genasi can draw upon the healing properties of water to regenerate their own health or the health of a target within 15ft.
 
 | Character Level | Health Regenerated | 1 Essence | 2 Essence | 3 Essence |
 | ---- | ---- | ---- | ---- | ---- |
@@ -30,6 +30,8 @@ Knockback = 5 + 5(E-2)
 The Genasi learns to manipulate water defensively, creating a protective barrier.
 
 As an action, expend 2E to cast "Aqua Veil." This ability surrounds the Genasi with a watery veil, granting them temporary hit points equal to their level plus their \[PROF\] modifier. The veil provides resistance to ranged damage and immunity to fire damage until the temporary hit points are depleted.
+
+When a target is within 10ft of the Genasi, the Genasi can spend a bonus action at no additional E cost to heal 
 
 ## Level 5 - Aqua Lash (1 E)
 Drawing upon their innate connection to water, the Genasi can summon a whip made of liquid currents, extending seamlessly from their arm.
