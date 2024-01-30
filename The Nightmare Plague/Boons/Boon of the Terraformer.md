@@ -1,3 +1,4 @@
+*E* represents the number of Essence spent
 ## Level 1 - Earthen Affinity (Passive)
 The Genasi gains enhanced mobility on terrain made of earth or stone, granting an additional 10ft of movement
 Additionally, they can move across difficult terrain made of earth or stone without incurring disadvantage
