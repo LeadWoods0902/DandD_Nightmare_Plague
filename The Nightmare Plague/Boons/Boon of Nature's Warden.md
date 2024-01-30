@@ -11,13 +11,19 @@ The Genasi can invoke the purifying properties of nature to cleanse themselves o
 As an action, the Genasi can remove one condition from yourself or a creature within 15ft.
 
 | Condition | Cleanse-able |
-| ---- | ---- |
-| Blinded |  |
-| Charmed |  |
-| Deafened |  |
+| ---- | :--: |
+| Blinded | ✓ |
+| Charmed | ✓ |
+| Deafened | ✓ |
 | Frightened |  |
 | Grappled |  |
 | Incapacitated |  |
 | Invisible |  |
-| Paralyzed |  |
+| Paralyzed | ✓ |
 | Petrified |  |
+| Poisoned | ✓ |
+| Prone |  |
+| Restrained |  |
+| Stunned |  |
+| Unconscious |  |
+| Exhaustion | 1 level |
