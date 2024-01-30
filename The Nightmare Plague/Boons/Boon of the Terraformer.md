@@ -16,9 +16,8 @@ The Genasi can unleash a shockwave into the ground, creating a devastating rippl
 As an action, the Genasi can expend at least 2 Genasi Essence to summon a "Terra Quake." This ability creates a massive shockwave  in a 30-foot cone. Grounded creatures within the cone must make a Strength saving throw or be carried 30 feet away, taking 2d6 Bludgeoning + Ed4 force damage based
 
 
-## Level 4 -  Fortitude (2 Essence)
+## Level 4 - Earthen Fortitude (5 Essence)
 
 The Genasi's connection to the ground grants them enhanced fortitude.
 
-As a reaction, the Genasi can create a barrier between themself and a target attempting to deal damage to the Genasi.
-Expend 2 Genasi Essence as a reaction to resist a source of damage that would normally incapacitate or incapacitate the Genasi. They endure the damage without falling unconscious or being incapacitated.
+As a reaction, the Genasi can resist a source of damage that would normally incapacitate or incapacitate the Genasi. They endure the damage without falling unconscious or being incapacitated.
