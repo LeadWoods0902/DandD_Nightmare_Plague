@@ -10,15 +10,15 @@ As an action, the Genasi can create difficult terrain:
 - **within a 15-foot radius circle centred on yourself**
 - Alternatively, **within a column measuring 15 by 45-foot**
 
-## Level 3 - Terra Quake (2 Essence)
+## Level 3 - Terra Quake (min 2 Essence)
 The Genasi can unleash a shockwave into the ground, creating a devastating ripple in the ground in front of them.
 
-As an action, the Genasi can expend a 2 Genasi Essence to summon a "Terra Quake." This ability creates a massive shockwave  in a 30-foot cone. Grounded creatures within the cone must make a Strength saving throw or be carried 30 feet away, taking significant cold damage based on the number of Genasi Essence expended.
+As an action, the Genasi can expend at least 2 Genasi Essence to summon a "Terra Quake." This ability creates a massive shockwave  in a 30-foot cone. Grounded creatures within the cone must make a Strength saving throw or be carried 30 feet away, taking 2d6 Bludgeoning + Ed4 force damage based
 
 
-## Level 5 - Submerged Fortitude (2 Essence)
+## Level 4 - Submerged Fortitude (2 Essence)
 
-The Genasi's connection to water grants them enhanced fortitude.
+The Genasi's connection to the ground grants them enhanced fortitude.
 
 **Aquatic Endurance:**
 Expend 2 Genasi Essence as a reaction to resist a source of damage that would normally incapacitate or incapacitate the Genasi. They endure the damage without falling unconscious or being incapacitated.
