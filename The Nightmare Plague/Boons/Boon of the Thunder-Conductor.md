@@ -11,7 +11,7 @@ As an action, the Genasi can throw a "thunder bolt" at a target within 60ft, dea
 ## Level 3 - Thunder Wave (2 Essence)
 The Genasi gains the ability to expel their built up energy, creating a shockwave around them.
 
-As an action, the Genasi can make a ranged spell attack against all targets within 15ft of it, on a hit dealing 2d8 lightnin
+As an action, the Genasi can make a ranged spell attack against all targets within 15ft of it, on a hit dealing 2d8 lightning damage
 ## Level 4 - Arcing Volt (min 2 Essence)
 The Genasi gains the ability to shoot out a fine electrical beam that arcs to nearby targets.
 
