@@ -29,7 +29,7 @@ Knockback = 5 + 5(E-2)
 ## Level 4 - Aqua Veil (2 E)
 The Genasi learns to manipulate water defensively, creating a protective barrier.
 
-As an action, expend 2E to cast "Aqua Veil." This ability surrounds the Genasi with a watery veil, granting them temporary hit points equal to their level plus their \[SPELL\] modifier. The veil provides resistance to ranged damage and immunity to fire damage until the temporary hit points are depleted.
+As an action, expend 2E to cast "Aqua Veil." This ability surrounds the Genasi with a watery veil, granting them temporary hit points equal to their level plus their \[PROF\] modifier. The veil provides resistance to ranged damage and immunity to fire damage until the temporary hit points are depleted.
 
 ## *Level 5 - Aquaform (1 Essence)*
 *The Genasi achieves a deeper understanding of their aquatic heritage, gaining further control over their form and the surrounding water.*
