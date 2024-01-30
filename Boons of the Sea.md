@@ -7,13 +7,14 @@ When submerged in water, the Genasi can draw upon the healing properties of wate
 
 | Character Level | Health Regenerated |
 | ---- | ---- |
-| 1 | 1d4 + (Essence Expended * \[Con\]) |
-| 2 | 2d4 + (Essence Expended * \[Con\]) |
-| 5 | 2d6 + (Essence Expended * \[Con\]) |
-| 7 | 3d6 + (Essence Expended * \[Con\]) |
-| 10 | 3d8 + (Essence Expended * \[Con\]) |
-| 15 | 4d8 + (Essence Expended * \[Con\]) |
-| 20 | 4d10 + (Essence Expended * \[Con\]) |
+| 1 | 1d4 + (Essence Expended * (\[Con\] or 1, >?) |
+| 2 | 2d4 + (Essence Expended * \[Con\] or 1, >?) |
+| 5 | 2d6 + (Essence Expended * \[Con\] or 1, >?) |
+| 7 | 3d6 + (Essence Expended * \[Con\] or 1, >?) |
+| 10 | 3d8 + (Essence Expended * \[Con\] or 1, >?) |
+| 15 | 4d8 + (Essence Expended * \[Con\] or 1, >?) |
+| 20 | 4d10 + (Essence Expended * \[Con\] or 1, >?) |
+|  |  |
 
 | Health Regenerated | 1 Essence | 2 Essence | 3 Essence |
 | ---- | ---- | ---- | ---- |
