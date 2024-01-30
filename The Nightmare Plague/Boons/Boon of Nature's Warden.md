@@ -1,5 +1,6 @@
 *E* represents the number of Essence spent
 ## Level 1 - Natural Affinity (0 Essence/ Passive)
+
 ## Level 2 - Natural Harmony (1 Essence)
 The Genasi achieves a perfect harmony with nature, gaining unparalleled control over their surroundings.
 
