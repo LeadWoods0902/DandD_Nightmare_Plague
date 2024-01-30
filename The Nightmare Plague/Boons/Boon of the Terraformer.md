@@ -1,8 +1,6 @@
 ## Level 1 - Earthen Affinity (Passive)
-The Genasi gains enhanced mobility on terrain made of earth or stone, allowing them to travel across it without incurring disadvantage
-Additionally, they can breathe underwater, giving them an advantage in aquatic environments
-
-You can move across difficult terrain made of earth or stone without incurring disadvantage
+The Genasi gains enhanced mobility on terrain made of earth or stone, granting an additional 10ft of movement
+Additionally, the Genasi can move across difficult terrain made of earth or stone without incurring disadvantage
 
 The Genasi can manipulate water within a certain range, allowing them to part or move bodies of water and shape them into simple forms, up to a maximum volume of 10 Litres multiplied by their \[PROF\] bonus
 ## Level 2 - Deluge Mastery (min 4 Essence)
