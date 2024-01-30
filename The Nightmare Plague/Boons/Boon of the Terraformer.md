@@ -7,9 +7,9 @@ The Genasi can manipulate earth within a certain range, allowing them to mold th
 The genasi gains the ability to contort and transform the ground around them into rough, uneven terrain.
 
 As an action, the genasi can create difficult terrain
-1. **Within a 15-foot radius circle** centred on yourself, the ground contorts and transforms into rough, uneven terrain. Each step becomes treacherous, forcing those who venture within to proceed with caution and deliberation.
+1. **Within a 15-foot radius circle centred on yourself**
 
-2. **Within a column measuring 15-foot**. This column measures 15 feet in width and extends for a length of 45 feet, originating from your position. The ground buckles and rises, creating a formidable barrier that hampers movement and impedes any who dare to traverse its path.
+2. **Within a column measuring 15 by 45-foot**
 
 ## Level 3
 
