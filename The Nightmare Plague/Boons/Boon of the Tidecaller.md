@@ -26,20 +26,10 @@ Knockback = 5 + 5(E-2)
 
 
 ## Level 4 - Cleansing Bathe ( 1 Essence)
-Invoke the purifying properties of water to cleanse yourself or an ally. As an action, expend 1 Genasi Essence to remove one condition (such as blinded, deafened, poisoned, burning) from yourself or a creature you touch.
+The Genasi can invoke the purifying properties of water to cleanse themselves or an ally. As an action, expend 1 Genasi Essence to remove one condition (such as blinded, deafened, poisoned, burning) from yourself or a creature within 15ft.
 
 
-## Level 5 - Fluid Manipulation Mastery
-
-The Genasi's mastery over water manipulation reaches new heights, granting them increased control and versatility.
-
-**Enhanced Fluid Manipulation:**
-The Genasi's ability to manipulate water becomes more refined. They can now shape water into more intricate forms, creating detailed constructs and manipulating water with greater precision within the established range.
-
-**Aquatic Resilience:**
-The Genasi's connection to water enhances their natural resilience. They gain resistance to cold damage, reflecting their affinity for the fluid and adaptable nature of water.
-
-## Level 6 - Tidal Surge (min 2 Essence)
+## Level 5 - Tidal Surge (min 2 Essence)
 
 The Genasi can summon the power of a tidal surge, unleashing a powerful wave to crash upon their enemies.
 
