@@ -18,7 +18,7 @@ When submerged in water, the Genasi can draw upon the healing properties of wate
 | 15 | 4d8 + (E * max(\[CON\], 1)) | 5 - 33 | 6 - 34 | 7 - 35 |
 | 20 | 4d10 + (E * max(\[CON\], 1)) | 5 - 41 | 6 - 42 | 7 - 43 |
 
-## Level 3 - Hydro Jet (min 2 Essence)
+## Level 3 - Hydro Jet (min 2 E)
 The Genasi can shoot a concentrated jet of water as a ranged attack. This attack deals damage and pushes an enemy back. On a failed strength save, the enemy is knocked prone
 
 General Formula:
@@ -26,18 +26,12 @@ Force Damage = Ed6+\[PROF\]
 Knockback = 5 + 5(E-2)
 
 
-## Level 5 - Tidal Surge (min 2 Essence)
-The Genasi can summon the power of a tidal surge, unleashing a powerful wave to crash upon their enemies.
-
-Expend a minimum of 2 Genasi Essence to cast "Tidal Surge." This ability creates a 20-foot cone in front of the Genasi. Creatures within the cone must make a Strength saving throw or be pushed back and knocked prone. The damage dealt is 2d8 bludgeoning plus an additional 1d8 for each extra Genasi Essence expended.
-
-## Level 7 - Aqua Veil (1 Essence)
-
+## Level 4 - Aqua Veil (2 E)
 The Genasi learns to manipulate water defensively, creating a protective barrier.
 
-As an action, expend 1 Genasi Essence to cast "Aqua Veil." This ability surrounds the Genasi with a watery veil, granting them temporary hit points equal to their level plus their \[SPELL\] modifier. The veil provides resistance to ranged damage and immunity to fire damage until the temporary hit points are depleted.
+As an action, expend 2E to cast "Aqua Veil." This ability surrounds the Genasi with a watery veil, granting them temporary hit points equal to their level plus their \[SPELL\] modifier. The veil provides resistance to ranged damage and immunity to fire damage until the temporary hit points are depleted.
 
-## *Level 8 - Aquaform (1 Essence)*
+## *Level 5 - Aquaform (1 Essence)*
 *The Genasi achieves a deeper understanding of their aquatic heritage, gaining further control over their form and the surrounding water.*
 
 *As a bonus action, the Genasi can transform their body into a fluid state, allowing them to move through tight spaces and making them resistant to physical damage until the start of their next turn.*
