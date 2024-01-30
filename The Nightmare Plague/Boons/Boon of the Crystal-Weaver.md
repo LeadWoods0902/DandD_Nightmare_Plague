@@ -18,5 +18,6 @@ When you restore hit points to a creature other than yourself, you can choose to
 The Genasi gains the ability to summon a crystalline cloak that protects them from damage.
 
 As an action, the Genasi can summon a "prismatic cloak" that protects them grants them protection:
-- **Resistance to**
+- **Resistance to Slashing, Piercing and Fire**
+- **Immunity to magical damage**
 ## Level 5 - 
