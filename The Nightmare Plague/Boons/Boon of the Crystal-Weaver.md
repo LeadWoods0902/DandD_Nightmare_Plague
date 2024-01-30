@@ -13,3 +13,5 @@ As an action, the Genasi can expend an amount of essence up to their \[PROF\] bo
 ## Level 3 - Crystalline Recuperation (1 Essence)
 
 When you restore hit points to a creature other than yourself, you can choose to expend 1 Essence. If you do, you gain temporary hit points equal to half the amount of hit points restored (rounded down). This ability can only be triggered once per turn.
+
+## Level 4 - 
