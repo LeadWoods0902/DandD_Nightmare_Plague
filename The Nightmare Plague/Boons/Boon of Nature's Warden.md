@@ -13,17 +13,17 @@ As an action, the Genasi can remove one condition from yourself or a creature wi
 | Condition | Cleanse-able |
 | ---- | :--: |
 | Blinded | ✓ |
-| Charmed | ✓ |
+| Charmed | ✓ (if by magic) |
 | Deafened | ✓ |
-| Frightened |  |
-| Grappled |  |
-| Incapacitated |  |
-| Invisible |  |
+| Frightened | ✓ (if by magic) |
+| Grappled | X |
+| Incapacitated | X |
+| Invisible | X |
 | Paralyzed | ✓ |
-| Petrified |  |
+| Petrified | X |
 | Poisoned | ✓ |
-| Prone |  |
-| Restrained |  |
-| Stunned |  |
+| Prone | X |
+| Restrained | X |
+| Stunned | ✓ |
 | Unconscious |  |
 | Exhaustion | 1 level |
