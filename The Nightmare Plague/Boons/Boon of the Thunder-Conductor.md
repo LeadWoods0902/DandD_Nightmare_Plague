@@ -5,9 +5,11 @@ Additionally, the Genasi's affinity with lightning grants them advantage on savi
 
 The Genasi can manipulate electrical energy within a range of 30ft, enabling them to redirect and disperse energy. Additionally, the Genasi's melee strikes become electrically charged dealing 1d4 lightning damage
 ## Level 2 - Thunder Bolt (1 Essence)
-The Genasi gains the ability to throw bolts of lightning
-## Level 3 - Thunder Wave (2 Essence)
+The Genasi gains the ability to throw bolts of lightning.
 
+As an action, the Genasi can throw a "thunder bolt" at a target within 60ft, dealing 2d8 lightning damage
+## Level 3 - Thunder Wave (2 Essence)
+The Genai
 ## Level 4 - Arcing Volt (min 2 Essence)
 The Genasi gains the ability to shoot out a fine electrical beam that arcs to nearby targets.
 
