@@ -8,6 +8,6 @@ The Genasi can manipulate electrical energy within a range of 30ft, enabling the
 
 ## Level 3 - Thunder Wave (min 1 Essence)
 
-## Level 4 - Chain Lightning (min 2 Essence)
+## Level 4 - Arcing Volt (min 2 Essence)
 
 ## Level 5 - ()
