@@ -27,3 +27,6 @@ As an action, the Genasi can target E-1 creatures within 60 feet with an "Arcing
 
 
 ## Level 5 - Paralytic Strike (3 Essence)
+The Genasi gains the ability to hone the energy in their strikes, empowering their next attack with a paralytic blast
+
+As a 
