@@ -19,8 +19,8 @@ When submerged in water, the Genasi can draw upon the healing properties of wate
 | ---- | ---- | ---- | ---- |
 | 1d4 + (Essence Expended * \[Con\]) | min \ max | min \ max | min \ max |
 | 2d4 + (Essence Expended * \[Con\]) | min \ max | min \ max | min \ max |
-| 2d6 + (Essence Expended * \[Con\]) |  |  | min \ max |
-| 3d6 + (Essence Expended * \[Con\]) |  |  |  |
-| 3d8 + (Essence Expended * \[Con\]) |  |  |  |
-| 4d8 + (Essence Expended * \[Con\]) |  |  |  |
-| 4d10 + (Essence Expended * \[Con\]) |  |  |  |
+| 2d6 + (Essence Expended * \[Con\]) | min \ max | min \ max | min \ max |
+| 3d6 + (Essence Expended * \[Con\]) | min \ max | min \ max | min \ max |
+| 3d8 + (Essence Expended * \[Con\]) | min \ max | min \ max | min \ max |
+| 4d8 + (Essence Expended * \[Con\]) | min \ max | min \ max | min \ max |
+| 4d10 + (Essence Expended * \[Con\]) | min \ max | min \ max | min \ max |
