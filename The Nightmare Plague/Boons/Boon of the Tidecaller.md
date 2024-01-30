@@ -2,7 +2,7 @@
 The Genasi gains enhanced mobility in water, allowing them to swim at an increased speed. 
 Additionally, they can hold their breath indefinitely underwater and have advantage on saving throws to prevent drowning
 
-The Genasi can manipulate water within a certain range, allowing them to part or move bodies of water and shape them into simple forms, up to a maximum volume of 5 cubic feet
+The Genasi can manipulate water within a range of 30ft, allowing them to part or move bodies of water and shape them into simple forms, up to a maximum volume of 5 cubic feet
 
 ## Level 2 - Tidal Restoration (min 1 Essence)
 When in contact with water, the Genasi can draw upon the healing properties of water to regenerate health. If the water is connected to and within a mile of an ocean, an additional 10 health is recovered.
