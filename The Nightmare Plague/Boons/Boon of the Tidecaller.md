@@ -1,6 +1,6 @@
 ## Level 1 - Aquatic Affinity (Passive)
 The Genasi gains enhanced mobility in water, allowing them to swim at an increased speed. 
-Additionally, they can breathe underwater, giving them an advantage in aquatic environments
+Additionally, they can breathe underwater and have advantage on
 
 The Genasi can manipulate water within a certain range, allowing them to part or move bodies of water and shape them into simple forms, up to a maximum volume of 10 Litres multiplied by their \[PROF\] bonus
 
