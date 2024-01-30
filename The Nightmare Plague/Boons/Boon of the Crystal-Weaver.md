@@ -10,4 +10,6 @@ The genasi gains the ability to bolster their defence with minerals from their i
 
 As an action, the Genasi can expend an amount of essence up to their \[PROF\] bonus to increase their AC by the amount of essence expended.
 
-## Level 3 - Crystalline Recuperation (
+## Level 3 - Crystalline Recuperation (1 Essence)
+
+When you restore hit points to a creature other than yourself, you can choose to expend 1 Essence. If you do, you gain temporary hit points equal to half the amount of hit points restored (rounded down). This ability can only be triggered once per turn.
