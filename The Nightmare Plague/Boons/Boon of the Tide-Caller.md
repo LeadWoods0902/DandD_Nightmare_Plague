@@ -5,7 +5,7 @@ Additionally, they can hold their breath indefinitely underwater and have advant
 
 The Genasi can manipulate water within a range of 30ft, allowing them to part or move bodies of water and shape them into simple forms, up to a maximum volume of 5 cubic feet
 
-## Level 2 - Tidal Restoration (min 1 Essence)
+## Level 2 - Tidal Restoration (1-5 Essence)
 When in contact with water, the Genasi can draw upon the healing properties of water to regenerate health. If the water is connected to and within a mile of an ocean, an additional 10 health is recovered.
 
 As an action, the Genasi can recover their own health or the health of a target within 15ft, see the table below.
@@ -20,7 +20,7 @@ As an action, the Genasi can recover their own health or the health of a target 
 | 15 | 4d8 + (E * max(\[CON\], 1)) | 5 - 33 | 6 - 34 | 7 - 35 |
 | 20 | 4d10 + (E * max(\[CON\], 1)) | 5 - 41 | 6 - 42 | 7 - 43 |
 
-## Level 3 - Tidal Jet (min 2 Essence)
+## Level 3 - Tidal Jet (2-5 Essence)
 The Genasi can shoot a concentrated jet of water as a ranged attack.
 
 As an action, the Genasi can focus their essence to unleash a "Hydro Jet", propelling a forceful stream of water toward a target. The attack inflicts damage and exerts a formidable push, potentially toppling adversaries.

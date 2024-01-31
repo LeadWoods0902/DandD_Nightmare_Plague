@@ -1,5 +1,5 @@
 *E* represents the number of Essence spent
-## Level 1 - Natural Affinity (0 Essence/ Passive)
+## Level 1 - Natural Affinity (Passive)
 The Genasi gains enhanced mobility on grassy terrain , granting an additional 10ft of movement
 Additionally, they can move across difficult terrain consisting of dense vegetation without incurring disadvantage
 
