@@ -4,7 +4,7 @@ Unique Druidic Spell Focus. One Handed. Can be attuned by a Druid with sorcerous
 
 When using this item as a spell focus, you gain a +2 bonus to your spell attack roles and  spell save DC.
 
-A branch of the Nëor infused tree, "The Brokvar-Coeden" which marks the point at which [[Nëoris]] first touched the land. This Branch is ash-white and cracked with ethereal purple crevices, as if an unstable energy is trying to be released.
+A branch of the Nëor infused tree, "The Brokvar-Coeden" which marks the point at which [[Nëoris, the Life Bringer]] first touched the land. This Branch is ash-white and cracked with ethereal purple crevices, as if an unstable energy is trying to be released.
 
 ---
 
