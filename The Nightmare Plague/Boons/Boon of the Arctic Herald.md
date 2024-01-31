@@ -1,4 +1,5 @@
 ## Level 1 - Arctic Affinity (0 Essence/ Passive)
+
 ## Level 2 - Arctic Infusion (1 Essence)
 Infuse weapons with ice damage, chance of leaving targets frostbitten (damage on next hit & half movement speed for 2 rounds)
 ## Level 3 - Arctic Flurry (2 Essence)
@@ -7,7 +8,7 @@ Circular 20ft AoE centred on Genasi that halves the movement of targets inside a
 
 The Genasi taps into the resilience of ice and snow, creating a protective layer of Frost Forged Armour.
 
-As a bonus action, the Genasi can expend 3 Essence to envelop themselves in an icy sheen. This Frostforged Armor grants temporary hit points and resistance to cold and physical damage for a duration of 1 minute. Additionally, enemies that strike the Genasi in melee have a chance to become frostbitten, reducing their attack speed for a short duration.
+As a bonus action, the Genasi can expend 3 Essence to envelop themselves in an icy sheen. This Frost Forged Armor grants temporary hit points and resistance to cold and physical damage for a duration of 1 minute. Additionally, enemies that strike the Genasi in melee must make a constitution saving throw or have their movement speed halved and become weak to fire and physical attacks
 ## Level 5 - Cryogenic Overdrive (4 Essence)
 The Genasi taps into the power of Cryogenic Celerity, achieving heightened efficiency through the embrace of subzero energies. This ability bestows the following benefits:
 - Speed Boost: +10ft movement speed
