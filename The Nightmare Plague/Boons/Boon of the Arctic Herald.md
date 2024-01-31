@@ -9,5 +9,8 @@ The Genasi taps into the resilience of ice and snow, creating a protective layer
 
 As a bonus action, the Genasi can expend 3 Essence to envelop themselves in an icy sheen. This Frostforged Armor grants temporary hit points and resistance to cold and physical damage for a duration of 1 minute. Additionally, enemies that strike the Genasi in melee have a chance to become frostbitten, reducing their attack speed for a short duration.
 ## Level 5 - Cryogenic Overdrive (4 Essence)
-The Genasi taps into the power of Cryogenic Celerity, achieving heightened efficiency through the embrace of subzero energy. This ability bestows the following benefits:
-- Speed Boost:
+The Genasi taps into the power of Cryogenic Celerity, achieving heightened efficiency through the embrace of subzero energies. This ability bestows the following benefits:
+- Speed Boost: +10ft movement speed
+- Quick Reflexes: Advantage on dexterity saving throws
+- Agile Prowess: Advantage on Athletic and Acrobatic checks
+- Frost Evasion: Single use reaction to avoid all damage from one attack or spell
