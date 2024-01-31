@@ -33,4 +33,4 @@ As an action, the Genasi can remove one condition from yourself or a creature wi
 | Unconscious | X |
 | Exhaustion | ✓ (1 level) |
 
-## Level 5 - (min 3 Essence
+## Level 5 - (min 3 Essence)
