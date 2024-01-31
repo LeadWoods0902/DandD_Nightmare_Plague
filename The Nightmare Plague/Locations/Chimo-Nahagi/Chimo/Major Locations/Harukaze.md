@@ -2,4 +2,4 @@ A small community nestled in a bowl on the edge of [[The Forest of Mori]] surrou
 
 During a recent winter, [[Bismuth Shatterborne]] and [[Jasper Shatterborne]] rejuvenated their farmland after it was sapped of all it's nutrients by a vigorous crop that was eventually wiped about by disease. 
 
-In the nearby woodlands, Bismuth & Jasper encountered a [[WilderBeast]] and [[Kaede, the Nature Warden]].
+In the nearby woodlands, Bismuth & Jasper encountered a [[WilderBeast]] and [[Kaede, the Arboreal Warden]].

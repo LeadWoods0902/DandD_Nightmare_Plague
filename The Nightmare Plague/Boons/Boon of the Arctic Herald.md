@@ -1,7 +1,6 @@
-## Level 1 - Frost Affinity (0 Essence/ Passive)
-## Level 10 - Aqua Elemental Infusion (2 Essence)
-
-The Genasi can infuse their body with the essence of a water elemental, gaining additional powers.
+## Level 1 - Arctic Affinity (0 Essence/ Passive)
+## Level 10 - Arctic Infusion (1 Essence)
+Infuse weapons with ice damage, chance of leaving targets frostbitten (damage on next hit & half movement speed 
 
 **Elemental Empowerment:**
 Expend 2 Genasi Essence to activate "Aqua Elemental Infusion." This ability enhances the Genasi's attacks with water energy, causing their melee attacks to deal additional cold damage for a duration of 1 minute.
