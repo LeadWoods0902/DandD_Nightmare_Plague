@@ -1,5 +1,7 @@
 ## Level 1 - Arctic Affinity (0 Essence/ Passive)
+Extra movement in snow, no disadvantage on snowy terrain.
 
+ice manipulation up to a 5ft cube
 ## Level 2 - Arctic Infusion (1 Essence)
 Infuse weapons with ice damage, chance of leaving targets frostbitten (damage on next hit & half movement speed for 2 rounds)
 ## Level 3 - Arctic Flurry (2 Essence)
