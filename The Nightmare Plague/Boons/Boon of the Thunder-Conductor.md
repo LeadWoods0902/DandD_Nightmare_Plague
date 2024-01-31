@@ -12,7 +12,7 @@ As an action, the Genasi can throw a "thunder bolt" at a target within 60ft, dea
 The Genasi gains the ability to expel their built up energy, creating a shockwave around them.
 
 As an action, the Genasi can make a ranged spell attack against all targets within 15ft of it, on a hit dealing 2d8 lightning damage
-## Level 4 - Arcing Volt (min 2 Essence)
+## Level 4 - Arcing Volt (2-5 Essence)
 The Genasi gains the ability to shoot out a fine electrical beam that arcs to nearby targets.
 
 As an action, the Genasi can target E-1 creatures within 60 feet with an "Arcing Volt," dealing ((30+10(E-2))10)d8 electrical damage. The attack chains to each target within 30+10(E−2) feet of the first. Each subsequent target must make a Dexterity saving throw to avoid conducting the arcing volt.

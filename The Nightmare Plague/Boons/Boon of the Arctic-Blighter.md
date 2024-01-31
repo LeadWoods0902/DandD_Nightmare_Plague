@@ -1,4 +1,4 @@
-## Level 1 (0 Essence/ Passive)
+## Level 1 - Frost Affinity (0 Essence/ Passive)
 ## Level 10 - Aqua Elemental Infusion (2 Essence)
 
 The Genasi can infuse their body with the essence of a water elemental, gaining additional powers.
