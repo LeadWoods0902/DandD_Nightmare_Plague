@@ -34,7 +34,6 @@ As an action, the Genasi can remove one condition from yourself or a creature wi
 | Exhaustion | ✓ (1 level) |
 
 ## Level 5 - Sylvan Empowerment (3 Essence)
-
 The Genasi's connection with the natural world deepens, granting them the ability to channel the essence of the sylvan realms.
 
 As an action, the Genasi can summon spectral manifestations of woodland creatures to aid them in battle. These manifestations, representing the spirits of the forest, materialize in an area of the Genasi's choice within 30 feet. The creatures persist for 1 minute, providing various benefits to the Genasi and their allies:
