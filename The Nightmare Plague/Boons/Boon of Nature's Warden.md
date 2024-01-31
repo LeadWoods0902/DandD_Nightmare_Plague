@@ -33,10 +33,10 @@ As an action, the Genasi can remove one condition from yourself or a creature wi
 | Unconscious | X |
 | Exhaustion | ✓ (1 level) |
 
-## Level 5 - Sylvan Empowerment (3 Essence)
+## Level 5 - Sylvan Empowerment (min 3 Essence)
 The Genasi's connection with the natural world deepens, granting them the ability to channel the essence of the sylvan realms.
 
 As an action, the Genasi can summon spectral manifestations of woodland creatures to aid them in battle. These manifestations, representing the spirits of the forest, materialize in an area of the Genasi's choice within 30 feet. The creatures persist for 1 minute, providing various benefits to the Genasi and their allies:
-- **Nature's Guardians**: The spectral creatures act as ethereal guardians, providing half-cover to all allies within their area of influence.
+- **Nature's Guardians**: The spectral treant acts as an ethereal guardians, providing half-cover to all allies within their area of influence.
 - **Enchanted Vigour**: Allies within 10ft of the spectral fox gain temporary hit points equal to the Genasi's level at the start of their turns.
-- **Elusive Spirits**: Once during the duration, as a reaction to an enemy's attack, the Genasi can call upon the elusive spirits to grant advantage on a Dexterity saving throw.
+- **Elusive Spirits**: Once during the duration, as a reaction to an enemy's attack, allies within 10ft of the spectral owl can incur advantage on dexterity s
