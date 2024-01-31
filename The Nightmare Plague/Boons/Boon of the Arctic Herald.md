@@ -8,4 +8,5 @@ Circular 20ft AoE centred on Genasi that halves the movement of targets inside a
 The Genasi taps into the resilience of ice and snow, creating a protective layer of Frostforged Armor.
 
 As a bonus action, the Genasi can expend 3 Essence to envelop themselves in an icy sheen. This Frostforged Armor grants temporary hit points and resistance to cold and physical damage for a duration of 1 minute. Additionally, enemies that strike the Genasi in melee have a chance to become frostbitten, reducing their attack speed for a short duration.
-## Level 5 -
+## Level 5 - Cryogenic 
+The Genasi taps into the power of Cryogenic Celerity, cooling themselves to the point of heightened efficiency. This ability grants increased speed, improved reaction times, and enhanced agility, allowing the Genasi to maneuver with unparalleled quickness on the battlefield.
