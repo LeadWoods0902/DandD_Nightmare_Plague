@@ -1,4 +1,8 @@
 ![[Auroris_Token.png]]
+
+##### Boon
+[[Boon of the Shimmering Sentinel]]
+
 Auroris is a Crystal Djinn
 
 Djinn lineage of[[Dolomite (Dola)]]; and consequently: [[Bismuth Shatterborne]] and [[Jasper Shatterborne]]
