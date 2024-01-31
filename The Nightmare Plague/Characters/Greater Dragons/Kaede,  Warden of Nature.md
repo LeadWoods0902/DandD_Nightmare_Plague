@@ -1,5 +1,10 @@
-![[Kaede.png]]
-*Pictured: Kaede coming out of a slumber. Kaede has the ability to merge in with all things natural*
+![[Kaede_Token.png]]
+[[Kaede.png|Full Art]]
+
+---
+
+##### boon
+
 
 Mother of all life of Chimo-Nahagi, Kaede is one of the few flightless greater dragons but that lack of flight does not deter her from her ever on going work. It is said that Kaede is as long as the measurable life of all living things: which is to be said that no one has ever seen her tail.
 
