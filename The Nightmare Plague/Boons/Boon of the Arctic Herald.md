@@ -13,4 +13,6 @@ The Genasi taps into the power of Cryogenic Celerity, cooling themselves to the 
 
 Gaining the benefits:
 - 10ft of additional movement
-- advantage on 
+- advantage on dexterity saving throws
+- advantage on athletic and acrobatics checks
+- a one use reaction allowing the Genasi to completely avoid all damage from an attack or spell
