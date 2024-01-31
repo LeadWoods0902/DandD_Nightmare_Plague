@@ -1,4 +1,4 @@
-![[Auroris.png]]
+![[Auroris_Token.png]]
 Auroris is a Crystal Djinn
 
 Djinn lineage of[[Dolomite (Dola)]]; and consequently: [[Bismuth Shatterborne]] and [[Jasper Shatterborne]]
