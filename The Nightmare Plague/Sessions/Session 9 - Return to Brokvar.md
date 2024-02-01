@@ -27,4 +27,4 @@ Arriving at a white painted house in the middle of a terrace, Elaine gestures fo
 
 ![[Circe_Token.png]]
 
-Sat behind the heavy desk, the dark haired woman smiles at the 7 of you, gesturing for you to join her at her desk at which a large comf
+Sat behind the heavy desk, the dark haired woman smiles at the 7 of you, gesturing for you to join her at her desk at which a large comfy couch in the middle of the room was facing. After observing you all cross the room, the woman introduces herself as Missy, ex
