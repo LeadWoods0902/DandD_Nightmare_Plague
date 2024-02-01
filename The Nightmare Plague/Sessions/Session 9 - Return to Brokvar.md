@@ -21,4 +21,4 @@ It quickly became apparent that during the fight, the horses escaped from their 
 
 ![[Brokvar_Map.png]]
 
-Upon arriving at the gates, the guards recognise Elaine and stand aside to allow entry - the rag-tag and weathered group accompanying her garner an inquisitive stare from the guards both outside and in the city limits. Guiding you through the city, she escorts you through large open squares, a wide avenue and several narrow alley
+Upon arriving at the gates, the guards recognise Elaine and stand aside to allow entry - the rag-tag and weathered group accompanying her garner an inquisitive stare from the guards both outside and in the city limits. Guiding you through the city, she escorts you through large open squares, a wide avenue and several narrow alleys before you reach a point from which you can see the tree again in full. Leaning over the bridges of halfway house, the scale of the tree becomes ever more apparent, Elaine explains that the tree is known as the Coeden and is 
