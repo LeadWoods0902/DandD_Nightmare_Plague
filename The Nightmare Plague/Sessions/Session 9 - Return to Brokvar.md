@@ -37,4 +37,4 @@ Short on the local currency but nought else to do at the time, the party leave t
 - The party return to Brokvar, describe city as being lively yet lived in
 - Arriving at Circe's house, guards wait outside - after being made to wait, Niahl exits - visibly reacting to someone. (Tom)
 	- Something might happen here?
-- 
+- Going inside, the party are met by Elaine who explains that 
