@@ -47,3 +47,23 @@ Short on the local currency but nought else to do at the time, the party leave t
 	- I do understand however that you may not want to burden yourself with this matter, this is after all not your country: except perhaps maybe yours Mazikeen - I take it you haven't regained any of your memories since we last spoke? Either way, you have plenty of time to decide.
 
 
+
+
+Sturgis' speech:
+"Esteemed citizens of Brokvar, I come before you as a representative of Sunmaek, a culture that has woven its tale into the very fabric of your kingdom. Many years ago, Ven-Dryk, a Sunmaekan, ventured into the heart of Brokvar. Fate, as whimsical as it is, led him to the side of your queen, and through shared trials and triumphs, he assumed the mantle of leadership after her tragic assassination.
+
+Under Ven-Dryk's stewardship, we have witnessed the resurgence of stability and prosperity within your beloved city. His commitment to the welfare of Brokvar has been unwavering. And now, as the tides of time shift, Ven-Dryk stands ready to relinquish the throne, confident that Brokvar is on a path of stability.
+
+In this moment of transition, we extend a hand in friendship, seeking not dominance but collaboration. Our ruler, Emre Aydin, proposes a unique union between the Sunmaek and Brokvar that aims to fortify the foundations of your city. Emre suggests the establishment of a governance structure that elects a new leader from the local populace—a leader who will bear the torch of Brokvar's identity and receive the support and wisdom of Emre and her esteemed advisors.
+
+This proposition is not a takeover; it is an invitation to build a future together. Picture a leader emerging from your own midst, someone intimately acquainted with the nuances of Brokvar, steering the ship with the backing of Emre Aydin and her council. It is a formula for success, a fusion of the strengths inherent in both our cultures.
+
+In this collaborative endeavor, you will not lose your identity; instead, you will find strength in unity. Emre Aydin envisions a realm where the unique tapestry of Brokvar is not only preserved but enhanced through the synergy of our shared strengths. Imagine a future where Sunmaek and Brokvar, working hand in hand, create a kingdom that stands as a testament to cooperation, resilience, and shared growth.
+
+As Ven-Dryk gracefully steps aside, he leaves behind a legacy of stability and progress. Embrace this moment of transition as an opportunity to forge an alliance that not only honors the past but also propels both cultures towards a future of shared prosperity. Together, let us weave a new chapter in the tapestry of our intertwined histories—a chapter that speaks of unity, collaboration, and a boundless potential for greatness.
+
+
+
+
+
+
