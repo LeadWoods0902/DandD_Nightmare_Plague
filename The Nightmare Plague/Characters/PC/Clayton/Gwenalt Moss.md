@@ -4,7 +4,7 @@
 ---
 ### Character Info
 ##### Name 
-*TBC* 
+Gwenalt/ Osian Moss
 ##### Current Age
 *TBC*
 ##### Place of Origin
