@@ -15,6 +15,8 @@ Brokvar - Deep Moss Duchy
 | Mother | [[Eilwen Moss]] |  |
 | Father | [[Owain Moss]] |  |
 | Sister | [[Morwen Moss]] |  |
+| Sister | [[Gwenelt Moss]] |  |
+| Uncle |  |  |
 ##### Race
 Human
 ##### Class
