@@ -5,7 +5,7 @@
 |  |  |  |
 |  |  |  |
 | 1783 | 17 | Cenwyn leads a group of soldiers on a guerrilla mission to rescue Brokvarian prisoners from an imperial encampment |
-|  |  |  |
+|  |  | Cenwyn takes temporary control of |
 |  |  |  |
 |  |  |  |
 |  |  |  |
