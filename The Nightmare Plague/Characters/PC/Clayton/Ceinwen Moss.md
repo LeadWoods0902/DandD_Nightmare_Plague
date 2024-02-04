@@ -28,8 +28,7 @@ Dutiful - A strong sense of duty to your family motivates your character
 
 Reserved - Your character tends to keep their emotions in check, presenting a composed exterior even in challenging situations.
 ##### Long Term Goals
-Follow in father's footsteps, lead a prosperous future for the people of your Duchy
-
+Follow in your father's footsteps, lead a prosperous future for the people of your Duchy
 ##### Secondary Goals
 *TBC*
 ##### Motivations
@@ -48,4 +47,4 @@ Fear of Failure - The fear of letting down your family or the city can be disadv
 Moss Family & Duchy
 Ven-Dryk
 ### Notes
-
+Wields Dewdrop
