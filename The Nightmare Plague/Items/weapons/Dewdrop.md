@@ -4,4 +4,4 @@
 ---
 ## Weapon Description
 
-An heirloom weapon of the Moss Family. Once weid
+An heirloom weapon of the Moss Family. Once wielded by the family founder Howell Moss 
