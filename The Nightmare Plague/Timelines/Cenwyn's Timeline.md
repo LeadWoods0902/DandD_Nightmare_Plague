@@ -5,7 +5,7 @@
 |  |  |  |
 |  |  |  |
 | 1783 | 17 | Cenwyn leads a group of soldiers on a guerrilla mission to rescue Brokvarian prisoners from an imperial encampment |
-| 1785 | 19 | Cenwyn takes temporary control of Arbor-Heart Citadel after his father heads east to command in the war. |
+| 1785 | 19 | Cenwyn takes temporary control of Deep-Moss Keep after his father heads east to command in the war. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
