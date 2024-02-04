@@ -1,10 +1,10 @@
 | Year | Age | Events |
 | ---- | ---- | ---- |
-| 1766 | 0 | Cenwyn and his twin sister Gwenalt are born to Owain & Eilwen |
+| 1766 | 0 | Cenwyn and his twin sister Gwenalt are born to Owain & Eilwen Moss |
 |  |  |  |
 |  |  |  |
 |  |  |  |
-|  |  |  |
+|  | 17 |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
