@@ -1,16 +1,18 @@
 ![[Howell_Token.png]]
 [[Howell.png|Full Art]]
+
+---
 ### Character Info
 ##### Name 
 Howell Moss
 ##### Current Age
-*TBC*
+Deceased
 ##### Place of Origin
-*TBC*
+Brokvar - Deep Moss Duchy
 ##### Family
 *TBC*
 ##### Race
-*TBC*
+Human
 ##### Class/ Profession
 *TBC*
 ##### Alignment
