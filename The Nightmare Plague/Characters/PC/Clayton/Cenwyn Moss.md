@@ -6,7 +6,12 @@ Cenwyn Moss
 ##### Place of Origin
 *TBC*
 ##### Family
-*TBC*
+| Relation | Person |  |
+| ---- | ---- | ---- |
+| Mother | [[Eilwen Moss]] |  |
+| Father | [[Owain Moss]] |  |
+| Sister | [[Alis Moss |  |
+
 ##### Race
 *TBC*
 ##### Class/ Profession
