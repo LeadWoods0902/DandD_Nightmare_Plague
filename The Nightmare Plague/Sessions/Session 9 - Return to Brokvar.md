@@ -50,11 +50,9 @@ Short on the local currency but nought else to do at the time, the party leave t
 
 
 Sturgis' speech:
-"Esteemed citizens of Brokvar, I come before you as a representative of Sunmaek, a culture that has woven its tale into the very fabric of your kingdom. Many years ago, Ven-Dryk, a Sunmaekean, ventured into the heart of Brokvar. Fate, as whimsical as it is, led him to the side of your queen, your Napella. Fate, as cruel as it is, took her from you too soon. Her legacy has l
+"Esteemed citizens of Brokvar, I come before you as a representative of Sunmaek, a culture that has woven its tale into the very fabric of your kingdom. Many years ago, Ven-Dryk, a Sunmaekean, ventured into the heart of Brokvar. Fate, as whimsical as it is, led him to the side of your queen, your Napella. Fate, as cruel as it is, took her from you too soon. Her legacy however has lived on in Ven-Dryk, under his stewardship, you have witnessed the resurgence of stability and prosperity within your beloved city. His commitment to the welfare of Brokvar has been unwavering. 
 
-Under Ven-Dryk's stewardship, we have witnessed the resurgence of stability and prosperity within your beloved city. His commitment to the welfare of Brokvar has been unwavering. And now, as the tides of time shift, Ven-Dryk stands ready to relinquish the throne, confident that Brokvar is on a path of stability.
-
-In this moment of transition, we extend a hand in friendship, seeking not dominance but collaboration. Our ruler, Emre Aydin, proposes a unique union between the Sunmaek and Brokvar that aims to fortify the foundations of your city. Emre suggests the establishment of a governance structure that elects a new leader from the local populace—a leader who will bear the torch of Brokvar's identity and receive the support and wisdom of Emre and her esteemed advisors.
+And now in this moment of transition, we extend a hand in friendship, seeking not dominance but collaboration. Our Buyuk, a title akin to  Emre Aydin, proposes a unique union between the Sunmaek and Brokvar that aims to fortify the foundations of your city. Emre suggests the establishment of a governance structure that elects a new leader from the local populace—a leader who will bear the torch of Brokvar's identity and receive the support and wisdom of Emre and her esteemed advisors.
 
 This proposition is not a takeover; it is an invitation to build a future together. Picture a leader emerging from your own midst, someone intimately acquainted with the nuances of Brokvar, steering the ship with the backing of Emre Aydin and her council. It is a formula for success, a fusion of the strengths inherent in both our cultures.
 
