@@ -8,5 +8,5 @@
 | 1785 | 19 | Cenwyn takes temporary control of Deep-Moss Keep after his father heads east to command in the war. |
 |  |  |  |
 |  |  |  |
-|  |  |  |
+| 1791 | 15 | Owain returns from the east, reclaiming control of the keep from Cenwyn. |
 | 1793 | 27 | Owain takes Cenwyn with him to Brokvar to represent house Moss in the monarch election |
