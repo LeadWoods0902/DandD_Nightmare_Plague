@@ -31,4 +31,4 @@
 *TBC*
 ### Notes
 
-Afflicted by a Cursed Crown which he took from the family cryps
+Afflicted by a Cursed Crown which he took from the family crypts to make himself look like more of a leader than his brother Owain
