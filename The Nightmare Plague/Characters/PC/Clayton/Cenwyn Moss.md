@@ -17,11 +17,11 @@ Brokvar - Deep Moss Duchy
 | Sister | [[Morwen Moss]] |  |
 
 ##### Race
-*TBC*
-##### Class/ Profession
-*TBC*
+Human
+##### Class
+Battle Master Fighter
 ##### Alignment
-*TBC*
+Lawful Good
 ##### Personality Traits
 *TBC*
 ##### Long Term Goals
