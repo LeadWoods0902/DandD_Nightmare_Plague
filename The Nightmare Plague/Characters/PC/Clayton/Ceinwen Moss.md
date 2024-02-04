@@ -1,10 +1,10 @@
 ![[Ceinwen_Token.png]]
-[[Cenwyn.png|Full Art]]
+[[Ceinwen'.png|Full Art]]
 
 ---
 ### Character Info
 ##### Name 
-Cenwyn Moss
+Ceinwen Moss
 ##### Current Age
 27
 ##### Place of Origin
