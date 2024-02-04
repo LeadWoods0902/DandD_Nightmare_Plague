@@ -1,3 +1,7 @@
+![[Morcan_Token.png]]
+[[Morcan.png|Full Art]]
+
+---
 ### Character Info
 ##### Name 
 *TBC* 
