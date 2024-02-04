@@ -45,6 +45,5 @@ Inability to Delegate - Feeling a strong sense of responsibility, you find it ch
 Fear of Failure - The fear of letting down your family or the city can be disadvantaging when under pressure
 ##### Affiliations
 Moss Family & Duchy
-Ven-Dryk
 ### Notes
 Wields [[Dewdrop]], an heirloom of the Moss Duchy
