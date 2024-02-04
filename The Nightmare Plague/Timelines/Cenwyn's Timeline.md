@@ -4,7 +4,7 @@
 | 1771 | 5 | Cenwyn's younger sister Gwenalt is born |
 |  |  |  |
 |  |  |  |
-|  | 17 | Cenwyn leads a group of soldiers on a gueri  |
+| 1783 | 17 | Cenwyn leads a group of soldiers on a guerrilla mission to rescue Brokvarian prisoners from an imperial encampment |
 |  |  |  |
 |  |  |  |
 |  |  |  |
