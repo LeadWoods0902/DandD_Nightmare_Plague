@@ -1,3 +1,7 @@
+![[Cenwyn_Token.png]]
+[[Cenwyn.png|Full Art]]
+
+---
 ### Character Info
 ##### Name 
 Cenwyn Moss
