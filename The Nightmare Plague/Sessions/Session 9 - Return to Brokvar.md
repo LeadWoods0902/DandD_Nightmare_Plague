@@ -42,4 +42,5 @@ Short on the local currency but nought else to do at the time, the party leave t
 - Missy explains that Owain is entering the election, as house Moss has had a long history with Brokvar - being one of the original settlements
 	- Tomorrow will be the first day candidates can argue their case, Duska will be expected to attend Sturgis's speech.
 - Missy offers the opportunity to answer any questions the party may have
-- Explains to Bismuth, Jasper, Mazikeen and 
+- Explains to Bismuth, Jasper, Mazikeen and Rolbam: there is a job that I would appreciate your help with, Duska if she wants could get a cut in on the action too.
+	- As you may have heard, there are a group of 
