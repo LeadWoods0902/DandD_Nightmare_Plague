@@ -1,4 +1,4 @@
-![[Cenwyn_Token.png]]
+![[Ceinwen_Token.png]]
 [[Cenwyn.png|Full Art]]
 
 ---
@@ -22,7 +22,7 @@ Human
 ##### Class
 Battle Master Fighter
 ##### Alignment
-Lawful Good
+Lawful Moral
 ##### Personality Traits
 Dutiful - A strong sense of duty to your family motivates your character
 
