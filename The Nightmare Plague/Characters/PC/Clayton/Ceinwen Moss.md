@@ -47,4 +47,4 @@ Fear of Failure - The fear of letting down your family or the city can be disadv
 Moss Family & Duchy
 Ven-Dryk
 ### Notes
-Wields Dewdrop
+Wields [[Dewdrop]], an heirloom of the Moss Duchy
