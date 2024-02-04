@@ -10,7 +10,7 @@ Cenwyn Moss
 | ---- | ---- | ---- |
 | Mother | [[Eilwen Moss]] |  |
 | Father | [[Owain Moss]] |  |
-| Sister | [[Alis Moss |  |
+| Sister | [[Morwen Moss]] |  |
 
 ##### Race
 *TBC*
