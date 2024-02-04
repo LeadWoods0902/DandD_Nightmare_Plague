@@ -39,4 +39,5 @@ Short on the local currency but nought else to do at the time, the party leave t
 	- Something might happen here?
 - Going inside, the party are met by Elaine who explains that Missy has returned from her excursion.
 - Guided to her office, in which two nobles are seated: Owain & Cenwyn
-- Missy explains that Owain is
+- Missy explains that Owain is entering the election, as house Moss has had a long history with Brokvar - being one of the original settlements
+- 
