@@ -10,13 +10,13 @@ Cenwyn Moss
 ##### Place of Origin
 Brokvar - Deep Moss Duchy
 ##### Family
-| Relation | Person |  |
-| ---- | ---- | ---- |
-| Mother | [[Eilwen Moss]] |  |
-| Father | [[Owain Moss]] |  |
-| Sister | [[Morwen Moss]] |  |
-| Sister | [[Gwenelt Moss]] |  |
-| Uncle |  |  |
+| Relation | Person |
+| ---- | ---- |
+| Mother | [[Eilwen Moss]] |
+| Father | [[Owain Moss]] |
+| Sister | [[Morwen Moss]] |
+| Sister | [[Gwenelt Moss]] |
+| Uncle | [[Morcan Moss]] |
 ##### Race
 Human
 ##### Class
