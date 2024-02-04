@@ -50,7 +50,7 @@ Short on the local currency but nought else to do at the time, the party leave t
 
 
 Sturgis' speech:
-"Esteemed citizens of Brokvar, I come before you as a representative of Sunmaek, a culture that has woven its tale into the very fabric of your kingdom. Many years ago, Ven-Dryk, a Sunmaekan, ventured into the heart of Brokvar. Fate, as whimsical as it is, led him to the side of your queen, and through shared trials and triumphs, he assumed the mantle of leadership after her tragic assassination.
+"Esteemed citizens of Brokvar, I come before you as a representative of Sunmaek, a culture that has woven its tale into the very fabric of your kingdom. Many years ago, Ven-Dryk, a Sunmaekean, ventured into the heart of Brokvar. Fate, as whimsical as it is, led him to the side of your queen, your Napella. Fate, as cruel as it is, took her from you too soon. Her legacy has l
 
 Under Ven-Dryk's stewardship, we have witnessed the resurgence of stability and prosperity within your beloved city. His commitment to the welfare of Brokvar has been unwavering. And now, as the tides of time shift, Ven-Dryk stands ready to relinquish the throne, confident that Brokvar is on a path of stability.
 
