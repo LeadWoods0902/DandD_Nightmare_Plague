@@ -2,9 +2,9 @@
 ##### Name 
 Cenwyn Moss
 ##### Current Age
-*TBC*
+27
 ##### Place of Origin
-*TBC*
+Brokvar - Deep Moss Duchy
 ##### Family
 | Relation | Person |  |
 | ---- | ---- | ---- |
