@@ -40,4 +40,5 @@ Short on the local currency but nought else to do at the time, the party leave t
 - Going inside, the party are met by Elaine who explains that Missy has returned from her excursion.
 - Guided to her office, in which two nobles are seated: Owain & Ceinwen
 - Missy explains that Owain is entering the election, as house Moss has had a long history with Brokvar - being one of the original settlements
-	- Tomorrow will be the first day candidates can argue their case, Duska will be expected to attend Sturgis's speech.  
+	- Tomorrow will be the first day candidates can argue their case, Duska will be expected to attend Sturgis's speech.
+- Missy offers the opportunity to answer any questions the party may have
