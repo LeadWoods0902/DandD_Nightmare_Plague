@@ -31,3 +31,4 @@
 *TBC*
 ### Notes
 
+Afflicted by a Cursed Crown which he took from the family cryps
