@@ -43,4 +43,4 @@ Short on the local currency but nought else to do at the time, the party leave t
 	- Tomorrow will be the first day candidates can argue their case, Duska will be expected to attend Sturgis's speech.
 - Missy offers the opportunity to answer any questions the party may have
 - Explains to Bismuth, Jasper, Mazikeen and Rolbam: there is a job that I would appreciate your help with, Duska if she wants could get a cut in on the action too.
-	- As you may have heard, there are a group of pirates that reside in the islands to the north of here. The land of "Gogledd-Ynys". It was once quite a successful archipelago but after a storm wrought desctruction upon it, it degraded into piracy and
+	- As you may have heard, there are a group of pirates that reside in the islands to the north of here. The land of "Gogledd-Ynys". It was once quite a successful archipelago but after a storm wrought destruction upon it, it degraded into piracy and delinquency 
