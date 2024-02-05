@@ -66,4 +66,4 @@ Jarae maintains a flock of micro animals, magically altered through an alchemica
 | Small | d8 health | 10 bhat |
 | Medium | 2d8 health | 20 baht |
 | Large | 3d8 health | 30 baht |
-|  |  |  |
+
