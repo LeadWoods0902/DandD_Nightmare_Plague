@@ -59,6 +59,8 @@ Jarae maintains a flock of micro animals, magically altered through an alchemica
 |  |  |  |
 | Oils | 10 successful hits or until the weapon is put away |  |
 | Arcane Oil | Incurs extra damage against magical creatures | 15 baht |
-| Beasts | Incurs extra damage against natural animals  | 15 baht |
+| Beasts | Incurs extra damage against natural animals | 15 baht |
 | Elemental | Incurs extra damage against creatures of the elemental plane | 15 baht |
+|  |  |  |
+| Health Potion | single use |  |
 |  |  |  |
