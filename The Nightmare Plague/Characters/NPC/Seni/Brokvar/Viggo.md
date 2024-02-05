@@ -1,5 +1,5 @@
-![[Racist_1_Token.png]]
-[[Viggo.png|Full Art]]
+![[The Nightmare Plague/Resources/Tokens/Viggo.png]]
+[[The Nightmare Plague/Resources/Full Art/Viggo.png|Full Art]]
 
 ---
 ### Character Info
