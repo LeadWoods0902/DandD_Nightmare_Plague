@@ -57,7 +57,7 @@ And now in this moment of transition, we extend a hand in friendship, seeking no
 
 Picture a leader emerging from your own midst, someone intimately acquainted with the nuances of Brokvar, steering the ship with the backing of Emre Aydin and her council. It is a formula for success, a fusion of the strengths inherent in both our cultures. In this collaborative endeavour, you will not lose your identity; instead, you will find strength in unity. Emre envisions a realm where the unique tapestry of Brokvar is not only preserved but enhanced through the synergy of our shared strengths. Imagine a future where Sunmaek and Brokvar, working hand in hand, create a kingdom that stands as a testament to cooperation, resilience, and shared growth.
 
-As Ven-Dryk steps aside, he leaves behind a legacy of stability and progress. Embrace this moment of transition as an opportunity to forge an alliance that not only honors the past but also propels both cultures towards a future of shared prosperity. Together, let us weave a new chapter in the tapestry of our intertwined histories—a chapter that speaks of unity, collaboration, and a boundless potential for greatness.
+As Ven-Dryk steps aside, he leaves behind a legacy of stability and progress. Embrace this moment of transition as an opportunity to forge an alliance that not only honours the past but also propels both cultures towards a future of shared prosperity. Together, let us weave a new chapter in the tapestry of our intertwined histories—a chapter that speaks of unity, collaboration, and a boundless potential for greatness.
 
 
 
