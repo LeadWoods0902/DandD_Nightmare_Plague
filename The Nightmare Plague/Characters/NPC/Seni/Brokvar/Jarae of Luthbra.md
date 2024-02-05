@@ -57,8 +57,8 @@ Jarae maintains a flock of micro animals, magically altered through an alchemica
 | Potent Poison | paralysis for 10 turns & 2d4 acid dmg a turn | 80 baht |
 | Virulent Poison | paralysis until cured & 2d4 acid dmg a turn | 150 baht |
 |  |  |  |
-| Oils |  |  |
-| Arcane Oil | Incurs extra damage ex | 15 bhat |
-| Beasts |  |  |
-| Elemental |  |  |
+| Oils | 10 successful |  |
+| Arcane Oil | Incurs extra damage against magical creatures | 15 bhat |
+| Beasts | Incurs extra damage against natural animals  |  |
+| Elemental | Incurs extra damage against magical creatures |  |
 |  |  |  |
