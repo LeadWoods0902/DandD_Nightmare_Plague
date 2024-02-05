@@ -51,6 +51,7 @@ Jarae maintains a flock of micro animals, magically altered through an alchemica
 
 | type | description | price |
 | ---- | ---- | ---- |
+| Po |  |  |
 | Weak Poison | paralysis for 5 turns | 20 baht |
 | Moderate Poison | paralysis for 5 turns & d4 acid dmg a turn | 40 baht |
 | Potent Poison | paralysis for 10 turns & 2d4 acid dmg a turn | 80 baht |
