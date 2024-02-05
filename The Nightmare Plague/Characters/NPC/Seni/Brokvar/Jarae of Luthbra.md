@@ -48,7 +48,8 @@ Unknown
 Jarae maintains a flock of micro animals, magically altered through an alchemical formulae to shrink. (currently unstable)
 
 ### Store
-Poisons: 
+Poisons
+| type | description | 
 | Weak | paralysis for 5 turns | 20 baht |
 | Moderate | paralysis for 5 turns & d4 acid dmg a turn | 40 baht |
 | Potent | paralysis for 10 turns & 2d4 acid dmg a turn | 80 baht |
