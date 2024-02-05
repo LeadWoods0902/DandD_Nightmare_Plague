@@ -4,7 +4,7 @@
 ---
 ### Character Info
 ##### Name 
-*TBC* 
+Viggo
 ##### Current Age
 *TBC*
 ##### Place of Origin

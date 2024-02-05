@@ -1,10 +1,10 @@
-![[Racist_3_Token.png]]
-[[Racist_3.png|Full art]]
+![[Agnor_Token.png]]
+[[Agnor.png|Full art]]
 
 ---
 ### Character Info
 ##### Name 
-*TBC* 
+Agnor
 ##### Current Age
 *TBC*
 ##### Place of Origin

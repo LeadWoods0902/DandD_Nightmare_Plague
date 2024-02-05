@@ -4,7 +4,7 @@
 ---
 ### Character Info
 ##### Name 
-*TBC* 
+Sivert
 ##### Current Age
 *TBC*
 ##### Place of Origin
