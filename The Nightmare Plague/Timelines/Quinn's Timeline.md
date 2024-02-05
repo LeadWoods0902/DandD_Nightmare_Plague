@@ -9,8 +9,8 @@
 | 1792 | 24 | The Kilfenora | You form a bond with a passenger on the ship, a lesser dragon known as Primalas |
 | 1793 | 25 | Virmarr | Campaign begins |
 | " " | " " | Virmarr | You and Bismuth are are put up for auction and are bought by Elaine |
-| " " | " " | Virmarr | Elaine takes you back to the tavern where  |
-| " " | " " |  |  |
+| " " | " " | Virmarr | Elaine takes you back to the tavern where she introduces you to her companions: Duska, Sturgis and Hinelle.  |
+| " " | " " | Virmarr |  |
 | " " | " " |  |  |
 | " " | " " |  |  |
 | " " | " " |  |  |
