@@ -8,7 +8,7 @@
 | 1791 | 23 | The Kilfenora | The crew begin to teach you  |
 | 1792 | 24 | The Kilfenora | You form a bond with a passenger on the ship, a lesser dragon known as Primalas |
 | 1793 | 25 | Virmarr | Campaign begins |
-| " " | " " | Virmarr | You and Bismuth are are put up for auction and are bought by Elaine - she takes you back to the tavern where she introduces you to her companions: Duska, Sturgis and Hinelle.<br><br>During the course of the day, you meet the rest of the party |
+| " " | " " | Virmarr | You and Bismuth are are put up for auction and are bought by Elaine - she takes you back to the tavern where she introduces you to her companions: Duska, Sturgis and Hinelle.<br><br>During the course of the day, you meet two more strange and amnesiac characters: Mazikeen, an elf who seems to  |
 | " " | " " | The edge of The Weald |  |
 | " " | " " |  |  |
 | " " | " " |  |  |
