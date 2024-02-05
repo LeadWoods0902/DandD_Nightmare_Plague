@@ -46,3 +46,10 @@ Unknown
 ### Notes
 
 Jarae maintains a flock of micro animals, magically altered through an alchemical formulae to shrink. (currently unstable)
+
+### Store
+Poisons: 
+| Weak | paralysis for 5 turns 20baht |
+| Moderate |
+| Potent |
+| Virulent |
