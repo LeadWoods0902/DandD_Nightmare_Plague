@@ -1,0 +1,24 @@
+## Session Events
+- The party return to Brokvar, describe city as being lively yet lived in
+- Arriving at Circe's house, guards wait outside - after being made to wait, Niahl exits - visibly reacting to someone. (Tom)
+	- Something might happen here?
+- Going inside, the party are met by Elaine who explains that Missy has returned from her excursion.
+- Guided to her office, in which two nobles are seated: Owain & Ceinwen
+- Missy explains that Owain is entering the election, as house Moss has had a long history with Brokvar - being one of the original settlements
+	- Tomorrow will be the first day candidates can argue their case, Duska will be expected to attend Sturgis's speech.
+- Missy offers the opportunity to answer any questions the party may have
+- Explains to Bismuth, Jasper, Mazikeen and Rolbam: there is a job that I would appreciate your help with, Duska if she wants could get a cut in on the action too.
+	- As you may have heard, there is a reaver encampment in the islands to the north of here: "Gogledd-Ynys". It was once under the control of the Brokvarian Throne and comprised a large part of our export industry but after a storm wrought destruction upon it, it degraded into a haven for piracy. My intel indicates that they aim to attack the city during the coronation after the investiture. I've alerted Commander Niahl of this, hence why he was here when you arrived. Unfortunately, he is too-few spare on soldiers to launch an attack on their lands which is why we were discussing sending a smaller, more innocuous force to enact a counter-attack while their defences are low. In the open field, they don't stand a chance against us now that we know they're coming. If you accept this mission, you'll be under the supervision of the young noble you saw in here earlier. His name is Ceinwen and he has proven himself in both battle and espionage. As there is still some time before both the investiture and the coronation, I suggest you spend some time with Ceinwen, he'll be in the city for the next few days while his father puts forward his case to the city. I believe they intend to return to Deep Moss Keep shortly afterwards. To Bismuth especially, if you're looking for permanent employ, I heartily recommend enlisting under Owain - his border force is pivotal in maintaining safety from the Empire and someone of your inherent nature would be much appreciated in their thinning ranks.
+	- I do understand however that you may not want to burden yourself with this matter, this is after all not your country: except perhaps maybe yours Mazikeen - I take it you haven't regained any of your memories since we last spoke? Either way, you have plenty of time to decide.
+
+
+
+
+Sturgis' speech:
+"Esteemed citizens of Brokvar, I come before you as a representative of Sunmaek, a culture that has woven its tale into the very fabric of your kingdom. Many years ago, Ven-Dryk, a Sunmaekean, ventured into the heart of Brokvar. Fate, as whimsical as it is, led him to the side of your queen, your Napella. Fate, as cruel as it is, took her from you too soon. Her legacy however has lived on in Ven-Dryk, under his stewardship, you have witnessed the resurgence of stability and prosperity within your beloved city. His commitment to the welfare of Brokvar has been unwavering. 
+
+And now in this moment of transition, we extend a hand in friendship, seeking not dominance but collaboration. Our Buyuk, a title akin to queen, Emre , proposes a unique union between Sunmaek and Brokvar that aims to fortify the foundations of your city. Emre suggests the establishment of a governance structure that elects a new leader from the local populace - a leader who represents the will and common folk of Brokvar and through the support and wisdom of Emre and her esteemed advisors can drive Brokvar into a new age.
+
+Picture a leader emerging from your own midst, someone intimately acquainted with the nuances of Brokvar, steering the ship with the backing of Emre Aydin and her council. It is a formula for success, a fusion of the strengths inherent in both our cultures. In this collaborative endeavour, you will not lose your identity; instead, you will find strength in unity. Emre envisions a realm where the unique tapestry of Brokvar is not only preserved but enhanced through the synergy of our shared strengths. Imagine a future where Sunmaek and Brokvar, working hand in hand, create a kingdom that stands as a testament to cooperation, resilience, and shared growth.
+
+As Ven-Dryk steps aside, he leaves behind a legacy of stability and progress. Embrace this moment of transition as an opportunity to forge an alliance that not only honours the past but also propels both cultures towards a future of shared prosperity. Together, let us weave a new chapter in the tapestry of our intertwined histories—a chapter that speaks of unity, collaboration, and a boundless potential for greatness.
