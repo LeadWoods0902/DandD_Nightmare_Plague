@@ -40,12 +40,14 @@
 
 ## Day 11 - [[Session 5 - Above and Below]]
   - Party enters the Divide, investigates the Coeden
-  - Jasper prolongs stay, group escapes city watch by lowering gates to barracks
+  - Jasper prolongs stay into out-of-hours, group escapes city watch by lowering gates to barracks
 
 ## Day 12 - [[Session 6 -]]
   - Group narrowly escapes city watch, returns to Mistress' manor
   - Malkath emerges from Rolbam in a nightmare, explores manor, challenges Jasper to combat
   - Jasper and Malkath duel, causing damage to the floor of the manor
+  - The group are told of the farm job
+  - The group discuss the job with Jarae
 ## Day 13
 ## Day 14
 ## Day 15
