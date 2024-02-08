@@ -23,8 +23,7 @@ The party awaken to find that mistress has had to leave on urgent business, leav
 ## Day 11 - [[Session 5 - Above and Below]]
 The party enter the Divide and attempt to investigate the Coeden. Jasper, intent on uncovering some dark secret keeps the group within the divide after hours and the group escape by preventing the guards from reaching them by lowering the gates to the barracks.
 ## Day 12 - [[Session 6 -]]
-The group narrowly escape the city watch, avoiding detection. Arriving at Mistress' the group retire for the evening. During the night, Rolbam has a nightmare, in which he awakens on an island. After waking, Rolbam is no more and Malkath comes out. In the morning, the confused Malkath begins to explore the manor, sneaking into Duska's room and tampering with her flask. Barely escaping unnoticed, he is pulled aside by Jasper who senses something is wrong. After some di
-
+The group narrowly escape the city watch, avoiding detection. Arriving at Mistress' the group retire for the evening. During the night, Rolbam has a nightmare, in which he awakens on an island. After waking, Rolbam is no more and Malkath comes out. In the morning, the confused Malkath begins to explore the manor, sneaking into Duska's room and tampering with her flask. Barely escaping unnoticed, he is pulled aside by Jasper who senses something is wrong. After some discussion, Malkath comes clean, admitting he is not Rolbam. 
 ## Day 13
 ## Day 14
 ## Day 15
