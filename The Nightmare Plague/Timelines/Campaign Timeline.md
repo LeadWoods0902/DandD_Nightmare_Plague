@@ -31,7 +31,7 @@
   - Party arrives in Brokvar, meets Mistress, shown to rooms
 ## Day 10 - [[Session 4 - The Morning After]]
   - Party awakens to find Mistress has left on urgent business, explores manor, then city
-  - Meets Jarae and Elianore
+  - Meet Jarae and Elianore and see Niahl from afar
 ## Day 11 - [[Session 5 - Above and Below]]
   - Party enters the Divide, investigates the Coeden
   - Jasper prolongs stay into out-of-hours, group escapes city watch by lowering gates to barracks
@@ -55,7 +55,9 @@
 - The Basilisk entrusts her egg to the party, Mazikeen accepts it
 - The group return to the farm and accept their pay
 - The group leave the farm
-- Malkath breaks up some kids
+- Malkath breaks up some kids fighting in the street
+- The group arrive at Mistress' to find it under guard
+- The group 
 ## Day 15
 ## Day 16
 ## Day 17
