@@ -23,7 +23,7 @@ The party awaken to find that mistress has had to leave on urgent business, leav
 ## Day 11 - [[Session 5 - Above and Below]]
 The party enter the Divide and attempt to investigate the Coeden. Jasper, intent on uncovering some dark secret keeps the group within the divide after hours and the group escape by preventing the guards from reaching them by lowering the gates to the barracks.
 ## Day 12 - [[Session 6 -]]
-
+The group narrowly escape the city watch, avoiding detection. Arriving at Mistress' the group retire for the evening. During the night, Rolbam has a nightmare, in which he awakens on an 
 
 ## Day 13
 ## Day 14
