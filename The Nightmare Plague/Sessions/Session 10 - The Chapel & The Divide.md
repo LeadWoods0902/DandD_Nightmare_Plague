@@ -1,14 +1,4 @@
 ## Session Events
-- The party return to Brokvar, describe city as being lively yet lived in
-- Arriving at Circe's house, guards wait outside - after being made to wait, Niahl exits - visibly reacting to someone. (Tom)
-	- Something might happen here?
-- Going inside, the party are met by Elaine who explains that Missy has returned from her excursion.
-- Guided to her office, in which two nobles are seated: Owain & Ceinwen
-- Missy explains that Owain is entering the election, as house Moss has had a long history with Brokvar - being one of the original settlements
-	- Tomorrow will be the first day candidates can argue their case, Duska will be expected to attend Sturgis's speech.
-- Missy offers the opportunity to answer any questions the party may have
-- Explains to Bismuth, Jasper, Mazikeen and Rolbam: there is a job that I would appreciate your help with, Duska if she wants could get a cut in on the action too.
-	- 
 
 
 
