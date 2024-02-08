@@ -47,7 +47,8 @@
   - Malkath emerges from Rolbam in a nightmare, explores manor, challenges Jasper to combat
   - Jasper and Malkath duel, causing damage to the floor of the manor
   - The group are told of the farm job
-  - The group discuss the job with Jarae
+  - The group discuss the job with Jarae and acquire tonics of fire protection.
+  - The group learn of Jarae's experiments on shrinking tonics and a greater healing remedy combining the sap of the Coeden wi
 ## Day 13
 ## Day 14
 ## Day 15
