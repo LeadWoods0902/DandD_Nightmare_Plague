@@ -50,7 +50,10 @@
 ## Day 14
 - Early in the morning, the creature sets off the trap
 - A fight ensues
-- The last Basilisk surrenders to Jasper, who seems to have a n
+- The last Basilisk surrenders to Jasper, recognising their connection to nature.
+- The Basilisk calls for Jasper to follow and the party join
+- The Basilisk entrusts her egg to the party, Mazikeen accepts it
+- The group return to the farm and accept theur
 ## Day 15
 ## Day 16
 ## Day 17
