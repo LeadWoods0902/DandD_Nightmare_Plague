@@ -2,4 +2,4 @@ As you may have heard, there is a reaver encampment in the islands north of here
 
 If you accept this mission, you'll be under the supervision of my son Ceinwen - he has proven himself in both battle and espionage: he's a born leader. I do understand however that you may not want to burden yourself with this matter, this is after all not your country
 
-To you especially Bismuth, if you're looking for permanent employment, you are more than welcome to return to this keep - the service we provide is pivotal in maintaining the peace in Brokvar and your natural abilities will always be 
+To you especially Bismuth, if you're looking for permanent employment, you are more than welcome to return to this keep - the service we provide is pivotal in maintaining the peace in Brokvar. Should any of the rest of you be interested, your abilities will be heartily welcome. If you need a little incentive, 
