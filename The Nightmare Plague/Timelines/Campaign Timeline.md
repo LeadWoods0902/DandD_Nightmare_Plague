@@ -19,4 +19,4 @@ The party continues their journey to Brokvar
 ## Day 9 
 During the evening of this day, the party arrive in Brokvar, meet the mistress and are shown to their rooms
 ## Day 10 - [[Session 4 - The Morning After]]
-The party awaken to find that mistress has had to leave on urgent business, leaving them alone in a city they do not know. After exploring the manor, they head into the
+The party awaken to find that mistress has had to leave on urgent business, leaving them alone in a city they do not know. After exploring the manor, they head into the city to explore. Meeting Jarae, Elianore, the church of the Coeden
