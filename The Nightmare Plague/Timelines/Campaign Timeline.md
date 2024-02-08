@@ -22,4 +22,15 @@ During the evening of this day, the party arrive in Brokvar, meet the mistress a
 The party awaken to find that mistress has had to leave on urgent business, leaving them alone in a city they do not know. After exploring the manor, they head into the city to explore. Meeting Jarae and Elianore
 ## Day 11 - [[Session 5 - Above and Below]]
 The party enter the Divide and attempt to investigate the Coeden. Jasper, intent on uncovering some dark secret keeps the group within the divide after hours and the group escape by preventing the guards from reaching them by lowering the gates to the barracks.
-## Day 12 - [[Session 6 - The Repercussions of Fleeing the Scene]]
+## Day 12 - [[Session 6 -]]
+
+
+## Day 13
+## Day 14
+## Day 15
+## Day 16
+## Day 17
+## Day 18
+## Day 19
+## Day 20
+## Day 21

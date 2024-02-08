@@ -4,4 +4,4 @@
 	- [ ] 
 - [ ] 
 
-[[Session 6 - The Repercussions of Fleeing the Scene]]
+[[Session 6 -]]
