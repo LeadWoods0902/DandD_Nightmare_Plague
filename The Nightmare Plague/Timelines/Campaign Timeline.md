@@ -19,29 +19,29 @@
   - Duska arrives in Virmarr, chats with strange apparition
 ## Day 5
   - Bismuth & Jasper are bought
-   Rolbam awakens in farm house outside Virmarr
-
+  - Rolbam awakens in farm house outside Virmarr
 ## Day 6 - [[Session 2 - Fleeing Virmarr]]
-  - Elaine visits mayor, party explores Virmarr, then leaves the city
-
-- **Day 7 - [[Session 3 - The Gravolith and the Mistress]]**
+  - Elaine visits mayor, party explores Virmarr
+  - Elaine and the party are chased from the city
+## Day 7 - [[Session 3 - The Gravolith and the Mistress]]
   - Party fights the Talus
+  - Bismuth loses his Axe
 
-- **Day 8**
+## Day 8
   - Party continues journey to Brokvar
 
-- **Day 9**
+## Day 9
   - Party arrives in Brokvar, meets Mistress, shown to rooms
 
-- **Day 10 - [[Session 4 - The Morning After]]**
+## Day 10 - [[Session 4 - The Morning After]]
   - Party awakens to find Mistress has left on urgent business, explores manor, then city
   - Meets Jarae and Elianore
 
-- **Day 11 - [[Session 5 - Above and Below]]**
+## Day 11 - [[Session 5 - Above and Below]]
   - Party enters the Divide, investigates the Coeden
   - Jasper prolongs stay, group escapes city watch by lowering gates to barracks
 
-- **Day 12 - [[Session 6 -]]**
+## Day 12 - [[Session 6 -]]
   - Group narrowly escapes city watch, returns to Mistress' manor
   - Malkath emerges from Rolbam in a nightmare, explores manor, challenges Jasper to combat
   - Jasper and Malkath duel, causing damage to the floor of the manor
