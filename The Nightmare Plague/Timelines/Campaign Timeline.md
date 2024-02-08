@@ -47,13 +47,15 @@
 - interview the farm hands 
 - follows the leads to the creature's hideout
 - set traps around the farm
-## Day 14
+## Day 14 - [[Session 8 -]] & [[Session 9 - Return to Brokvar]]
 - Early in the morning, the creature sets off the trap
 - A fight ensues
 - The last Basilisk surrenders to Jasper, recognising their connection to nature.
 - The Basilisk calls for Jasper to follow and the party join
 - The Basilisk entrusts her egg to the party, Mazikeen accepts it
-- The group return to the farm and accept theur
+- The group return to the farm and accept their pay
+- The group leave the farm
+- Malkath breaks up some kids
 ## Day 15
 ## Day 16
 ## Day 17
