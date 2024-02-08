@@ -1,8 +1,5 @@
 As you may have heard, there is a reaver encampment in the islands north of here: "Gogledd-Ynys". It was once under the control of the Brokvarian Throne, comprising a large part of our export industry. Until a storm wrought destruction upon it, degrading into a haven for piracy. Intel indicates that they aim to attack the city during the coronation. I've alerted Commander Niahl of this and he's drawing reserves to the capital. Despite my best efforts, he is unwilling to spare soldiers to mount a counter-attack while their defences are low. In the open field, they don't stand a chance against us now that we know they're coming. 
 
-If you accept this mission, you'll be under the supervision of my son Ceinwen - he has proven himself in both battle and espionage: he's a born leader.
+If you accept this mission, you'll be under the supervision of my son Ceinwen - he has proven himself in both battle and espionage: he's a born leader. I do understand however that you may not want to burden yourself with this matter, this is after all not your country
 
-To Bismuth especially, if you're looking for permanent employment, you are more than welcome to return to this keep - the service we provide is pivotal in maintaining the peace in Brokvar. And someone of your inherent nature would be much appreciated 
-
-
-his border force is pivotal in maintaining safety from the Empire and someone of your inherent nature would be much appreciated in their thinning ranks. I do understand however that you may not want to burden yourself with this matter, this is after all not your country: except perhaps yours Mazikeen - I take it you haven't regained any of your memories since we last spoke. Either way, you have plenty of time to decide.
+To you especially Bismuth, if you're looking for permanent employment, you are more than welcome to return to this keep - the service we provide is pivotal in maintaining the peace in Brokvar and your natural abilities will always be 
