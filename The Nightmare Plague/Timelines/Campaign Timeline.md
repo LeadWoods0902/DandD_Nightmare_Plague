@@ -46,8 +46,11 @@
 - The group arrive at the farm
 - interview the farm hands 
 - follows the leads to the creature's hideout
+- set traps around the farm
 ## Day 14
-- early in the night, 
+- Early in the morning, the creature sets off the trap
+- A fight ensues
+- The last Basilisk surrenders to Jasper, who seems to have a n
 ## Day 15
 ## Day 16
 ## Day 17
