@@ -1,29 +1,50 @@
 ## Day 1 - [[Session 1 - Intro]]
-The Kilfenora is returning from Chimo to Senithar and while passing through the waters west of Brokvar, it is set upon by a strange magic: time seems to stop and strange smoke-like constructs that bear resemblance to masses of coiling tentacles. During a brief fight with the constructs: one of the crew members (Magnus) is wounded non-lethally and the captain (Nomli Gurglegum) manages to seemingly slay one of the constructs using his sword (which took on the appearance of a red hot coal during the fight). Seeing this, the constructs cease their attack and seemingly phase through the deck of the ship. Giving chase, Nomli Gurglegum leaps through an open hatch in the deck, propelling himself into a dense fog that quickly filled the room below. The crew takes a moment to catch their breath before splitting in two: one group remains top-side to tend to the injured member of the group while the others follow the lieutenant (Herouk BarrelBasher) below deck. Above deck, the other group attempt to tend to Magnus' wound - feigning a trip to the medical store, Isabella makes a dash for one of the safety boats; however she is spotted by Magnus and Thorkil who also make it to the safety boats (Magnus in one and Thorkil and Isabella in the other).
+  - Kilfenora ship attacked by strange smoke-like constructs resembling tentacles
+  - Captain Nomli Gurglegum seemingly slays one construct
+  - Constructs phase through ship's deck, Captain Gurglegum gives chase
+  - Crew splits into two groups: one tends to wounded crew member Magnus, the other follows Lieutenant Herouk BarrelBasher below deck
+  - Magnus, Thorkil, and Isabella attempt escape in safety boats
+  - Group below deck discovers dead crew member Mordin, encounters mysterious hooded figure
+  - Herouk discovers Nomli's clothing, reveals truth about cargo: slaves
+  - Herouk strikes deal with group to help him reach shore and deal with cargo
 
-While traversing the narrow and unlit corridor (presumably caused by the smoke constructs) leading to the hold, the party checks comes across a gory sight - one of the other members of the crew (Mordin), dead in their bed - seemingly killed via some oral attack due to a similar discolouration of the flesh around the lips and inner mouth as was seen around the wound Magnus took during the fight earlier. While inspecting Mordin, the group see a strange hooded figure dash past the open door, when they get to the door way they cannot see him in the corridor; other than the character's heavy brown cloak the only other discerning feature is a large golden brooch pinning the hood to the cloak. After leaving the room, the group head further down into the ship, eventually ending up outside the cargo hold. Looking through a crack in the door, they can only see a thick heavy fog on the floor and high stacks of crates and other cargo. Herouk bashes the door down and rushes in, before the rest of the group even make it across the threshold, they hear Herouk fall to the floor and begin to sob. Rounding a corner in the like hold, the group see Herouk crouched down over the unmistakable dress of Nomli - an emerald overcoat studded with obsidian spikes. Additionally, for the first time since leaving port, the group see the truth of the cargo they were carrying: slaves. Five creatures lay chained to the floor of the hold: two Genasi, two Centaur and one Tabaxi. Appalled by this knowledge, Herouk cuts a deal with the group: aid him in getting to shore and dealing with the cargo and any profits made are theirs to keep - explaining that it'd be best to sell the slaves off to coastal farms or a Brokvarian noble-person so as to lessen the chances of news of their failure to deliver the cargo to the empire reaching said empire. Hopefully they'd be able to split and assume knew lives for themselves far from the reaches of the Ymerodrol Empire.
 ## Day 2
-Events Unknown but the Kilfenora is travelling under broken masts to the Brokvarian coast and Duska's company is travelling to Virmarr by land
+  - Kilfenora travels with broken masts to Brokvarian coast
+  - Duska's company travels to Virmarr by land
+
 ## Day 3
-Events Unknown but the crew of the Kilfenora and Duska's company are travelling by land to Virmarr
+  - Kilfenora and Duska's company continue travel to Virmarr by land
 ## Day 4
-Mazikeen awakens, Duska arrives in Virmarr, Duska has a chat with a strange apparition 
+  - Mazikeen awakens
+  - Duska arrives in Virmarr, chats with strange apparition
 ## Day 5
-Bismuth & Jasper are bought, Rolbam awakens in a farm house outside of Virmarr
+  - Bismuth & Jasper are bought
+   Rolbam awakens in farm house outside Virmarr
+
 ## Day 6 - [[Session 2 - Fleeing Virmarr]]
-Elaine visits the mayor, the party explore Virmarr, the party leave Virmarr
-## Day 7 - [[Session 3 - The Gravolith and the Mistress]]
-The party fight the Talus
-## Day 8
-The party continues their journey to Brokvar
-## Day 9 
-During the evening of this day, the party arrive in Brokvar, meet the mistress and are shown to their rooms
-## Day 10 - [[Session 4 - The Morning After]]
-The party awaken to find that mistress has had to leave on urgent business, leaving them alone in a city they do not know. After exploring the manor, they head into the city to explore. Meeting Jarae and Elianore
-## Day 11 - [[Session 5 - Above and Below]]
-The party enter the Divide and attempt to investigate the Coeden. Jasper, intent on uncovering some dark secret keeps the group within the divide after hours and the group escape by preventing the guards from reaching them by lowering the gates to the barracks.
-## Day 12 - [[Session 6 -]]
-The group narrowly escape the city watch, avoiding detection. Arriving at Mistress' the group retire for the evening. During the night, Rolbam has a nightmare, in which he awakens on an island. After waking, Rolbam is no more and Malkath comes out. In the morning, the confused Malkath begins to explore the manor, sneaking into Duska's room and tampering with her flask. Barely escaping unnoticed, he is pulled aside by Jasper who senses something is wrong. After some discussion, Malkath challenges Jasper to a bout of combat - stating that should Jasper best him, he has useful information for her. Eagerly, the two enter combat - drawing the attention of the household. It was however too late and the damage was done: the floor damaged beyond repair. 
+  - Elaine visits mayor, party explores Virmarr, then leaves the city
+
+- **Day 7 - [[Session 3 - The Gravolith and the Mistress]]**
+  - Party fights the Talus
+
+- **Day 8**
+  - Party continues journey to Brokvar
+
+- **Day 9**
+  - Party arrives in Brokvar, meets Mistress, shown to rooms
+
+- **Day 10 - [[Session 4 - The Morning After]]**
+  - Party awakens to find Mistress has left on urgent business, explores manor, then city
+  - Meets Jarae and Elianore
+
+- **Day 11 - [[Session 5 - Above and Below]]**
+  - Party enters the Divide, investigates the Coeden
+  - Jasper prolongs stay, group escapes city watch by lowering gates to barracks
+
+- **Day 12 - [[Session 6 -]]**
+  - Group narrowly escapes city watch, returns to Mistress' manor
+  - Malkath emerges from Rolbam in a nightmare, explores manor, challenges Jasper to combat
+  - Jasper and Malkath duel, causing damage to the floor of the manor
 ## Day 13
 ## Day 14
 ## Day 15
