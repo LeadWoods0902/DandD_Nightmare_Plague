@@ -39,12 +39,15 @@
   - Group narrowly escapes city watch, returns to Mistress' manor
   - Malkath emerges from Rolbam in a nightmare, explores manor, challenges Jasper to combat
   - Jasper and Malkath duel, causing damage to the floor of the manor
-
   - The group are told of the farm job
   - The group discuss the job with Jarae and acquire tonics of fire protection.
   - The group learn of Jarae's experiments on shrinking tonics and a greater healing remedy combining the sap of the Coeden with traditional healing remedies
 ## Day 13
+- The group arrive at the farm
+- interview the farm hands 
+- follows the leads to the creature's hideout
 ## Day 14
+- early in the night, 
 ## Day 15
 ## Day 16
 ## Day 17
