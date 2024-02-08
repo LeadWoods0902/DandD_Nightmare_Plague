@@ -16,19 +16,20 @@
   - Kilfenora and Duska's company continue travel to Virmarr by land
 ## Day 4
   - Mazikeen awakens
-  - Duska arrives in Virmarr, chats with strange apparition
+  - Duska arrives in Virmarr and converses with Mortos
 ## Day 5
-  - Bismuth & Jasper are bought
+  - Bismuth & Jasper are bought by Elaine
   - Rolbam awakens in farm house outside Virmarr
+  - The group convene on the tavern and travel agreements are made
 ## Day 6 - [[Session 2 - Fleeing Virmarr]]
   - Elaine visits mayor, party explores Virmarr
   - Elaine and the party are chased from the city
 ## Day 7 - [[Session 3 - The Gravolith and the Mistress]]
-  - Party fights the Talus
+  - The party fights the Talus
   - Bismuth loses his Axe
 
 ## Day 8
-  - Party continues journey to Brokvar
+  - Party continues journey to Brokvar, travelling through the valley of the weald
 
 ## Day 9
   - Party arrives in Brokvar, meets Mistress, shown to rooms
