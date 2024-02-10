@@ -2,7 +2,9 @@
 
 ---
 ## Attacks
-**Slash:** 
+**Slash:** The Owl-Cat uses its sharp talons to slash at its foe, dealing 1d8 slashing damage.
+
+This attack has a 1/6 chance to cause bleeding for two rounds
 ## Racial Abilities
 **Flight:** With a 10ft straight line start, the Owl-Cat can achieve flight. The Owl-Cat has a flying speed equal to its movement speed. The Owl-Cat can fly up to 20ft off the ground and can cross a gap of unlimited death up to 20ft wide
 
