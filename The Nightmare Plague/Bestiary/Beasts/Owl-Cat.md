@@ -4,11 +4,11 @@
 ## Attacks
 **Slash:** The Owl-Cat uses its sharp talons to slash at its foe, dealing 1d8 slashing damage.
 
-This attack has a 1/4 chance to cause [[The Nightmare Plague/Bestiary/Beasts/Owl-Cat#Bleeding|bleeding]] for two rounds
+This attack has a 1/4 chance to cause [[#Bleeding|bleeding]] for two rounds
 
 **Bite:** The Owl-Cat lunges forward, beak snapping shut with formidable force, inflicting 2d4 piercing damage.
 
-This attack has a 1/6 chance to cause bleeding for two rounds
+This attack has a 1/6 chance to cause [[#Bleeding|bleeding]] for two rounds
 
 ## Racial Abilities
 **Flight:** 
@@ -25,7 +25,7 @@ The Owl-Cat emits a bone-chilling screech, filling the air with an aura of dread
 A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight and cannot willingly move closer towards it
 
 **Rending Laceration:**
-The creature unleashes a vicious attack, tearing into an opponent within 5ft with savage ferocity. The target must succeed a dexterity saving throw or take 2d4 slashing damage and gain the bleeding effect for 3 turns.
+The creature unleashes a vicious attack, tearing into an opponent within 5ft with savage ferocity. The target must succeed a dexterity saving throw or take 2d4 slashing damage and gain the [[#Bleeding|bleeding]] effect for 3 turns.
 
 
 
