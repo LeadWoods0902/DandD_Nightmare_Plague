@@ -12,6 +12,7 @@ This attack has a 1/6 chance to cause [[#Bleeding|bleeding]] for two rounds
 
 ## Racial Abilities
 **Stamina:**
+Fuel for an Owl-Cat's abilities, fully refills on a long rest (8)
 
 **Flight:** 
 With a 10ft straight line start, the Owl-Cat can achieve flight. The Owl-Cat has a flying speed equal to its movement speed. The Owl-Cat can fly up to 20ft off the ground and can cross a gap of unlimited death up to 20ft wide
