@@ -4,7 +4,7 @@
 ## Attacks
 **Slash:** The Owl-Cat uses its sharp talons to slash at its foe, dealing 1d8 slashing damage.
 
-This attack has a 1/4 chance to cause bleeding for two rounds
+This attack has a 1/4 chance to cause [[The Nightmare Plague/Bestiary/Beasts/Owl-Cat#Bleeding|bleeding]] for two rounds
 
 **Bite:** The Owl-Cat lunges forward, beak snapping shut with formidable force, inflicting 2d4 piercing damage.
 
@@ -27,7 +27,7 @@ A frightened creature has disadvantage on ability checks and attack rolls while 
 **Rending Laceration:**
 The creature unleashes a vicious attack, tearing into an opponent within 5ft with savage ferocity. The target must succeed a dexterity saving throw or take 2d4 slashing damage and gain the bleeding effect for 3 turns.
 
-A bleeding target takes damage equal to the damage dealt every turn unless healed before it ends
+
 
 **Sundering Glare:**
 The Owl-Cat fixes its intense gaze upon a spellcaster, piercing through their mind with an unnerving stare. 
@@ -50,3 +50,4 @@ When an ally makes a successful melee attack against a target within 10 feet of 
 
 ## Bleeding
 
+A bleeding target takes damage equal to the damage dealt every turn unless healed before it ends
