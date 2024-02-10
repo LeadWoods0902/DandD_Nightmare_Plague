@@ -47,7 +47,7 @@
 - interview the farm hands 
 - follows the leads to the creature's hideout
 - set traps around the farm
-## Day 14 - [[Session 8 -]] & [[Session 9 - Return to Brokvar]]
+## Day 14 - [[Session 8 -]], [[Session 9 - Return to Brokvar]] & [[Session 10 - The Chapel & The Divide]]
 - Early in the morning, the creature sets off the trap
 - A fight ensues
 - The last Basilisk surrenders to Jasper, recognising their connection to nature.
@@ -58,6 +58,7 @@
 - Malkath breaks up some kids fighting in the street
 - The group arrive at Mistress' to find it under guard
 - The group 
+- 
 ## Day 15
 ## Day 16
 ## Day 17
