@@ -58,9 +58,11 @@
 - Malkath breaks up some kids fighting in the street
 - The group arrive at Mistress' to find it under guard
 - The group talk with Elaine and Mistress, Tom is under visible scrutiny from Niahl
-- The group visit Jarae, pu
+- The group visit Jarae
 - Tom visits a tavern, has a scrap and a vision
-- Bimsuth & Mazikeen visit a 
+- Bimsuth & Mazikeen visit a magical pet store and acquire pets
+- Duska & Jasper visit the chapel and ...
+- The group reconvene in the divide
 ## Day 15
 ## Day 16
 ## Day 17
