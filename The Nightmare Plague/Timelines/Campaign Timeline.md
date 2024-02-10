@@ -57,8 +57,10 @@
 - The group leave the farm
 - Malkath breaks up some kids fighting in the street
 - The group arrive at Mistress' to find it under guard
-- The group 
-- 
+- The group talk with Elaine and Mistress, Tom is under visible scrutiny from Niahl
+- The group visit Jarae, pu
+- Tom visits a tavern, has a scrap and a vision
+- Bimsuth & Mazikeen visit a 
 ## Day 15
 ## Day 16
 ## Day 17
