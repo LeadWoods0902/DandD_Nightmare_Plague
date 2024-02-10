@@ -1,4 +1,10 @@
+![[Opal_Token.png]]
 
+---
+## Attacks
+**Slash:** 
+## Racial Abilities
+**Flight:** With a 10ft straight line start, the Owl-Cat can achieve flight. The Owl-Cat has a flying speed equal to its movement speed. The Owl-Cat can fly up to 20ft off the ground and can cross a gap of unlimited death up to 20ft wide
 
 **Hoot of Confusion:** This ability can be quite powerful, potentially incapacitating enemies by causing them to attack themselves. The cost of 2 stamina is reasonable for its effect, and the range of 15 feet provides decent coverage.
 
