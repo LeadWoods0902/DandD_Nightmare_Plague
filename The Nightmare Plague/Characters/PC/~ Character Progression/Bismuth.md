@@ -1,6 +1,6 @@
 ### Prior to campaign
-- Genasi Powers
-- [[The Geode Splitter (Kevin)]]
+- Genasi Powers ([[Boon of the Terra Former]] & [[Boon of the Shimmering Sentinel]])
+- [[The Geode Splitter (Kevin)|Geode-Splitter Great axe]]
 - Shapeshifting powers from Kaede
 ### During campaign
 - [x] lost Geode-Splitter Great axe

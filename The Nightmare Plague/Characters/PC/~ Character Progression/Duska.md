@@ -1,4 +1,4 @@
 ### Prior to campaign
 - Powers from Mortos
-- The sword Omen
+- The sword [[Omen]]
 ### During campaign

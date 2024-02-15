@@ -3,5 +3,5 @@
 - 
 ### During campaign
 - Gained Soul Reaper powers
-- At some point, gifted Karambits
+- At some point, gifted [[Karambits]]
 - Potentially gifted the trident
