@@ -3,4 +3,4 @@
 - Geode-Splitter Great axe
 - Shapeshifting powers from Kaede
 ### During campaign
-- lost Geode-Splitter Great axe
+- [] lost Geode-Splitter Great axe

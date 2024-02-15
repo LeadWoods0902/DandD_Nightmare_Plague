@@ -1,2 +1,2 @@
 ### Prior to campaign:
-- Stronvan wiel
+- Stronvan wielded the war mace of desolation
