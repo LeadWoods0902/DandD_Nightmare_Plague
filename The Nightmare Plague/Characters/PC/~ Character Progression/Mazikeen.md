@@ -1,7 +1,7 @@
 ### Prior to campaign
-- Genasi Powers
-- Geode-Splitter Great axe
-- Shapeshifting powers from Kaede
+- Espionage Training
+- 
 ### During campaign
 - Gained Soul Reaper powers
-- At some point, gifted 
+- At some point, gifted Karambits
+- Potentially gifted the trident
