@@ -1,6 +1,8 @@
 ### Prior to campaign
 - Genasi Powers
-- Geode-Splitter Great axe
+- [[The Geode Splitter (Kevin)]]
 - Shapeshifting powers from Kaede
 ### During campaign
-- [] lost Geode-Splitter Great axe
+- [x] lost Geode-Splitter Great axe
+- [ ] Gain boons from Djinn
+- [ ] 
