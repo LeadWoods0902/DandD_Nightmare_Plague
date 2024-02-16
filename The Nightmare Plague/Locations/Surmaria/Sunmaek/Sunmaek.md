@@ -9,4 +9,4 @@ Strong, national belief in the dichotomous gods: [[Dogu Yilani]] and [[Bati Yila
 - [[Duqedo]] (Largest port city)
 - [[Wadur]]
 - [[Odohra]]
-- [[Itha]]
+
