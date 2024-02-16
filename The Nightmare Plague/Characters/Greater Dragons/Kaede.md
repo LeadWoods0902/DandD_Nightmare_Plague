@@ -3,10 +3,6 @@
 
 ---
 
-##### Boon
-[[Boon of the Arboreal Warden]]
-
-
 Mother of all life of Chimo-Nahagi, Kaede is one of the few flightless greater dragons but that lack of flight does not deter her from her ever on going work. It is said that Kaede is as long as the measurable life of all living things: which is to be said that no one has ever seen her tail.
 
 You and [[Jasper Shatterborne]] were greeted by Kaede in [[The Forest of Mori]] after encountering a [[WilderBeast]] and mistakenly assuming it to be hostile toward you. 

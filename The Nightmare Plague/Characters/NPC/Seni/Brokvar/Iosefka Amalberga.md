@@ -45,5 +45,5 @@ Unknown
 
 ### Notes
 
-Leader of the [[The Commune]]
+Leader of the [[The Commune of The Coeden]]
 
