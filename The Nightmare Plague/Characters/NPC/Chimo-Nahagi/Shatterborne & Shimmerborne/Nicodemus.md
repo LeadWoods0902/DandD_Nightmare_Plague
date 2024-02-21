@@ -45,4 +45,4 @@ Monk
 
 ### Notes
 
-After
+After his father's death, Nicodemus assumed the position of the Shatterborne patriarch
