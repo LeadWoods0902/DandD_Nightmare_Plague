@@ -1,1 +1,1 @@
-A warlock group once used these pyramids to breed a [[]] with which they aimed to overthrow the neighbouring country Sunmaek
+A warlock group once used these pyramids to breed a [[Ageless Pit Dweller|Monster]] with which they aimed to overthrow the neighbouring country Sunmaek
