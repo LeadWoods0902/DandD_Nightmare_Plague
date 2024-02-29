@@ -1,5 +1,5 @@
 ![[Naestor_Token.png]]
-[[Naestor.png]]
+[[Naestor.png|Full Art]]
 
 ---
 ### Character Info
