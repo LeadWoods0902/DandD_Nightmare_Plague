@@ -82,8 +82,10 @@
 	- [ ] Relives the death of Stronvan
 - [ ] Jasper & Duska visit the Chapel of the Coeden
 	- [ ] Overhear Father Naestor talking to another member
-		- [ ] "Not hear, there are civilians near - wait for me in my chambers"
-	- [ ] They may find documents stamped with a golden eye
+		- [ ] "Not here, there are civilians near - wait for me in my chambers"
+	- [ ] They may try to talk to Father Naestor
+	- [ ] They may find documents stamped with a golden eye if they go sneak mode
+- [ ] 
 
 ---
 - [ ] Storm the shores
