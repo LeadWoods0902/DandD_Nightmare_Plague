@@ -76,7 +76,9 @@
 	- [ ] Niahl's guards prevent access
 		- [ ] Niahl exits, recognises Stronvan (not Stronvan)
 	- [ ] Party Introduced to Owain and Ceinwen
-- [ ] 
+- [ ] Bimsuth & Mazikeen enquire about Basilisk Incubation
+	- [ ] Acquire a Flumph and an Owl-Cat
+- [ ] Malkath attempts to induce another epsi
 
 ---
 - [ ] Storm the shores
