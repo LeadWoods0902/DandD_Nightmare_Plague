@@ -81,7 +81,9 @@
 - [ ] Malkath attempts to induce another episode
 	- [ ] Relives the death of Stronvan
 - [ ] Jasper & Duska visit the Chapel of the Coeden
-	- [ ] Overhear Father Naestor talking to ano
+	- [ ] Overhear Father Naestor talking to another member
+		- [ ] "Not hear, there are civilians near - wait for me in my chambers"
+	- [ ] They may find documents stamp
 
 ---
 - [ ] Storm the shores
