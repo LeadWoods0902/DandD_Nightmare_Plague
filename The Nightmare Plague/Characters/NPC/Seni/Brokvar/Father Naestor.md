@@ -1,5 +1,5 @@
 ![[Naestor_Token.png]]
-[[Elaine.png|Full Art]]
+[[Naestor.png]]
 
 ---
 ### Character Info
@@ -7,26 +7,26 @@
 ##### Name 
 Naestor
 ##### Current Age
-TBC
+*TBC*
 ##### Place of Origin
-TBC
+*TBC*
 ##### Family
-TBC
+*TBC*
 ##### Race
 Human
 ##### Class
-Storm Sorcerer
+*TBC*
 ##### Alignment
-TBC
+*TBC*
 ##### Personality Traits
-TBC
+*TBC*
 ##### Long Term Goals
-TBC
+*TBC*
 ##### Secondary Goals
-TBC
+*TBC*
 ##### Motivations
-TBC
+*TBC*
 ##### Flaws
-TBC
+*TBC*
 ##### Affiliations
-TBC
+*TBC*
