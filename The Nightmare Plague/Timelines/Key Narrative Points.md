@@ -75,17 +75,8 @@
 - [ ] Return to Circe's
 	- [ ] Niahl's guards prevent access
 		- [ ] Niahl exits, recognises Stronvan (not Stronvan)
-	- [ ] Circe proper introduction
-	- [ ] Circe checks in on the party's progress
-		- [ ] Bismuth's Axe update
-		- [ ] Rolbam's potion
-		- [ ] Villanelle's memory
-		- [ ] Duska and the embassy
-		- [ ] Jasper all chill?
-	- [ ] Explain their sudden leave
-		- [ ] Negotiating some work with a border Baron
-- [ ] Sleep
-	- [ ] Seram awakes
+	- [ ] Party Introduced to Owain and Ceinwen
+- [ ] 
 
 ---
 - [ ] Storm the shores
