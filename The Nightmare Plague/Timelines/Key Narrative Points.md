@@ -83,7 +83,7 @@
 - [ ] Jasper & Duska visit the Chapel of the Coeden
 	- [ ] Overhear Father Naestor talking to another member
 		- [ ] "Not hear, there are civilians near - wait for me in my chambers"
-	- [ ] They may find documents stamp
+	- [ ] They may find documents stamped with a golden eye
 
 ---
 - [ ] Storm the shores
