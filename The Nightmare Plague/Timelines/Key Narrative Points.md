@@ -78,7 +78,10 @@
 	- [ ] Party Introduced to Owain and Ceinwen
 - [ ] Bimsuth & Mazikeen enquire about Basilisk Incubation
 	- [ ] Acquire a Flumph and an Owl-Cat
-- [ ] Malkath attempts to induce another epsi
+- [ ] Malkath attempts to induce another episode
+	- [ ] Relives the death of Stronvan
+- [ ] Jasper & Duska visit the Chapel of the Coeden
+	- [ ] Overhear Father Naestor talking to ano
 
 ---
 - [ ] Storm the shores
