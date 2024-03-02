@@ -9,6 +9,7 @@
 ## 1626
 - Marquella (Brokvar) supports Esgid in the war
 ## 1723
+#### Character 
 - Napella is born
 ## 1758
 - Circe is birthed in secret to Napella, fathered unknowingly by Calidian
@@ -34,4 +35,7 @@
 - The Ymerodrine Empire takes occupation of Esgid
 
 ## 1772
-- The Ymerodrine Empire takes control of Marwol
+- The Ymerodrine Empire takes control of Marwolaeth & Gwelodd Dant
+
+## 1781
+- Fenian inherits the empire from her uncle: Calidian
