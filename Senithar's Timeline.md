@@ -16,7 +16,7 @@
 - Llawyr un Mawr & Esgid are once again at war over the nearby land
 ## 1763
 - Napella is set to wed herself to the crown prince of Esgid, uniting the two lands
-- Fenian is born to Ymerodro
+- Fenian is born to Ymerodrol & Vivienne
 ## 1764
 - Napella enters an affair with foreign consort Ven-Dryk before the wedding can occur
 ## 1765
@@ -28,7 +28,7 @@
 - Napella and her family are assassinated just days after the birth of her children: Amorella, Innë-Dryk & Odonna-Dryk
 - Ven-Dryk escapes with one of the child (Amorella)
 - Brokvar falls under the control of the Federation
-
 ## 1768
 - The Federation rebrands as the Ymerodrine Empire
-	- Fenian is set to inherit the 
+	- Fenian is sworn in as heir to the empire upon her 18th birthday 
+	- 
