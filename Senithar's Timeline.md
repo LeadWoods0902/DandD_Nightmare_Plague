@@ -23,4 +23,6 @@
 - Napella, enflamed by the growing conflict and breach of the treaty, Napella sends a force south to set a flame to Ymerodrol's Palace, perched atop the Farrows. With the aid of Esgid's Wizards, Napella brings hell fire down upon the palace - Killing Ymerodrol and nearly killing his wife, Vivienne.
 ## 1773
 - Llawyr un Mawr & Rheilliwch join forces under Ymerodrol's brother: Calidian
-- Napella and her family are assassinated, Ven-Dryk escapes with Napella's y
+- Napella and her family are assassinated just days after the birth of her children: Amorella, 
+- Ven-Dryk escapes with Napella's youngest child (Amorella)
+- 
