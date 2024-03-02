@@ -11,7 +11,9 @@
 ## 1723
 - Napella is born
 ## 1758
-- Circe is birthed in secret, fathered unknowingly by Calidian
+- Circe is birthed in secret to Napella, fathered unknowingly by Calidian
+## 1769
+- Llawyr 
 ## 1771
 - Napella enters an affair with foreign consort Ven-Dryk
 - 
