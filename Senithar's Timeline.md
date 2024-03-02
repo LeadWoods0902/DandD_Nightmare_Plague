@@ -29,6 +29,9 @@
 - Ven-Dryk escapes with one of the child (Amorella)
 - Brokvar falls under the control of the Federation
 ## 1768
-- The Federation rebrands as the Ymerodrine Empire
+- The Federation rebrands as "The Ymerodrine Empire"
 	- Fenian is sworn in as heir to the empire upon her 18th birthday 
-	- 
+- The Ymerodrine Empire takes occupation of Esgid
+
+## 1772
+- The Ymerodrine Empire takes control of Marwol
