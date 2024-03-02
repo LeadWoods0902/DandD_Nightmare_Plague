@@ -15,7 +15,7 @@ Unknown
 | --- | --- |
 | Mother | [[Napella Lundgren]]|
 | Father | TBC |
-| Sister | [[Amorella Lundgren]] |
+| Sister | [[Amorella Torieth]] |
 | Niece |  [[Lupella Torieth]] |
 ##### Race
 Unknown

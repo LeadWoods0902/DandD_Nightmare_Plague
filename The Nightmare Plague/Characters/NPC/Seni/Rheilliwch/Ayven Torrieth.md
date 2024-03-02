@@ -14,7 +14,7 @@ Unknown
 [[Menamawr]]
 
 ##### Family
-Father of [[Lupella Torieth]] and shortly-lived husband to [[Amorella Lundgren]]
+Father of [[Lupella Torieth]] and shortly-lived husband to [[Amorella Torieth]]
 
 ##### Race
 Unknown
