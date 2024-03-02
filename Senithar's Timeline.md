@@ -13,7 +13,7 @@
 ## 1758
 - Circe is birthed in secret to Napella, fathered unknowingly by Calidian
 ## 1769
-- Llawyr 
+- Llawyr un Mawr & Esgid are once again at war over the nearby land
 ## 1771
 - Napella enters an affair with foreign consort Ven-Dryk
 - 
