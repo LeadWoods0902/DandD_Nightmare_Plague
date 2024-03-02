@@ -8,6 +8,8 @@
 - A war breaks out between Llawyr un Mawr and Esgid
 ## 1626
 - Marquella (Brokvar) supports Esgid in the war
+## 1698
+
 ## 1723
 - Napella is born
 ## 1758
