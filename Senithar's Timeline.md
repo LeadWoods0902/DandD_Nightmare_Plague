@@ -9,7 +9,7 @@
 ## 1626
 - Marquella (Brokvar) supports Esgid in the war
 ## 1723
-- Napella is born to
+- Napella is born
 ## 1758
 - Circe is birthed in secret, fathered unknowingly by Calidian
 ## 1771

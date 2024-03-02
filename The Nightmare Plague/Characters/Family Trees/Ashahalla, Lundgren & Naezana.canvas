@@ -7,7 +7,6 @@
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Sunmaek/Ven-Chyk.md","id":"6a0743f6a30178f7","x":-992,"y":-886,"width":400,"height":400,"color":"1"},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Sunmaek/Ven-Slyk.md","id":"3628fb4e714ee5fe","x":-539,"y":-886,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Ven-Dryk Ashahalla.md","id":"e7e26ef5def17e26","x":-87,"y":-886,"width":400,"height":400,"color":"4"},
-		{"id":"8d02f67a823939f8","type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Rheilliwch/Calidian Naezana.md","x":1640,"y":-886,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Napella Lundgren.md","id":"a6a494d33755280a","x":815,"y":-886,"width":400,"height":400,"color":"1"},
 		{"type":"text","text":"","id":"47c974b08d194b81","x":538,"y":-711,"width":50,"height":50},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Innë-Dryk Lungdren.md","id":"c0ce98cc222761eb","x":138,"y":-240,"width":400,"height":400,"color":"1"},
@@ -24,11 +23,13 @@
 		{"type":"text","text":"","id":"15cf7642185769fe","x":720,"y":-1985,"width":50,"height":50},
 		{"id":"b1395967bbbb7167","type":"text","text":"## Napella's GrandFather","x":850,"y":-2160,"width":400,"height":400,"color":"1"},
 		{"id":"f52ba4afc75a0826","type":"file","file":"Marquella Lundgren.md","x":243,"y":-2160,"width":400,"height":400,"color":"1"},
-		{"type":"text","text":"","id":"6a5445c82e647110","x":2615,"y":-711,"width":50,"height":50},
-		{"id":"98bb637bf2be07a5","type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Rheilliwch/Fenian Naezana.md","x":2440,"y":-240,"width":400,"height":400,"color":"4"},
-		{"id":"560bea05e5193d24","type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Vivienne Naezana.md","x":2790,"y":-886,"width":400,"height":400},
-		{"id":"c742e1cbc2827868","x":2080,"y":-886,"width":400,"height":400,"color":"1","type":"file","file":"Ymerodrol Naezana.md"},
-		{"id":"32ed05390958a4f5","x":2215,"y":-1655,"width":400,"height":400,"type":"text","text":"## Fenian's Grandfather\n"}
+		{"id":"32ed05390958a4f5","type":"text","text":"## Fenian's Grandfather\n","x":1555,"y":-1480,"width":400,"height":400,"color":"1"},
+		{"type":"text","text":"","id":"71acad27951c04ed","x":2080,"y":-1305,"width":50,"height":50},
+		{"id":"8d02f67a823939f8","type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Rheilliwch/Calidian Naezana.md","x":1665,"y":-886,"width":400,"height":400,"color":"4"},
+		{"id":"560bea05e5193d24","type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Vivienne Naezana.md","x":2815,"y":-886,"width":400,"height":400},
+		{"type":"text","text":"","id":"6a5445c82e647110","x":2640,"y":-711,"width":50,"height":50},
+		{"id":"c742e1cbc2827868","type":"file","file":"Ymerodrol Naezana.md","x":2105,"y":-886,"width":400,"height":400,"color":"1"},
+		{"id":"98bb637bf2be07a5","type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Rheilliwch/Fenian Naezana.md","x":2465,"y":-240,"width":400,"height":400,"color":"4"}
 	],
 	"edges":[
 		{"id":"ec363729123f7b55","fromNode":"489bef7acb7cdfeb","fromSide":"right","toNode":"02cc1970db5a8691","toSide":"left"},
@@ -55,6 +56,9 @@
 		{"id":"c8439a7f665a6cdd","fromNode":"8d02f67a823939f8","fromSide":"left","toNode":"6033484498515d1d","toSide":"right"},
 		{"id":"7e86a74dc561369f","fromNode":"560bea05e5193d24","fromSide":"left","toNode":"6a5445c82e647110","toSide":"right"},
 		{"id":"3f71ad12ce152157","fromNode":"6a5445c82e647110","fromSide":"bottom","toNode":"98bb637bf2be07a5","toSide":"top"},
-		{"id":"b899f0495c90ff19","fromNode":"c742e1cbc2827868","fromSide":"right","toNode":"6a5445c82e647110","toSide":"left"}
+		{"id":"b899f0495c90ff19","fromNode":"c742e1cbc2827868","fromSide":"right","toNode":"6a5445c82e647110","toSide":"left"},
+		{"id":"a0db4388bcfe7d0d","fromNode":"71acad27951c04ed","fromSide":"bottom","toNode":"c742e1cbc2827868","toSide":"top"},
+		{"id":"07e09f7a5a23ad70","fromNode":"71acad27951c04ed","fromSide":"bottom","toNode":"8d02f67a823939f8","toSide":"top"},
+		{"id":"30388a53cb0142c7","fromNode":"32ed05390958a4f5","fromSide":"right","toNode":"71acad27951c04ed","toSide":"left"}
 	]
 }
