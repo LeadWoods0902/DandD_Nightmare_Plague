@@ -12,16 +12,16 @@
 - Napella is born
 ## 1758
 - Circe is birthed in secret to Napella, fathered unknowingly by Calidian
-## 1769
+## 1762
 - Llawyr un Mawr & Esgid are once again at war over the nearby land
-## 1770
+## 1763
 - Napella is set to wed herself to the crown prince of Esgid, uniting the two lands
-## 1771
+## 1764
 - Napella enters an affair with foreign consort Ven-Dryk before the wedding can occur
-## 1772
+## 1765
 - In response to Brokvar's aid to Esgid, Rheilliwch extends a hand of aid to Llawyr un Mawr and begins an operation to spread forces northward toward Brokvar across the great plain
 - Napella, enflamed by the growing conflict and breach of the treaty, Napella sends a force south to set a flame to Ymerodrol's Palace, perched atop the Farrows. With the aid of Esgid's Wizards, Napella brings hell fire down upon the palace - Killing Ymerodrol and nearly killing his wife, Vivienne.
-## 1773
+## 1766
 - Llawyr un Mawr & Rheilliwch join forces under Ymerodrol's brother: Calidian
 - Napella and her family are assassinated just days after the birth of her children: Amorella, Innë-Dryk & Odonna-Dryk
 - Ven-Dryk escapes with one of the child (Amorella)
