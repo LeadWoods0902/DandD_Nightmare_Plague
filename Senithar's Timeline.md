@@ -1,6 +1,6 @@
-## -4716
+# -4716
 - Nëoris dies
-## 0
+# 0
 - The first document is stored in the Library of Heinabergsar
 ## 1618
 - Brokvar & Rheilliwch sign a treatise in which neither will build structure or military across the great central plain
@@ -36,7 +36,8 @@
 ## 1772
 - The Ymerodrine Empire takes control of Marwolaeth & Gwelodd Dant
 
-## 1777
-- Lupella has a child (Amorella) with Ayven Torieth
+
 ## 1781
 - Fenian inherits the empire from her uncle: Calidian
+
+# 1793
