@@ -7,7 +7,7 @@
 Calidian Naezana 
 
 ##### Current Age
-*TBC*  Deceased
+*TBC* 
 
 ##### Place of Origin
 *TBC*

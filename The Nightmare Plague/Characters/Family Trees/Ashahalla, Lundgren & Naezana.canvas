@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"group","id":"dff2e3a8770bc2d1","x":-1240,"y":-2240,"width":4480,"height":3040,"label":"Ashahalla & Lundgren"},
+		{"type":"group","id":"dff2e3a8770bc2d1","x":-1240,"y":-2240,"width":4480,"height":3040,"label":"Ashahalla, Lundgren & Naezana"},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Sunmaek/Ven-Kylgh Ashahalla.md","id":"489bef7acb7cdfeb","x":-989,"y":-1481,"width":400,"height":400,"color":"1"},
 		{"type":"text","text":"","id":"02cc1970db5a8691","x":-364,"y":-1306,"width":50,"height":50},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Sunmaek/Mel-Reyhan.md","id":"694e3fe64f00e3b1","x":-89,"y":-1480,"width":402,"height":400,"color":"1"},
@@ -23,10 +23,10 @@
 		{"type":"text","text":"","id":"15cf7642185769fe","x":720,"y":-1985,"width":50,"height":50},
 		{"id":"b1395967bbbb7167","type":"text","text":"## Napella's GrandFather","x":850,"y":-2160,"width":400,"height":400,"color":"1"},
 		{"id":"f52ba4afc75a0826","type":"file","file":"Marquella Lundgren.md","x":243,"y":-2160,"width":400,"height":400,"color":"1"},
-		{"id":"8d02f67a823939f8","x":1640,"y":-886,"width":400,"height":400,"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Rheilliwch/Calidian Naezana.md"},
 		{"type":"text","text":"","id":"6a5445c82e647110","x":2165,"y":-711,"width":50,"height":50},
 		{"id":"98bb637bf2be07a5","x":1990,"y":-240,"width":400,"height":400,"color":"4","type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Rheilliwch/Fenian Naezana.md"},
-		{"id":"560bea05e5193d24","x":2340,"y":-886,"width":400,"height":400,"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Vivienne Naezana.md"}
+		{"id":"560bea05e5193d24","x":2340,"y":-886,"width":400,"height":400,"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Vivienne Naezana.md"},
+		{"id":"8d02f67a823939f8","x":1640,"y":-886,"width":400,"height":400,"color":"4","type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Rheilliwch/Calidian Naezana.md"}
 	],
 	"edges":[
 		{"id":"ec363729123f7b55","fromNode":"489bef7acb7cdfeb","fromSide":"right","toNode":"02cc1970db5a8691","toSide":"left"},
