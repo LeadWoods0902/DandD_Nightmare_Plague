@@ -9,7 +9,9 @@
 ## 1626
 - Marquella (Brokvar) supports Esgid in the war
 ## 1698
-
+- Ymerodrol is born
+## 1712 
+- Calidian is born
 ## 1723
 - Napella is born
 ## 1758
