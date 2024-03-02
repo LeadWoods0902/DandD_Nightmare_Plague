@@ -26,8 +26,8 @@ Rolbam
 ## 1649
 #### Duska's Story (0)
 Duska Halloni is born
-# 1670s
-## 1673
+# 1650s
+## 1653
 #### Rolbam's Story
 Rolbam dies in a magical experiment gone awry, transforming him into a gravitational anomaly that imploded.
 # 1710s
