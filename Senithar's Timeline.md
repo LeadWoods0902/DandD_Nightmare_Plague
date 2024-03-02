@@ -19,4 +19,5 @@
 ## 1771
 - Napella enters an affair with foreign consort Ven-Dryk before the wedding can occur
 ## 1772
-- Rheilliwch 
+- In response to Brokvar's aid to Esgid, Rheilliwch extends a hand of aid to Llawyr un Mawr and 
+- Napella, enflamed by the growing conflict and breach of the conflict
