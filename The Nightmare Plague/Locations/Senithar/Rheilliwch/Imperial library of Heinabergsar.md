@@ -1,1 +1,1 @@
-Previously know
+Previously known as the "*Grand Library of Heinabergsar*"
