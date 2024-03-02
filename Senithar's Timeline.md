@@ -20,4 +20,4 @@
 - Napella enters an affair with foreign consort Ven-Dryk before the wedding can occur
 ## 1772
 - In response to Brokvar's aid to Esgid, Rheilliwch extends a hand of aid to Llawyr un Mawr and begins an operation to spread forces northward toward Brokvar across the great plain
-- Napella, enflamed by the growing conflict and breach of the treaty, Napella sends a force south to set a flame to Ymerodrol's 
+- Napella, enflamed by the growing conflict and breach of the treaty, Napella sends a force south to set a flame to Ymerodrol's Palace, perched atop the Farrows. With the aid of Esgid's Wizards, Napella brings hell fire down upon the palace - killing 
