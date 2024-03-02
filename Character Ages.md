@@ -1,5 +1,6 @@
 | Year | Events | Napella | Lupella | Amorella | Ven Dryk | Calidian | Ymerodrol | Fenian | Circe | Lucius | Roderika | **Mazikeen** | **Bismuth** | **Jasper** | **Duska** | **Alfread** | **Rolbam** | **Seram** | **Malkath** | **Stronvan** |
 | ---- | ---- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 1582 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | **0** |  |  |  |
 | 1623 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1649 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | **0** |  |  |  |  |  |
 | 1653 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | **71** |  |  |  |
