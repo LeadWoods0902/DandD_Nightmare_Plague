@@ -23,6 +23,10 @@
 - Napella, enflamed by the growing conflict and breach of the treaty, Napella sends a force south to set a flame to Ymerodrol's Palace, perched atop the Farrows. With the aid of Esgid's Wizards, Napella brings hell fire down upon the palace - Killing Ymerodrol and nearly killing his wife, Vivienne.
 ## 1766
 - Llawyr un Mawr & Rheilliwch join forces under Ymerodrol's brother: Calidian
+	- Forming the Federation
 - Napella and her family are assassinated just days after the birth of her children: Amorella, Innë-Dryk & Odonna-Dryk
 - Ven-Dryk escapes with one of the child (Amorella)
-- 
+- Brokvar falls under the control of the Federation
+
+## 1768
+- The Federation rebrands as the Ymerodrine Empire 
