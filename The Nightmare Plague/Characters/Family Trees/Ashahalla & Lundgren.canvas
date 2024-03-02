@@ -9,16 +9,17 @@
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Ven-Dryk Ashahalla.md","id":"e7e26ef5def17e26","x":-87,"y":-886,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Napella Lundgren.md","id":"a6a494d33755280a","x":815,"y":-886,"width":400,"height":400,"color":"1"},
 		{"type":"text","text":"","id":"47c974b08d194b81","x":538,"y":-711,"width":50,"height":50},
-		{"id":"b93c4abf29fb948c","type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Circe Lundgren.md","x":-314,"y":-240,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Innë-Dryk Lungdren.md","id":"c0ce98cc222761eb","x":138,"y":-240,"width":400,"height":400,"color":"1"},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Odonna-Dryk Lundgren.md","id":"e7d5f8a97db27f2d","x":588,"y":-240,"width":400,"height":400,"color":"1"},
-		{"type":"text","text":"","id":"f65db8e6d4873507","x":1668,"y":-65,"width":50,"height":50},
-		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Gogledd-Ynys/Lupella Torieth.md","id":"113a592524a09d9b","x":1493,"y":355,"width":400,"height":400,"color":"4"},
-		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Amorella Lundgren.md","id":"d41f95714841f6e3","x":1040,"y":-240,"width":400,"height":400,"color":"4"},
-		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Rheilliwch/Ayven Torrieth.md","id":"e9071f9459f501b4","x":1946,"y":-240,"width":400,"height":400,"color":"4"},
 		{"id":"f52ba4afc75a0826","type":"file","file":"Marquella Lundgren.md","x":563,"y":-2160,"width":400,"height":400,"color":"1"},
-		{"id":"b1395967bbbb7167","x":1040,"y":-2160,"width":400,"height":400,"type":"text","text":"## Grand Father"},
-		{"id":"327c6031ca7b6365","type":"text","text":"## Napella's Father","x":815,"y":-1560,"width":400,"height":400}
+		{"id":"b1395967bbbb7167","type":"text","text":"## Napella's GrandFather","x":1040,"y":-2160,"width":400,"height":400},
+		{"id":"327c6031ca7b6365","type":"text","text":"## Napella's Father","x":815,"y":-1480,"width":400,"height":400},
+		{"id":"594fe11312c915d9","type":"text","text":"## Napella's Mother","x":1360,"y":-1480,"width":400,"height":400},
+		{"id":"b93c4abf29fb948c","type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Circe Lundgren.md","x":1946,"y":-711,"width":400,"height":400,"color":"4"},
+		{"type":"text","text":"","id":"f65db8e6d4873507","x":-567,"y":-65,"width":50,"height":50},
+		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Gogledd-Ynys/Lupella Torieth.md","id":"113a592524a09d9b","x":-742,"y":355,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Rheilliwch/Ayven Torrieth.md","id":"e9071f9459f501b4","x":-1320,"y":280,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Amorella Lundgren.md","id":"d41f95714841f6e3","x":-314,"y":-240,"width":400,"height":400,"color":"4"}
 	],
 	"edges":[
 		{"id":"ec363729123f7b55","fromNode":"489bef7acb7cdfeb","fromSide":"right","toNode":"02cc1970db5a8691","toSide":"left"},
@@ -31,9 +32,6 @@
 		{"id":"6175bd609154e6a5","fromNode":"47c974b08d194b81","fromSide":"bottom","toNode":"c0ce98cc222761eb","toSide":"top"},
 		{"id":"7d7f562cd62bc8d8","fromNode":"47c974b08d194b81","fromSide":"bottom","toNode":"e7d5f8a97db27f2d","toSide":"top"},
 		{"id":"a49b4da6fd61b83c","fromNode":"47c974b08d194b81","fromSide":"bottom","toNode":"d41f95714841f6e3","toSide":"top"},
-		{"id":"5bac84efa79b694e","fromNode":"d41f95714841f6e3","fromSide":"right","toNode":"f65db8e6d4873507","toSide":"left"},
-		{"id":"bfa74534bf67fc2c","fromNode":"e9071f9459f501b4","fromSide":"left","toNode":"f65db8e6d4873507","toSide":"right"},
-		{"id":"d57bf8df931312e0","fromNode":"f65db8e6d4873507","fromSide":"bottom","toNode":"113a592524a09d9b","toSide":"top"},
-		{"id":"181b2324d9e59256","fromNode":"47c974b08d194b81","fromSide":"bottom","toNode":"b93c4abf29fb948c","toSide":"top"}
+		{"id":"d57bf8df931312e0","fromNode":"f65db8e6d4873507","fromSide":"bottom","toNode":"113a592524a09d9b","toSide":"top"}
 	]
 }
