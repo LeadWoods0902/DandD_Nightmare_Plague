@@ -17,7 +17,7 @@ Unknown
 ##### Family
 Daughter of [[Ven-Dryk Ashahalla]] and [[Napella Lundgren]]
 
-Sister of [[Amorella Lundgren]] and [[Innë-Dryk Lungdren]]
+Sister of [[Amorella Torieth]] and [[Innë-Dryk Lungdren]]
 
 ##### Race
 Unknown

@@ -1,47 +1,32 @@
-![[Calidian _Token.png]]
-[[Calidian.png|Full Art]]
+![[Naestor_Token.png]]
+[[Naestor.png|Full Art]]
 
 ---
 ### Character Info
+
 ##### Name 
-Calidian Naezana 
-
+Naestor
 ##### Current Age
-*TBC* 
-
+*TBC*
 ##### Place of Origin
 *TBC*
-
 ##### Family
-Husband of [[Vivienne Naezana]]
-Father of [[Fenian Naezana]]
-
+*TBC*
 ##### Race
-Elf
-
+Human
 ##### Class
 *TBC*
-
 ##### Alignment
 *TBC*
-
 ##### Personality Traits
 *TBC*
-
 ##### Long Term Goals
 *TBC*
-
 ##### Secondary Goals
 *TBC*
-
 ##### Motivations
 *TBC*
-
 ##### Flaws
 *TBC*
-
 ##### Affiliations
 *TBC*
-
-### Notes
-

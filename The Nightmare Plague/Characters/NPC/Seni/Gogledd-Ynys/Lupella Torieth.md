@@ -13,7 +13,7 @@ Unknown
 ##### Family
 | Relation | Person |
 | --- | --- |
-| Mother | [[Amorella Lundgren]] |
+| Mother | [[Amorella Torieth]] |
 | Father | [[Ayven Torrieth]] |
 | --- | --- |
 | Half-Aunt | [[Circe Lundgren]] | 
@@ -37,7 +37,7 @@ Unknown
 ##### Affiliations
 Unknown
 ### Notes
-Reaver Queen of the north seas and granddaughter to the fire queen: [[Napella Lundgren]]. The rightful heir to the Brokvar throne: Lupella carries the [[Engraved Emerald]] and is the daughter of [[Amorella Lundgren]] and [[Ayven Torrieth]].
+Reaver Queen of the north seas and granddaughter to the fire queen: [[Napella Lundgren]]. The rightful heir to the Brokvar throne: Lupella carries the [[Engraved Emerald]] and is the daughter of [[Amorella Torieth]] and [[Ayven Torrieth]].
 
 Amorella grew up in hiding, never fully understanding the circumstances of her mother's past or the significance of the emerald that she had been entrusted with. She lived a simple life, working as a seamstress and raising her daughter Lupella on her own.
 

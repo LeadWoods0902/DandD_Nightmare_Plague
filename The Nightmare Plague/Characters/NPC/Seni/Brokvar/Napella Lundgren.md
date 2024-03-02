@@ -18,7 +18,7 @@ Unknown
 | Husband | [[Ven-Dryk Ashahalla]] |
 | Lover | [[Cirella's Father]] |
 | --- | --- |
-| Daughter | [[Amorella Lundgren]] |
+| Daughter | [[Amorella Torieth]] |
 | Daughter | [[Circe Lundgren]] |
 | Daughter | [[Innë-Dryk Lungdren]] |
 | Daughter | [[Odonna-Dryk Lundgren]] |
@@ -76,4 +76,4 @@ The love for Napella was so strong in fact that a sub group of the Brokvar popul
 Napella's body was recovered an in an autopsy it was discovered that she was pregnant - signs indicate that despite her carrying a stillborn child another may have been born before her death, this fact was kept from the public. 
 
 
-Mother of [[Amorella Lundgren]]
+Mother of [[Amorella Torieth]]
