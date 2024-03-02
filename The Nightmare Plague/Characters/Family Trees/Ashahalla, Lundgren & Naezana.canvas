@@ -7,6 +7,7 @@
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Sunmaek/Ven-Chyk.md","id":"6a0743f6a30178f7","x":-992,"y":-886,"width":400,"height":400,"color":"1"},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Sunmaek/Ven-Slyk.md","id":"3628fb4e714ee5fe","x":-539,"y":-886,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Ven-Dryk Ashahalla.md","id":"e7e26ef5def17e26","x":-87,"y":-886,"width":400,"height":400,"color":"4"},
+		{"id":"8d02f67a823939f8","type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Rheilliwch/Calidian Naezana.md","x":1640,"y":-886,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Napella Lundgren.md","id":"a6a494d33755280a","x":815,"y":-886,"width":400,"height":400,"color":"1"},
 		{"type":"text","text":"","id":"47c974b08d194b81","x":538,"y":-711,"width":50,"height":50},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Innë-Dryk Lungdren.md","id":"c0ce98cc222761eb","x":138,"y":-240,"width":400,"height":400,"color":"1"},
@@ -15,18 +16,17 @@
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Gogledd-Ynys/Lupella Torieth.md","id":"113a592524a09d9b","x":-742,"y":355,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Amorella Lundgren.md","id":"d41f95714841f6e3","x":-314,"y":-240,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Rheilliwch/Ayven Torrieth.md","id":"e9071f9459f501b4","x":-1189,"y":-240,"width":400,"height":400,"color":"4"},
-		{"id":"b93c4abf29fb948c","type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Circe Lundgren.md","x":1240,"y":-240,"width":400,"height":400,"color":"4"},
-		{"type":"text","text":"","id":"6033484498515d1d","x":1415,"y":-711,"width":50,"height":50},
 		{"id":"594fe11312c915d9","type":"text","text":"## Napella's Mother","x":1090,"y":-1480,"width":400,"height":400,"color":"1"},
 		{"id":"327c6031ca7b6365","type":"text","text":"## Napella's Father","x":545,"y":-1480,"width":400,"height":400,"color":"1"},
+		{"id":"b93c4abf29fb948c","type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Brokvar/Circe Lundgren.md","x":1240,"y":-240,"width":400,"height":400,"color":"4"},
+		{"type":"text","text":"","id":"6033484498515d1d","x":1415,"y":-711,"width":50,"height":50},
 		{"type":"text","text":"","id":"aa9e308db5955260","x":990,"y":-1305,"width":50,"height":50},
 		{"type":"text","text":"","id":"15cf7642185769fe","x":720,"y":-1985,"width":50,"height":50},
 		{"id":"b1395967bbbb7167","type":"text","text":"## Napella's GrandFather","x":850,"y":-2160,"width":400,"height":400,"color":"1"},
 		{"id":"f52ba4afc75a0826","type":"file","file":"Marquella Lundgren.md","x":243,"y":-2160,"width":400,"height":400,"color":"1"},
-		{"type":"text","text":"","id":"6a5445c82e647110","x":2165,"y":-711,"width":50,"height":50},
-		{"id":"98bb637bf2be07a5","x":1990,"y":-240,"width":400,"height":400,"color":"4","type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Rheilliwch/Fenian Naezana.md"},
-		{"id":"560bea05e5193d24","x":2340,"y":-886,"width":400,"height":400,"type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Vivienne Naezana.md"},
-		{"id":"8d02f67a823939f8","x":1640,"y":-886,"width":400,"height":400,"color":"4","type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Rheilliwch/Calidian Naezana.md"}
+		{"type":"text","text":"","id":"6a5445c82e647110","x":2615,"y":-711,"width":50,"height":50},
+		{"id":"98bb637bf2be07a5","type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Rheilliwch/Fenian Naezana.md","x":2440,"y":-240,"width":400,"height":400,"color":"4"},
+		{"id":"560bea05e5193d24","type":"file","file":"The Nightmare Plague/Characters/NPC/Seni/Vivienne Naezana.md","x":2790,"y":-886,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"ec363729123f7b55","fromNode":"489bef7acb7cdfeb","fromSide":"right","toNode":"02cc1970db5a8691","toSide":"left"},
@@ -51,7 +51,6 @@
 		{"id":"a60029ab82730692","fromNode":"f52ba4afc75a0826","fromSide":"right","toNode":"15cf7642185769fe","toSide":"left"},
 		{"id":"370f3dac3dbcf025","fromNode":"b1395967bbbb7167","fromSide":"left","toNode":"15cf7642185769fe","toSide":"right"},
 		{"id":"c8439a7f665a6cdd","fromNode":"8d02f67a823939f8","fromSide":"left","toNode":"6033484498515d1d","toSide":"right"},
-		{"id":"dc68ffabc72c94c9","fromNode":"8d02f67a823939f8","fromSide":"right","toNode":"6a5445c82e647110","toSide":"left"},
 		{"id":"7e86a74dc561369f","fromNode":"560bea05e5193d24","fromSide":"left","toNode":"6a5445c82e647110","toSide":"right"},
 		{"id":"3f71ad12ce152157","fromNode":"6a5445c82e647110","fromSide":"bottom","toNode":"98bb637bf2be07a5","toSide":"top"}
 	]
