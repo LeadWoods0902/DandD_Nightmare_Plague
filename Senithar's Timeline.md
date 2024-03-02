@@ -40,4 +40,6 @@
 ## 1781
 - Fenian inherits the empire from her uncle: Calidian
 
+## 1785
+- Amorella is born to Lupella & Ayven Torieth
 # 1793
