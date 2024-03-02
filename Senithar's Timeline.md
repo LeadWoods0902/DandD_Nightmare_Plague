@@ -15,7 +15,8 @@
 ## 1769
 - Llawyr un Mawr & Esgid are once again at war over the nearby land
 ## 1770
-- Napella is set to wed herself to the crown prince of 
+- Napella is set to wed herself to the crown prince of Esgid, uniting the two lands
 ## 1771
-- Napella enters an affair with foreign consort Ven-Dryk
-- 
+- Napella enters an affair with foreign consort Ven-Dryk before the wedding can occur
+## 1772
+- Rheilliwch 
