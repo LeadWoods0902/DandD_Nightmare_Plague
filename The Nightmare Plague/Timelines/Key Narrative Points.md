@@ -64,7 +64,7 @@
 - [ ] Agree to the Basilisk Contract
 	- [ ] Visit Jarae's to prepare
 		- [ ] Fire proof potions - NOT for the basilisks (*TODO*)
-- [ ] Visit the Farm
+- [x] Visit the Farm
 	- [ ] Explore the Farm
 ---
 - [ ] Fight the Basilisk
