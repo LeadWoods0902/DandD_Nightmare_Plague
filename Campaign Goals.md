@@ -17,15 +17,6 @@
 - The party fight the Babalars below/ atop the Coeden
 - The party fight the corrupted husk of Fenian
 
-## Mazikeen
-- Memory
-	- Revenge or Absolution regarding the death of her father
-- State of Being
-	- Find a way to stabilise before she expires
-- The trident
-	- Find a way to fix it
-	- Return or keep it
-
 ## Duska
 - Find the source of the Coeden
 - Uncover the truth around Nëoris
