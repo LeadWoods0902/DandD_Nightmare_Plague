@@ -6,4 +6,8 @@
 	- [ ] Find documents stamped with a golden eye - written in code
 - [ ] The group convene in the Divide
 	- [ ] Listen to the speeches
-	- [ ] 
+	- [ ] Ven-Dryk
+	- [ ] Sturgis
+	- [ ] Owain
+	- [ ] Naestor
+	- [ ] suggestion of others
