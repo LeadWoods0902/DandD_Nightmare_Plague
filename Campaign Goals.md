@@ -16,6 +16,3 @@
 #### Events to be assigned
 - The party fight the Babalars below/ atop the Coeden
 - The party fight the corrupted husk of Fenian
-
-## Tom
-- Uncover why he has the souls of multiple people inside him
