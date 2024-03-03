@@ -3,4 +3,5 @@
 - The sword [[Omen]]
 ### During campaign
 - [ ] Uncover the truth around the Coeden
-	- [ ] 
+- [ ] Uncover the truth around Nëoris
+- [ ] 

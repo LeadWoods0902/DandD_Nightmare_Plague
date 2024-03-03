@@ -17,9 +17,5 @@
 - The party fight the Babalars below/ atop the Coeden
 - The party fight the corrupted husk of Fenian
 
-## Duska
-- Find the source of the Coeden
-- Uncover the truth around Nëoris
-
 ## Tom
 - Uncover why he has the souls of multiple people inside him
