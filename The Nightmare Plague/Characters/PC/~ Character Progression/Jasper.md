@@ -5,4 +5,4 @@
 ### During campaign
 - [ ] Meet Ashira
 	- [ ] Gain the [[Boon of the Tide Caller]] 
-- [ ] 
+- [ ] Something to do with collecting Boons

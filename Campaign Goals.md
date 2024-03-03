@@ -17,13 +17,6 @@
 - The party fight the Babalars below/ atop the Coeden
 - The party fight the corrupted husk of Fenian
 
-## Jasper
-- Meet Ashira
-	- Learn the truth about Genasi kind
-	- Receive the boon of the sea
-- Prevent the planes from unravelling
-	- 
-
 ## Mazikeen
 - Memory
 	- Revenge or Absolution regarding the death of her father
