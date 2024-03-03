@@ -4,5 +4,6 @@
 - Shapeshifting powers from Kaede
 ### During campaign
 - [x] lost Geode-Splitter Great axe
+- [ ] Find his great axe
 - [ ] Gain boons from Djinn
 - [ ] 

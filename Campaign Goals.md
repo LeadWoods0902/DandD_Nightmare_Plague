@@ -17,10 +17,6 @@
 - The party fight the Babalars below/ atop the Coeden
 - The party fight the corrupted husk of Fenian
 
----
-## Bismuth
-- Retrieve his axe
-
 ## Jasper
 - Meet Ashira
 	- Learn the truth about Genasi kind

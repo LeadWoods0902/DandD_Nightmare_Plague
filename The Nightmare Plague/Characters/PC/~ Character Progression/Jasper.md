@@ -3,4 +3,6 @@
 - Druidic Powers
 - [[Kaede's scale]]
 ### During campaign
-- Gain the [[Boon of the Tide Caller]] 
+- [ ] Meet Ashira
+	- [ ] Gain the [[Boon of the Tide Caller]] 
+- [ ] 
