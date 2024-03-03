@@ -1,15 +1,3 @@
-- [ ] Blood monk
-	- Blind
-	- Can sense blood 
-	- *"I may be blind but I can hear your heart beating"*
-		- Throw players off, make them think they've got super hearing
-	- Can blood bend
-		- Thorns ER
-		- body manipulation ATLA
-- [ ] Thorstein
-- [ ] House of S**ASS**?
 - [ ] Reword Spirit Strike
-- [ ] Add Fast Movement
-- [ ] Blacksmiths
 
 Woodfall's patron
