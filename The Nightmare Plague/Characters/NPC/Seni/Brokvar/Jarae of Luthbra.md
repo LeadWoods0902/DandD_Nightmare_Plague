@@ -1,4 +1,4 @@
-![[Jarae_Token.png]]
+![[The Nightmare Plague/Resources/Tokens/Jarae_Token.png]]
 
 [[Jarae.png|Full Art]]
 
