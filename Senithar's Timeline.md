@@ -40,7 +40,6 @@
 ## 1772
 - The Ymerodrine Empire takes control of Marwolaeth & Gwelodd Dant
 
-
 ## 1781
 - Fenian inherits the empire from her uncle: Calidian
 
