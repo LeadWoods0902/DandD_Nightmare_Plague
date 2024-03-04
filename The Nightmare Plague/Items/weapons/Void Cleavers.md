@@ -6,4 +6,5 @@ Once after a long rest, the swords bestow upon their wielder the ability to bend
 
 Furthermore, this weapon possesses three charges that replenish with each long rest. These charges may be expended for the following effects:
 - Void Tear: Upon a successful attack with this weapon, deal an extra 3d6 force damage.
-- Void Displacement: Upon a successful attack with this weapon, you can teleport the target creature (of size m anywhere within sight and within 30 feet.
+- Void Displacement: Upon a successful attack with this weapon, you can teleport the target creature (of size medium or smaller) anywhere within sight and 30 feet.
+
