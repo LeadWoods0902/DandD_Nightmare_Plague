@@ -12,3 +12,4 @@
 		- [ ] Naestor
 		- [ ] suggestion of others
 	- [ ] Attacked by Smoke Constructs
+		- [ ] Niahl commands troops i
