@@ -12,4 +12,6 @@
 		- [ ] Naestor
 		- [ ] suggestion of others
 	- [ ] Attacked by Smoke Constructs
-		- [ ] Niahl commands troops i
+		- [ ] Niahl commands troops into formations
+		- [ ] Elaine summons a great bolt of lightning
+		- [ ] 
