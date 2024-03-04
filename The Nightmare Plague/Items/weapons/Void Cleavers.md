@@ -1,7 +1,7 @@
 ![[VoidCleavers.png]]
 
 ---
-A pair of curved swords once wielded by Napella Lundgren - after her death, the weapons passed to Ven-Dryk, who has since wielded them in the war against the empire.
+A pair of curved swords wielded by Ven-D
 
 When not in use, the weapons rest within a pocket dimension, retrievable by only the user. When dropped or lost, the weapons return to this dimension
 
