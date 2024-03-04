@@ -14,4 +14,4 @@
 	- [ ] Attacked by Smoke Constructs
 		- [ ] Niahl commands troops into formations
 		- [ ] Elaine summons a great bolt of lightning
-		- [ ] Ven-Dryk attacks with
+		- [ ] Ven-Dryk attacks with Void Cleaver
