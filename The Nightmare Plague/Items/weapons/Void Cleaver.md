@@ -4,4 +4,4 @@ Once per long rest, the sword grants the user to fold reality, stepping into the
 
 Additionally, this weapon has three charges which refill on a long rest, these charges may be spent on the following actions:
 - Void Tear: On a successful attack with this weapon, deal an additional 3d6 force damage
-- Void Displacement: On a successful attack with this weapon, you can cast 
+- Void Displacement: On a successful attack with this weapon, you can teleport the target creature anywhere within sight and within 30ft
