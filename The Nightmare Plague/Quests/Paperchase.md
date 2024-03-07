@@ -8,7 +8,7 @@
 	- Or attempt to locate the clerk
 	- Or wait
 - A D41 form is acquired and requires the following information
-	- Name, Age, Location of Birth, Gender
+	- Name, Age, Location of Birth, Gender, Race
 	- Thumb prints, inked
 	- Parents & Next of Kin
 	- Copy of Citizen's Card Number 
@@ -18,3 +18,4 @@
 	- A picture of the account owner must be attached
 	- Home Address
 	- Occupation
+	- Religion of choice
