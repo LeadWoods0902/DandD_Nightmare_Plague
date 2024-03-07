@@ -20,4 +20,4 @@
 	- Occupation
 	- Religion of choice
 - The D41 form is returned to the Chief Clerk, who has fallen asleep at his desk.
-- Handing in the D41 form, the Chief Clerk 
+- Handing in the D41 form, the Chief Clerk offers over the A38 form
