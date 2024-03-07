@@ -21,6 +21,9 @@
 	- Religion of choice
 6. The D41 form is returned to the Chief Clerk, who has fallen asleep at his desk. Handing in the D41 form, the Chief Clerk offers over the A38 form
 8. An A38 form is acquired and requires the following information:
-	- Intention of use
-	- Level of security desired
-	- Interest r
+	- Type of account desired
+		- Credit Account
+		- Personal Lockbox
+		- Personal Vault
+		- Personal Dimension
+	- Interest rate options
