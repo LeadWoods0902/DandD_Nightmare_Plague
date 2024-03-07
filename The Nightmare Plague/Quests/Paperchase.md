@@ -40,5 +40,5 @@
 	- Express Access (Yes/ No)
 		- Applicable exclusively to accounts with deposited value in excess of 1,000,000K
 	- Creation Fee Summary
-		- To be completed by the bank
+		- To be completed by the bank in conjuction with 
 	- Signature & Date
