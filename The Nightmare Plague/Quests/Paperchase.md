@@ -41,6 +41,8 @@
 		- *"Applicable exclusively to accounts with deposited value in excess of 1,000,000K"*
 	- Creation Fee Summary
 		- *"To be completed by the bank in conjunction with:
-		- 
-		- form D41 or form C27 & form"*
+			form D41 
+			or form C27 & form C26
+			or form E35
+			or form L47"*
 	- Signature & Date
