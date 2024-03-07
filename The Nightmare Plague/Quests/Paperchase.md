@@ -11,4 +11,8 @@
 	- Name, Age, Location of Birth, Gender
 	- Thumb prints, inked
 	- Parents & Next of Kin
-	- Copy of Citizenship Card Number or 
+	- Copy of Citizen's Card Number 
+		- or Visa Number 
+		- or Military ID Number 
+		- or Stamp of Recognition
+	- A pict
