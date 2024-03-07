@@ -16,4 +16,5 @@
 		- or Military ID Number 
 		- or Stamp of Recognition
 	- A picture of the account owner must be attached
-	- 
+	- Home Address
+	- Occupation
