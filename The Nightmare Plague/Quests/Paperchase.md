@@ -38,7 +38,7 @@
 	- Credit Token (Yes/No)
 		- Applicable exclusively to accounts with deposited value in excess of 5,000,000K
 	- Express Access (Yes/ No)
-		- Applica
+		- Applicable exclusively to accounts with deposited value in excess of 1,000,000K
 	- Creation Fee Summary
 		- To be completed by the bank
 	- Signature & Date
