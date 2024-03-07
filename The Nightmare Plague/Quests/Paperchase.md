@@ -23,10 +23,10 @@
 1. The D41 form is returned to the Chief Clerk, who has fallen asleep at his desk. Handing in the D41 form, the Chief Clerk offers over the A38 form
 2. An A38 form is acquired and requires the following information:
 	- Type of account desired
-		- Credit Account
-		- Personal Lockbox
-		- Personal Vault
-		- Personal Dimension
+		- Credit Account (100K)
+		- Personal Lockbox (1000K)
+		- Personal Vault (100,00K)
+		- Personal Dimension (1,000,000K)
 	- Source of Funds 
 	- Interest rate options
 		- No interest, fixed value
