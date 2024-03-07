@@ -15,4 +15,5 @@
 		- or Visa Number 
 		- or Military ID Number 
 		- or Stamp of Recognition
-	- A pict
+	- A picture of the account owner must be attached
+	- 
