@@ -37,6 +37,8 @@
 		- High risk investments
 	- Credit Token (Yes/No)
 		- Applicable exclusively to accounts with deposited value in excess of 5,000,000K
-	- Creation Fee
-		- 10K
+	- Express Access (Yes/ No)
+		- Applica
+	- Creation Fee Summary
+		- To be completed by the bank
 	- Signature & Date
