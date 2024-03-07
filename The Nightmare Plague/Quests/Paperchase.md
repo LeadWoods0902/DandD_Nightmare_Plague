@@ -36,9 +36,11 @@
 		- Low risk investments
 		- High risk investments
 	- Credit Token (Yes/No)
-		- Applicable exclusively to accounts with deposited value in excess of 5,000,000K
+		- *"Applicable exclusively to accounts with deposited value in excess of 5,000,000K"*
 	- Express Access (Yes/ No)
-		- Applicable exclusively to accounts with deposited value in excess of 1,000,000K
+		- *"Applicable exclusively to accounts with deposited value in excess of 1,000,000K"*
 	- Creation Fee Summary
-		- To be completed by the bank in conjuction with 
+		- *"To be completed by the bank in conjunction with:
+		- 
+		- form D41 or form C27 & form"*
 	- Signature & Date
