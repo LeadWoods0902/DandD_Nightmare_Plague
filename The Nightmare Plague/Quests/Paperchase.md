@@ -7,7 +7,7 @@
 	- Either sneak behind the desk and take a form
 	- Or attempt to locate the clerk
 	- Or wait
-- A D41 form is acquired and requires the following information
+5. A D41 form is acquired and requires the following information
 	- Name, Age, Location of Birth, Gender, Race
 	- Thumb prints, inked
 	- Parents & Next of Kin
@@ -19,5 +19,6 @@
 	- Home Address
 	- Occupation
 	- Religion of choice
-- The D41 form is returned to the Chief Clerk, who has fallen asleep at his desk.
-- Handing in the D41 form, the Chief Clerk offers over the A38 form
+6. The D41 form is returned to the Chief Clerk, who has fallen asleep at his desk. Handing in the D41 form, the Chief Clerk offers over the A38 form
+8. An A38 form is acquired and requires the following information:
+	- 
