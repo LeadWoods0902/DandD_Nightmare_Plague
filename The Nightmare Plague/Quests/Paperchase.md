@@ -23,17 +23,20 @@
 1. The D41 form is returned to the Chief Clerk, who has fallen asleep at his desk. Handing in the D41 form, the Chief Clerk offers over the A38 form
 2. An A38 form is acquired and requires the following information:
 	- Type of account desired
-		- Credit Account (100K)
+		- Credit Account (10K)
 		- Personal Lockbox (1000K)
 		- Personal Vault (100,00K)
 		- Personal Dimension (1,000,000K)
 	- Source of Funds 
+		- Imperial Wages
+		- Private Wages
+		- Private Holding
 	- Interest rate options
 		- No interest, fixed value
 		- Low risk investments
 		- High risk investments
 	- Credit Token (Yes/No)
-		- Applicable exclusively to accounts with deposited value in excess of 5,000,000 Imperial Kosh
+		- Applicable exclusively to accounts with deposited value in excess of 5,000,000K
 	- Creation Fee
-		- 
+		- 10K
 	- Signature & Date
