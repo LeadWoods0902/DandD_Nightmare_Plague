@@ -29,4 +29,8 @@
 		- Personal Dimension
 	- Source of Funds 
 	- Interest rate options
+		- No interest, fixed value
+		- Low risk investments
+		- High risk investments
+	- Credit Token (Yes/No)
 	- Signature & Date
