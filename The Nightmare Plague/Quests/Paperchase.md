@@ -33,4 +33,7 @@
 		- Low risk investments
 		- High risk investments
 	- Credit Token (Yes/No)
+		- Applicable exclusively to accounts with deposited value in excess of 5,000,000 Imperial Kosh
+	- Creation Fee
+		- 
 	- Signature & Date
