@@ -14,3 +14,6 @@
 		- [ ] Niahl commands troops into formations
 		- [ ] Elaine summons a great bolt of lightning
 		- [ ] Ven-Dryk attacks with Void Cleaver
+
+
+"I, Ven-Dryk Ashahalla, Warden of Brokvar, charge all who would the cal
