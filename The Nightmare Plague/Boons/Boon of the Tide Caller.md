@@ -1,5 +1,5 @@
 *E* represents the number of Essence spent
-## Level 1 - Tidal Affinity (Passive)
+## Level 1 - Oceanic Affinity (Passive)
 The Genasi gains enhanced mobility in water, allowing them to swim at an increased speed. 
 Additionally, they can hold their breath indefinitely underwater and have advantage on saving throws to prevent drowning
 
@@ -39,12 +39,12 @@ As an action, expend 2 Essence to invoke an "Aqua Veil". This ability envelops t
 - **Damage Resistance**: The veil offers resistance against ranged attacks, reducing the inflicted damage by 50%.
 - **Fire Immunity**: While the temporary hit points persist, the Genasi gains immunity to fire damage.
 
-Additionally, when a target is within 10 feet of the Genasi, the Genasi can, as a bonus action, expend up to 1 Essence to cast "Tidal Restoration" on that target as
+Additionally, when an ally is within 10 feet of the Genasi, the Genasi can, as a bonus action, expend up to 1 Essence to cast "Tidal Restoration" on the target
 
 ## Level 5 - Torrent Lash (3 Essence)
 Drawing upon their innate connection to water, the Genasi can summon a whip made of liquid currents, extending seamlessly from their arm.
 
-As an action, the Genasi can create an "Aqua Lash" with a reach of 15 feet. The water whip is a finesse melee weapon, and the Genasi can make a melee spell attack against a target within range. On a hit, the target takes 1d8 bludgeoning damage and must make a Strength saving throw (DC 8 + Genasi's proficiency bonus + Genasi's Constitution modifier).
+As an action, the Genasi can create a "Torrent Lash" with a reach of 15 feet. The water whip is a finesse melee weapon, and the Genasi can make a melee spell attack against a target within range. On a hit, the target takes 1d8 bludgeoning damage and must make a Strength saving throw (DC 8 + Genasi's proficiency bonus + Genasi's Constitution modifier).
 - If the target fails the saving throw, they are restrained by the water whip until the start of the Genasi's next turn
 
 On the Genasi's next turn, as a bonus action, they can attempt to pull the restrained target towards them. The target must make another Strength saving throw (DC as before).
