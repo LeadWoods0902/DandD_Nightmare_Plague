@@ -2,8 +2,8 @@
 ## Level 1 - Oceanic Affinity (Passive)
 You gain enhanced mobility in water, allowing you to swim with increased speed equal to double your normal movement speed
 
-Additionally, you can hold your breath for an extended period of time. This period of time scales with your level and \[CON\] modifier and is equivalent to your Level * \[CON\] in minutes.
-and have advantage on saving throws to prevent effects that would cause you to start drowning.
+Additionally, you can hold your breath for an extended period of time and have advantage on saving throws to prevent effects that would cause you to start drowning.
+The period of time in which you can hold your breath is equal to your Level * \[CON\] minutes.
 
 Once per long rest, when you have access to a body of water of at least 5 cubic feet, you may summon a [[Kelpie]] as a companion. The kelpie lasts for 8 hours or until it decides to leave. The Kelpie will flee if it feels endangered and will not enter areas with a warm climate.
 
