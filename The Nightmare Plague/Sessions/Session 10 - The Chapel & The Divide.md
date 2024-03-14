@@ -16,4 +16,4 @@
 		- [ ] Ven-Dryk attacks with Void Cleaver
 
 
-"I, Ven-Dryk Ashahalla, Warden of Brokvar, charge all who would heed the call with coming to the defence of this country - we have been beset by invaders in the heart of our city. We must root them out,
+"I, Ven-Dryk Ashahalla, Warden of Brokvar, charge you with the honour of defending this country..."
