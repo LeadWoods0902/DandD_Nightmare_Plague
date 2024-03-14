@@ -35,11 +35,11 @@ As an action, the Genasi can focus their essence to unleash a "Tidal Jet", prope
 The Genasi learns to manipulate water defensively, creating a protective barrier.
 
 As an action, expend 2 Essence to invoke an "Aqua Veil". This ability envelops the Genasi in a shimmering watery barrier, providing additional protection in the following ways:
-- **Temporary Hit Points**: The Aqua Veil bestows temporary hit points equal to the Genasi's current character level plus their \[PROF\] bonus. 
+- **Temporary Hit Points**: The Aqua Veil bestows temporary hit points equal to the Genasi's current level plus their \[PROF\] bonus. 
 - **Damage Resistance**: The veil offers resistance against ranged attacks, reducing the inflicted damage by 50%.
 - **Fire Immunity**: While the temporary hit points persist, the Genasi gains immunity to fire damage.
 
-Additionally, when a target within 10 feet of the Genasi, the Genasi can, as a bonus action, expend up to 1 Essence to cast "Aquatic Healing" on that target. 
+Additionally, when a target is within 10 feet of the Genasi, the Genasi can, as a bonus action, expend up to 1 Essence to cast "Tidal Restoration" on that target as
 
 ## Level 5 - Torrent Lash (3 Essence)
 Drawing upon their innate connection to water, the Genasi can summon a whip made of liquid currents, extending seamlessly from their arm.
