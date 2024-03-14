@@ -8,7 +8,7 @@ The period of time in which you can hold your breath is equal to your Level * \[
 Once per long rest, when you have access to a body of water of at least 5 cubic feet, you may summon a [[Kelpie]] as a companion. The kelpie lasts for 8 hours or until it decides to leave. The Kelpie will flee if it feels endangered and will not enter areas with a warm climate.
 
 ## Level 2 - Tidal Restoration (1-5 Essence)
-When in contact with water, you can draw upon it's healing properties to regenerate health. If the water is connected to, and within a mile of an ocean, an additional 10 health is recovered.
+When in contact with water, you can draw upon it's healing properties to regenerate health. An additional 10 health is recovered if the water is connected to and within a mile of an ocean.
 
 As an action, the Genasi can recover their own health or the health of a target within 15ft, see the table below.
 
