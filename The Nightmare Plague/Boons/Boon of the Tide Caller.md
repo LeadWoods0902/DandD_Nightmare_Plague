@@ -25,12 +25,11 @@ As an action, the Genasi can recover their own health or the health of a target 
 ## Level 3 - Tidal Jet (2-5 Essence)
 The Genasi can shoot a concentrated jet of water as a ranged attack.
 
-As an action, the Genasi can focus their essence to unleash a "Hydro Jet", propelling a forceful stream of water toward a target. The attack inflicts damage and exerts a formidable push, potentially toppling adversaries.
+As an action, the Genasi can focus their essence to unleash a "Tidal Jet", propelling a forceful stream of water toward a target. The attack inflicts damage and exerts a formidable push, potentially toppling adversaries.
 - **Force Damage**: The Hydro Jet inflicts Ed6 force damage
-- **Knockback**: Additionally, the force of the Hydro Jet initiates a knockback effect. The target must make a Strength saving throw (DC 8 + Genasi's proficiency bonus + Genasi's Constitution modifier).
+- **Knockback**: Additionally, the force of the Hydro Jet initiates a knockback effect. The target must make a Strength saving throw (DC 8 + \[PROF\] + \[STR\]).
 	- On a failed saving throw, the target is pushed back up to 15ft. If they collide with a solid object, they take an additional Ed4 force damage
 	- On a successful saving throw, the target withstands the force, avoiding being knocked back
-
 
 ## Level 4 - Cascade Cloak (2 Essence)
 The Genasi learns to manipulate water defensively, creating a protective barrier.
