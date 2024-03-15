@@ -4,6 +4,10 @@ The Genasi gains enhanced mobility while moving in adverse weather conditions (h
 Additionally, the Genasi's affinity with lightning grants them advantage on saving throws to resist lightning and thunder damage
 
 The Genasi can manipulate electrical energy within a range of 30ft, enabling them to redirect and disperse energy. Additionally, the Genasi's melee strikes become electrically charged dealing 1d4 lightning damage
+
+## Lightning Strikes
+![[Pasted image 20240315115445.png]]
+
 ## Level 2 - Thunder Bolt (1 Essence)
 The Genasi gains the ability to throw bolts of lightning.
 
