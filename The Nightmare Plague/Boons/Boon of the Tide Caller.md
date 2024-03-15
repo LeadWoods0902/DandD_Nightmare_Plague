@@ -1,3 +1,4 @@
+![[BoonOfTheTideCaller.png]]
 *E* represents the number of Essence spent
 ## Level 1 - Oceanic Affinity (Passive)
 You gain enhanced mobility in water, allowing you to swim with increased speed equal to double your normal movement speed
