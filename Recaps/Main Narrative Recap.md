@@ -38,7 +38,7 @@ Path of the Beast Barbarian
 Earth Genasi
 # Important NPCs
 ## Elaine Gjalla
-Close-Friend and aide to The Mistress of Brokvar; you first met 
+Close-Friend and aide to The Mistress of Brokvar; Elaine was set to meet Chancellor Sturgis, his daughter and their escort Duska
 ## Mistress
 ## Ven-Dryk
 ## Father Naestor
