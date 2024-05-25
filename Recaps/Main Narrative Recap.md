@@ -53,7 +53,7 @@ Human
 A seemingly important lady of Brokvar, her connection to the city and its people is murky but she seems to hold power over those around her.
 Her true identity is seemingly unknown to all but herself, her reasons for doing so equally obscured
 ### Highlights
-Her first meeting with the party was brief; however, she seemingly had the ability to see right through each member, identifying their problems as if pre-inclined to their plights. 
+Her first meeting with the party was brief; however, she seemingly had the ability to see right through each member, identifying their problems as if pre-inclined to their plights. During the night, she was taken busy with an emergency meeting and was hence pre-disposed for the following days. Upon her return, she 
 ### Class
 Unknown
 ### Race
