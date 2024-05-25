@@ -38,7 +38,7 @@ Path of the Beast Barbarian
 Earth Genasi
 # Important NPCs
 ## Elaine Gjalla
-Close-Friend and 
+Close-Friend and aide to The Mistress of Brokvar; you first met 
 ## Mistress
 ## Ven-Dryk
 ## Father Naestor
