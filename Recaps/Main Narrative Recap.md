@@ -111,7 +111,7 @@ Human
 ### Race
 ## Owain Moss
 ### Description
-The lord of the Mossiet Duchy & Commander of the border guard. Owain
+The lord of the Mossiet Duchy & Commander of the border guard. Owain, militarily, ranks only second the highest commanders of the city guard: chiefly
 ### Highlights
 ### Class
 A variant of fighter
