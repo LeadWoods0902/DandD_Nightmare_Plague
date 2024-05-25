@@ -111,15 +111,20 @@ Human
 ### Race
 ## Owain Moss
 ### Description
+The lord of the Mossiet Duchy & Commander of the border guard. Owain
 ### Highlights
 ### Class
+A variant of fighter
 ### Race
+Human
 ## Ceinwen Moss
 ### Description
-The son of Owain Moss, a seemingly brash young lad with an aptitude for combart
+The son of Owain Moss, a seemingly brash young lad with an aptitude for combat & leadership
 ### Highlights
 ### Class
+A variant of fighter
 ### Race
+Human
 
 # Notable "plot hooks"
 # Notable Items
