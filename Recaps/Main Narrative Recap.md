@@ -49,6 +49,14 @@ Storm Sorcerer
 ### Race
 Human
 ## Mistress
+### Description
+
+### Highlights
+
+### Class
+Unknown
+### Race
+Human
 ## Ven-Dryk
 ## Father Naestor
 ## Gus Grinkelstein
