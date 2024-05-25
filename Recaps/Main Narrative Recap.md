@@ -100,13 +100,14 @@ Known amongst the commoners of the city as the Warden of Brokvar, Niahl was pivo
 ### Highlights
 ### Class
 ### Race
-## Chancellor Sturgis
+## Osman Sturgis
 ### Description
 ### Highlights
 ### Class
 ### Race
 ## Hinelle
 ### Description
+The daughter of the cha Sturgis
 ### Highlights
 ### Class
 ### Race
@@ -114,7 +115,7 @@ Known amongst the commoners of the city as the Warden of Brokvar, Niahl was pivo
 ### Description
 The lord of the Mossiet Duchy & Commander of the border guard. Owain, militarily, ranks only second to Commander Niahl, the pair seemingly share a conflicted history.
 
-Owain appears to be an older man but still retains an air of youthful 
+Owain appears to be an older man but still retains an air of youthful vigour.
 ### Highlights
 ### Class
 A variant of fighter
