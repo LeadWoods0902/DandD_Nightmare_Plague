@@ -43,10 +43,15 @@ Earth Genasi
 # Important NPCs
 ## Elaine Gjalla
 ## Mistress
+## Ven-Dryk
 ## Father Naestor
 ## Gus Grinkelstein
 ## Jarae of Luthbarra
 ## The Olostina Twins
+## Napella Lundgren
+## Niahl
+## Owain Moss
+
 
 # Notable "plot hooks"
 # Notable Items
