@@ -90,7 +90,7 @@ Human
 ### Race
 ## Niahl
 ### Description
-Known amongst the commoners of the city as the Warden of Brokvar, Niahl was pivotal in the reclamation of the city from Ym
+Known amongst the commoners of the city as the Warden of Brokvar, Niahl was pivotal in the reclamation of the city from Ymerodrine forces.
 ### Highlights
 ### Class
 ### Race
@@ -113,6 +113,8 @@ Known amongst the commoners of the city as the Warden of Brokvar, Niahl was pivo
 ## Owain Moss
 ### Description
 The lord of the Mossiet Duchy & Commander of the border guard. Owain, militarily, ranks only second to Commander Niahl, the pair seemingly share a conflicted history.
+
+Owain appears to be an older man but still retains an air of youthful 
 ### Highlights
 ### Class
 A variant of fighter
