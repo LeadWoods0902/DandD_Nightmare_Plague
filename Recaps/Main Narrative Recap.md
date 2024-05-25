@@ -14,7 +14,13 @@ Land Druid
 ### Race
 Earth Genasi
 
-## Mazikeen ... (Aime)
+## Mazikeen ...
+### Played by
+Aime
+### Class
+Soul-Reaper Barbarian
+### Race
+Elf
 ## Rolbam/ Seram/ Malkath/ Stronvan (Tom)
 ## Duska Von Mori(Marta)
 
