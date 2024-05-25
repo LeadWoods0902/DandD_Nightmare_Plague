@@ -21,8 +21,20 @@ Aime
 Soul-Reaper Barbarian
 ### Race
 Elf
-## Rolbam/ Seram/ Malkath/ Stronvan (Tom)
-## Duska Von Mori(Marta)
+## Rolbam/ Seram/ Malkath/ Stronvan
+### Played by
+Tom
+### Class
+Wizard/ Rogue/ Warlock/ Paladin
+### Race
+Elf
+## Duska Von Mori
+### Played by
+Marta
+### Class
+Soul-Reaper Barbarian
+### Race
+Elf
 
 ## Bismuth Shatterborne (Brannon)
 List each character with their:
