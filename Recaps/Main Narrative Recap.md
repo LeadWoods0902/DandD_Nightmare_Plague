@@ -25,23 +25,24 @@ Elf
 ### Played by
 Tom
 ### Class
-Wizard/ Rogue/ Warlock/ Paladin
+___ Wizard/ ___ Rogue/ ___ Warlock/ ___ Paladin
 ### Race
-Elf
+Human
 ## Duska Von Mori
 ### Played by
 Marta
 ### Class
-Soul-Reaper Barbarian
+Death Cleric
 ### Race
 Elf
 
-## Bismuth Shatterborne (Brannon)
-List each character with their:
-Name
-Class & Level
-Race
-Player
+## Bismuth Shatterborne
+### Played by
+Brannon
+### Class
+Path of the Beast Bar
+### Race
+Elf
 
 # Important NPCs
 
