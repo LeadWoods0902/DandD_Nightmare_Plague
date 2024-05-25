@@ -13,8 +13,7 @@ Quinn
 Land Druid
 ### Race
 Earth Genasi
-
-## Mazikeen ...
+## Mazikeen ..
 ### Played by
 Aime
 ### Class
@@ -35,14 +34,12 @@ Marta
 Death Cleric
 ### Race
 Elf
-
 ## Bismuth Shatterborne
 ### Played by
 Brannon
 ### Class
-Path of the Beast Bar
+Path of the Beast Barbarian
 ### Race
-Elf
-
+Earth Genasi
 # Important NPCs
 
