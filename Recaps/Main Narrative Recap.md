@@ -51,6 +51,9 @@ Earth Genasi
 ## Napella Lundgren
 ## Niahl
 ## Owain Moss
+## Nomli Gurglegum
+## Chancellor Sturgis
+## Hinelle
 
 
 # Notable "plot hooks"
