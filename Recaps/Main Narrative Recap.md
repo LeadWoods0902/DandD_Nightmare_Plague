@@ -50,7 +50,7 @@ Storm Sorcerer
 Human
 ## Mistress
 ### Description
-
+A seemingly important lady of Brokvar, her connection to the city and its people is murky but she seems to hold power over those around.
 ### Highlights
 
 ### Class
