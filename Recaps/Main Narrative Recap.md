@@ -4,7 +4,6 @@ Recent Events:
 Detail significant events from the last few sessions before the hiatus.
 Current Quest/Mission:
 Describe the primary objective the party was working on.
-
 # Party Information
 ## Jasper Shatterborne
 ### Played by
@@ -42,4 +41,13 @@ Path of the Beast Barbarian
 ### Race
 Earth Genasi
 # Important NPCs
+##
+# Notable "plot hooks"
+# Notable Items
+# Rules & House Rules
+
+## Key Mechanics
+
+## House Rules
+
 
