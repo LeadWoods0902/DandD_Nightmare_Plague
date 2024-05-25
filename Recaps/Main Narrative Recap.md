@@ -90,6 +90,7 @@ Human
 ### Race
 ## Niahl
 ### Description
+Known amongst the commoners of the city as the Warden of Brokvar, Niahl was pivotal in the reclamation of the city from Ym
 ### Highlights
 ### Class
 ### Race
