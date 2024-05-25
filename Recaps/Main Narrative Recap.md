@@ -53,7 +53,7 @@ Human
 A seemingly important lady of Brokvar, her connection to the city and its people is murky but she seems to hold power over those around her.
 Her true identity is seemingly unknown to all but herself, her reasons for doing so equally obscured
 ### Highlights
-Her first meeting with the party was brief; however, she seemingly had the ability to see right through each member, identifying their problems as if pre-inclined to their plights. During the night, she was taken busy with an emergency meeting and was hence pre-disposed for the following days. Upon her return, she met with the party again (well, the , suggesting that they partake in the mayoral campaign happening later in the day. 
+Her first meeting with the party was brief; however, she seemingly had the ability to see right through each member, identifying their problems as if pre-inclined to their plights. During the night, she was taken busy with an emergency meeting and was hence pre-disposed for the following days. Upon her return, she met with the party again (well, the party interrupted her meeting with the Moss family), suggesting that they partake in the mayoral campaign happening later in the day. 
 ### Class
 Unknown
 ### Race
@@ -70,6 +70,10 @@ Human
 ## Chancellor Sturgis
 ## Hinelle
 ## Ceinwen Moss
+### Description
+### Highlights
+### Class
+### Race
 
 # Notable "plot hooks"
 # Notable Items
