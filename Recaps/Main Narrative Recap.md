@@ -102,12 +102,13 @@ Known amongst the commoners of the city as the Warden of Brokvar, Niahl was pivo
 ### Race
 ## Osman Sturgis
 ### Description
+A chancellor of the Sunmaekean empire, 
 ### Highlights
 ### Class
 ### Race
 ## Hinelle
 ### Description
-The daughter of the chancellor Osman Sturgis, Hinelle is a recognised member of the church, holding the title "gench-kisi" - a
+The daughter of the chancellor Osman Sturgis, Hinelle is a recognised member of the church, holding the title "günes kizi"
 ### Highlights
 ### Class
 ### Race
