@@ -59,18 +59,64 @@ Unknown
 ### Race
 Human
 ## Ven-Dryk
+### Description
+### Highlights
+### Class
+### Race
 ## Father Naestor
+### Description
+### Highlights
+### Class
+### Race
 ## Gus Grinkelstein
+### Description
+### Highlights
+### Class
+### Race
 ## Jarae of Luthbarra
+### Description
+### Highlights
+### Class
+### Race
 ## The Olostina Twins
+### Description
+### Highlights
+### Class
+### Race
 ## Napella Lundgren
+### Description
+### Highlights
+### Class
+### Race
 ## Niahl
-## Owain Moss
+### Description
+### Highlights
+### Class
+### Race
+
 ## Nomli Gurglegum
+### Description
+### Highlights
+### Class
+### Race
 ## Chancellor Sturgis
+### Description
+### Highlights
+### Class
+### Race
 ## Hinelle
+### Description
+### Highlights
+### Class
+### Race
+## Owain Moss
+### Description
+### Highlights
+### Class
+### Race
 ## Ceinwen Moss
 ### Description
+The son of Owain Moss, a seemingly brash young lad with an aptitude for combart
 ### Highlights
 ### Class
 ### Race
