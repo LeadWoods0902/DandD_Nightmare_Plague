@@ -44,9 +44,10 @@ Close-Friend and aide to The Mistress of Brokvar.
 Elaine was sent to meet Chancellor Sturgis, his daughter and their companion Duska Von Mori in Virmarr to escort them safely to the capital. But after a series of chance encounters, Elaine returned to Brokvar with more than was bargained for: with the amnesiac, the enslaved and the broken minded in tow, Elaine returned to her Mistress.
 
 Elaine is a competent fighter, seemingly capable of commanding the elements around her: during an encounter with a gravolith, Elaine summoned a swirling wind to protect Sturgis & Hinelle and a large bolt of lightning which she skilfully struck the discovered weak-point of the gravolith with.
-
 ### Class
 Storm Sorcerer
+### Race
+Human
 ## Mistress
 ## Ven-Dryk
 ## Father Naestor
