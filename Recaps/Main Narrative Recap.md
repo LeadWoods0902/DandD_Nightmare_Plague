@@ -54,7 +54,7 @@ Earth Genasi
 ## Nomli Gurglegum
 ## Chancellor Sturgis
 ## Hinelle
-
+## Ceinwen Moss
 
 # Notable "plot hooks"
 # Notable Items
