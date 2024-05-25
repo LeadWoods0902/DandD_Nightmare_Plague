@@ -44,7 +44,10 @@ Earth Genasi
 ## Elaine Gjalla
 ## Mistress
 ## Father Naestor
-## Gus Grinkelst
+## Gus Grinkelstein
+## Jarae of Luthbarra
+## The Olostina Twins
+
 # Notable "plot hooks"
 # Notable Items
 # Rules & House Rules

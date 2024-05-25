@@ -1,3 +1,3 @@
-Owned by [[Jarae of Luthbra]]
+Owned by [[Jarae of Luthbarra]]
 
 Staffed by: [[Warren Hengerlin]]

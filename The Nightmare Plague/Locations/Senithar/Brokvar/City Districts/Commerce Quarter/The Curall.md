@@ -1,1 +1,1 @@
-A small medical store ran by the herbalist and alchemist [[Jarae of Luthbra]]. 
+A small medical store ran by the herbalist and alchemist [[Jarae of Luthbarra]]. 
