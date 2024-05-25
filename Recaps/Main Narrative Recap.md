@@ -39,7 +39,7 @@ Earth Genasi
 # Important NPCs
 ## Elaine Gjalla
 ### Description
-Close-Friend and aide to The Mistress of Brokvar. Elaine seems to be well known and respeamongst the community as the mistress' aide as 
+Close-Friend and aide to The Mistress of Brokvar. Elaine seems to be well known and respected amongst the community.
 ### Highlights
 Elaine was sent to meet Chancellor Sturgis, his daughter and their companion Duska Von Mori in Virmarr to escort them safely to the capital. But after a series of chance encounters, Elaine returned to Brokvar with more than was bargained for: with the amnesiac, the enslaved and the broken minded in tow, Elaine returned to her Mistress.
 
@@ -51,8 +51,9 @@ Human
 ## Mistress
 ### Description
 A seemingly important lady of Brokvar, her connection to the city and its people is murky but she seems to hold power over those around her.
+Her true identity is seemingly unknown to all but herself, her reasons for doing so equally obscured
 ### Highlights
-
+Her first meeting with the party was b
 ### Class
 Unknown
 ### Race
