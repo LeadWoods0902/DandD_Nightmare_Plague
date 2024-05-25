@@ -102,7 +102,7 @@ Known amongst the commoners of the city as the Warden of Brokvar, Niahl was pivo
 ### Race
 ## Osman Sturgis
 ### Description
-A chancellor of the Sunmaekean empire, 
+A chancellor of the Sunmaekean empire, Sturgis has travelled to Brokvar to represent the interests of 
 ### Highlights
 ### Class
 ### Race
