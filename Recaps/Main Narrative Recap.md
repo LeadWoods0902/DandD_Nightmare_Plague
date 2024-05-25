@@ -41,7 +41,10 @@ Path of the Beast Barbarian
 ### Race
 Earth Genasi
 # Important NPCs
-##
+## Elaine Gjalla
+## Mistress
+## Father Naestor
+## Gus Grinkelst
 # Notable "plot hooks"
 # Notable Items
 # Rules & House Rules
