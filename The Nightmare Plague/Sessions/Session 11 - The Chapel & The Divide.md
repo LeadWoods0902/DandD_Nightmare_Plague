@@ -14,7 +14,7 @@
 		- [ ] Niahl commands troops into formations
 		- [ ] Elaine summons a great bolt of lightning
 		- [ ] Ven-Dryk attacks with Void Cleaver
-		- [ ] The 
+		- [ ] The Smoke Constructs kidnap Father Naestor
 
 
 "I, Ven-Dryk Ashahalla, Warden of Brokvar, charge you with the honour of defending this country..."
