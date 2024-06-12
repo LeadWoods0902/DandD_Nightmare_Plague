@@ -10,7 +10,8 @@
 			- Letters sealed with a golden wax
 				- unbroken, stamped with an eye symbol
 				- written in an unknown script (Sunmaekean)
-			- 
+	- [ ] Should Duska see the symbol or script, history check can be made
+		- Symbol belongs to the Luminary Consortium
 - [ ] The group convene in the Divide
 	- [ ] Listen to the speeches
 		- [ ] Ven-Dryk
