@@ -7,7 +7,8 @@
 		- [ ] The two disappear down the corridor 
 	- [ ] Should Jasper sneakily follow the pair or locate the office
 		- [ ] Find:
-			- Letters sealed with a golden eye - written in an unknown script
+			- Letters sealed with a golden wax
+				- unbroken, stamped with an eye symbol
 			- 
 - [ ] The group convene in the Divide
 	- [ ] Listen to the speeches
