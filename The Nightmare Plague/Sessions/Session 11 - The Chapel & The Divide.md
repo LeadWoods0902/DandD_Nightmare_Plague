@@ -9,7 +9,7 @@
 		- [ ] Find:
 			- Letters sealed with a golden wax
 				- unbroken, stamped with an eye symbol
-				- written in an unknown script (Sunmaekean)
+				- written in an unknown script (Arzaen)
 	- [ ] Should Duska see the symbol or script, history check can be made
 		- Symbol belongs to the Luminary Consortium
 		- Script bares resemblance to texts recovered from Arzaen Ruins
