@@ -9,6 +9,7 @@
 		- [ ] Find:
 			- Letters sealed with a golden wax
 				- unbroken, stamped with an eye symbol
+				- written in an unknown script (Sunmaekean)
 			- 
 - [ ] The group convene in the Divide
 	- [ ] Listen to the speeches
