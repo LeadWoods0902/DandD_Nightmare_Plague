@@ -12,7 +12,7 @@
 				- written in an unknown script (Sunmaekean)
 	- [ ] Should Duska see the symbol or script, history check can be made
 		- Symbol belongs to the Luminary Consortium
-		- Script bares resemblance to texts recovered from
+		- Script bares resemblance to texts recovered from Arzaen Ruins
 - [ ] The group convene in the Divide
 	- [ ] Listen to the speeches
 		- [ ] Ven-Dryk
