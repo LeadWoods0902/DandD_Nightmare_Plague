@@ -6,7 +6,8 @@
 		- [ ] The hooded figure looks out over the room and Jasper feels enthralled by the character's presence
 		- [ ] The two disappear down the corridor 
 	- [ ] Should Jasper sneakily follow the pair or locate the office
-		- [ ] Find documents stamped with a golden eye - written in code
+		- [ ] Find documents stamped with a golden eye - written in an unknown script
+		- [ ] Find a 
 - [ ] The group convene in the Divide
 	- [ ] Listen to the speeches
 		- [ ] Ven-Dryk
