@@ -3,6 +3,8 @@
 		- [ ] Brown cloak, face obscured in shadow
 		- [ ] Golden brooch pinning their cloak up
 		- [ ] A small parcel is handed to Naestor and tucked in his robe
+		- [ ] The hooded figure looks out over the room and Jasper feels enthralled by the character's 
+		- [ ] The two disappear down the corridor 
 	- [ ] 
 		- [ ] Find documents stamped with a golden eye - written in code
 - [ ] The group convene in the Divide
