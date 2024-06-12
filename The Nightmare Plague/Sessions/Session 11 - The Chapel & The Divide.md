@@ -2,7 +2,7 @@
 	- [ ] Jasper sees a hooded character talking to Father Naestor on the balcony
 		- [ ] Brown cloak, face obscured in shadow
 		- [ ] Golden brooch pinning their cloak up
-		- [ ] A small parcel is handed to Naestor and tucked in his robe
+		- [ ] A small parcel is handed to Naestor and tucked in his robe, "let us retire to my chambers, where we might discuss this in greater p
 		- [ ] The hooded figure looks out over the room and Jasper feels enthralled by the character's presence
 		- [ ] The two disappear down the corridor 
 	- [ ] 
