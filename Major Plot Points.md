@@ -22,8 +22,7 @@ Brokvar, lead by [[Marquella Lundgren]] supports Esgid in the war
 # 1750s
 ## 1753
 #### Duska's Story (104)
-[[Duska Von Mori|Duska]] Discovers Mortos' Tome and swears fealty to [[Mortos]], gaining the tiu
-
+[[Duska Von Mori|Duska]] Discovers Mortos' Tome and swears fealty to [[Mortos]], rising to the rank of master librarian
 ## 1759
 #### Duska's Story  (110)
 Duska recovers Omen
