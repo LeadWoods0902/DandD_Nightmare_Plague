@@ -48,8 +48,6 @@ Duska recovers Omen
 ## 1760
 #### Mazikeen's Story (0)
 Mazikeen is born to Lucius and Lilith Crestwood - the lord and lady of Woodfall
-
-
 ## 1762
 
 #### Circe's Story (0)
@@ -57,25 +55,14 @@ Circe is a born to Napella out of wedlock - (Father Calidian)
 ## 1768
 #### The Genasi Twin's Story (0)
 Bismuth and Jasper are born
-
 # 1770s
-
 ## insert in 1770-1790 
-
 #### Calidian's Story
 Calidian is on the war path and going slightly insane - goes to war with the rest of Senithar, leading to a civil war.
-
 Napella attempts to end the war by launching an assault on the royal palace using a new weapon, Napalm.
-
 The capital is destroyed and Vivienne dies along with Fenian's older brother who was set to be the emperor after his Father.
-
 Enraged, Calidian goes to Brokvar in person and launches a siege on the capital. See The Butchering of Brokvar
-
-...
-
 Several years of empirical rule plague Senithar
-
-
 ## 1771
 
 #### Ven-Dryk's Story (86)
