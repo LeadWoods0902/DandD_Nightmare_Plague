@@ -12,7 +12,7 @@ A war breaks out between Llawyr un Mawr and Esgid
 ## 1626
 Brokvar, lead by [[Marquella Lundgren]] supports Esgid in the war
 ## 1628
-[[Rolbam Eins]] opens a rift
+[[Rolbam Eins]] opens a rift between the planes, the military force of Llawyr un Mawr
 # 1640s
 ## 1649
 Duska Halloni is born
