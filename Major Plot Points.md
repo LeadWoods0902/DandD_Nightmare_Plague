@@ -10,16 +10,11 @@ Nëoris dies and a tree begins to grow nearby
 ## 1623
 A war breaks out between Llawyr un Mawr and Esgid
 ## 1626
-Marquella supports Esgid in the war
-
+Brokvar, lead by [[Marquella Lundgren]] supports Esgid in the war
 ## 1628
-
-#### Rolbam's Story
-Rolbam
-
+[[Rolbam Eins]] contributes something significant to the war
 # 1640s
 ## 1649
-#### Duska's Story (0)
 Duska Halloni is born
 # 1650s
 ## 1653
