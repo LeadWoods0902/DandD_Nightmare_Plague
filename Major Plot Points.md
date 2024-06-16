@@ -67,7 +67,6 @@ Several years of empirical rule plague Senithar
 
 #### Ven-Dryk's Story (86)
 Ven-Dryk comes to Brokvar and an affair begins between him and Napella
-
 #### Napella's Story (58)
 Napella enters an affair with the foreign consort Ven-Dryk
 
