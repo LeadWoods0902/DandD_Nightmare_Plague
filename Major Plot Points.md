@@ -26,8 +26,7 @@ Brokvar, lead by [[Marquella Lundgren]] supports Esgid in the war
 [[Duska Von Mori|Duska]] recovers [[Omen]] from an ancient Arzaen Crypt
 # 1760s
 ## 1760
-#### Mazikeen's Story (0)
-Mazikeen is born to Lucius and Lilith Crestwood - the lord and lady of Woodfall
+[[Mazikeen Crestwood]] is born to [[Lucius Crestwood]] and [[Lilith Crestwood]]
 ## 1762
 
 #### Circe's Story (0)
