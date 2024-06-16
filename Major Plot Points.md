@@ -15,16 +15,14 @@ Brokvar, lead by [[Marquella Lundgren]] supports Esgid in the war
 [[Rolbam Eins]] opens a rift between the planes, the military force of Llawyr un Mawr is transported to another plane.
 # 1640s
 ## 1649
-[[Duska Von Mori]] is born
+[[Duska Von Mori|Duska Halloni]] is born
 # 1710s
 ## 1713
-Napella is born
+[[Napella Lundgren]] is born
 # 1750s
 ## 1753
 #### Duska's Story (104)
-Duska Discovers Mortos' Tome and swears fealty to Mortos.
-
-Duska is granted the title of Master Librarian
+[[Duska Von Mori|Duska]] Discovers Mortos' Tome and swears fealty to [[Mortos]], gaining the tiu
 
 ## 1759
 #### Duska's Story  (110)
