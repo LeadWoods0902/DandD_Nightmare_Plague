@@ -1,20 +1,15 @@
 # Outside of known time
 
 #### Musoko's Story
-Musoko, being hunted by Soromo, cast his soul into a crystal and cast it to the wind - the crystal is lost to time
+Musoko, being hunted by Soromo, cast his soul into a crystal and the crystal is lost to time
 #### Olum's Story
 
 #### Nëoris' Story
 Nëoris dies and a tree begins to grow nearby
 # 1620s
 ## 1623
-
-#### Rolbam's Story
 A war breaks out between Llawyr un Mawr and Esgid
-
 ## 1626
-
-#### Marquella's Story
 Marquella supports Esgid in the war
 
 ## 1628
