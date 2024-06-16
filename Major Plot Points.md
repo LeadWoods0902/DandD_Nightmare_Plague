@@ -30,7 +30,6 @@ Brokvar, lead by [[Marquella Lundgren]] supports Esgid in the war
 ## 1762
 Circe is a born to Napella out of wedlock - (Father Calidian)
 ## 1768
-#### The Genasi Twin's Story (0)
 Bismuth and Jasper are born
 # 1770s
 ## insert in 1770-1790 
@@ -41,12 +40,7 @@ The capital is destroyed and Vivienne dies along with Fenian's older brother who
 Enraged, Calidian goes to Brokvar in person and launches a siege on the capital. See The Butchering of Brokvar
 Several years of empirical rule plague Senithar
 ## 1771
-
-#### Ven-Dryk's Story (86)
 Ven-Dryk comes to Brokvar and an affair begins between him and Napella
-#### Napella's Story (58)
-Napella enters an affair with the foreign consort Ven-Dryk
-
 ## 1777
 #### Mazikeen's Story (17)
 Mazikeen is sent to the courts of Young Duchess Roderika to serve as a lady of the court after her father leaves for war
