@@ -12,14 +12,10 @@ A war breaks out between Llawyr un Mawr and Esgid
 ## 1626
 Brokvar, lead by [[Marquella Lundgren]] supports Esgid in the war
 ## 1628
-[[Rolbam Eins]] contributes something significant to the war
+[[Rolbam Eins]] opens a rift
 # 1640s
 ## 1649
 Duska Halloni is born
-# 1650s
-## 1653
-#### Rolbam's Story
-Rolbam dies in a magical experiment gone awry, transforming him into a gravitational anomaly that imploded.
 # 1710s
 ## 1713
 #### Napella's Story (0)
