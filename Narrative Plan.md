@@ -1,2 +1,6 @@
 ### Chapter 1
-The party are bro
+The party are brought together by chance, 
+
+
+
+### General Points
