@@ -28,8 +28,6 @@ Brokvar, lead by [[Marquella Lundgren]] supports Esgid in the war
 ## 1760
 [[Mazikeen Crestwood]] is born to [[Lucius Crestwood]] and [[Lilith Crestwood]]
 ## 1762
-
-#### Circe's Story (0)
 Circe is a born to Napella out of wedlock - (Father Calidian)
 ## 1768
 #### The Genasi Twin's Story (0)
