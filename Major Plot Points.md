@@ -12,13 +12,12 @@ A war breaks out between Llawyr un Mawr and Esgid
 ## 1626
 Brokvar, lead by [[Marquella Lundgren]] supports Esgid in the war
 ## 1628
-[[Rolbam Eins]] opens a rift between the planes, the military force of Llawyr un Mawr
+[[Rolbam Eins]] opens a rift between the planes, the military force of Llawyr un Mawr is transported to another plane.
 # 1640s
 ## 1649
-Duska Halloni is born
+[[Duska Von Mori]] is born
 # 1710s
 ## 1713
-#### Napella's Story (0)
 Napella is born
 # 1750s
 ## 1753
