@@ -23,7 +23,7 @@ Brokvar, lead by [[Marquella Lundgren]] supports Esgid in the war
 ## 1753
 [[Duska Von Mori|Duska]] Discovers Mortos' Tome and swears fealty to [[Mortos]], rising to the rank of [[Master Epistemethereute]]
 ## 1759
-[[Duska Von Mori|Duska]] recovers [[Om,
+[[Duska Von Mori|Duska]] recovers [[Omen]] from an ancient Arzaen Crypt
 # 1760s
 ## 1760
 #### Mazikeen's Story (0)
