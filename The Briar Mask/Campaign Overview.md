@@ -10,3 +10,5 @@
 #### Session 3 - The Breaking of the Bonds
 #### Session 4 - Shadows in the Forest
 #### Session 5 - The Forgotten Mine
+The Erehdehl are opera a counterfeiting operation, the duo accidentally stumble
+#### Session 6 - Political Intrigue
