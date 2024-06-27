@@ -8,7 +8,7 @@
 #### Case 1 - Break the Chain
 Jasper & Bismuth leave home
 #### Case 2 - Forest of Shadows
-The duo come across a village plagued by beasts that prowl the town at night, they call upon the travelling duo to seek 
+The duo come across a village plagued by beasts that prowl the town at night, they call upon the travelling duo to scare the beasts back into the forest 
 #### Case 3 - The Plight of Hayatsuyu
 The fields of Hayatsuyu have gone barren over the course of a week, fearing a plague the locals call upon Jasper after his arrival in town. A secret plot of the Erehdehl to ravage the capital's primary food grower
 #### Case 4 - The Breaking of the Bonds
