@@ -5,9 +5,9 @@
 
 
 ### Session Overview
-#### Case 1 - The Bonds of Yamanohana
+#### Case 1 - Break the Chain
 Jasper & Bismuth leave home
-#### Case 2 - The Shadows of Harukaze
+#### Case 2 - Forest of Shadows
 The duo come across a village plagued by beasts that prowl the forests at night
 #### Case 3 - The Plight of Hayatsuyu
 #### Case 4 - The Breaking of the Bonds
