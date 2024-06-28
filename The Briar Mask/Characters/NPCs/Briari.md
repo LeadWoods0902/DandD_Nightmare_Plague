@@ -2,17 +2,16 @@
 [[Briari_FullArt.jpg]]]
 
 ---
-
 ### Character Info
 
 ##### Name 
-Jarae
+Briari
 
 ##### Current Age
 Unknown
 
 ##### Place of Origin
-[[Brokvar (Country)|Brokvar]]
+***TBC***
 ##### Family
 Unknown
 
