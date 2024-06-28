@@ -1,1 +1,1 @@
-An ancient Centauri Artifact, rumoured to have been once worn by the leader of the Briari brigadiers, a Centa
+An ancient Centauri Artifact, rumoured to have been once worn by The Briari Brigadier, a Centauri warlord that swept across the continent, toppling nations with 
