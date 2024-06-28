@@ -1,1 +1,1 @@
-An ancient Centauri Artifact, rumourde t
+An ancient Centauri Artifact, rumoured to grant it's wearer the ability to see the future
