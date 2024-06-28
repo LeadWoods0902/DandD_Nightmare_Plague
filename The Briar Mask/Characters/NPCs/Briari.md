@@ -1,46 +1,33 @@
 ![[Briari_Token.png]]
-[[Briari_FullArt.jpg]]]
+[[Briari_FullArt.jpg]]
 
 ---
 ### Character Info
-
 ##### Name 
 Briari
-
 ##### Current Age
-Unknown
-
+***TBC***
 ##### Place of Origin
 ***TBC***
 ##### Family
-Unknown
-
+***TBC***
 ##### Race
-Satyr
-
+Centauri
 ##### Class
-Spore Druid
 
 ##### Alignment
-Unknown
-
+***TBC***
 ##### Personality Traits
-Unknown
-
+***TBC***
 ##### Long Term Goals
-Unknown
-
+***TBC***
 ##### Secondary Goals
-Unknown
-
+***TBC***
 ##### Motivations
-Unknown
-
+***TBC***
 ##### Flaws
-Unknown
-
+***TBC***
 ##### Affiliations
-Unknown
-
+***TBC***
 ### Notes
 A Centauri Warlord
