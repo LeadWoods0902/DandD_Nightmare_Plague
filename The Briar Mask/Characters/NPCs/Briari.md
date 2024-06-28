@@ -1,5 +1,5 @@
-![[The Briar Mask/Resources/Tokens/Jarae_Token.png]]
-[[Jarae_FullArt.jpg| Full Art]]
+![[Briari_Token.png]]
+[[Briari_FullArt.jpg]]]
 
 ---
 
