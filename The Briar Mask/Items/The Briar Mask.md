@@ -1,1 +1,1 @@
-An ancient Centauri Artifact, rumoured to grant it's wearer the ability to see the future
+An ancient Centauri Artifact, rumoured to have been once worn by the leader of the Briari brigadiers, a Centa
