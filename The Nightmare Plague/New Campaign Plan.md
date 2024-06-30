@@ -10,6 +10,7 @@
 - Owain & Niahl instruct the party to go with Ceinwen to the isle, and either attempt to blend in and glean information or if possible, kidnap or assassinate their leader, a largely unknown character, but possibly a black haired female. 
 - ...
 - The party are taken prisoner on the island, and Jasper is executed as a proof of intent.
-- Several months pass (Assuming the party don't instantly give in to the torture)
+- Eleven months pass, during which the party remain chained up in the depths of 
 	- During this time, Sturgis convinces the people of Brokvar to benefit from the support of Sunmaek
-		- A union between Sunmaek & Brokvar is negot
+		- A union between Sunmaek & Brokvar is negotiated, with Ven-Dryk & the other electives acting as representatives of Brokvar during negotiations. 
+		- Members of the 
