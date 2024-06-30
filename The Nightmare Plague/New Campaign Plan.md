@@ -4,5 +4,5 @@
 	- Feeling under threat, Musoko summons minions to defend them in their weakened state. 
 	- After realising the lack of threat Musoko escapes, taking the closest authority figure with them (Cpt. Nomli)
 - During the speeches, Musoko's Minions appear again, this time taking Father Naestor
-- The gang are recruited by Owain Moss to patrol the coast and protect villages from Reavers. 
-	- After a run in with a reaver gang
+- The party are recruited by Owain Moss to patrol the coast and protect villages from Reavers. 
+	- After a succesff
