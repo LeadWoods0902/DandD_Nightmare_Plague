@@ -13,4 +13,4 @@
 - Eleven months pass, during which the party remain chained up in the depths of 
 	- During this time, Sturgis convinces the people of Brokvar to benefit from the support of Sunmaek
 		- A union between Sunmaek & Brokvar is negotiated, with Ven-Dryk & the other electives acting as representatives of Brokvar during negotiations. 
-		- Members of the Sunmaek church travel to Brokvar and the city prospers under the 
+	- During this time Jasper, recovers from their injuries in the under-ocean city of the 
