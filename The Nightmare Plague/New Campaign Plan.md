@@ -13,4 +13,5 @@
 - Eleven months pass, during which the party remain chained up in the depths of 
 	- During this time, Sturgis convinces the people of Brokvar to benefit from the support of Sunmaek
 		- A union between Sunmaek & Brokvar is negotiated, with Ven-Dryk & the other electives acting as representatives of Brokvar during negotiations. 
-	- During this time Jasper, recovers from their injuries in the under-ocean city of the Cucumari & Tritonel
+	- During this time Jasper recovers from their injuries in the under-ocean city of the Cucumari & Tritonel
+		- Jasper may notice that Mazikeen's Trident may belong to the people of the ocean
