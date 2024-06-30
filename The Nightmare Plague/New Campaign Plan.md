@@ -5,4 +5,6 @@
 	- After realising the lack of threat Musoko escapes, taking the closest authority figure with them (Cpt. Nomli)
 - During the speeches, Musoko's Minions appear again, this time taking Father Naestor
 - The party are recruited by Owain Moss to patrol the coast and protect villages from Reavers. 
-	- After a succesff
+	- After successfully preventing an attack, the party take a hostage
+	- The party glean that the Reaver's are amassing on an island to the east
+- Owain & Niahl instruct the party to head to the island and 
