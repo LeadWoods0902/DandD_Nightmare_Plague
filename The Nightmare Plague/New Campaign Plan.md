@@ -8,3 +8,7 @@
 	- After successfully preventing an attack, the party take a hostage
 	- The party glean that the Reaver's are amassing on an island to the east
 - Owain & Niahl instruct the party to go with Ceinwen to the isle, and either attempt to blend in and glean information or if possible, kidnap or assassinate their leader, a largely unknown character, but possibly a black haired female. 
+- ...
+- The party are taken prisoner on the island, and Jasper is executed as a proof of intent.
+- Several months pass (Assuming the party don't instantly give in to the torture)
+- During this time, 
