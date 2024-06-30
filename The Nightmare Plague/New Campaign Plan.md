@@ -7,4 +7,4 @@
 - The party are recruited by Owain Moss to patrol the coast and protect villages from Reavers. 
 	- After successfully preventing an attack, the party take a hostage
 	- The party glean that the Reaver's are amassing on an island to the east
-- Owain & Niahl instruct the party to head to the island and 
+- Owain & Niahl instruct the party to go with Ceinwen to the isle, 
