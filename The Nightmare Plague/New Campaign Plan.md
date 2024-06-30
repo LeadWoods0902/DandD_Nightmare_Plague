@@ -11,4 +11,5 @@
 - ...
 - The party are taken prisoner on the island, and Jasper is executed as a proof of intent.
 - Several months pass (Assuming the party don't instantly give in to the torture)
-	- During this time, Sturgis convinces the people of Brokvar to benefit from the support of 
+	- During this time, Sturgis convinces the people of Brokvar to benefit from the support of Sunmaek
+		- A union between Sunmaek & Brokvar is negot
