@@ -2,7 +2,6 @@
 [[Jarae_FullArt.jpg| Full Art]]
 
 ---
-
 ### Character Info
 
 ##### Name 
