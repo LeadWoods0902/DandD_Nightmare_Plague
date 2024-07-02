@@ -5,4 +5,4 @@
 ### Name
 Hono-Kuma
 ### Class
-Warlock-Fighter
+Fighter - Fiend Warlock(1)

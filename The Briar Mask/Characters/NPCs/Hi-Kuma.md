@@ -6,5 +6,5 @@
 ### Name
 Hi-Kuma
 ### Class
-Conquest Paladin(9)-Warlock()
+Conquest Paladin(9) - Fiend Warlock(1)
 
