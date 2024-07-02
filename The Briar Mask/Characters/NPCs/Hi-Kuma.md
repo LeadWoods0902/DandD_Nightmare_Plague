@@ -3,3 +3,7 @@
 
 ---
 
+### Name
+Hi-Kuma
+### Class
+Paladin-Warlock
