@@ -1,2 +1,5 @@
 ![[Hi-Kuma_Token.png]]
-[[Koranga_guard_B.png]]
+[[Hi-Kuma_FullArt.png|Full Art]]
+
+---
+
