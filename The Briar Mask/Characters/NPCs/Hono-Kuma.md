@@ -5,4 +5,4 @@
 ### Name
 Hono-Kuma
 ### Class
-Fighter - Fiend Warlock(1)
+Echo Knight Fighter (9) - Fiend Warlock (1)
