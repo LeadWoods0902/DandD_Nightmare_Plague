@@ -85,6 +85,10 @@ You can move swiftly and tirelessly.
 
 Your movement speed increases by 10 feet, and you can Dash as a bonus action.
 
+##### Level 3: Tireless Tracker
+Your skills in tracking are unmatched.
+
+You gain advantage on Wisdom (Survival) checks to track creatures. Additionally, you can move stealthily at a normal pace while tracking creatures.
 ##### Level 7: Relentless Pursuit
 You are tireless in your pursuit of prey.
 
