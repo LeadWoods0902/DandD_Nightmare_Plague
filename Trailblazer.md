@@ -41,8 +41,12 @@ You start with the following equipment, in addition to the equipment granted by 
 Trailblazers can create subtle marks or signs to convey messages to others of their kind. These signs can indicate safe paths, hidden dangers, or the location of resources and shelters. Other Trailblazers, as well as those who have learned to read these signs, can easily interpret them.
 
 You can create a trail sign in 1 minute, which lasts for 24 hours unless renewed. A successful DC 15 Intelligence (Investigation) or Wisdom (Survival) check can reveal the signs to those not trained in the coded language.
-
 ## Level 1: Trail Maps
+As a Trailblazer, you have an innate talent for charting and recording the landscapes you traverse. At 1st level, you gain the ability to create and use detailed maps to aid in navigation and exploration.
+
+You can spend 10 minutes to sketch a basic map of the visible area you are currently in, up to a 1-mile radius from your location. This map provides a rough overview of the terrain, including major landmarks, paths, and obstacles. While using this map, you and your allies have advantage on Wisdom (Survival) checks made to navigate the mapped area.
+
+Maps created using this ability can be sold for 10sp
 
 ## Level 2: Wilderness Adept
 You gain expertise in traversing and surviving in harsh environments.
