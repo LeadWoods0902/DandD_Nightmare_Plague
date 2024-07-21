@@ -150,7 +150,7 @@ You begin to refine your cartographic skills, allowing you to create more useful
 
 You can spend 1 hour to create a more detailed map of a 5-mile radius from your current location. This map provides a general overview of the terrain, including major landmarks and obstacles. While using this map, you and your allies gain advantage on Wisdom (Survival) checks to navigate the mapped area.
 
-You can record field notes by spending 10 minutes that record significant observations during your explorations. These notes can be reviewed to gain advantage on Wisdom (Survival) checks to recall information about the terrain, weather conditions, or notable features previously encountered.
+You can take field notes on your by spending 10 minutes that record significant observations during your explorations. These notes can be reviewed to gain advantage on Wisdom (Survival) checks to recall information about the terrain, weather conditions, or notable features previously encountered when returning to an area.
 
 ## Level 6: Combat Preparedness
 You are adept at noticing signs of nearby dangers and preparing for them.
