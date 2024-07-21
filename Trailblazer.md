@@ -165,10 +165,9 @@ You move through natural terrain as if you were part of it.
 You can move through any type of natural terrain without being slowed or hindered. Additionally, you can use the Hide action even when only lightly obscured by natural phenomena.
 
 ## Level 20: Path of Legends
+Your mastery of trails and survival is the stuff of legends.
 
-    Description: Your mastery of trails and survival is the stuff of legends.
-    Mechanics: You gain the ability to lead a group through any terrain at double the normal travel pace without incurring any penalties. You also gain a +10 bonus to all Wisdom (Survival) checks.
+You gain the ability to lead a group through any terrain at double the normal travel pace without incurring any penalties. You also gain a +10 bonus to all Wisdom (Survival) checks.
 
-Trailblazer’s Coded Language
-
+# Trailblazer’s Coded Language
 Trailblazers use a coded language of symbols and markings to communicate vital information about paths, dangers, and safe locations. Learning this language requires a dedicated mentor and can take months of practice. The symbols are often hidden in plain sight, carved into trees, painted on rocks, or subtly altered in the landscape. These marks can indicate anything from the direction to the nearest safe water source to warnings of dangerous creatures nearby.
