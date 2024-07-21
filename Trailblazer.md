@@ -99,35 +99,34 @@ Your momentum in combat allows you to strike quickly and effectively.
 When you take the Attack action, you can make one additional attack as a bonus action.
 
 ##### Level 15: Unstoppable
+Your stamina and determination make you unstoppable.
 
-    Description: Your stamina and determination make you unstoppable.
-    Mechanics: You gain immunity to the exhausted condition, and your movement speed increases by an additional 10 feet (total of 20 feet increase).
+You gain immunity to the exhausted condition, and your movement speed increases by an additional 10 feet (total of 20 feet increase).
 
-Pack Predator
-
+#### Pack Predator
 Pack Predators excel in coordination and teamwork, enhancing the abilities of their allies and working efficiently in groups.
 
-Level 3: Coordinated Attack
+##### Level 3: Coordinated Attack
+You and your allies work seamlessly together.
 
-    Description: You and your allies work seamlessly together.
-    Mechanics: When you hit a creature with an attack, an ally within 5 feet of the creature can use their reaction to make a melee attack against the same creature.
+When you hit a creature with an attack, an ally within 5 feet of the creature can use their reaction to make a melee attack against the same creature.
 
-Level 7: Shared Tactics
+##### Level 7: Shared Tactics
+Your tactical acumen benefits your entire group.
 
-    Description: Your tactical acumen benefits your entire group.
-    Mechanics: Allies within 30 feet of you gain advantage on attack rolls against creatures you have attacked this turn.
+Allies within 30 feet of you gain advantage on attack rolls against creatures you have attacked this turn.
 
-Level 11: Protective Formation
+##### Level 11: Protective Formation
+You are adept at protecting your allies in combat.
 
-    Description: You are adept at protecting your allies in combat.
-    Mechanics: When an ally within 5 feet of you is attacked, you can use your reaction to impose disadvantage on the attack roll.
+When an ally within 5 feet of you is attacked, you can use your reaction to impose disadvantage on the attack roll.
 
-Level 15: Pack Leader
+##### Level 15: Pack Leader
+Your leadership inspires your allies to greater feats.
 
-    Description: Your leadership inspires your allies to greater feats.
-    Mechanics: Once per short rest, you can use a bonus action to grant all allies within 30 feet of you advantage on their next attack roll or saving throw. This effect lasts for 1 minute.
+Once per short rest, you can use a bonus action to grant all allies within 30 feet of you advantage on their next attack roll or saving throw. This effect lasts for 1 minute.
 
-Trailblazer Core Abilities
+### Trailblazer Core Abilities
 
 Level 4: Ability Score Improvement
 
