@@ -146,7 +146,7 @@ You have learned the secret trails that crisscross the wilderness.
 
 You and your companions can move through non-magical difficult terrain without expending extra movement. You can also spend 1 hour to find a hidden trail that grants you and your companions advantage on Stealth checks for the next 8 hours.
 ## Level 5: Skilled Cartographer
-You begin to refine your cartographic skills, allowing you to create more useful maps that aid in exploration and navigation.
+Your cartographic skills have advanced significantly, allowing you to effectively map out both natural and constructed environments, including intricate underground networks.
 
 You can spend 1 hour to create a more detailed map of a 5-mile radius from your current location. This map provides a general overview of the terrain, including major landmarks and obstacles. While using this map, you and your allies gain advantage on Wisdom (Survival) checks to navigate the mapped area.
 
