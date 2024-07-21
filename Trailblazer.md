@@ -46,7 +46,9 @@ As a Trailblazer, you have an innate talent for charting and recording the lands
 
 You can spend 10 minutes to sketch a basic map of the visible area you are currently in, up to a 1-mile radius from your location. This map provides a rough overview of the terrain, including major landmarks, paths, and obstacles. While using this map, you and your allies have advantage on Wisdom (Survival) checks made to navigate the mapped area.
 
-Maps created using this ability can be sold for 10sp
+You can update your map by spending another 10 minutes to record any significant changes or discoveries, such as new paths or hazards.
+
+Once per long rest, you can spend 1 hour to create a highly detailed map of an area up to 5 miles in radius. This map includes more precise details such as elevation changes, hidden entrances, and important locations. While using this detailed map, your group can move through the mapped area with a reduced chance of becoming lost and you can identify potential hazards with greater accuracy. Additionally, you can grant advantage on Intelligence (Investigation) checks related to locating specific features or objects within the mapped area.
 
 ## Level 2: Wilderness Adept
 You gain expertise in traversing and surviving in harsh environments.
