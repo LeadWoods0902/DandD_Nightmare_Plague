@@ -160,16 +160,11 @@ You gain an extra attack whenever you take the Attack action on your turn.
 ## Level 11: Master Cartographer
 Your skills in map-making are unparalleled.
 
-You can create detailed maps of the areas you travel through. These maps can be used by anyone to gain advantage on Wisdom (Survival) checks in the mapped area. 
+Detailed Maps:
+You can create highly detailed maps of any area you travel through. When using one of your detailed maps, anyone following it gains advantage on Wisdom (Survival) checks and Intelligence (Investigation) checks made to navigate or locate specific features within the mapped area.
 
-Creating a map of an area takes 1 hour per level, and the value of the map is proportional to the time you have spent in the area:
+Creating a map of an area takes 1 hour per mile of the area you wish to map.
 
-| Level | Required Time Spent (days) | Value (gp) |
-| ----- | -------------------------- | ---------- |
-| 1     | < 1                        | 1          |
-| 2     | < 5                        | 5          |
-| 3     | < 10                       | 10         |
-| 4     | 10 +                       | 20         |
 ## Level 13: Explorer’s Instinct
 Your instincts guide you away from danger and towards your goals.
 
