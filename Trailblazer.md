@@ -37,27 +37,27 @@ You start with the following equipment, in addition to the equipment granted by 
 - Leather armor, a longbow, and a quiver of 20 arrows
 
 # Class Abilities
-### Level 1: Trail Signs
+## Level 1: Trail Signs
 Trailblazers can create subtle marks or signs to convey messages to others of their kind. These signs can indicate safe paths, hidden dangers, or the location of resources and shelters. Other Trailblazers, as well as those who have learned to read these signs, can easily interpret them.
 
 You can create a trail sign in 1 minute, which lasts for 24 hours unless renewed. A successful DC 15 Intelligence (Investigation) or Wisdom (Survival) check can reveal the signs to those not trained in the coded language.
 
-### Level 2: Wilderness Adept
+## Level 2: Wilderness Adept
 You gain expertise in traversing and surviving in harsh environments.
 
 Choose one type of terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or urban. You gain advantage on Wisdom (Survival) checks related to this terrain, and difficult terrain doesn’t slow your group’s travel.
 
-### Level 3: Trailblazer's Archetype
+## Level 3: Trailblazer's Archetype
 At 3rd level, you choose an archetype that reflects your particular expertise in the wilds: 
 - Ambush Predator, 
 - Pursuit Predator, 
 - Pack Predator.
 
-#### Trailblazer Archetypes
+### Trailblazer Archetypes
 #### Ambush Predator
 Experts in stealth and setting traps, Ambush Predators excel at taking their enemies by surprise and controlling the battlefield.
 
-Level 3: Ambusher
+##### Level 3: Ambusher
 
     Description: You are adept at setting up ambushes.
     Mechanics: When you initiate combat from a hidden position, you and your allies gain advantage on the first attack roll of the encounter. Additionally, you gain advantage on Wisdom (Perception) checks to detect traps placed by others or found in the environment.
