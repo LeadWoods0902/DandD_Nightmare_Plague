@@ -41,6 +41,9 @@ You start with the following equipment, in addition to the equipment granted by 
 Trailblazers can create subtle marks or signs to convey messages to others of their kind. These signs can indicate safe paths, hidden dangers, or the location of resources and shelters. Other Trailblazers, as well as those who have learned to read these signs, can easily interpret them.
 
 You can create a trail sign in 1 minute, which lasts for 24 hours unless renewed. A successful DC 15 Intelligence (Investigation) or Wisdom (Survival) check can reveal the signs to those not trained in the coded language.
+
+## Level 1: Trail Maps
+
 ## Level 2: Wilderness Adept
 You gain expertise in traversing and surviving in harsh environments.
 
@@ -140,17 +143,14 @@ You and your companions can move through non-magical difficult terrain without e
 You are adept at noticing signs of nearby dangers and preparing for them.
     
 When you see a trail sign indicating the presence of a nearby beast or other creature, you gain advantage on attack rolls and saving throws against that creature for the next 24 hours.
-
 ## Level 9: Danger Sense
 Your experience with the dangers of the wild has heightened your senses.
 
 You gain advantage on Dexterity saving throws against effects you can see, such as traps and spells.
-
 ## Level 10: Natural Warrior
 Your combat skills are honed by the challenges of the wilderness.
 
 You gain an extra attack whenever you take the Attack action on your turn.
-
 ## Level 11: Master Cartographer
 Your skills in map-making are unparalleled.
 
@@ -166,16 +166,13 @@ You can create detailed maps of the areas you travel through. These maps can be 
 Your instincts guide you away from danger and towards your goals.
 
 You can re-roll a failed Wisdom (Survival) check. You must use the new roll. You can use this feature a number of times equal to your Wisdom modifier (minimum of once) and regain all expended uses after a long rest.
-
 ## Level 17: One with the Wilderness
 You move through natural terrain as if you were part of it.
 
 You can move through any type of natural terrain without being slowed or hindered. Additionally, you can use the Hide action even when only lightly obscured by natural phenomena.
-
 ## Level 20: Path of Legends
 Your mastery of trails and survival is the stuff of legends.
 
 You gain the ability to lead a group through any terrain at double the normal travel pace without incurring any penalties. You also gain a +10 bonus to all Wisdom (Survival) checks.
-
 # Trailblazer’s Coded Language
 Trailblazers use a coded language of symbols and markings to communicate vital information about paths, dangers, and safe locations. Learning this language requires a dedicated mentor and can take months of practice. The symbols are often hidden in plain sight, carved into trees, painted on rocks, or subtly altered in the landscape. These marks can indicate anything from the direction to the nearest safe water source to warnings of dangerous creatures nearby.
