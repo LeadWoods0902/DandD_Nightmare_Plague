@@ -159,7 +159,15 @@ When you see a trail sign indicating the presence of a nearby beast or other cre
 ##  Level 7: Environmental Resilience
 Your extensive experience in navigating diverse and harsh terrains has granted you a unique resilience to the adverse weather conditions commonly associated with your chosen environments.
 
+Weather Resistance: You gain resistance to the harmful effects of adverse weather conditions appropriate to your chosen terrain. This resistance manifests as follows:
 
+Arctic: Resistance to cold damage and advantage on saving throws against exhaustion due to cold weather.
+Desert: Resistance to fire damage and advantage on saving throws against exhaustion due to extreme heat.
+Forest: Advantage on saving throws against effects caused by natural hazards such as thorny underbrush, poisonous plants, and insect swarms.
+Mountain: Resistance to cold damage and advantage on saving throws against effects caused by altitude sickness and rockslides.
+Swamp: Resistance to poison damage and advantage on saving throws against diseases and toxic fumes.
+Underdark: Resistance to necrotic damage and advantage on saving throws against effects caused by darkness or bioluminescent fungi.
+Coastal: Resistance to thunder damage and advantage on saving throws against exhaustion due to storms and salt exposure.
 ## Level 9: Danger Sense
 Your experience with the dangers of the wild has heightened your senses.
 
