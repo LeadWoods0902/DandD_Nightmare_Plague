@@ -146,14 +146,14 @@ You gain an extra attack whenever you take the Attack action on your turn.
 ## Level 11: Master Cartographer
 Your skills in map-making are unparalleled.
 
-You can create detailed maps of the areas you travel through. These maps can be used by anyone to gain advantage on Wisdom (Survival) checks in the mapped area. Creating a map of an area takes 1 hour, and the value of the map is proportional to the time you have spent in the area:
+You can create detailed maps of the areas you travel through. These maps can be used by anyone to gain advantage on Wisdom (Survival) checks in the mapped area. Creating a map of an area takes 1 hour per level, and the value of the map is proportional to the time you have spent in the area:
 
-| Time Spent (days) | Value (gp) |
-| ----------------- | ---------- |
-| < 1               | 1          |
-| < 5               | 25         |
-| < 10              | 50         |
-| 10 +              | 100        |
+| Level | Required Time Spent (days) | Value (gp) |
+| ----- | -------------------------- | ---------- |
+| 1     | < 1                        | 1          |
+| 2     | < 5                        | 5          |
+| 3     | < 10                       | 10         |
+| 4     | 10 +                       | 20         |
 ## Level 13: Explorer’s Instinct
 Your instincts guide you away from danger and towards your goals.
 
@@ -164,7 +164,7 @@ You move through natural terrain as if you were part of it.
 
 You can move through any type of natural terrain without being slowed or hindered. Additionally, you can use the Hide action even when only lightly obscured by natural phenomena.
 
-Level 20: Path of Legends
+## Level 20: Path of Legends
 
     Description: Your mastery of trails and survival is the stuff of legends.
     Mechanics: You gain the ability to lead a group through any terrain at double the normal travel pace without incurring any penalties. You also gain a +10 bonus to all Wisdom (Survival) checks.
