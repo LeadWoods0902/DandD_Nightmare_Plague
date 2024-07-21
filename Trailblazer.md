@@ -146,17 +146,18 @@ You gain an extra attack whenever you take the Attack action on your turn.
 ## Level 11: Master Cartographer
 Your skills in map-making are unparalleled.
 
-You can create detailed maps of the areas you travel through. These maps can be used by anyone to gain advantage on Wisdom (Survival) checks in the mapped area.
+You can create detailed maps of the areas you travel through. These maps can be used by anyone to gain advantage on Wisdom (Survival) checks in the mapped area. Creating a map of an area takes 1 hour, and the value of the map is proportional to the time you have spent in the area:
+| Time Spent | Value |
 
 ## Level 13: Explorer’s Instinct
 Your instincts guide you away from danger and towards your goals.
 
 You can reroll a failed Wisdom (Survival) check. You must use the new roll. You can use this feature a number of times equal to your Wisdom modifier (minimum of once) and regain all expended uses after a long rest.
 
-Level 17: One with the Wilderness
+## Level 17: One with the Wilderness
+You move through natural terrain as if you were part of it.
 
-    Description: You move through natural terrain as if you were part of it.
-    Mechanics: You can move through any type of natural terrain without being slowed or hindered. Additionally, you can use the Hide action even when only lightly obscured by natural phenomena.
+You can move through any type of natural terrain without being slowed or hindered. Additionally, you can use the Hide action even when only lightly obscured by natural phenomena.
 
 Level 20: Path of Legends
 
