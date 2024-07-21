@@ -73,8 +73,8 @@ You can move silently through natural terrain, gaining advantage on Dexterity (S
 You are a master at setting traps.
 
 You can set traps in half the time and creatures have disadvantage on checks to detect or disarm your traps. Additionally, the damage from your traps increases to 2d10, and creatures have disadvantage on their initial saving throw against being restrained.
-
 ##### Level 20: Apex Shadow
+
 #### Pursuit Predator
 Pursuit Predators excel in tracking and relentless pursuit, using their speed and stamina to wear down their prey.
 ##### Level 3: Fleet of Foot
@@ -97,7 +97,7 @@ When you take the Attack action, you can make one additional attack as a bonus a
 Your stamina and determination make you unstoppable.
 
 You gain immunity to the exhausted condition, and your movement speed increases by an additional 10 feet (total of 20 feet increase).
-##### Level 20: Apex Pursuer
+##### Level 20: Apex Stalker
 Your relentless pursuit abilities have reached their peak, allowing you to hunt down any prey with unmatched precision and speed.
 
 Your movement speed increases by an additional 20 feet (total of 40 feet increase). You can take the Dash action as a bonus action without expending any movement, and you can move through magical difficult terrain without being slowed or hindered. Additionally, you have advantage on all attack rolls against creatures you have been tracking for at least 1 hour.
