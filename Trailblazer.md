@@ -171,11 +171,9 @@ The value of the map is proportional to the time you have spent in the area:
 | ----------------- | ---------- |
 | < 1               | 5          |
 | < 3               | 25         |
-| <7                | 50         |
-|                   |            |
-< 3	25
-< 7	50
-7+	100
+| < 7               | 50         |
+| 7 +               | 100        |
+When you create a map of an area you have spent at least 1 full day in, you can add detailed annotations such as hidden passages, dangerous zones, and resource locations. Additionally, you and your allies gain advantage on all checks related to identifying and avoiding hazards or discovering resources within the mapped area.
 ## Level 13: Explorer’s Instinct
 Your instincts guide you away from danger and towards your goals.
 
