@@ -41,12 +41,10 @@ You start with the following equipment, in addition to the equipment granted by 
 Trailblazers can create subtle marks or signs to convey messages to others of their kind. These signs can indicate safe paths, hidden dangers, or the location of resources and shelters. Other Trailblazers, as well as those who have learned to read these signs, can easily interpret them.
 
 You can create a trail sign in 1 minute, which lasts for 24 hours unless renewed. A successful DC 15 Intelligence (Investigation) or Wisdom (Survival) check can reveal the signs to those not trained in the coded language.
-
 ## Level 2: Wilderness Adept
 You gain expertise in traversing and surviving in harsh environments.
 
 Choose one type of terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or urban. You gain advantage on Wisdom (Survival) checks related to this terrain, and difficult terrain doesn’t slow your group’s travel.
-
 ## Level 3: Trailblazer's Archetype
 At 3rd level, you choose an archetype that reflects your particular expertise in the wilds: 
 - Ambush Predator, 
@@ -131,29 +129,29 @@ You have learned the secret trails that crisscross the wilderness.
 
 You and your companions can move through non-magical difficult terrain without expending extra movement. You can also spend 1 hour to find a hidden trail that grants you and your companions advantage on Stealth checks for the next 8 hours.
 ## Level 6: Combat Preparedness
+You are adept at noticing signs of nearby dangers and preparing for them.
+    
+When you see a trail sign indicating the presence of a nearby beast or other creature, you gain advantage on attack rolls and saving throws against that creature for the next 24 hours.
 
-    Description: You are adept at noticing signs of nearby dangers and preparing for them.
-    Mechanics: When you see a trail sign indicating the presence of a nearby beast or other creature, you gain advantage on attack rolls and saving throws against that creature for the next 24 hours.
+## Level 9: Danger Sense
+Your experience with the dangers of the wild has heightened your senses.
 
-Level 9: Danger Sense
+You gain advantage on Dexterity saving throws against effects you can see, such as traps and spells.
 
-    Description: Your experience with the dangers of the wild has heightened your senses.
-    Mechanics: You gain advantage on Dexterity saving throws against effects you can see, such as traps and spells.
+## Level 10: Natural Warrior
+Your combat skills are honed by the challenges of the wilderness.
 
-Level 10: Natural Warrior
+You gain an extra attack whenever you take the Attack action on your turn.
 
-    Description: Your combat skills are honed by the challenges of the wilderness.
-    Mechanics: You gain an extra attack whenever you take the Attack action on your turn.
+## Level 11: Master Cartographer
+Your skills in map-making are unparalleled.
 
-Level 11: Master Cartographer
+You can create detailed maps of the areas you travel through. These maps can be used by anyone to gain advantage on Wisdom (Survival) checks in the mapped area.
 
-    Description: Your skills in map-making are unparalleled.
-    Mechanics: You can create detailed maps of the areas you travel through. These maps can be used by anyone to gain advantage on Wisdom (Survival) checks in the mapped area.
+## Level 13: Explorer’s Instinct
+Your instincts guide you away from danger and towards your goals.
 
-Level 13: Explorer’s Instinct
-
-    Description: Your instincts guide you away from danger and towards your goals.
-    Mechanics: You can reroll a failed Wisdom (Survival) check. You must use the new roll. You can use this feature a number of times equal to your Wisdom modifier (minimum of once) and regain all expended uses after a long rest.
+You can reroll a failed Wisdom (Survival) check. You must use the new roll. You can use this feature a number of times equal to your Wisdom modifier (minimum of once) and regain all expended uses after a long rest.
 
 Level 17: One with the Wilderness
 
