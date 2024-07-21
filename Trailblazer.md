@@ -7,19 +7,23 @@ Hit Points at 1st Level: 10 + your Constitution modifier
 Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per Trailblazer level after 1st
 
 ### Proficiencies
-
-Armor: Light armor, medium armor, shields
-Weapons: Simple weapons, martial weapons
-Tools: Cartographer’s tools, navigator’s tools
+Armour: 
+- Light armour, 
+- medium armour, 
+- shields
+Weapons: 
+- Simple weapons, 
+- martial weapons
+Tools: 
+- Cartographer’s tools, navigator’s tools
 Saving Throws: Dexterity, Wisdom
-    Skills: Choose three from Acrobatics, Athletics, History, Insight, Nature, Perception, Stealth, Survival
+Skills: Choose three from Acrobatics, Athletics, History, Insight, Nature, Perception, Stealth, Survival
 
-Equipment
+### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
-
-    (a) a longsword or (b) a pair of short swords
-    (a) a dungeoneer’s pack or (b) an explorer’s pack
-    Leather armor, a longbow, and a quiver of 20 arrows
+- (a) a longsword or (b) a pair of short swords
+- (a) a dungeoneer’s pack or (b) an explorer’s pack
+- Leather armor, a longbow, and a quiver of 20 arrows
 
 Class Abilities
 
