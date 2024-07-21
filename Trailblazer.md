@@ -73,6 +73,8 @@ You can move silently through natural terrain, gaining advantage on Dexterity (S
 You are a master at setting traps.
 
 You can set traps in half the time and creatures have disadvantage on checks to detect or disarm your traps. Additionally, the damage from your traps increases to 2d10, and creatures have disadvantage on their initial saving throw against being restrained.
+
+##### Level 20: Apex Shadow
 #### Pursuit Predator
 Pursuit Predators excel in tracking and relentless pursuit, using their speed and stamina to wear down their prey.
 ##### Level 3: Fleet of Foot
@@ -121,8 +123,10 @@ When an ally within 5 feet of you is attacked, you can use your reaction to impo
 Your leadership inspires your allies to greater feats.
 
 Once per short rest, you can use a bonus action to grant all allies within 30 feet of you advantage on their next attack roll or saving throw. This effect lasts for 1 minute.
+##### Level 20: Apex Leader
+Your leadership and coordination skills inspire your allies to perform extraordinary feats in combat.
 
-##### Level 20: Alpha Leader
+Once per long rest, you can use an action to rally your allies. For the next minute, all allies within 60 feet of you gain advantage on attack rolls, saving throws, and ability checks. Additionally, they gain temporary hit points equal to your Trailblazer level + your Wisdom modifier at the start of each of their turns.
 ## Level 4: Ability Score Improvement
 Improve two attributes by +1, one attribute by +2, or a feature at the discretion of the Game Master.
 ## Level 5: Secret Trails
