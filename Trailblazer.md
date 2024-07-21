@@ -51,8 +51,7 @@ Choose one type of terrain: arctic, coast, desert, forest, grassland, mountain, 
 At 3rd level, you choose an archetype that reflects your particular expertise in the wilds: 
 - Ambush Predator, 
 - Pursuit Predator, 
-- Pack Predator.
-
+- Pack Predator
 ### Trailblazer Archetypes
 #### Ambush Predator
 Experts in stealth and setting traps, Ambush Predators excel at taking their enemies by surprise and controlling the battlefield.
@@ -125,12 +124,8 @@ When an ally within 5 feet of you is attacked, you can use your reaction to impo
 Your leadership inspires your allies to greater feats.
 
 Once per short rest, you can use a bonus action to grant all allies within 30 feet of you advantage on their next attack roll or saving throw. This effect lasts for 1 minute.
-
-### Trailblazer Core Abilities
-
-Level 4: Ability Score Improvement
-
-    Description: Standard ability score improvement.
+## Level 4: Ability Score Improvement
+Standard ability score improvement, or a feature at the discr
 
 Level 5: Secret Trails
 
