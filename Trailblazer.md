@@ -62,19 +62,18 @@ You are adept at setting up ambushes.
 
 When you initiate combat from a hidden position, you and your allies gain advantage on the first attack roll of the encounter. Additionally, you gain advantage on Wisdom (Perception) checks to detect traps placed by others or found in the environment.
 
-Level 3: Basic Trapping
+##### Level 3: Basic Trapping
+You have learned to set simple traps to aid in ambushes.
 
-    Description: You have learned to set simple traps to aid in ambushes.
-    Mechanics: You can spend 10 minutes to set a basic trap in a 5-foot square. When a creature enters the trapped area, it must succeed on a DC 13 Dexterity saving throw or take 1d10 piercing damage and be restrained until it uses its action to make a successful DC 13 Strength check to free itself.
+You can spend 10 minutes to set a basic trap in a 5-foot square. When a creature enters the trapped area, it must succeed on a DC 13 Dexterity saving throw or take 1d10 piercing damage and be restrained until it uses its action to make a successful DC 13 Strength check to free itself.
 
-Level 7: Hidden Strike
+##### Level 7: Hidden Strike
+Your attacks from hiding are particularly devastating.
 
-    Description: Your attacks from hiding are particularly devastating.
-    Mechanics: When you attack a creature that is unaware of your presence, the attack deals an additional 2d6 damage.
+When you attack a creature that is unaware of your presence, the attack deals an additional 2d6 damage.
 
-Level 11: Silent Movement
-
-    Description: Your movements are almost undetectable.
+##### Level 11: Silent Movement
+Your movements are almost undetectable.
     Mechanics: You can move silently through natural terrain, gaining advantage on Dexterity (Stealth) checks. Additionally, you can use the Hide action as a bonus action.
 
 Level 15: Master Trapper
