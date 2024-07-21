@@ -156,6 +156,10 @@ You can take field notes on your by spending 10 minutes that record significant 
 You are adept at noticing signs of nearby dangers and preparing for them.
     
 When you see a trail sign indicating the presence of a nearby beast or other creature, you gain advantage on attack rolls and saving throws against that creature for the next 24 hours.
+##  Level 7: Environmental Resilience
+Your extensive experience in navigating diverse and harsh terrains has granted you a unique resilience to the adverse weather conditions commonly associated with your chosen environments.
+
+
 ## Level 9: Danger Sense
 Your experience with the dangers of the wild has heightened your senses.
 
