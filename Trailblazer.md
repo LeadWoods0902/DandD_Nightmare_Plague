@@ -57,34 +57,28 @@ Experts in stealth and setting traps, Ambush Predators excel at taking their ene
 You are adept at setting up ambushes.
 
 When you initiate combat from a hidden position, you and your allies gain advantage on the first attack roll of the encounter. Additionally, you gain advantage on Wisdom (Perception) checks to detect traps placed by others or found in the environment.
-
 ##### Level 3: Basic Trapping
 You have learned to set simple traps to aid in ambushes.
 
 You can spend 10 minutes to set a basic trap in a 5-foot square. When a creature enters the trapped area, it must succeed on a DC 13 Dexterity saving throw or take 1d10 piercing damage and be restrained until it uses its action to make a successful DC 13 Strength check to free itself.
-
 ##### Level 7: Hidden Strike
 Your attacks from hiding are particularly devastating.
 
 When you attack a creature that is unaware of your presence, the attack deals an additional 2d6 damage.
-
 ##### Level 11: Silent Movement
 Your movements are almost undetectable.
 
 You can move silently through natural terrain, gaining advantage on Dexterity (Stealth) checks. Additionally, you can use the Hide action as a bonus action.
-
 ##### Level 15: Master Trapper
 You are a master at setting traps.
 
 You can set traps in half the time and creatures have disadvantage on checks to detect or disarm your traps. Additionally, the damage from your traps increases to 2d10, and creatures have disadvantage on their initial saving throw against being restrained.
-
 #### Pursuit Predator
 Pursuit Predators excel in tracking and relentless pursuit, using their speed and stamina to wear down their prey.
 ##### Level 3: Fleet of Foot
 You can move swiftly and tirelessly.
 
 Your movement speed increases by 10 feet, and you can Dash as a bonus action.
-
 ##### Level 3: Tireless Tracker
 Your skills in tracking are unmatched.
 
@@ -93,35 +87,32 @@ You gain advantage on Wisdom (Survival) checks to track creatures. Additionally,
 You are tireless in your pursuit of prey.
 
 You have advantage on Wisdom (Survival) checks to track creatures. Additionally, you can move through non-magical difficult terrain without expending extra movement.
-
 ##### Level 11: Rapid Strikes
 Your momentum in combat allows you to strike quickly and effectively.
 
 When you take the Attack action, you can make one additional attack as a bonus action.
-
 ##### Level 15: Unstoppable
 Your stamina and determination make you unstoppable.
 
 You gain immunity to the exhausted condition, and your movement speed increases by an additional 10 feet (total of 20 feet increase).
-
 #### Pack Predator
 Pack Predators excel in coordination and teamwork, enhancing the abilities of their allies and working efficiently in groups.
-
 ##### Level 3: Coordinated Attack
 You and your allies work seamlessly together.
 
 When you hit a creature with an attack, an ally within 5 feet of the creature can use their reaction to make a melee attack against the same creature.
+##### Level 3: Pack Tactics
+You gain bonuses when working alongside your allies.
 
+You have advantage on attack rolls against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
 ##### Level 7: Shared Tactics
 Your tactical acumen benefits your entire group.
 
 Allies within 30 feet of you gain advantage on attack rolls against creatures you have attacked this turn.
-
 ##### Level 11: Protective Formation
 You are adept at protecting your allies in combat.
 
 When an ally within 5 feet of you is attacked, you can use your reaction to impose disadvantage on the attack roll.
-
 ##### Level 15: Pack Leader
 Your leadership inspires your allies to greater feats.
 
