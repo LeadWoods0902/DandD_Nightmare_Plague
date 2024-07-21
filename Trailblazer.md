@@ -74,7 +74,10 @@ You are a master at setting traps.
 
 You can set traps in half the time and creatures have disadvantage on checks to detect or disarm your traps. Additionally, the damage from your traps increases to 2d10, and creatures have disadvantage on their initial saving throw against being restrained.
 ##### Level 20: Apex Shadow
+You have perfected the art of striking from the shadows, becoming a near-unstoppable force in ambush situations. Your traps are also deadlier and more efficient.
 
+- Enhanced Ambush: When you attack a creature from hiding, you deal an additional 6d6 damage. Additionally, you can use the Hide action as a bonus action and have advantage on all attack rolls against creatures that are unaware of your presence.
+- Deadly Traps: The damage from your traps increases to 4d10, and creatures have disadvantage on their initial saving throw against being restrained. Additionally, you can set traps in a quarter of the normal time and they are harder to detect, granting creatures disadvantage on checks to find your traps.
 #### Pursuit Predator
 Pursuit Predators excel in tracking and relentless pursuit, using their speed and stamina to wear down their prey.
 ##### Level 3: Fleet of Foot
