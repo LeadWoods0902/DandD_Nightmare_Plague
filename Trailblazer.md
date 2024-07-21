@@ -166,8 +166,13 @@ You can create highly detailed maps of any area you travel through. When using o
 Creating a map of an area takes 1 hour per mile of the area you wish to map.
 
 The value of the map is proportional to the time you have spent in the area:
-Time Spent (Days)	Value (gp)
-< 1	5
+
+| Time Spent (Days) | Value (gp) |
+| ----------------- | ---------- |
+| < 1               | 5          |
+| < 3               | 25         |
+| <7                | 50         |
+|                   |            |
 < 3	25
 < 7	50
 7+	100
