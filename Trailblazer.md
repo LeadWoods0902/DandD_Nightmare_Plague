@@ -150,15 +150,14 @@ You can create detailed maps of the areas you travel through. These maps can be 
 
 | Time Spent (days) | Value (gp) |
 | ----------------- | ---------- |
-| < 1               | 10         |
+| < 1               | 1          |
 | < 5               | 25         |
 | < 10              | 50         |
 | 10 +              | 100        |
-
 ## Level 13: Explorer’s Instinct
 Your instincts guide you away from danger and towards your goals.
 
-You can reroll a failed Wisdom (Survival) check. You must use the new roll. You can use this feature a number of times equal to your Wisdom modifier (minimum of once) and regain all expended uses after a long rest.
+You can re-roll a failed Wisdom (Survival) check. You must use the new roll. You can use this feature a number of times equal to your Wisdom modifier (minimum of once) and regain all expended uses after a long rest.
 
 ## Level 17: One with the Wilderness
 You move through natural terrain as if you were part of it.
