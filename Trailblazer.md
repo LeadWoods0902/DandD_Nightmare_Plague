@@ -153,7 +153,7 @@ You can create detailed maps of the areas you travel through. These maps can be 
 | < 1               | 10         |
 | < 5               | 25         |
 | < 10              | 50         |
-|                   |            |
+| 10 +              | 100        |
 
 ## Level 13: Explorer’s Instinct
 Your instincts guide you away from danger and towards your goals.
