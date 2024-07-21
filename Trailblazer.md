@@ -15,9 +15,20 @@ Weapons:
 - Simple weapons, 
 - martial weapons
 Tools: 
-- Cartographer’s tools, navigator’s tools
-Saving Throws: Dexterity, Wisdom
-Skills: Choose three from Acrobatics, Athletics, History, Insight, Nature, Perception, Stealth, Survival
+- Cartographer’s tools, 
+- Navigator’s tools
+Saving Throws: 
+- Dexterity, 
+- Wisdom
+Skills, Choose three from:
+- Acrobatics, 
+- Athletics,
+- History, 
+- Insight, 
+- Nature, 
+- Perception, 
+- Stealth, 
+- Survival
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -25,11 +36,9 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a dungeoneer’s pack or (b) an explorer’s pack
 - Leather armor, a longbow, and a quiver of 20 arrows
 
-Class Abilities
-
-Level 1: Trail Signs
-
-    Description: Trailblazers can create subtle marks or signs to convey messages to others of their kind. These signs can indicate safe paths, hidden dangers, or the location of resources and shelters. Other Trailblazers, as well as those who have learned to read these signs, can easily interpret them.
+# Class Abilities
+### Level 1: Trail Signs
+Description: Trailblazers can create subtle marks or signs to convey messages to others of their kind. These signs can indicate safe paths, hidden dangers, or the location of resources and shelters. Other Trailblazers, as well as those who have learned to read these signs, can easily interpret them.
     Mechanics: You can create a trail sign in 1 minute, which lasts for 24 hours unless renewed. A successful DC 15 Intelligence (Investigation) or Wisdom (Survival) check can reveal the signs to those not trained in the coded language.
 
 Level 2: Wilderness Adept
