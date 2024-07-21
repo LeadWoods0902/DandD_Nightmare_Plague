@@ -58,9 +58,9 @@ At 3rd level, you choose an archetype that reflects your particular expertise in
 Experts in stealth and setting traps, Ambush Predators excel at taking their enemies by surprise and controlling the battlefield.
 
 ##### Level 3: Ambusher
+You are adept at setting up ambushes.
 
-    Description: You are adept at setting up ambushes.
-    Mechanics: When you initiate combat from a hidden position, you and your allies gain advantage on the first attack roll of the encounter. Additionally, you gain advantage on Wisdom (Perception) checks to detect traps placed by others or found in the environment.
+When you initiate combat from a hidden position, you and your allies gain advantage on the first attack roll of the encounter. Additionally, you gain advantage on Wisdom (Perception) checks to detect traps placed by others or found in the environment.
 
 Level 3: Basic Trapping
 
