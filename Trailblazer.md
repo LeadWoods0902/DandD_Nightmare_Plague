@@ -95,6 +95,10 @@ When you take the Attack action, you can make one additional attack as a bonus a
 Your stamina and determination make you unstoppable.
 
 You gain immunity to the exhausted condition, and your movement speed increases by an additional 10 feet (total of 20 feet increase).
+##### Level 20: Apex Pursuer
+Your relentless pursuit abilities have reached their peak, allowing you to hunt down any prey with unmatched precision and speed.
+
+Your movement speed increases by an additional 20 feet (total of 40 feet increase). You can take the Dash action as a bonus action without expending any movement, and you can move through magical difficult terrain without being slowed or hindered. Additionally, you have advantage on all attack rolls against creatures you have been tracking for at least 1 hour.
 #### Pack Predator
 Pack Predators excel in coordination and teamwork, enhancing the abilities of their allies and working efficiently in groups.
 ##### Level 3: Coordinated Attack
@@ -117,6 +121,8 @@ When an ally within 5 feet of you is attacked, you can use your reaction to impo
 Your leadership inspires your allies to greater feats.
 
 Once per short rest, you can use a bonus action to grant all allies within 30 feet of you advantage on their next attack roll or saving throw. This effect lasts for 1 minute.
+
+##### Level 20: Alpha Leader
 ## Level 4: Ability Score Improvement
 Improve two attributes by +1, one attribute by +2, or a feature at the discretion of the Game Master.
 ## Level 5: Secret Trails
