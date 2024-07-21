@@ -56,7 +56,6 @@ At 3rd level, you choose an archetype that reflects your particular expertise in
 ### Trailblazer Archetypes
 #### Ambush Predator
 Experts in stealth and setting traps, Ambush Predators excel at taking their enemies by surprise and controlling the battlefield.
-
 ##### Level 3: Ambusher
 You are adept at setting up ambushes.
 
@@ -74,33 +73,32 @@ When you attack a creature that is unaware of your presence, the attack deals an
 
 ##### Level 11: Silent Movement
 Your movements are almost undetectable.
-    Mechanics: You can move silently through natural terrain, gaining advantage on Dexterity (Stealth) checks. Additionally, you can use the Hide action as a bonus action.
 
-Level 15: Master Trapper
+You can move silently through natural terrain, gaining advantage on Dexterity (Stealth) checks. Additionally, you can use the Hide action as a bonus action.
 
-    Description: You are a master at setting traps.
-    Mechanics: You can set traps in half the time and creatures have disadvantage on checks to detect or disarm your traps. Additionally, the damage from your traps increases to 2d10, and creatures have disadvantage on their initial saving throw against being restrained.
+##### Level 15: Master Trapper
+You are a master at setting traps.
 
-Pursuit Predator
+You can set traps in half the time and creatures have disadvantage on checks to detect or disarm your traps. Additionally, the damage from your traps increases to 2d10, and creatures have disadvantage on their initial saving throw against being restrained.
 
+#### Pursuit Predator
 Pursuit Predators excel in tracking and relentless pursuit, using their speed and stamina to wear down their prey.
+##### Level 3: Fleet of Foot
+You can move swiftly and tirelessly.
 
-Level 3: Fleet of Foot
+Your movement speed increases by 10 feet, and you can Dash as a bonus action.
 
-    Description: You can move swiftly and tirelessly.
-    Mechanics: Your movement speed increases by 10 feet, and you can Dash as a bonus action.
+##### Level 7: Relentless Pursuit
+You are tireless in your pursuit of prey.
 
-Level 7: Relentless Pursuit
+You have advantage on Wisdom (Survival) checks to track creatures. Additionally, you can move through non-magical difficult terrain without expending extra movement.
 
-    Description: You are tireless in your pursuit of prey.
-    Mechanics: You have advantage on Wisdom (Survival) checks to track creatures. Additionally, you can move through non-magical difficult terrain without expending extra movement.
+##### Level 11: Rapid Strikes
+Your momentum in combat allows you to strike quickly and effectively.
 
-Level 11: Rapid Strikes
+When you take the Attack action, you can make one additional attack as a bonus action.
 
-    Description: Your momentum in combat allows you to strike quickly and effectively.
-    Mechanics: When you take the Attack action, you can make one additional attack as a bonus action.
-
-Level 15: Unstoppable
+##### Level 15: Unstoppable
 
     Description: Your stamina and determination make you unstoppable.
     Mechanics: You gain immunity to the exhausted condition, and your movement speed increases by an additional 10 feet (total of 20 feet increase).
