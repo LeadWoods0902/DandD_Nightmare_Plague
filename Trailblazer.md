@@ -53,7 +53,7 @@ Once per long rest, you can spend 1 hour to create a highly detailed map of an a
 ## Level 2: Wilderness Adept
 You gain expertise in traversing and surviving in harsh environments.
 
-Choose one type of terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or urban. You gain advantage on Wisdom (Survival) checks related to this terrain, and difficult terrain doesn’t slow your group’s travel.
+Choose one type of terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. You gain advantage on Wisdom (Survival) checks related to this terrain, and difficult terrain doesn’t slow your group’s travel.
 ## Level 3: Trailblazer's Archetype
 At 3rd level, you choose an archetype that reflects your particular expertise in the wilds: 
 - Ambush Predator, 
@@ -161,14 +161,13 @@ Your extensive experience in navigating diverse and harsh terrains has granted y
 
 **Weather Resistance** 
 You gain resistance to the harmful effects of adverse weather conditions appropriate to your chosen terrain. This resistance manifests as follows:
-
 - Arctic: Resistance to cold damage and advantage on saving throws against exhaustion due to cold weather.
+- Coastal: Resistance to thunder damage and advantage on saving throws against exhaustion due to storms and salt exposure.
 - Desert: Resistance to fire damage and advantage on saving throws against exhaustion due to extreme heat.
 - Forest: Advantage on saving throws against effects caused by natural hazards such as thorny underbrush, poisonous plants, and insect swarms.
+- Grassland: Resistance to lightning damage and advantage on saving throws against effects caused by extreme winds and open exposure.
 - Mountain: Resistance to cold damage and advantage on saving throws against effects caused by altitude sickness and rockslides.
 - Swamp: Resistance to poison damage and advantage on saving throws against diseases and toxic fumes.
-- Underdark: Resistance to necrotic damage and advantage on saving throws against effects caused by darkness or bioluminescent fungi.
-- Coastal: Resistance to thunder damage and advantage on saving throws against exhaustion due to storms and salt exposure.
 
 **Adaptive Nature** 
 If you spend at least 1 hour in a new terrain type, you can adapt to the weather conditions of that terrain, gaining the appropriate resistances and advantages for up to 24 hours. You can use this feature once per long rest.
