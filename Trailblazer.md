@@ -48,7 +48,7 @@ You can spend 10 minutes to sketch a basic map of the visible area you are curre
 
 You can update your map by spending another 10 minutes to record any significant changes or discoveries, such as new paths or hazards.
 
-Once per long rest, you can spend 1 hour to create a highly detailed map of an area up to 5 miles in radius. This map includes more precise details such as elevation changes, hidden entrances, and important locations. While using this detailed map, your group can move through the mapped area with a reduced chance of becoming lost and you can identify potential hazards with greater accuracy. Additionally, you can grant advantage on Intelligence (Investigation) checks related to locating specific features or objects within the mapped area.
+Once per long rest, you can spend 1 hour to create a highly detailed map of an area up to 5 miles in radius. This map includes more precise details such as elevation changes, hidden entrances, and important locations. While you are using this map, you (and your companions) can move through the mapped area with a reduced chance of becoming lost and you can identify potential hazards with greater accuracy. Additionally, you can grant advantage on Intelligence (Investigation) checks related to locating specific features or objects within the mapped area.
 
 ## Level 2: Wilderness Adept
 You gain expertise in traversing and surviving in harsh environments.
@@ -160,7 +160,9 @@ You gain an extra attack whenever you take the Attack action on your turn.
 ## Level 11: Master Cartographer
 Your skills in map-making are unparalleled.
 
-You can create detailed maps of the areas you travel through. These maps can be used by anyone to gain advantage on Wisdom (Survival) checks in the mapped area. Creating a map of an area takes 1 hour per level, and the value of the map is proportional to the time you have spent in the area:
+You can create detailed maps of the areas you travel through. These maps can be used by anyone to gain advantage on Wisdom (Survival) checks in the mapped area. 
+
+Creating a map of an area takes 1 hour per level, and the value of the map is proportional to the time you have spent in the area:
 
 | Level | Required Time Spent (days) | Value (gp) |
 | ----- | -------------------------- | ---------- |
