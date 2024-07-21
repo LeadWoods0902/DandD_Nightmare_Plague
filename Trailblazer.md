@@ -147,7 +147,13 @@ You gain an extra attack whenever you take the Attack action on your turn.
 Your skills in map-making are unparalleled.
 
 You can create detailed maps of the areas you travel through. These maps can be used by anyone to gain advantage on Wisdom (Survival) checks in the mapped area. Creating a map of an area takes 1 hour, and the value of the map is proportional to the time you have spent in the area:
-| Time Spent | Value |
+
+| Time Spent (hrs) | Value (gp) |
+| ---------------- | ---------- |
+| 1                | 10         |
+| 5                | 25         |
+| 10               | 50         |
+|                  |            |
 
 ## Level 13: Explorer’s Instinct
 Your instincts guide you away from danger and towards your goals.
