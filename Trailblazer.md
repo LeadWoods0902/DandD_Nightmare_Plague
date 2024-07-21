@@ -156,18 +156,22 @@ You can take field notes on your by spending 10 minutes that record significant 
 You are adept at noticing signs of nearby dangers and preparing for them.
     
 When you see a trail sign indicating the presence of a nearby beast or other creature, you gain advantage on attack rolls and saving throws against that creature for the next 24 hours.
-##  Level 7: Environmental Resilience
+## Level 7: Environmental Resilience
 Your extensive experience in navigating diverse and harsh terrains has granted you a unique resilience to the adverse weather conditions commonly associated with your chosen environments.
 
-Weather Resistance: You gain resistance to the harmful effects of adverse weather conditions appropriate to your chosen terrain. This resistance manifests as follows:
+**Weather Resistance** 
+You gain resistance to the harmful effects of adverse weather conditions appropriate to your chosen terrain. This resistance manifests as follows:
 
-Arctic: Resistance to cold damage and advantage on saving throws against exhaustion due to cold weather.
-Desert: Resistance to fire damage and advantage on saving throws against exhaustion due to extreme heat.
-Forest: Advantage on saving throws against effects caused by natural hazards such as thorny underbrush, poisonous plants, and insect swarms.
-Mountain: Resistance to cold damage and advantage on saving throws against effects caused by altitude sickness and rockslides.
-Swamp: Resistance to poison damage and advantage on saving throws against diseases and toxic fumes.
-Underdark: Resistance to necrotic damage and advantage on saving throws against effects caused by darkness or bioluminescent fungi.
-Coastal: Resistance to thunder damage and advantage on saving throws against exhaustion due to storms and salt exposure.
+- Arctic: Resistance to cold damage and advantage on saving throws against exhaustion due to cold weather.
+- Desert: Resistance to fire damage and advantage on saving throws against exhaustion due to extreme heat.
+- Forest: Advantage on saving throws against effects caused by natural hazards such as thorny underbrush, poisonous plants, and insect swarms.
+- Mountain: Resistance to cold damage and advantage on saving throws against effects caused by altitude sickness and rockslides.
+- Swamp: Resistance to poison damage and advantage on saving throws against diseases and toxic fumes.
+- Underdark: Resistance to necrotic damage and advantage on saving throws against effects caused by darkness or bioluminescent fungi.
+- Coastal: Resistance to thunder damage and advantage on saving throws against exhaustion due to storms and salt exposure.
+
+**Adaptive Nature** 
+If you spend at least 1 hour in a new terrain type, you can adapt to the weather conditions of that terrain, gaining the appropriate resistances and advantages for up to 24 hours. You can use this feature once per long rest.
 ## Level 9: Danger Sense
 Your experience with the dangers of the wild has heightened your senses.
 
