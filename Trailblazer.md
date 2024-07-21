@@ -125,14 +125,12 @@ Your leadership inspires your allies to greater feats.
 
 Once per short rest, you can use a bonus action to grant all allies within 30 feet of you advantage on their next attack roll or saving throw. This effect lasts for 1 minute.
 ## Level 4: Ability Score Improvement
-Standard ability score improvement, or a feature at the discr
+Improve two attributes by +1, one attribute by +2, or a feature at the discretion of the Game Master.
+## Level 5: Secret Trails
+You have learned the secret trails that crisscross the wilderness.
 
-Level 5: Secret Trails
-
-    Description: You have learned the secret trails that crisscross the wilderness.
-    Mechanics: You and your companions can move through non-magical difficult terrain without expending extra movement. You can also spend 1 hour to find a hidden trail that grants you and your companions advantage on Stealth checks for the next 8 hours.
-
-Level 6: Combat Preparedness
+You and your companions can move through non-magical difficult terrain without expending extra movement. You can also spend 1 hour to find a hidden trail that grants you and your companions advantage on Stealth checks for the next 8 hours.
+## Level 6: Combat Preparedness
 
     Description: You are adept at noticing signs of nearby dangers and preparing for them.
     Mechanics: When you see a trail sign indicating the presence of a nearby beast or other creature, you gain advantage on attack rolls and saving throws against that creature for the next 24 hours.
