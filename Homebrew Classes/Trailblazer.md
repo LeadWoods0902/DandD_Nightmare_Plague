@@ -1,5 +1,31 @@
 # Class Overview
 The Trailblazer is an expert in navigating and surviving in the most unforgiving environments. These intrepid explorers not only pave the way for others, ensuring safe passage through treacherous landscapes, but also safeguard the hidden knowledge of trails, shelters, and dangers. Trailblazers are part of a clandestine faction, united by their shared expertise and a secret code that marks hidden trails and safe havens. Their skills in survival, combat, and subtle communication make them invaluable allies and formidable opponents in the wild.
+
+## Trailblazer Table
+
+| Level | Proficiency Bonus | Features                          |
+|-------|-------------------|-----------------------------------|
+| 1     | +2                | Trail Signs, Beginner Cartographer|
+| 2     | +2                | Wilderness Adept                  |
+| 3     | +2                | Trailblazer's Archetype           |
+| 4     | +2                | Ability Score Improvement         |
+| 5     | +3                | Secret Trails, Skilled Cartographer|
+| 6     | +3                | Combat Preparedness               |
+| 7     | +3                | Environmental Resilience          |
+| 8     | +3                | Ability Score Improvement         |
+| 9     | +4                | Danger Sense                      |
+| 10    | +4                | Natural Warrior                   |
+| 11    | +4                | Master Cartographer               |
+| 12    | +4                | Ability Score Improvement         |
+| 13    | +5                | Explorer’s Instinct               |
+| 14    | +5                | -                                 |
+| 15    | +5                | Archetype Feature                 |
+| 16    | +5                | Ability Score Improvement         |
+| 17    | +6                | One with the Wilderness           |
+| 18    | +6                | Archetype Feature                 |
+| 19    | +6                | Ability Score Improvement         |
+| 20    | +6                | Path of Legends                   |
+
 # Class Features
 ### Hit Points
 Hit Dice: 1d10 per Trailblazer level
@@ -20,7 +46,7 @@ Tools:
 Saving Throws: 
 - Dexterity, 
 - Wisdom
-Skills, Choose three from:
+Skills, Choose two from:
 - Acrobatics, 
 - Athletics,
 - History, 
