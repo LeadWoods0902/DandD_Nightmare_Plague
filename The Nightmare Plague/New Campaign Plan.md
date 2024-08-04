@@ -15,3 +15,8 @@
 		- A union between Sunmaek & Brokvar is negotiated, with Ven-Dryk & the other electives acting as representatives of Brokvar during negotiations. 
 	- During this time Jasper recovers from their injuries in the under-ocean city of the Cucumari & Tritonel
 		- Jasper may notice that Mazikeen's Trident may belong to the people of the ocean
+
+---
+
+- Church keeping the source of the tree's power a secret
+- 
