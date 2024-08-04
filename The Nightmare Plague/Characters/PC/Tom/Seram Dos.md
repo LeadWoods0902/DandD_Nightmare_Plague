@@ -45,5 +45,5 @@ Lawful Moral
 
 ---
 ### Notes
-Seram worked as a spy under the leadership of the [[Duchess Roderika]] of Llawyr un Mawr. Seram helped preserve Roderika's social appearance and worked as her master of knowledge. Seram engaged in a secret affair with the duchess and they shared a child out of wedlocke.
+Spymaster to [[Duchess Roderika]], blood brother to [[Lucius Crestwood]] and god-father of [[Mazikeen Crestwood]]
 

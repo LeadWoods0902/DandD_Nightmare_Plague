@@ -45,6 +45,7 @@ Lawful Evil
 
 ---
 ### Notes
+Ex-member of Fenian's honour guard, including Niahl
 
 A paladin that works in the servitude of the [[Ymerodrine Empire]], this man was solely responsible for the sacking and burning of Farrow Rise in an attempt to claim more land for the empire. 
 

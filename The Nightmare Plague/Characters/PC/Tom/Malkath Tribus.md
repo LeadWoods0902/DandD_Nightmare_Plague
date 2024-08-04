@@ -45,4 +45,4 @@ Rebel Impure
 
 ---
 ### Notes
-Malkath was one of the founding warlocks of the conclave - a group of warlocks that operate from the shadows, with the hopes of instilling a totalitarian regime. Tribus was 
+A member of [[The Tosh-Valdar]]
