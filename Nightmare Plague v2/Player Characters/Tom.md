@@ -1,8 +1,8 @@
-# Rolbam (Crestwood) Eins 
+# Rolbam Eins 
 The First Sorcerer of Esgid
-# Seram (Crestwood) Dos
-Second Lieutenant to Duchess Roderika
-# Malkath (Crestwood) Tribus
+# Seram Dos
+Spymaster of Duchess Roderika, blood brother to Lucius Crestwood and god-father of [[Mazikeen Crestwood]]
+# Malkath Tribus
 
-# Stronvan (Crestwood) Au Quatre 
+# Stronvan Au Quatre 
 One of Fenian's Four Elite Soldiers, including Niahl
