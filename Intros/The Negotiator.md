@@ -1,1 +1,1 @@
-Character being tortured/ interogated
+Character being tortured/ interrogated
