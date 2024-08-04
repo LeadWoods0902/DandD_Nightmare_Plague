@@ -1,8 +1,8 @@
-# Rolbam Eins 
+# Rolbam (Crestwood) Eins 
 The First Sorcerer of Esgid
-# Seram Dos
+# Seram (Crestwood) Dos
 Second Lieutenant to Duchess Roderika
-# Malkath Tribus
+# Malkath (Crestwood) Tribus
 
-# Stronvan Au Quatre 
+# Stronvan (Crestwood) Au Quatre 
 One of Fenian's Four Elite Soldiers, including Niahl
