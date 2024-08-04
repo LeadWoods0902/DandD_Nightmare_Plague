@@ -1,8 +1,8 @@
-## Rolbam Eins 
+# Rolbam Eins 
 The First Sorcerer of Esgid
-## Seram Dos
+# Seram Dos
 Second Lieutenant to Duchess Roderika
-## Malkath Tribus
+# Malkath Tribus
 
-## Stronvan Au Quatre 
+# Stronvan Au Quatre 
 One of Fenian's Four Elite Soldiers, including Niahl
