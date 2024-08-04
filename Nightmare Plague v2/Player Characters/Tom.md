@@ -1,8 +1,8 @@
 # Rolbam Eins 
-The First Sorcerer of Esgid
+A prominent portal-mancer of Esgid
 # Seram Dos
-Spymaster of Duchess Roderika, blood brother to Lucius Crestwood and god-father of [[Mazikeen Crestwood]]
+Spymaster to Duchess Roderika, blood brother to Lucius Crestwood and god-father of [[Mazikeen Crestwood]]
 # Malkath Tribus
 
 # Stronvan Au Quatre 
-One of Fenian's Four Elite Soldiers, including Niahl
+Ex-member of Fenian's honour guard, including Niahl
