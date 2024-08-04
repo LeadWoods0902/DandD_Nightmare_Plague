@@ -20,4 +20,5 @@
 
 - Empire was searching for the source of the tree's power, the church refused to give over the information
 - Ven-Dryk liberated the city, with the aid of Lucius - Lucius betraying the empire as they have no right to the city, or the tree's power.
-- Niahl defects to Brokvar, in lieu of 
+- Niahl defects to Brokvar, in lieu of their loss of Brokvar and his orders to aid Stronvan in creating chaos in the free-lands
+- 
