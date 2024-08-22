@@ -23,9 +23,10 @@
 - Word spreads that Niahl's Brother in arms Stronvan is wrecking havoc in southern Brokvar, in an attempt to draw Brokvar's attention and strength away from the city, Niahl alone goes after Stronvan and slays him by stabbing him in the back.
 - Niahl returns to Brokvar and becomes captain of the city watch
 #### Chimo-Nahagi
-- The Arzaens write 5 tomes, imbuing them with their powers in an attempt to create a deity-esque figure, considered a failure the tome are lost to time
+- The Arzaens write 5 tomes, imbuing them with their powers in an attempt to create a deity-esque figure
 - In a second attempt, the Arzaens create an immensely powerful and savagely hungry corporeal being, the ageless pit dweller
-- The APD spawns a host of children, which o
+- The APD spawns a host of children, which swarm the Arzaen capital, driving them underground, in an attempt to seal the pitdweller in the earth, the arzaens excavate 
+- 
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
 - Higashi and Nishi are caught hoarding human lives and are punished by banishment to Surmaria, a believed to be uninhabited to land
 - Duska discovers Mortos' Tome
