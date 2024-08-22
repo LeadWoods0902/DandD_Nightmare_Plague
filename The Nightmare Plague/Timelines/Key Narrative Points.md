@@ -33,8 +33,8 @@
 - Thousands of years pass and two greater dragons Higashi & Nishi are banished to Sunmaek, a land thought dead.
 - Several Thousand more years pass and the two dragons have established a religion in their name
 - Several Thousand more years pass and the Librarian Duska Halloni discovers a tome in the library, the tome of Mortos. Mortos, having lost a lot of his memory to time is unaware of his past, only his directive in life - maintain balance. Mortos explains to Duska that the twin gods' regime is unnatural and must be normalised.
-- Duska sacrifices the corrupt Master Librarian, a hoarder of knowledge  assuming his title
-- Duska's secret is discovered by the ambitious Sturgis who agrees to aid her in return for absolution from Olum for his misguided following of the deceptive Yilani Cemaati
+- Duska sacrifices the corrupt Master Librarian, a previous contact of Mortos and hoarder of knowledge, assuming his title
+- Duska, under the suggestion of Mortos 
 
 ---
 
