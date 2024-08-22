@@ -15,7 +15,9 @@
 - The confederacy rebirths itself as the Ymerodrine Empire, a unified state of Ymerodrol, Rheilliwch & Llawyr un Mawr
 - Several year's pass
 - Emperor Ymerodrol's daughter Fenian Naezana assumes the title empress after the death of her father 
-- Empress Fenian takes an interest in Ven-Dryk and orders him brought to the capital - he is rescued by a guerrilla force during transport
+- Empress Fenian takes an interest in Ven-Dryk, who had been kept prisoner in Brokvar, and orders him brought to the capital
+- Ven-Dryk is released by the defecting Quatre-Knight Niahl
+- Ven-Dryk & Niahl 
 #### Chimo-Nahagi
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
 - Higashi and Nishi are caught hoarding human lives and are punished by banishment to Surmaria, a believed to be uninhabited to land
