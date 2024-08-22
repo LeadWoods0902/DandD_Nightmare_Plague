@@ -25,7 +25,7 @@
 #### Chimo-Nahagi
 - The Arzaens write 5 tomes, imbuing them with their powers in an attempt to create a deity-esque figure
 - In a second attempt, the Arzaens create an immensely powerful and savagely hungry corporeal being, the ageless pit dweller
-- The APD spawns a host of children, which swarm the Arzaen capital, driving them underground, in an attempt to seal the pitdweller in the earth, the arzaens excavate 
+- The APD spawns a host of children, which swarm the Arzaen capital, driving them underground, in an attempt to seal the pitdweller in the earth, the Arzaens excavate a large hole, and using the power of the tomes, force the pit dweller into its depths, sealing the top with a powerful magic. The Arzaens expire, leaving only the tomes and their warnings for future generations
 - 
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
 - Higashi and Nishi are caught hoarding human lives and are punished by banishment to Surmaria, a believed to be uninhabited to land
