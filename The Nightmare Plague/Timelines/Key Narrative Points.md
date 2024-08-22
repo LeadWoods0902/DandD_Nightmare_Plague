@@ -32,9 +32,8 @@
 - The APD spawns a host of children, which swarm the Arzaen capital, driving them underground, in an attempt to seal the pitdweller in the earth, the Arzaens excavate a large hole, and using the power of the tomes, force the pit dweller into its depths, sealing the top with a powerful magic. The Arzaens expire, leaving only the tomes and their warnings for future generations
 - Thousands of years pass and two greater dragons Higashi & Nishi are banished to Sunmaek, a land thought dead.
 - Several Thousand more years pass and the two dragons have established a religion in their name
-- Several Thousand more years pass and the Librarian Duska Halloni discovers a tome in the library, the tome of Mortos. Mortos, having lost a lot of his memory to time is unaware of his past, only his directive in life - maintain balance. Mortos explains to Duska that the twin gods'
-- Duska succeeds and meets with Mortos (Olum in disguise) - Mortos confers that great power can be granted if Duska assumes a position of power.
-- Duska seals the contract by sacrificing the Master Librarian and assuming his title
+- Several Thousand more years pass and the Librarian Duska Halloni discovers a tome in the library, the tome of Mortos. Mortos, having lost a lot of his memory to time is unaware of his past, only his directive in life - maintain balance. Mortos explains to Duska that the twin gods' regime is unnatural and must be normalised.
+- Duska sacrifices the corrupt Master Librarian, a hoarder of knowledge  assuming his title
 - Duska's secret is discovered by the ambitious Sturgis who agrees to aid her in return for absolution from Olum for his misguided following of the deceptive Yilani Cemaati
 
 ---
