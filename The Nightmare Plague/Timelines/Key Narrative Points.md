@@ -18,7 +18,9 @@
 - Empress Fenian takes an interest in Ven-Dryk, who had been kept prisoner in Brokvar, and orders him brought to the capital
 - Ven-Dryk is released by the defecting Quatre-Knight Niahl
 - Ven-Dryk & Niahl begin an operation to reclaim Brokvar
-- Lucius is sent to Brokvar to prevent the empire from losing it, Lucius is slain willingly in combat to save his family, allowing Ven-Dryk to reclaim the Brokvar Capital.
+- Lucius is sent to Brokvar to prevent the empire from losing it, Lucius is slain willingly in combat to save his family from being slaughtered should he return a failure or a known traitor, allowing Ven-Dryk to reclaim the Brokvar Capital.
+- Ven-Dryk & Niahl begin redevelopment and revitalisation of the city.
+- Word spreads that 
 #### Chimo-Nahagi
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
 - Higashi and Nishi are caught hoarding human lives and are punished by banishment to Surmaria, a believed to be uninhabited to land
