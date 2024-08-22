@@ -24,7 +24,8 @@
 - Niahl returns to Brokvar and becomes captain of the city watch
 #### Chimo-Nahagi
 - The Arzaens write 5 tomes, imbuing them with their powers in an attempt to create a deity-esque figure, considered a failure the tome are lost to time
-- In a second attempt, the Arzaens create a corporeal being, savagely hungry, 
+- In a second attempt, the Arzaens create an immensely powerful and savagely hungry corporeal being, the ageless pit dweller
+- The agel
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
 - Higashi and Nishi are caught hoarding human lives and are punished by banishment to Surmaria, a believed to be uninhabited to land
 - Duska discovers Mortos' Tome
