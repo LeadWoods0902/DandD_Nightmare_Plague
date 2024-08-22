@@ -4,8 +4,7 @@
 - *The city of Brokvar is built up around this tree as it is discovered its sap has healing properties*
 - Several hundred years pass and the throne passes to Napella
 - *a war breaks out between Llawyr un Mawr and Esgid*
-- *Brokvar supports Esgid due to interest in forming a bond between the two ruling families*
-- Ven-Dryk comes to Brokvar and an affair begins between him and Napella
+- Ven-Dryk travels to Brokvar as an Emissary of the Sunmaekean court and an affair begins between him and Napella
 - During the war's second year, Llawyr un Mawr receives aid from Rheilliwch breaking the terms of the peace treaty between Rheilliwch & Brokvar
 - The current ruler Nella, in a bid to end the war enacts a similar display of power as her descendant, obliterating the capital of Rheilliwch
 - In retaliation, Rheilliwch & Llawyr un Mawr form a confederacy and begin a full scale war on Brokvar
