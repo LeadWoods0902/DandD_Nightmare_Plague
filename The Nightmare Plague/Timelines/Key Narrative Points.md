@@ -3,7 +3,8 @@
 - *A powerful being (Nëoris) dies, from his body the Coeden begins to grow*
 - *The city of Brokvar is built up around this tree as it is discovered its sap has healing properties*
 - Several hundred years pass and the throne passes to Napella
-- *a war breaks out between Llawyr un Mawr and Esgid*
+- *A war breaks out between Llawyr un Mawr and Esgid*
+- Napella sides with Esgid but is unable to assist in the war d
 - Ven-Dryk travels to Brokvar as an Emissary of the Sunmaekean court and an affair begins between him and Napella
 - During the war's second year, Llawyr un Mawr receives aid from Rheilliwch breaking the terms of the peace treaty between Rheilliwch & Brokvar
 - The current ruler Nella, in a bid to end the war enacts a similar display of power as her descendant, obliterating the capital of Rheilliwch
