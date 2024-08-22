@@ -20,7 +20,7 @@
 - Ven-Dryk & Niahl begin an operation to reclaim Brokvar
 - Lucius is sent to Brokvar to prevent the empire from losing it, Lucius is slain willingly in combat to save his family from being slaughtered should he return a failure or a known traitor, allowing Ven-Dryk to reclaim the Brokvar Capital.
 - Ven-Dryk & Niahl begin redevelopment and revitalisation of the city.
-- Word spreads that 
+- Word spreads that Niahl's Brother in arms Stronvan is wrecking havoc in southern Brokvar, in an attempt to draw Brokvar's attention and strength away from the city, Niahl
 #### Chimo-Nahagi
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
 - Higashi and Nishi are caught hoarding human lives and are punished by banishment to Surmaria, a believed to be uninhabited to land
