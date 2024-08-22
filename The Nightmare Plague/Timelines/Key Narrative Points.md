@@ -12,10 +12,10 @@
 - Napella and her family are all killed bar Ven-Dryk and their illegitimate daughter
 - Ven-Dryk is taken as a political prisoner of the confederacy while their daughter escapes
 - Brokvar falls under confederate control and Rheilliwch's capital is revitalised using Brokvar's resources.
-- The confederacy rebirths itself as the Ymerodrine Empire, a unified state of Ymerodrol, Rheilliwch & 
+- The confederacy rebirths itself as the Ymerodrine Empire, a unified state of Ymerodrol, Rheilliwch & Llawyr un Mawr
 - Several year's pass
 - Emperor Ymerodrol's daughter Fenian Naezana assumes the title empress after the death of her father 
-- Empress Fenian takes an interest in Ven-Dryk and orders him brought to the capital - he is rescued by a guerrilla force operating out of the Artificer's City Addun
+- Empress Fenian takes an interest in Ven-Dryk and orders him brought to the capital - he is rescued by a guerrilla force during transport
 #### Chimo-Nahagi
 - Musoko is accused by Zenryoku of being the cause of an apocalypse upon Chimo-Nahagi in the far future
 - Higashi and Nishi are caught hoarding human lives and are punished by banishment to Surmaria, a believed to be uninhabited to land
