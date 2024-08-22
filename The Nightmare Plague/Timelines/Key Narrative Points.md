@@ -6,9 +6,9 @@
 - *A war breaks out between Llawyr un Mawr and Esgid*
 - Napella sides with Esgid but is unable to practically assist in the war.
 - Ven-Dryk travels to Brokvar as an Emissary of the Sunmaekean court and an affair begins between him and Napella
-- During the war's second year, Llawyr un Mawr is rescued from certain defeat by Rheilliwch 
-- The current ruler Nella, in a bid to end the war enacts a similar display of power as her descendant, obliterating the capital of Rheilliwch
-- In retaliation, Rheilliwch & Llawyr un Mawr form a confederacy and begin a full scale war on Brokvar
+- During the war's second year, Llawyr un Mawr is rescued from certain defeat by Rheilliwch, extending the life of the war.
+- Napella, in a bid to end the war enacts a display of power, obliterating the capital of Rheilliwch
+- In retaliation, Ymerodrol & Llawyr un Mawr form a confederacy and begin a full scale war on Brokvar
 - Napella and her family are all killed bar Ven-Dryk and a daughter born days before the invasion in secrecy
 - Ven-Dryk is taken as a political prisoner of the confederacy 
 - Brokvar falls under confederate control and Rheilliwch's capital is revitalised using Brokvar's resources.
