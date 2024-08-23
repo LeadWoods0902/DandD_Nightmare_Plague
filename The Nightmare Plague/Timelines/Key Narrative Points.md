@@ -29,12 +29,12 @@
 #### Sunmaek
 - The Arzaens write 5 tomes, imbuing them with their powers in an attempt to create a deity-esque figure
 - In a second attempt, the Arzaens create an immensely powerful and savagely hungry corporeal being, the ageless pit dweller
-- The APD spawns a host of children, which swarm the Arzaen capital, driving them underground, in an attempt to seal the pitdweller in the earth, the Arzaens excavate a large hole, and using the power of the tomes, force the pit dweller into its depths, sealing the top with a powerful magic. The Arzaens expire, leaving only the tomes and their warnings for future generations
+- The APD spawns a host of children, which swarm the Arzaen capital, driving them underground, in an attempt to seal the pit dweller in the earth, the Arzaens excavate a large hole, and using the power of the tomes, force the pit dweller into its depths, sealing the top with a powerful magic. The Arzaens expire, leaving only the tomes and their warnings for future generations
 - Thousands of years pass and two greater dragons Higashi & Nishi are banished to Sunmaek, a land thought dead.
 - Several Thousand more years pass and the two dragons have established a religion in their name
 - Several Thousand more years pass and the Librarian Duska Halloni discovers a tome in the library, the tome of Mortos. Mortos, having lost a lot of his memory to time is unaware of his past, only his directive in life - maintain balance. Mortos explains to Duska that the twin gods' regime is unnatural and must be normalised.
 - Duska sacrifices the corrupt Master Librarian, a previous contact of Mortos and hoarder of knowledge, assuming his title
-- Duska, under the suggestion of Mortos 
+- Duska, under the suggestion of Mortos follows Sturgis to Brokvar to learn more a fabled tree of life upon its shores.
 
 ---
 
