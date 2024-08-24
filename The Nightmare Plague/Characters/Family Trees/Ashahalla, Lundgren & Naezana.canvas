@@ -6,7 +6,7 @@
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Sunmaek/Ven-Kylgh Ashahalla.md","id":"489bef7acb7cdfeb","x":-989,"y":-1481,"width":400,"height":400,"color":"1"},
 		{"type":"text","text":"","id":"02cc1970db5a8691","x":-364,"y":-1306,"width":50,"height":50},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Sunmaek/Mel-Reyhan.md","id":"694e3fe64f00e3b1","x":-89,"y":-1480,"width":402,"height":400,"color":"1"},
-		{"id":"98bb637bf2be07a5","type":"file","file":"The Nightmare Plague/Characters/NPC/Senithar/Rheilliwch/Fenian Naezana.md","x":2465,"y":-240,"width":400,"height":400,"color":"4"},
+		{"id":"98bb637bf2be07a5","type":"file","file":"The Nightmare Plague/Characters/NPC/Senithar/Ymerodrol/Fenian Naezana.md","x":2465,"y":-240,"width":400,"height":400,"color":"4"},
 		{"id":"9014df4099577579","type":"file","file":"The Nightmare Plague/Characters/Valdello Lundgren.md","x":545,"y":-1480,"width":400,"height":400,"color":"1"},
 		{"id":"cc31cfed8d2ac86c","type":"file","file":"The Nightmare Plague/Characters/Napella's Grandfather.md","x":850,"y":-2160,"width":400,"height":400,"color":"1"},
 		{"type":"text","text":"","id":"47c974b08d194b81","x":538,"y":-711,"width":50,"height":50},
@@ -16,7 +16,7 @@
 		{"type":"text","text":"","id":"aa9e308db5955260","x":990,"y":-1305,"width":50,"height":50},
 		{"type":"text","text":"","id":"15cf7642185769fe","x":720,"y":-1985,"width":50,"height":50},
 		{"type":"text","text":"","id":"71acad27951c04ed","x":2080,"y":-1305,"width":50,"height":50},
-		{"id":"8d02f67a823939f8","type":"file","file":"The Nightmare Plague/Characters/NPC/Senithar/Rheilliwch/Calidian Naezana.md","x":1665,"y":-886,"width":400,"height":400,"color":"4"},
+		{"id":"8d02f67a823939f8","type":"file","file":"The Nightmare Plague/Characters/NPC/Senithar/Ymerodrol/Calidian Naezana.md","x":1665,"y":-886,"width":400,"height":400,"color":"4"},
 		{"id":"b4a3ee4eec0af396","type":"file","file":"The Nightmare Plague/Characters/Napella's Mother.md","x":1090,"y":-1480,"width":400,"height":400,"color":"1"},
 		{"id":"0a6f7e366d518a9b","type":"file","file":"The Nightmare Plague/Characters/Fenian's Grandfather.md","x":1555,"y":-1480,"width":400,"height":400,"color":"1"},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Senithar/Brokvar/Ven-Dryk Ashahalla.md","id":"e7e26ef5def17e26","x":-87,"y":-886,"width":400,"height":400,"color":"4"},
@@ -29,7 +29,7 @@
 		{"type":"text","text":"","id":"f65db8e6d4873507","x":-567,"y":-65,"width":50,"height":50},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Senithar/Gogledd-Ynys/Lupella Torieth.md","id":"113a592524a09d9b","x":-364,"y":-240,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Senithar/Brokvar/Amorella Torieth.md","id":"d41f95714841f6e3","x":-742,"y":280,"width":400,"height":400,"color":"4"},
-		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Senithar/Rheilliwch/Ayven Torrieth.md","id":"e9071f9459f501b4","x":-1142,"y":-240,"width":400,"height":400,"color":"4"}
+		{"type":"file","file":"The Nightmare Plague/Characters/NPC/Senithar/Ymerodrol/Ayven Torrieth.md","id":"e9071f9459f501b4","x":-1142,"y":-240,"width":400,"height":400,"color":"4"}
 	],
 	"edges":[
 		{"id":"ec363729123f7b55","fromNode":"489bef7acb7cdfeb","fromSide":"right","toNode":"02cc1970db5a8691","toSide":"left"},
