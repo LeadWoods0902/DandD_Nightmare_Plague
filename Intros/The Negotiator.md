@@ -1,1 +1,0 @@
-Character being tortured/ interrogated

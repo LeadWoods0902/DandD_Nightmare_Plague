@@ -1,5 +1,5 @@
 ![[YmerodrinePriest_Token.png]]
-[[EmpiricalPriest.png|Full Art]]
+[[The Nightmare Plague/Resources/Full Art/ThalricQuatre.png|Full Art]]
 
 ---
 ### Character Info

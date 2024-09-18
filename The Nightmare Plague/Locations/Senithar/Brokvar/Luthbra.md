@@ -1,1 +1,1 @@
-Satyr Encampment West of the [[Western Range]]
+Satyr Encampment in the far North of Brokvar

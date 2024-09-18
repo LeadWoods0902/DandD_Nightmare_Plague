@@ -1,1 +1,0 @@
-The southern of the two countries composing [[Chimo-Nahagi]]

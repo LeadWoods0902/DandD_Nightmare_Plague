@@ -1,1 +1,1 @@
-Group of religious zealots that aim to achieve a unified [[Chimo-Nahagi]] by any means.
+Group of religious zealots that aim to achieve a unified [[Shigenotomo]] by any means.

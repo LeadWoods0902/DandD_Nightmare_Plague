@@ -45,5 +45,6 @@ Lawful Moral
 
 ---
 ### Notes
-Spymaster to [[Duchess Roderika]], blood brother to [[Lucius Crestwood]] and god-father of [[Mazikeen Crestwood]]
+Spymaster to [[Duchess Roderika]], blood brother to [[Lucius Crestwood]] and god-father of [[Mazikeen Crestwood]].
 
+Died during interrogation after word of him heading a rebellion against the empire reached [[Veyron Quatre]].

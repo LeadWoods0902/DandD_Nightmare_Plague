@@ -45,4 +45,6 @@ Rebel Impure
 
 ---
 ### Notes
-A member of [[The Tosh-Valdar]]
+Last surviving member of [[The Tosh-Valdar]].
+
+Malkath was lying dead in his bed, poisoned by Droop. When Rolbam warped to his isle, the two were soul shackled together.

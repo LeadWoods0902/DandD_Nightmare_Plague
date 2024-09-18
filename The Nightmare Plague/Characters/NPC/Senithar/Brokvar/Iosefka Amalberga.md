@@ -45,5 +45,5 @@ Unknown
 
 ### Notes
 
-Leader of the [[The Commune of The Coeden]]
+Leader of the [[The Neorian Path]]
 
