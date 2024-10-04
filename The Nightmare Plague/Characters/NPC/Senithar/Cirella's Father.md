@@ -1,1 +1,0 @@
-Father of [[Circe Lundgren]]

@@ -15,14 +15,14 @@ Unknown
 [[Brokvar]]
 
 ##### Family
-| Relation | Person |  |
-| ---- | ---- | ---- |
-| Mother | [[Napella Lundgren]] |  |
-| Father | [[Ven-Dryk Ashahalla]] |  |
-| Half-Sister | [[Circe Lundgren]] |  |
-| Sister | [[Innë-Dryk Lungdren]] |  |
-| Sister | [[Odonna-Dryk Lundgren]] |  |
-| Daughter | [[Lupella Torieth]] |  |
+| Relation    | Person                   |     |
+| ----------- | ------------------------ | --- |
+| Mother      | [[Napella Lundgren]]     |     |
+| Father      | [[Ven-Dryk Ashahalla]]   |     |
+| Half-Sister | [[Circe Lundgren]]       |     |
+| Sister      | [[Innë-Dryk Lungdren]]   |     |
+| Sister      | [[Odonna-Dryk Lundgren]] |     |
+| Daughter    | [[Lupella Torieth]]      |     |
 
 ##### Race
 Human - Yuan-Ti hybrid

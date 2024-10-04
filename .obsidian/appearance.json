@@ -7,6 +7,7 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "Centre-Allign",
-    "centre"
+    "centre",
+    "images"
   ]
 }
